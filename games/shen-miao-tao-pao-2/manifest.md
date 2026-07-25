@@ -5,7 +5,7 @@ description: 神庙逃亡2（Temple Run 2 中文版）知识库 Bundle 的模块
 game_id: shen-miao-tao-pao-2
 genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
-timestamp: "2026-07-24T00:00:00Z"
+timestamp: "2026-07-25T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [session-combat, content-modes]

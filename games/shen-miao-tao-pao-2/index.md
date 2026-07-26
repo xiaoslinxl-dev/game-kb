@@ -1,38 +1,17 @@
-okf_version: "0.1"
+# Concepts
 
-# 神庙逃亡2 知识库
+* [神庙逃亡2 核心循环](core-loop.md) - 《神庙逃亡2》单局跑酷、资源积攒、能力成长与竞技对战的核心玩法循环架构。
+* [神庙逃亡2 经济系统与代币循环](economy.md) - 《神庙逃亡2》的货币体系、代币产出与消耗循环及资源平衡设计。
+* [神庙逃亡2 知识库 Manifest](manifest.md) - 神庙逃亡2（Temple Run 2 中文版）知识库 Bundle 的模块规划与构成说明。
+* [神庙逃亡2 市场定位与竞品分析](market-position.md) - 《神庙逃亡2》在跑酷赛道的市场定位、竞争优势与竞品对比。
+* [神庙逃亡2 商业化与变现设计](monetization.md) - 《神庙逃亡2》混合变现模式（内购 IAP + 广告 IAA + 礼包直购）解析。
+* [神庙逃亡2 游戏概述](overview.md) - 《神庙逃亡2》（Temple Run 2 中文版）的产品背景、核心玩法特征及中国本土化运营概述。
+* [神庙逃亡2 进度与养成系统](progression.md) - 《神庙逃亡2》的角色等级、通用属性升级、组合属性协同与排位段位晋升机制。
+* [神庙逃亡2 风险与不确定性](risks-unknowns.md) - 《神庙逃亡2》在玩法老化、氪金平衡、合规监管与外挂防治方面的风险评估。
+* [神庙逃亡2 社交与长线运营](social-liveops.md) - 《神庙逃亡2》的版本迭代策略、节日收集赛、排位赛季与社交联机机制。
+* [神庙逃亡2 资料来源与参考文献](sources.md) - 《神庙逃亡2》知识库 Bundle 涉及的官方公告、媒体报道、玩家攻略与行业报告汇编。
 
-《神庙逃亡2》（Temple Run 2 中文版）OKF v0.1 知识库导航。
+# Subdirectories
 
-## 核心文档 (Core)
-
-- [清单文件 Manifest](manifest.md)
-- [游戏概述 Overview](overview.md)
-- [核心循环 Core Loop](core-loop.md)
-- [进度与养成 Progression](progression.md)
-- [商业化与变现 Monetization](monetization.md)
-- [经济系统 Economy](economy.md)
-- [社交与长线运营 Social & LiveOps](social-liveops.md)
-- [市场定位与竞品 Market Position](market-position.md)
-- [风险与不确定性 Risks & Unknowns](risks-unknowns.md)
-- [资料来源 Sources](sources.md)
-
-## 系统模块 (Systems)
-
-- [单局跑酷与竞技对抗](systems/session-combat.md)
-- [内容玩法与模式](systems/content-modes.md)
-
-## 实体模块 (Entities)
-
-- [实体目录 index](entities/index.md)
-- [代表性角色与坐骑列表](entities/units/_index.md)
-- [危险盖伊 (Guy Dangerous)](entities/units/guy-dangerous.md)
-- [莉莉丝 (Lilith)](entities/units/lilith.md)
-- [赵云 (Zhao Yun)](entities/units/zhao-yun.md)
-- [比奥斯博士 (Dr. Bios)](entities/units/dr-bios.md)
-- [安妮 (Anne)](entities/units/anne.md)
-- [年兽 (Nian Beast)](entities/units/nian-beast.md)
-- [傲狠 (Ao Hen)](entities/units/ao-hen.md)
-- [仙灵鹤 (Fairy Crane)](entities/units/xian-ling-he.md)
-- [小香猪 (Little Pig)](entities/units/xiao-xiang-zhu.md)
-- [花蝶梦 (Butterfly Wings)](entities/units/hua-die-meng.md)
+* [entities](entities/)
+* [systems](systems/)

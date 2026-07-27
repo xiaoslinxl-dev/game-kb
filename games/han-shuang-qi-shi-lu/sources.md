@@ -22,3 +22,7 @@ confidence: high
 4. **小海鲸 / Reddit 进阶攻略**：《寒霜启示录进阶攻略：燃霜矿区要这样玩！》 & 《Whiteout Survival Reddit Community》
    - 链接：[小海鲸攻略](https://www.xiao-haijing.com/mobile/es/article/detail/12119.html) | [Reddit 讨论帖](https://www.reddit.com/r/whiteoutsurvival/)
    - 贡献内容：燃霜矿区打法、领主装备与宝石（22/25级解锁）、兵种比例设置（盾兵/枪兵/弓兵）。
+
+5. **Century Games 官方更新与 Whiteout Survival Wiki**：
+   - 链接：[Century Games Updates](https://www.centurygames.com/whiteout-survival-wos-update/) | [Whiteout Survival Wiki](https://www.whiteoutsurvival.wiki/tw/heroes/)
+   - 贡献内容：2025-2026年最新版本更新日志（专家Gareth、T12煌耀盾兵、第15-16代英雄世代演进、Winter Siege与野外采集优化等）。

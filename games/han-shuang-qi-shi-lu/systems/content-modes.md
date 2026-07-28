@@ -1,7 +1,7 @@
 ---
 type: ContentModes
 title: 内容模式与玩法大纲 (Content Modes)
-description: 汇总探险挂机、竞技场、猎熊行动、燃霜矿区、王城争霸与跨服战（SvS）等常驻与周期性玩法。
+description: 汇总探险挂机、竞技场、猎熊行动、燃霜矿区、王城争霸、冰火战歌联赛与联盟凛冬围城等常驻与周期性玩法。
 game_id: han-shuang-qi-shi-lu
 confidence: high
 ---
@@ -21,6 +21,8 @@ confidence: high
   - 联盟PVE集结打BOSS，全员输出争夺联盟与个人排名。
 - **疯狂的乔伊（Crazy Joe）**：
   - 联盟防守战，全盟协同支援被攻打的盟友城池。
+- **梦境寻忆（Dreamscape Memory）**：
+  - 周期性休闲/解谜常驻玩法，寻找记忆碎片与物品，提供晨曦岛建筑与行军装扮。
 
 ## 2. PVP 小队竞技模式
 
@@ -35,9 +37,13 @@ confidence: high
 - **日光城/王城争霸（Sunfire Castle Battle）**：
   - 本服最高荣誉战，胜利联盟盟主可任命为王国“国王”（King），享有专属王国官职与Buff分配权。
 - **燃霜矿区（Frostfire Mine）**：
-  - 跨服个人/小队限时地图争夺战，采集资源与抢占矿山。
-- **跨服战（State vs State - SvS）**：
-  - 王国与王国之间的巅峰对决，分为阶段性备战与跨服远征抢夺王城。
+  - 跨服个人/小队限时地图争夺战，采集高能矿石与抢占矿山（包含专属专家[凯西](/entities/units/kathy.md)的战斗专精）。
+- **联盟凛冬围城（Winter Siege）**：
+  - 联盟级强对抗阵地战，通过布置驻防小队与进攻敌方要塞强迫阵地战，争夺联盟专属荣誉与丰厚奖励。
+- **冰火战歌联赛（Icefire Warhymn League）**：
+  - 跨服顶级军团联赛，分为资格赛、淘汰赛与巅峰赛，采用多阵型三局两胜制对决。
+- **跨服战（State vs State - SvS / State of Power）**：
+  - 王国与王国之间的巅峰对决，分为6天阶段性备战（比拼建筑、爆兵与消耗）与跨服远征抢夺对方日光城。
 
 相关文档链接：
 - [匹配与跨服机制](/systems/matchmaking.md)

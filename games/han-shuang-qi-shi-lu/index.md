@@ -33,6 +33,7 @@
   - [西里尔 (Cyril)](/entities/units/cyril.md)
   - [罗妮 (Roni)](/entities/units/roni.md)
   - [凯西 (Kathy)](/entities/units/kathy.md)
+  - [加雷斯 (Gareth)](/entities/units/gareth.md)
   - [津曼 (Zinman)](/entities/units/zinman.md)
   - [赫克托 (Hector)](/entities/units/hector.md)
   - [阿隆索 (Alonso)](/entities/units/alonso.md)

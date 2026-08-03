@@ -1,5 +1,7 @@
-# 寒霜启示录 实体索引
+# Concepts
 
-本索引汇总了《寒霜启示录》中的各类核心实体数据：
+<!-- no concepts directly in this directory yet -->
 
-- [英雄/单位名录](/entities/units/_index.md)
+# Subdirectories
+
+* [units](units/)

@@ -1,20 +1,27 @@
 ---
 type: Manifest
-title: 知识库 Bundle Manifest
-description: 《斗罗大陆：魂师对决》OKF v0.1 模块与结构清单
+title: 斗罗大陆：魂师对决 模块清单
+description: 《斗罗大陆：魂师对决》知识库结构配置与模块规划
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-genre_tags: [rpg, turn-based-card, anime-ip]
+genre_tags:
+  - turn-based-rpg
+  - card-battle
+  - ip-adaptation
 language: zh-CN
-timestamp: 2026-07-29T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 confidence: high
-modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, content-modes, matchmaking, session-combat, units]
+modules:
+  - core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
+  - systems: [session-combat, content-modes]
+  - entities: [units]
 unit_policy: representative
 ---
 
-# 知识库 Manifest 说明
+# 模块启用说明
 
-本知识库针对 3D 回合制卡牌 RPG 手游《斗罗大陆：魂师对决》构建。
-
-- **核心模块 (core)**：全部 11 个核心模块均已完善，并重点更新了 2026 年五周年庆典与「百级成神」大版本、最新 SP+ 魂师（太初食神·奥斯卡、月神·小舞、极致剑道·尘心）、神界传承（转生服）系统及 2026 年 liveops/versions 时间线。
-- **系统模块 (systems)**：启用了 `session-combat`（回合制技能与魔剑/神辅战斗）、`matchmaking`（对决竞技场与公平全自动 PK「神殿之争」）及 `content-modes`（悬赏、百级成神剧本、神境蜃楼、大陆游历等模式）。
-- **实体模块 (entities)**：采用 `representative` 代表性魂师策略，涵盖版本核心 SP/SP+ 魂师（如极致剑道·尘心、太初食神·奥斯卡、月神·小舞、神王·霍雨浩等）。
+- **核心模块 (Core)**：全部 11 个核心文件均已建立，全面涵盖游戏概貌、核心循环、长线养成、商业化、代币经济、运营策略、版本时间线、活动台账、市场定位、风险与来源。
+- **系统模块 (Systems)**：
+  - `session-combat.md`：游戏核心战斗为 6v6 回合制卡牌战斗，包含行动条、魂力管理、阵营/职业羁绊与武魂融合技。
+  - `content-modes.md`：游戏包含 PVE 主线/猎魂森林、PVP 斗魂场/全民对决、GvG 宗门争霸以及跨服星斗大森林等丰富玩法。
+- **实体模块 (Entities)**：
+  - `entities/units/`：收录 10 位代表性核心魂师（如 SP+ 太初食神·奥斯卡、SP+ 月神·小舞、SP+ 极致剑道·尘心、SP 修罗·唐三等），体现版本 Meta 与商业化锚点。

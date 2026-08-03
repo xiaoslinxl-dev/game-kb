@@ -3,7 +3,7 @@ type: Versions
 title: 斗罗大陆：猎魂世界(官服) 版本历史
 description: 已验证的版本更新与维护记录
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-03T00:00:00Z
 confidence: high
 ---
 

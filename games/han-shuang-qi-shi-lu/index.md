@@ -9,7 +9,7 @@
 * [寒霜启示录 数值与长线养成](progression.md) - 大熔炉升级、火晶时代、炽炎科技、T12煌耀部队、领主装备与宝石、英雄世代迭代（Hero Generations）等长线数值成长路线。
 * [寒霜启示录 风险与未知项](risks-unknowns.md) - 评估《寒霜启示录》的数值通胀、世代英雄过快迭代带来的玩家流失风险，以及合规与竞品仿制挑战。
 * [寒霜启示录 社交与LiveOps运营](social-liveops.md) - 联盟生态、最强领主（King of Icefield）、猎熊行动、燃霜矿区、凛冬围城与跨服战（SvS）以及线下IP泛娱乐跨界运营。
-* [寒霜启示录 参考资料与来源](sources.md) - 收集自官方公告、研报、游戏大观分析、巴哈姆特论坛、诚品动漫祭官方新闻、LDPlayer、HostedGG与BlueStacks/DearPlayers官方更新的参考资料清单。
+* [寒霜启示录 参考资料与来源](sources.md) - 收集自官方公告、研报、游戏大观分析、巴哈姆特论坛、诚品动漫祭与Paradaily新闻、GamsGo、BitTopup与BlueStacks官方更新的参考资料清单。
 
 # Subdirectories
 

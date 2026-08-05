@@ -8,7 +8,9 @@ acquire: 7-Day Sign-in
 pay_relevance: low
 game_id: shen-miao-tao-pao-2
 confidence: high
+timestamp: '2026-08-05T11:00:00Z'
 ---
+
 
 # 比奥斯博士 (Dr. Bios)
 

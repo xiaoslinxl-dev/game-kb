@@ -4,7 +4,9 @@ title: 神庙逃亡2 经济系统与代币循环
 description: 《神庙逃亡2》的货币体系、代币产出与消耗循环及资源平衡设计。
 game_id: shen-miao-tao-pao-2
 confidence: high
+timestamp: '2026-08-05T11:00:00Z'
 ---
+
 
 # 经济系统与代币循环
 

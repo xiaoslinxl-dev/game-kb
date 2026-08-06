@@ -4,7 +4,7 @@ title: 代表性角色与坐骑列表
 description: 《神庙逃亡2》代表性角色、坐骑、宠物与羽翼配饰的分类汇总与设计定位。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: '2026-08-05T11:00:00Z'
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 

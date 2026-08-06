@@ -8,6 +8,7 @@ rarity: SSR
 acquire: 第二世代幸运轮盘 / 活动
 pay_relevance: high
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 阿隆索 (Alonso)

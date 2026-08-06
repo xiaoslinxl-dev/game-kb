@@ -4,6 +4,7 @@ title: 寒霜启示录 参考资料与来源
 description: 收集自官方公告、研报、游戏大观分析、巴哈姆特论坛、诚品动漫祭与Paradaily新闻、GamsGo、BitTopup与BlueStacks官方更新的参考资料清单。
 game_id: han-shuang-qi-shi-lu
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 寒霜启示录 参考资料与来源

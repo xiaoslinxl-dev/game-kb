@@ -4,6 +4,7 @@ title: 寒霜启示录 风险与未知项
 description: 评估《寒霜启示录》的数值通胀、世代英雄过快迭代带来的玩家流失风险，以及合规与竞品仿制挑战。
 game_id: han-shuang-qi-shi-lu
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 寒霜启示录 风险与未知项

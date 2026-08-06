@@ -8,6 +8,7 @@ rarity: SSR
 acquire: 专家系统 / 特定活动兑换
 pay_relevance: medium
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 罗妮 (Roni)

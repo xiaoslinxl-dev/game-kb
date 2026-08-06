@@ -8,6 +8,7 @@ rarity: SSR
 acquire: 熔炉25级游历解锁 / 专家系统碎片兑换
 pay_relevance: medium
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 西里尔 (Cyril)

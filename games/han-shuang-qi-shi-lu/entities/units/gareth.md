@@ -8,6 +8,7 @@ acquire: 专家系统 / 游历与专精活动
 pay_relevance: high
 game_id: han-shuang-qi-shi-lu
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 加雷斯 (Gareth)

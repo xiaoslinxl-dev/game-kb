@@ -4,6 +4,7 @@ title: 内容模式与玩法大纲 (Content Modes)
 description: 汇总探险挂机、竞技场、猎熊行动、燃霜矿区、王城争霸、冰火战歌联赛与联盟凛冬围城等常驻与周期性玩法。
 game_id: han-shuang-qi-shi-lu
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 内容模式与玩法大纲 (Content Modes)

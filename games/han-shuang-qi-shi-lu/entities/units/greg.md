@@ -8,6 +8,7 @@ rarity: SSR
 acquire: 第三世代活动
 pay_relevance: high
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 格雷格 (Greg)

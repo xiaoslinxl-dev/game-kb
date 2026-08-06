@@ -8,6 +8,7 @@ rarity: SSR
 acquire: 世代幸运轮盘 / 活动招募
 pay_relevance: high
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 赫克托 (Hector)

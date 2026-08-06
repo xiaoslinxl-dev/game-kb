@@ -8,6 +8,7 @@ rarity: SSR
 acquire: 英雄大厅招募 / 建造礼包
 pay_relevance: medium
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 津曼 (Zinman)

@@ -4,6 +4,7 @@ title: 战斗系统与小队/SLG机制 (Session Combat)
 description: 解析小队RPG 5v5战斗（探险/竞技场）与4X大地图SLG行军集结双重战斗机制及兵种克制。
 game_id: han-shuang-qi-shi-lu
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 战斗系统与小队/SLG机制 (Session Combat)

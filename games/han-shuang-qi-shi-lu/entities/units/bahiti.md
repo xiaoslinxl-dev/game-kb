@@ -8,6 +8,7 @@ rarity: SR
 acquire: 主线章节点赞 / 英雄大厅招募
 pay_relevance: low
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 巴林 (Bahiti)

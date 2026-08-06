@@ -4,6 +4,7 @@ title: 寒霜启示录 社交与LiveOps运营
 description: 联盟生态、最强领主（King of Icefield）、猎熊行动、燃霜矿区、凛冬围城与跨服战（SvS）以及线下IP泛娱乐跨界运营。
 game_id: han-shuang-qi-shi-lu
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 寒霜启示录 社交与LiveOps运营

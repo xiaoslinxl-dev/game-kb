@@ -4,6 +4,7 @@ title: 寒霜启示录 数值与长线养成
 description: 大熔炉升级、火晶时代、炽炎科技、T12煌耀部队、领主装备与宝石、英雄世代迭代（Hero Generations）等长线数值成长路线。
 game_id: han-shuang-qi-shi-lu
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 寒霜启示录 数值与长线养成

@@ -4,6 +4,7 @@ title: 寒霜启示录 游戏概览
 description: 点点互动（Century Games）开发的冰雪末日生存策略手游《寒霜启示录》（Whiteout Survival）背景、核心玩法特征与产品定位。
 game_id: han-shuang-qi-shi-lu
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 寒霜启示录 游戏概览

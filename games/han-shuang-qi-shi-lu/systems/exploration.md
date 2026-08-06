@@ -4,6 +4,7 @@ title: 冰原探索与大地图 (Exploration)
 description: 冰原迷雾解锁、野外资源采集、冰原野兽猎杀与灯塔情报系统。
 game_id: han-shuang-qi-shi-lu
 confidence: high
+timestamp: '2026-08-06T11:00:00Z'
 ---
 
 # 冰原探索与大地图 (Exploration)

@@ -32,6 +32,8 @@ okf_version: "0.1"
 - [entities/units/_index.md](/entities/units/_index.md) — 英雄与海兽代表性名册
 - [entities/units/da-zui-shan-mu.md](/entities/units/da-zui-shan-mu.md) — 大嘴山姆（懂王）
 - [entities/units/lan-bo.md](/entities/units/lan-bo.md) — 兰博（T0 能量主 C）
+- [entities/units/bei-jing-da-di.md](/entities/units/bei-jing-da-di.md) — 北境大帝（S1 限定超凡坦克）
+- [entities/units/qian-dai.md](/entities/units/qian-dai.md) — 千代（S2 限定超凡刺客）
 - [entities/units/ji-qi-tu-fu.md](/entities/units/ji-qi-tu-fu.md) — 机器屠夫（战术钩子）
 - [entities/units/wu-shi-lao-kan.md](/entities/units/wu-shi-lao-kan.md) — 巫师老侃（侃爷）
 - [entities/units/tie-tui-hong-mo.md](/entities/units/tie-tui-hong-mo.md) — 铁腿红魔

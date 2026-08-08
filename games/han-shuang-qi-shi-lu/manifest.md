@@ -10,7 +10,7 @@ genre_tags:
 - 放置挂机
 - 策略RPG
 language: zh-CN
-timestamp: '2026-08-07T11:00:00Z'
+timestamp: '2026-08-08T11:00:00Z'
 confidence: high
 modules:
 - overview

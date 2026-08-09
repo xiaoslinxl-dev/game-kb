@@ -5,7 +5,7 @@ description: 疯狂水世界（Feng Kuang Shui Shi Jie）知识库 Bundle 的模
 game_id: feng-kuang-shui-shi-jie
 genre_tags: [survival, simulation, slg, nautical, card-rpg]
 language: zh-CN
-timestamp: "2026-08-08T11:00:00Z"
+timestamp: "2026-08-09T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [session-combat, base-build, exploration, content-modes]

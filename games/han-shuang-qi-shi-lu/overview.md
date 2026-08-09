@@ -1,39 +1,59 @@
 ---
 type: Overview
-title: 寒霜启示录 游戏概览
-description: 点点互动（Century Games）开发的冰雪末日生存策略手游《寒霜启示录》（Whiteout Survival）背景、核心玩法特征与产品定位。
+title: 寒霜启示录 (Whiteout Survival) 游戏概览
+description: 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的基本信息、核心玩法机制与2026年最新版本动态。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: '2026-08-06T11:00:00Z'
+timestamp: '2026-08-09T11:00:00Z'
 ---
 
-# 寒霜启示录 游戏概览
+# 寒霜启示录 (Whiteout Survival) 游戏概览
 
-《寒霜启示录》（英文名：Whiteout Survival）是由点点互动（Century Games）研发并全球发行的一款冰雪末日题材策略手游（4X SLG + 模拟经营 + 放置RPG）。
+## 基本信息
 
-## 1. 游戏背景与世界观
+- **游戏名称**：寒霜启示录（英文名：*Whiteout Survival*）
+- **开发/发行商**：点点互动（Century Games）
+- **游戏品类**：冰雪末日生存 + 模拟经营（City Builder） + 4X SLG + 放置卡牌 RPG
+- **上线时间**：2023年2月（全球公测）
+- **商业表现**：全球下载量突破 4 亿次，长期稳居 Sensor Tower 全球出海手游收入榜与下载榜前前两名。
 
-在极端寒潮袭卷全球的末日背景下，地面文明近乎彻底毁灭。玩家扮演一名领主，在冰封荒原中带领最后一批幸存者建立定居点，依靠核心设施**大熔炉**（Furnace）提供热量，抵御严寒、暴风雪和荒野异兽，逐步重建人类文明。
+## 核心设计理念
 
-## 2. 核心品类融合创新
+《寒霜启示录》成功打破了传统 4X SLG 极高的吸量门槛，采用**“副玩法/模拟经营吸量 + 混合变现 + 极佳的前90分钟留存 + 4X联盟大地图长线付费”**的复合漏斗模型：
 
-《寒霜启示录》的成功很大程度上归功于其独创的**品类融合与吸量副玩法设计**：
+1. **前中期（0-7天）：模拟经营与生存抗寒**：
+   - 以[大熔炉](/systems/base-build.md)为核心，玩家需要维持城镇温度、建造宿舍与猎人小屋、分配幸存者工作（伐木/采矿/厨师），并抵御暴风雪与突发病痛。
+   - 融合放置 RPG 探险关卡（如[茉莉](/entities/units/molly.md)、[巴希提](/entities/units/bahiti.md)的5v5推关），降低操作门槛。
+2. **中后期（7天+）：4X 大地图与世代英雄**：
+   - 逐渐过渡到盟战、冰原巨兽集结、王城争霸（Castle Battle）、跨服王战（SvS - State of Power）与冰火战歌联赛（Icefire Warhymn League）。
+   - 围绕每 80 天更新一代的[世代英雄](/progression.md)（目前已推进至第 17 代英雄，如 [Aiden](/entities/units/aiden.md)）以及[晨曦学堂专家](/entities/units/justus.md)（如 [Justus](/entities/units/justus.md)、[加雷斯](/entities/units/gareth.md)）展开长线数值养成。
 
-1. **模拟经营微观视角（Frost City类放置体验）**：
-   - 游戏前几小时通过类似《Frost City》或《冰汽时代》（Frostpunk）的微观模拟经营吸引轻度玩家。
-   - 玩家需要建造宿舍、猎人小屋、伐木场、煤矿，管理幸存者的食物、体温、健康与工作满意度。
-2. **小队RPG放置挂机（探索与竞技场）**：
-   - 提供独立于4X地图的小队闯关（探索模式），获得挂机收益（离线铁矿与英雄经验），降低玩家前期挫败感。
-3. **传统4X SLG大地图宏观对抗（万国觉醒/COK类框架）**：
-   - 随着大熔炉等级提升，游戏平滑过渡到基于大地图的资源采集、野兽猎杀、联盟领地扩张、王城争霸（Sunfire Castle）以及跨服战争（KvK / SvS）。
+## 2026年最新版本重要内容 (August 2026)
 
-## 3. 主要系统联动关系
+1. **执政官前瞻与火晶纪元 (Fire Crystal Age)**：
+   - 当大熔炉突破火晶1级（FC1）后，城镇解锁“火晶纪元”内城休闲生活玩法，并重构领主指令系统。
+   - **全新成长专家贾斯图斯 (Justus)**：专精于[王朝荣誉宝箱]自动产出、迷宫扫荡（Glowstones）收益提升与宠物探险强化。
+   - **无尽考验 (Endless Trial)**：新增每日常驻Boss“蛮族首领风嚎·乌尔夫加”（Windhowler - Wulfgar），提供每日排行榜与高额养成奖励。
+   - **高阶成长上限**：解锁传奇 T6 三星领主装备（Legendary T6 Chief Gear）与 18 级领主宝符（Chief Charm Lv. 18）。
+2. **“双星同行”跨次元联动 (Kingshot x Whiteout Survival)**：
+   - 2026年8月开启双星大冒险（掷骰子地图）、极地漫游指南与双星商店；线下于诚品动漫祭推出“熊先生书屋”，首发官方全彩漫画《寒霜英雄别册-茉莉篇》。
+3. **联盟凛冬围城 (Winter Siege)**：
+   - 2026年7月推出的全新联盟 GvG 战术据点争夺玩法，搭配军事专家[加雷斯](/entities/units/gareth.md)（Ironthorn Chief）降低战战损并提供铁铸宝箱。
+4. **炽炎科技 (Flame Tech) 与 T12 煌耀兵种**：
+   - 深度扩展 T11  Helios 兵种后的 T12 煌耀兵种（Exalted Troops），带来极高的战斗数值提升。
 
-- [基地建造与模拟经营](/systems/base-build.md)：为部队提供基础资源支撑与幸存者劳动力。
-- [核心循环](/core-loop.md)：以“采集/生产 -> 熔炉升级 -> 英雄与兵种培养 -> 联盟大地图争夺”为主线。
-- [商业化设计](/monetization.md)：结合队列礼包、VIP特权、世代英雄轮盘与跨服备战礼包。
+## 知识库导航
 
-相关文档链接：
-- [核心循环](/core-loop.md)
-- [数值与长线养成](/progression.md)
-- [市场定位与竞品分析](/market-position.md)
+- [核心循环](/core-loop.md) — 前期模拟经营到后期大地图战争的漏斗转化
+- [数值与长线养成](/progression.md) — 大熔炉、火晶时代 FC1-FC10/火晶纪元、1-17代英雄与专家
+- [商业化模型](/monetization.md) — 混合变现、首充礼包、幸运大转盘与大氪锚点
+- [双轨经济模型](/economy.md) — 资源产出、钻/代币消耗与苔原商路
+- [社交与LiveOps运营](/social-liveops.md) — 联盟生态、SvS王国战、双星同行联动与诚品书屋
+- [市场定位与竞品对比](/market-position.md) — 与《无尽冬日》、《Age of Origins》等竞品对比
+- [风险与未知项](/risks-unknowns.md) — 世代数值膨胀、大氪玩家对快速解锁付费上限的反馈与维护成本
+- [系统模块与代表性实体](/entities/units/index.md) — 了解详细系统与20位代表英雄/专家
+
+## 关联页面
+
+- [Manifest](/manifest.md)
+- [参考资料与来源](/sources.md)

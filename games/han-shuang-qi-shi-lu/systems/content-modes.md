@@ -1,52 +1,42 @@
 ---
-type: ContentModes
-title: 内容模式与玩法大纲 (Content Modes)
-description: 汇总探险挂机、竞技场、猎熊行动、燃霜矿区、王城争霸、冰火战歌联赛与联盟凛冬围城等常驻与周期性玩法。
+type: Systems
+title: 寒霜启示录 多常驻玩法模式与系统 (Content Modes)
+description: 寒霜启示录的探险推关、竞技场、无尽考验、燃霜矿区、冰火战歌联赛、凛冬围城与双星同行联动玩法。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: '2026-08-06T11:00:00Z'
+timestamp: '2026-08-09T11:00:00Z'
 ---
 
-# 内容模式与玩法大纲 (Content Modes)
+# 寒霜启示录 多常驻玩法模式与系统 (Content Modes)
 
-《寒霜启示录》构建了涵盖PVE挂机、小队PVP以及大规模4X大地图战争的全方位玩法矩阵。
+《寒霜启示录》包含了丰富多样的小队 RPG PVE/PVP 以及 4X 大地图联盟 GvG 模式，形成了层次分明的日常与赛季玩法循环。
 
-## 1. PVE 常驻与周期玩法
+## 1. 小队 RPG 放置与竞技玩法
 
-- **探险模式（Exploration）**：
-  - 5人英雄小队自动关卡推图，不消耗大地图部队。
-  - 通关关卡越高，**离线挂机收益（AFK Rewards）**越高（产出铁矿、英雄经验、装备）。
-- **灯塔任务（Lighthouse Missions）**：
-  - 8小时刷新的情报任务，包含野兽猎杀、幸存者救援与叛军清理，是获取英雄碎片与加速道具的日常核心。
-- **猎熊行动（Bear Hunt）**：
-  - 联盟PVE集结打BOSS，全员输出争夺联盟与个人排名。
-- **疯狂的乔伊（Crazy Joe）**：
-  - 联盟防守战，全盟协同支援被攻打的盟友城池。
-- **梦境寻忆（Dreamscape Memory）**：
-  - 周期性休闲/解谜常驻玩法，寻找记忆碎片与物品，提供晨曦岛建筑与行军装扮。
+- **探险推关 (Expedition / Hero's Journey)**：
+  - 5v5 自动战斗关卡，玩家根据 1-5 号位（主坦、副坦、单体输出、双人集火、后排承伤）摆放英雄。
+  - 存在“斜对角攻击”与“后排秒杀流”（如[鲁弗斯](/entities/units/rufus.md)）、“融坦流”（如[埃莱奥诺拉](/entities/units/eleonora.md)）等战术阵型。
+- **竞技场 (Arena)**：
+  - 异步 PVP 模式，玩家挑战其他领主的防守阵容，赢取竞技场代币，用于兑换英雄碎片与专武材料。
+- **2026年8月最新：无尽考验 (Endless Trial)**：
+  - 每日常驻 Boss 战，挑战蛮族首领风嚎·乌尔夫加（Windhowler - Wulfgar）。领主每日有固定挑战次数，根据单日伤害输出获取每日排行榜奖励与升级材料。
 
-## 2. PVP 小队竞技模式
+## 2. 跨服与赛季 PVPVE 模式
 
-- **竞技场（Arena）**：
-  - 异步5v5英雄小队对抗。
-  - 每日与每周结算竞技场积分，用于在竞技场商店兑换橙色英雄装备与专武材料。
+- **燃霜矿区 (Frostfire Mine)**：
+  - 跨服个人 PVPVE 采矿争夺战。玩家进入矿区地图抢占火晶矿点并击退敌对领主。搭配采矿专家[凯西](/entities/units/kathy.md)可获得极高收益。
+- **冰火战歌联赛 (Icefire Warhymn League)**：
+  - 顶级联盟之间的赛季制联赛，采用分组淘汰赛制，争夺专属城池外观与最高荣誉。
+- **2026年7月最新：联盟凛冬围城 (Winter Siege)**：
+  - 联盟战术据点争夺 GvG 玩法。联盟成员分配驻防小队，协同突袭与防守大地图据点，搭配军事专家[加雷斯](/entities/units/gareth.md)提供低战损保障。
 
-## 3. 大地图与跨服 GvG 模式
+## 3. 限时 LiveOps 联动模式 (2026年8月)
 
-- **要塞/设施争夺战（Fortress / Facility Warfare）**：
-  - 王国范围内联盟争夺地图上的要塞与枢纽，提供全盟全局Buff。
-- **日光城/王城争霸（Sunfire Castle Battle）**：
-  - 本服最高荣誉战，胜利联盟盟主可任命为王国“国王”（King），享有专属王国官职与Buff分配权。
-- **燃霜矿区（Frostfire Mine）**：
-  - 跨服个人/小队限时地图争夺战，采集高能矿石与抢占矿山（包含专属专家[凯西](/entities/units/kathy.md)的战斗专精）。
-- **联盟凛冬围城（Winter Siege）**：
-  - 联盟级强对抗阵地战，通过布置驻防小队与进攻敌方要塞强迫阵地战，争夺联盟专属荣誉与丰厚奖励。
-- **冰火战歌联赛（Icefire Warhymn League）**：
-  - 跨服顶级军团联赛，分为资格赛、淘汰赛与巅峰赛，采用多阵型三局两胜制对决。
-- **跨服战（State vs State - SvS / State of Power）**：
-  - 王国与王国之间的巅峰对决，分为6天阶段性备战（比拼建筑、爆兵与消耗）与跨服远征抢夺对方日光城。
+- **“双星同行”双星大冒险 (Kingshot Linkage)**：
+  - 掷骰子双层地图飞行棋玩法，通过收集星愿骰子在极地与大海地图上前行，解锁极地商铺兑换道具。
 
-相关文档链接：
-- [匹配与跨服机制](/systems/matchmaking.md)
-- [战斗系统与小队/SLG机制](/systems/session-combat.md)
-- [社交与LiveOps运营](/social-liveops.md)
+## 关联页面
+
+- [战斗系统](/systems/session-combat.md)
+- [野外探索](/systems/exploration.md)
+- [实体列表](/entities/units/index.md)

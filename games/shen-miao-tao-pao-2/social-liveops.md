@@ -4,7 +4,7 @@ title: 神庙逃亡2 社交与长线运营
 description: 《神庙逃亡2》的版本迭代策略、节日收集赛、排位赛季与社交联机机制。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: '2026-08-06T11:00:00Z'
+timestamp: '2026-08-10T11:00:00Z'
 ---
 
 

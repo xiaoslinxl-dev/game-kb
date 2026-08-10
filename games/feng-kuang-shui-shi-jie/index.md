@@ -1,10 +1,4 @@
 ---
-type: Index
-title: 疯狂水世界 知识库索引
-description: 疯狂水世界 OKF v0.1 Bundle 文件导航与结构索引。
-game_id: feng-kuang-shui-shi-jie
-confidence: high
-timestamp: "2026-08-09T11:00:00Z"
 okf_version: "0.1"
 ---
 

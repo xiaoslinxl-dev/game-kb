@@ -4,7 +4,7 @@ title: 寒霜启示录 数值与长线养成系统
 description: 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火晶纪元）、领主装备/宝符、17代英雄与晨曦学堂专家长线养成结构。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: '2026-08-09T11:00:00Z'
+timestamp: '2026-08-11T11:00:00Z'
 ---
 
 # 寒霜启示录 数值与长线养成系统
@@ -47,17 +47,17 @@ timestamp: '2026-08-09T11:00:00Z'
 
 | 世代 (Generation) | 解锁王国天数 | 代表性英雄 | 核心定位与获取管道 |
 |---|---|---|---|
-| **Gen 1** | Day 0+ | [赫罗尼莫](/entities/units/jeronimo.md), [茉莉](/entities/units/molly.md), [津曼](/entities/units/zinman.md) | VIP首充/免费/心愿小筑 |
-| **Gen 2** | Day 40+ | [弗林特](/entities/units/flint.md), [阿隆索](/entities/units/alonso.md), [菲兰德](/entities/units/philly.md) | 转盘盾/点杀弓/辅助 |
+| **Gen 1** | Day 0+ | [赫罗尼莫](/entities/units/jeronimo.md), [茉莉](/entities/units/molly.md), [辛曼](/entities/units/zinman.md) | VIP首充/免费/心愿小筑 |
+| **Gen 2** | Day 40+ | [弗林特](/entities/units/flint.md), [阿隆索](/entities/units/alonso.md), [费利](/entities/units/philly.md) | 转盘盾/点杀弓/辅助 |
 | **Gen 3** | Day 120+ | [米娅](/entities/units/mia.md), 格雷格, 罗根 | 转盘矛（打熊神将）/竞技场 |
 | **Gen 4** | Day 200+ | 琳恩, 阿赫摩斯, 玲奈 | 转盘弓（防守弓）/减伤盾 |
-| **Gen 5** | Day 280+ | [赫克托](/entities/units/hector.md), 格温, 诺拉 | 转盘盾（F2P主力）/直切后排弓 |
+| **Gen 5** | Day 280+ | 赫克托, 格温, 诺拉 | 转盘盾（F2P主力）/直切后排弓 |
 | **Gen 6** | Day 360+ | 无名, 芮妮, 韦恩 | 竞技场无敌盾/转盘弓 |
 | **Gen 7** | Day 440+ | 布拉德利, 艾迪丝, 哥顿 | 7代转盘弓（猎熊/探险核心） |
 | **Gen 8** | Day 520+ | 加托, 索妮娅, 亨德里克 | 8代转盘盾/减速控场 |
 | **Gen 9** | Day 600+ | 马格努斯, 佛雷德, 修拉 | 9代嘲讽盾/范围易伤 |
 | **Gen 10** | Day 680+ | 布兰琪, 芙蕾雅, 格里高利 | 10代禁疗弓/死后全员增伤盾 |
-| **Gen 11** | Day 760+ | [埃莱奥诺拉](/entities/units/eleonora.md), [鲁弗斯](/entities/units/rufus.md), 劳埃德 | 11代转盘盾（T0反伤）/斜对角秒杀弓（T0） |
+| **Gen 11** | Day 760+ | [埃莱奥诺拉](/entities/units/eleonora.md), 鲁弗斯, 劳埃德 | 11代转盘盾（T0反伤）/斜对角秒杀弓 |
 | **Gen 12 - 14** | Day 840+ - 1000+ | 赫尔薇尔, 乌尔卡努斯, 艾丽芙 | 高世代属性膨胀与多元协同 |
 | **Gen 15** | Day 1080+ | [汉克](/entities/units/hank.md), 艾丝黛拉, 維薇卡 | 15代转盘盾/顶尖集结输出 |
 | **Gen 16** | Day 1160+ | 西格尔, 乌尔撒, 艾诗琳 | 16代高属性拉开 |
@@ -67,10 +67,10 @@ timestamp: '2026-08-09T11:00:00Z'
 
 除了战斗英雄外，领主在 Furnace Lv 25 后可解锁“晨曦学堂”，通过[冰原历险](/systems/exploration.md)获取信物（Sigils）与知识之书（Books of Knowledge）培养城建/军事专家：
 
-1. **一代专家**：Agnes（情报/体力）、[Cyrille](/entities/units/cyril.md)（猎熊）、Holger（竞技场）、Romulus（PvP）。
-2. **二代专家**：Baldur（联盟活动）、Fabian（兵工厂）、Valeria（SvS战阶段）、[Ronne](/entities/units/roni.md)（商路护航）。
-3. **三代专家**：[Kathy](/entities/units/kathy.md)（采矿/霜火矿井）、[Gareth](/entities/units/gareth.md)（铁棘领主/集结减战损与铁铸宝箱）。
-4. **2026年8月最新：贾斯图斯 (Justus)**：成长专家，专精于[王朝荣誉宝箱]挂机产出、迷宫荧光石收益与宠物探险。
+1. **一代专家**：Agnes（情报/体力）、西里尔（猎熊）、Holger（竞技场）、Romulus（PvP）。
+2. **二代专家**：Baldur（联盟活动）、Fabian（兵工厂）、Valeria（SvS战阶段）、罗妮（商路护航）。
+3. **三代专家**：凯西（采矿/霜火矿井）、[加雷斯](/entities/units/gareth.md)（铁棘领主/集结减战损与铁铸宝箱）。
+4. **2026年8月最新：贾斯图斯 (Justus)**：[贾斯图斯](/entities/units/justus.md)为成长专家，专精于王朝荣誉宝箱挂机产出、迷宫荧光石收益与宠物探险。
 
 ## 关联页面
 

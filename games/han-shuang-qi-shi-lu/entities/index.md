@@ -1,5 +1,7 @@
-# 寒霜启示录 实体根索引
+# Concepts
 
-本目录为实体层根索引，包含：
+<!-- no concepts directly in this directory yet -->
 
-- [Units - 代表性英雄与专家索引](/entities/units/index.md)
+# Subdirectories
+
+* [units](units/)

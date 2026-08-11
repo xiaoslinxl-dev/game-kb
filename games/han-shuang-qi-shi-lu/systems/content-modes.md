@@ -1,10 +1,10 @@
 ---
-type: Systems
+type: System
 title: 寒霜启示录 多常驻玩法模式与系统 (Content Modes)
 description: 寒霜启示录的探险推关、竞技场、无尽考验、燃霜矿区、冰火战歌联赛、凛冬围城与双星同行联动玩法。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: '2026-08-09T11:00:00Z'
+timestamp: '2026-08-11T11:00:00Z'
 ---
 
 # 寒霜启示录 多常驻玩法模式与系统 (Content Modes)
@@ -15,16 +15,16 @@ timestamp: '2026-08-09T11:00:00Z'
 
 - **探险推关 (Expedition / Hero's Journey)**：
   - 5v5 自动战斗关卡，玩家根据 1-5 号位（主坦、副坦、单体输出、双人集火、后排承伤）摆放英雄。
-  - 存在“斜对角攻击”与“后排秒杀流”（如[鲁弗斯](/entities/units/rufus.md)）、“融坦流”（如[埃莱奥诺拉](/entities/units/eleonora.md)）等战术阵型。
+  - 存在“斜对角攻击”、“后排秒杀”与“融坦流”（如[埃莱奥诺拉](/entities/units/eleonora.md)）等战术阵型。
 - **竞技场 (Arena)**：
-  - 异步 PVP 模式，玩家挑战其他领主的防守阵容，赢取竞技场代币，用于兑换英雄碎片与专武材料。
+  - 异步 PVP 模式，玩家挑战其他领主的防守阵容（如[阿隆索](/entities/units/alonso.md)的强力控场），赢取竞技场代币，用于兑换英雄碎片与专武材料。
 - **2026年8月最新：无尽考验 (Endless Trial)**：
   - 每日常驻 Boss 战，挑战蛮族首领风嚎·乌尔夫加（Windhowler - Wulfgar）。领主每日有固定挑战次数，根据单日伤害输出获取每日排行榜奖励与升级材料。
 
 ## 2. 跨服与赛季 PVPVE 模式
 
 - **燃霜矿区 (Frostfire Mine)**：
-  - 跨服个人 PVPVE 采矿争夺战。玩家进入矿区地图抢占火晶矿点并击退敌对领主。搭配采矿专家[凯西](/entities/units/kathy.md)可获得极高收益。
+  - 跨服个人 PVPVE 采矿争夺战。玩家进入矿区地图抢占火晶矿点并击退敌对领主，通过击杀巡逻兵提升燃霜技能。
 - **冰火战歌联赛 (Icefire Warhymn League)**：
   - 顶级联盟之间的赛季制联赛，采用分组淘汰赛制，争夺专属城池外观与最高荣誉。
 - **2026年7月最新：联盟凛冬围城 (Winter Siege)**：
@@ -39,4 +39,5 @@ timestamp: '2026-08-09T11:00:00Z'
 
 - [战斗系统](/systems/session-combat.md)
 - [野外探索](/systems/exploration.md)
+- [联盟领地战与王城争霸](/systems/territory-war.md)
 - [实体列表](/entities/units/index.md)

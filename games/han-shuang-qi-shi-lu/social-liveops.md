@@ -4,7 +4,7 @@ title: 寒霜启示录 社交与 LiveOps 运营体系
 description: 寒霜启示录的联盟社交结构、跨服王战 (SvS)、2026年最新“双星同行”Kingshot 联动与线下诚品“熊先生书屋”运营。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: '2026-08-09T11:00:00Z'
+timestamp: '2026-08-11T11:00:00Z'
 ---
 
 # 寒霜启示录 社交与 LiveOps 运营体系
@@ -17,7 +17,7 @@ timestamp: '2026-08-09T11:00:00Z'
   - 联盟互助（减少建筑/科研时间）、联盟科技、联盟宝箱（盟友充值全员领奖）。
   - **2026年7月优化**：新增 R5 白名单控制、权力等级邮件筛选、200人联盟群聊与自动互助卡。
 - **常驻联盟 GvG 活动**：
-  - **猎熊行动 (Bear Trap)**：每 48 小时开启一次的打木桩收益活动。依靠[米娅](/entities/units/mia.md)或[7代弓](/entities/units/rufus.md)等核心英雄刷高额伤害，全盟共享奖励。
+  - **猎熊行动 (Bear Trap)**：每 48 小时开启一次的打木桩收益活动。依靠[米娅](/entities/units/mia.md)或 7 代弓等核心英雄刷高额伤害，全盟共享奖励。
   - **疯狂的乔 (Crazy Joe)**：防御NPC攻城的联盟防守战，考验盟友间驻防与互助调度。
   - **兵工厂争霸 (Foundry Battle) & 峡谷 clash**：跨联盟 MOBA 式据点争夺战。
   - **2026年7月最新：联盟凛冬围城 (Winter Siege)**：全新联盟据点攻防战，结合军事专家[加雷斯](/entities/units/gareth.md)提供低死伤与铁铸宝箱收益。
@@ -25,7 +25,7 @@ timestamp: '2026-08-09T11:00:00Z'
 ## 2. 王城争霸与跨服王战 (SvS - State of Power)
 
 - **王国王城战 (Castle Battle)**：
-  - 伺服器内部争夺王城执政官（President）官职。执政官拥有官职任命（如第一副官、第二副官等增益）、王国法律与王国转移（State Transfer）审批权限。
+  - 伺服器内部争夺王城执政官（President）官职。执政官拥有官职任命（如第一副官、第二副官等增益）、王国法律与王国转移（State Transfer）审批权限。详见[联盟领地战与王城争霸](/systems/territory-war.md)。
 - **跨服王战 (SvS - State of Power)**：
   - 每月固定举办的跨王国战争。分为**备战阶段（Prep Phase，持续5天）**与**战争阶段（Battle Phase，持续1天）**：
     - 备战阶段通过消耗加速、提升战力、招募英雄与野外采矿争夺积分。
@@ -57,5 +57,6 @@ timestamp: '2026-08-09T11:00:00Z'
 
 - [系统概览](/overview.md)
 - [商业化模型](/monetization.md)
+- [系统概览：联盟领地战与王城争霸](/systems/territory-war.md)
 - [跨服匹配与转移](/systems/matchmaking.md)
 - [参考资料与来源](/sources.md)

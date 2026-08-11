@@ -1,47 +1,21 @@
 ---
-okf_version: '0.1'
+okf_version: "0.1"
 ---
 
-# 寒霜启示录 (Whiteout Survival) OKF v0.1 知识库
+# Concepts
 
-欢迎来到《寒霜启示录》（*Whiteout Survival*）OKF v0.1 游戏知识库。本知识库涵盖点点互动（Century Games）冰雪末日SLG的核心系统、数值长线养成、1-17代世代英雄与晨曦学堂专家，以及2026年8月最新“执政官前瞻”（火晶纪元/贾斯图斯/无尽考验/T6领主装备）与“双星同行”Kingshot 联动动态。
+* [寒霜启示录 核心循环](core-loop.md) - 解析《寒霜启示录》从前期模拟经营到中后期4X大地图战争的双核循环机制。
+* [寒霜启示录 经济系统](economy.md) - 基础生产资源（肉/木/煤/铁）、高级货币（宝石/霜星）与特殊代币的双轨经济模型分析。
+* [寒霜启示录 (Whiteout Survival) 知识库 Manifest](manifest.md) - 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的OKF v0.1知识库清单与模块配置 rationale。
+* [寒霜启示录 市场定位与竞品分析](market-position.md) - 点点互动在全球冰雪末日SLG赛道的破局之路，对比《无尽的拉格朗日》、《万国觉醒》、《Age of Origins》等竞品。
+* [寒霜启示录 商业化设计](monetization.md) - 极高ARPU的4X SLG商业化策略，涵盖永久功能礼包、VIP特权、幸运轮盘、火晶礼包与世代英雄抽卡。
+* [寒霜启示录 (Whiteout Survival) 概览](overview.md) - 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的产品定位、核心玩法特色与长线留存逻辑。
+* [寒霜启示录 数值与长线养成系统](progression.md) - 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火晶纪元）、领主装备/宝符、17代英雄与晨曦学堂专家长线养成结构。
+* [寒霜启示录 风险与未知项](risks-unknowns.md) - 寒霜启示录在世代数值膨胀、大氪玩家对快速提升付费上限的反馈、混合变现平衡与长线买量成本方面的风险评估。
+* [寒霜启示录 社交与 LiveOps 运营体系](social-liveops.md) - 寒霜启示录的联盟社交结构、跨服王战 (SvS)、2026年最新“双星同行”Kingshot 联动与线下诚品“熊先生书屋”运营。
+* [寒霜启示录 参考资料与来源](sources.md) - 收集自 Century Games 官方公告、Google Play、GNN 新闻、BitTopup、BlueStacks、BuffBuff、GameLook、WoS Tools、WOS Wiki 与巴哈姆特社区的参考资料清单。
 
-## 导航目录
+# Subdirectories
 
-### 1. 核心模块 (Core Modules)
-
-- [Manifest (配置文件与Rationale)](/manifest.md)
-- [ Overview (游戏概览与2026最新动态)](/overview.md)
-- [ Core Loop (核心循环与漏斗模型)](/core-loop.md)
-- [ Progression (数值与长线养成系统)](/progression.md)
-- [ Monetization (商业化模型与混合变现)](/monetization.md)
-- [ Economy (双轨经济模型与资源产销)](/economy.md)
-- [ Social & LiveOps (社交体系与运营活动)](/social-liveops.md)
-- [ Market Position (市场定位与竞品对比)](/market-position.md)
-- [ Risks & Unknowns (风险评估与数值膨胀)](/risks-unknowns.md)
-- [ Sources (参考资料与文献来源)](/sources.md)
-
-### 2. 系统模块 (Systems Modules)
-
-- [ Base Build (城建与大熔炉系统)](/systems/base-build.md)
-- [ Content Modes (常驻玩法与无尽考验/围城)](/systems/content-modes.md)
-- [ Exploration (野外探索与苔原商路)](/systems/exploration.md)
-- [ Matchmaking (跨服匹配与王国转移)](/systems/matchmaking.md)
-- [ Session Combat (战斗系统与战术摆位)](/systems/session-combat.md)
-- [ Systems Index (系统模块总索引)](/systems/index.md)
-
-### 3. 代表性实体 (Entities - Representative Units)
-
-- [ 代表性英雄与专家索引 (Entities Unit Index)](/entities/units/index.md)
-- **代表性角色精选**：
-  - [茉莉 (Molly)](/entities/units/molly.md) — SSR 矛兵（初代免费获取 / 养成基石）
-  - [米娅 (Mia)](/entities/units/mia.md) — SSR 矛兵（第3代转盘 / 平民打熊神将）
-  - [赫罗尼莫 (Jeronimo)](/entities/units/jeronimo.md) — SSR 盾兵（VIP 专属 / 集结车头核心）
-  - [埃莱奥诺拉 (Eleonora)](/entities/units/eleonora.md) — SSR 盾兵（第11代转盘 / T0级烈焰之盾）
-  - [鲁弗斯 (Rufus)](/entities/units/rufus.md) — SSR 弓兵（第11代输出 / T0级斜对角秒杀）
-  - [汉克 (Hank)](/entities/units/hank.md) — SSR 盾兵（第15代 / 绝对防线）
-  - [艾登 (Aiden)](/entities/units/aiden.md) — SSR 盾兵（第17代 / 2026最新转盘盾）
-  - [贾斯图斯 (Justus)](/entities/units/justus.md) — 成长专家（2026年8月执政官前瞻 / 王朝宝箱与迷宫探险）
-  - [加雷斯 (Gareth)](/entities/units/gareth.md) — 军事专家（2026年7月铁棘领主 / 低死伤与铁铸宝箱）
-  - [凯西 (Kathy)](/entities/units/kathy.md) — 采矿专家（2026年4月矿区领袖 / 霜火矿井加速）
-  - [罗妮 (Ronne)](/entities/units/roni.md) — 商业专家（2026年3月传奇佣兵 / 苔原商路护航）
+* [entities](entities/)
+* [systems](systems/)

@@ -1,6 +1,6 @@
 # 实体索引 (Entities Index)
 
-按 `unit_policy: representative` 原则，精选 10 位涵盖强攻、敏攻、控制、防御、辅助全定位的核心代表性武魂/魂师：
+按 `unit_policy: representative` 原则，精选 11 位涵盖强攻、敏攻、控制、防御、辅助全定位的核心代表性武魂/魂师：
 
 - [九宝琉璃塔（宁荣荣）](units/jiu-bao-liu-li-ta.md) — SSR 辅助系顶级核心，护盾/霸体/回复魂力。
 - [昊天锤（唐三）](units/hao-tian-chui.md) — SSR 强攻系刚猛爆伤主 C。
@@ -12,3 +12,4 @@
 - [六翼天使（千仞雪）](units/liu-yi-tian-shi.md) — SSR 限定强攻系天花板级主 C。
 - [灵眸（霍雨浩）](units/ling-mou.md) — SSR 限定控制/辅助系控场核心。
 - [极致之火凤凰（马小桃）](units/ji-zhi-zhi-huo-feng-huang.md) — SSR 限定强攻系真凤暴击主 C。
+- [光明龙神蝶（唐舞桐）](units/guang-ming-long-shen-die.md) — SSR 限定敏攻/强攻系灵光与闪光双流派人权卡。

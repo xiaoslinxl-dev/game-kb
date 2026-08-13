@@ -28,8 +28,9 @@ okf_version: "0.1"
 ## 代表性实体 (Entities)
 
 - [魂师图鉴索引](/entities/units/_index.md) — 核心 Meta 魂师列表与版本推荐
+- [双神·唐三](/entities/units/shuangshen-tangsan.md) (百级成神第7人神祇)
+- [SP+ 月神·小舞](/entities/units/sp-plus-yueshen-xiaowu.md) (望舒领域/神辅控制)
 - [SP+ 太初食神·奥斯卡](/entities/units/sp-plus-taichu-shishen-oscar.md)
-- [SP+ 月神·小舞](/entities/units/sp-plus-luosha-bibidong.md) (神辅羁绊/控制)
 - [SP+ 罗刹神·比比东](/entities/units/sp-plus-luosha-bibidong.md)
 - [SP+ 十方琉璃·宁荣荣](/entities/units/sp-plus-shifang-liuli-ningrongrong.md)
 - [SP+ 极致剑道·尘心](/entities/units/sp-plus-zhizhi-jiandao-chenxin.md)

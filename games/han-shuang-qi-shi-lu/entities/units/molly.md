@@ -8,7 +8,7 @@ rarity: SSR
 acquire: 七日签到免费赠送 / 幸运轮盘 / 英雄大厅
 pay_relevance: low
 confidence: high
-timestamp: '2026-08-06T11:00:00Z'
+timestamp: "2026-08-13T11:00:00Z"
 ---
 
 # 茉莉 (Molly)

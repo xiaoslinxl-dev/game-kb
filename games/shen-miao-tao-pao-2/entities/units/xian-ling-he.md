@@ -8,9 +8,8 @@ acquire: Pet Shop / Coins / Diamonds
 pay_relevance: medium
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: '2026-08-06T11:00:00Z'
+timestamp: '2026-08-13T11:00:00Z'
 ---
-
 
 # 仙灵鹤 (Fairy Crane)
 

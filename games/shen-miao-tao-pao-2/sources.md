@@ -4,7 +4,7 @@ title: 神庙逃亡2 资料来源与参考文献
 description: 《神庙逃亡2》知识库 Bundle 涉及的官方公告、媒体报道、玩家攻略与行业报告汇编。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: '2026-08-13T11:00:00Z'
+timestamp: '2026-08-14T11:00:00Z'
 ---
 
 # 资料来源与参考文献

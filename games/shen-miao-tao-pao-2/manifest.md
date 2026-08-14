@@ -1,20 +1,13 @@
 ---
 type: Manifest
-title: 神庙逃亡2 知识库 Manifest
+title: 神庙逃亡2 知识库清单
 description: 《神庙逃亡2》（Temple Run 2 中文版）知识库 Bundle 的模块规划与构成说明。
 game_id: shen-miao-tao-pao-2
-genre_tags:
-  - endless-runner
-  - casual
-  - pvp-runner
-  - action
+genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
-timestamp: '2026-08-13T11:00:00Z'
+timestamp: "2026-08-14T11:00:00Z"
 confidence: high
 modules: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources, session-combat, content-modes, units]
-modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
-modules_systems: [session-combat, content-modes]
-modules_entities: [units]
 unit_policy: representative
 ---
 

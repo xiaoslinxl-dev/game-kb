@@ -8,7 +8,7 @@ rarity: SSR
 acquire: 第二世代幸运轮盘 / 活动
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-13T11:00:00Z"
+timestamp: "2026-08-14T11:00:00Z"
 ---
 
 # 弗林特 (Flint)

@@ -5,9 +5,10 @@ description: 《斗罗大陆：魂师对决》知识库结构配置与模块规�
 game_id: dou-luo-da-lu-hun-shi-dui-jue
 genre_tags: [turn-based-rpg, card-battle, ip-adaptation]
 language: zh-CN
-timestamp: 2026-08-13T00:00:00Z
+timestamp: 2026-08-14T11:00:00Z
 confidence: high
 unit_policy: representative
+modules: [core, systems, entities]
 ---
 
 # 模块启用说明

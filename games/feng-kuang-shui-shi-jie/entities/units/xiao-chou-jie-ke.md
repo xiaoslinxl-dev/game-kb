@@ -8,7 +8,7 @@ acquire: 招募、高级招募、活动
 pay_relevance: high
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-07-25T18:41:00Z"
+timestamp: "2026-08-14T11:00:00Z"
 ---
 
 # 小丑杰克 (Xiao Chou Jie Ke)
@@ -24,4 +24,5 @@ timestamp: "2026-07-25T18:41:00Z"
 
 - **养成路径**：
   - 词条无脑洗练暴击与攻击/攻速，枪械与兵刃必须带**护甲穿透**。
-  - 专武拉至 60 级并满六星后，暴击倍率大幅翻倍，能够做到同战力下“三刀秒杀敌方后排”。
+  - 专武拉至 60 级并满六星后，暴击倍率大幅翻倍，能够做到同战力下“三刀秒杀敌方后排脆皮”。
+  - 配合 [北境大帝](/entities/units/bei-jing-da-di.md) 或 [千代](/entities/units/qian-dai.md) 组成刺客切后爆发流体系。

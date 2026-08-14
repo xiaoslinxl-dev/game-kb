@@ -8,7 +8,7 @@ acquire: 新手引导必定获得、常规招募
 pay_relevance: low
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-07-25T18:41:00Z"
+timestamp: "2026-08-14T11:00:00Z"
 ---
 
 # 雷教授 (Lei Jiao Shou)
@@ -22,4 +22,5 @@ timestamp: "2026-07-25T18:41:00Z"
 
 ## 2. 养成建议
 
-- 开局第 1-3 天可作为主 C / 副 C 升级推关，但在获得兰博后不建议消耗稀缺的传说技能书给雷教授升级技能。
+- 开局第 1-3 天可作为主 C / 副 C 升级推关，但在获得 [兰博](/entities/units/lan-bo.md) 后不建议消耗稀缺的传说技能书给雷教授升级技能。
+- 达到中期后可利用游戏的“无损重生”机制，将雷教授升阶材料全部无损返还并投入给国家队核心主 C。

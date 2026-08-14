@@ -4,17 +4,18 @@ title: 北境大帝
 description: 《疯狂水世界》S1赛季限定超凡坦克/输出英雄，拥有免控、护盾与冲击敌方后排阵型的核心能力。
 game_id: feng-kuang-shui-shi-jie
 unit_role: Tank/Disruptor
-rarity: Transcendent (超凡)
+rarity: Transcendent
 acquire: Limited Event ("北境之王"活动/礼包直购)
-pay_relevance: High
+pay_relevance: high
 confidence: high
+timestamp: "2026-08-14T11:00:00Z"
 ---
 
 # 北境大帝 (Bei Jing Da Di)
 
 ## 1. 角色定位与特性
 
-北境大帝是《疯狂水世界》S1 赛季（“冰原纪元”）引入的限定超凡品质英雄。在阵容中担任全能型前排坦克兼强力控制/干扰位。
+北境大帝是《疯狂水世界》S1 赛季引入的限定超凡（Transcendent）品质英雄。在阵容中担任全能型前排坦克兼强力控制/干扰位。
 
 - **核心机制**：
   - **免控与霸体**：达到 3 星后获得免控机制，不受控制技能打断。
@@ -35,4 +36,4 @@ confidence: high
 ## 3. 培养与获取建议
 
 - **获取途径**：开服第 6 天开启的《北境之王》限定活动中获取，或通过 648 直购礼包快速拉至 2-3 星。
-- **升星优先级**：建议优先提升至 **3 星** 以解锁核心免控与战术护盾机制；在国家队阵容中与大嘴山姆组成双前排，为后排主 C 兰博创造输出空间。
+- **升星优先级**：建议优先提升至 **3 星** 以解锁核心免控与战术护盾机制；在国家队阵容中与 [大嘴山姆](/entities/units/da-zui-shan-mu.md) 组成双前排，为后排主 C [兰博](/entities/units/lan-bo.md) 创造输出空间。

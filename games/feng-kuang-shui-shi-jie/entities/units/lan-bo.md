@@ -8,7 +8,7 @@ acquire: 开服第8天幸运转盘、勇者战令、高级招募
 pay_relevance: high
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-07-25T18:41:00Z"
+timestamp: "2026-08-14T11:00:00Z"
 ---
 
 # 兰博 (Lan Bo)
@@ -17,7 +17,7 @@ timestamp: "2026-07-25T18:41:00Z"
 
 ## 1. 核心属性与定位
 
-- **职业与类型**：能量远程主 C。
+- **职业与类型**：能量远程主 C（自由者阵营）。
 - **获取途径**：开服第 8 天转盘活动（需囤积约 1.5W 钻石抽券买礼包补至 400 抽）、购买兰博勇者战令或高级招募。
 
 ## 2. 技能与专武机制
@@ -28,4 +28,4 @@ timestamp: "2026-07-25T18:41:00Z"
 
 ## 3. 阵容搭配
 
-与巫师老侃（全队增伤）、大嘴山姆（前排刷大）、机器屠夫（勾人集火）组成公认的“平民/氪佬通用国家队”。
+与 [巫师老侃](/entities/units/wu-shi-lao-kan.md)（全队增伤）、[大嘴山姆](/entities/units/da-zui-shan-mu.md)（前排刷大）、[机器屠夫](/entities/units/ji-qi-tu-fu.md)（勾人集火）、[蜜雪儿](/entities/units/mi-xue-er.md)（控场回能）组成公认的“平民/氪佬通用国家队”。

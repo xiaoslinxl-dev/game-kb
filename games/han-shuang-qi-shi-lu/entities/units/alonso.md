@@ -1,27 +1,40 @@
 ---
 type: Unit
-title: 阿隆索 (Alonso)
-description: 第二代SSR射手英雄，强力控制与高额后排破防爆发。
+title: 阿隆索 (Alonso) - 寒霜启示录
+description: 第二代SSR射手英雄阿隆索（Alonso），具备强力后排点杀、破防爆发与控制能力。
 game_id: han-shuang-qi-shi-lu
-unit_role: Marksman
-rarity: SSR
-acquire: 第二世代幸运轮盘 / 活动
+unit_role: 后排爆发 / 单体狙杀 (Marksman DPS)
+rarity: SSR (Generation 2)
+acquire: 第二世代幸运轮盘 / 心愿小筑
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-14T11:00:00Z"
+timestamp: "2026-08-15T11:00:00Z"
 ---
 
 # 阿隆索 (Alonso)
 
-## 1. 角色定位与概览
+## 角色定位与概述
 
-阿隆索是开服约60天后解锁的第二代（Gen 2）SSR射手英雄。他在小队竞技场与SLG战斗中对第一代阵容构成了显著的数值与控制压制。
+**阿隆索 (Alonso)** 是在开服约 60 天后解锁的第二代（Gen 2）SSR 射手（Marksman）英雄。阿隆索是竞技场（Arena）与小队推图中的**“后排杀手与战术点杀核心”**。其独特的技能机制能够越过敌方坚固的前排肉盾，直接对敌方威胁最大的后排核心输出（如一代[茉莉](/entities/units/molly.md)）实施高额穿透打击与眩晕控制。
 
-## 2. 技能与战斗表现
+## 技能与战斗表现
 
-- **后排狙击与穿透**：技能可无视部分前排护甲，直接对敌方后排核心输出（如[茉莉](/entities/units/molly.md)）造成毁灭性打击与禁锢。
+### 1. 探索技能（小队 RPG / 竞技场）
+- **精准狙击 (Precision Snipe)**：瞄准敌方后排攻击力最高的单位发射高能穿甲弹，造成巨量物理伤害并使其陷入眩晕 1.5 秒。
+- **弱点锁定 (Target Acquired)**：降低目标单位的物理防御力与闪避率，使队友的后续攻击能够造成更高的暴击伤害。
+- **火力压制**：常驻提升自身暴击率与暴击伤害，并在击杀敌人后立即刷新部分技能冷却时间。
 
-相关文档链接：
-- [英雄/单位名录](/entities/units/_index.md)
+### 2. 远征技能（SLG 大地图 / 出征与集结）
+- **神射手军团**：大幅增加射手部队的攻击力、杀伤力与射程。
+- **攻城穿透**：攻打敌对避难所或驻防据点时，增加部队对敌方后排守军的穿透伤害。
+
+## 培养与使用建议
+
+- **竞技场冲榜王牌**：在竞技场进攻阵容中，将阿隆索放置在针对敌方主 C 的斜对角或同列位置，开局即可快速压低敌方核心血线甚至直接造成减员。
+- **跨世代保值性**：在三代至四代推出前，阿隆索始终是射手位置上的 T0 级输出担当。
+
+## 关联页面
+
+- [英雄与专家列表](/entities/units/index.md)
 - [数值与长线养成](/progression.md)
-- [战斗系统与小队/SLG机制](/systems/session-combat.md)
+- [战斗系统与战术摆位](/systems/session-combat.md)

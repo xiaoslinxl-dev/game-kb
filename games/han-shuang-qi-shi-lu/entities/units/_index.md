@@ -4,7 +4,7 @@ title: 寒霜启示录 (Whiteout Survival) 英雄列表 (Units Roster)
 description: 寒霜启示录精选代表性英雄列表，涵盖核心SSR/SR英雄、世代英雄与晨曦学堂专家。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-14T11:00:00Z"
+timestamp: "2026-08-15T11:00:00Z"
 ---
 
 # 寒霜启示录 英雄列表 (Units Roster)

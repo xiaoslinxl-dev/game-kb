@@ -1,22 +1,41 @@
 ---
 type: Unit
-title: 米娅 (Mia)
-description: 第三代SSR枪兵英雄，高额爆发伤害与概率连击。
+title: 米娅 (Mia) - 寒霜启示录
+description: 第三代SSR枪兵英雄米娅（Mia），猎熊行动核心输出与暴击连击打手。
 game_id: han-shuang-qi-shi-lu
-unit_role: Lancer
-rarity: SSR
-acquire: 第三世代幸运轮盘
+unit_role: 单体爆发 / 猎熊核心 (Lancer DPS)
+rarity: SSR (Generation 3)
+acquire: 第三世代幸运轮盘 (Lucky Wheel)
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-14T11:00:00Z"
+timestamp: "2026-08-15T11:00:00Z"
 ---
 
 # 米娅 (Mia)
 
-## 1. 角色定位与概览
+## 角色定位与概述
 
-米娅是第三代SSR枪兵英雄，主打高概率暴击与连击爆发。
+**米娅 (Mia)** 是《寒霜启示录》在开服约 120 天后解锁的第三代（Gen 3）SSR 枪兵（Lancer）英雄。她是全游戏公认的**“打熊神将 / 猎熊行动（Bear Trap）核心”**。凭借其独特的暴击叠加与概率连击机制，米娅能够在短时间内对单一目标（如冰原巨熊、世界 BOSS 与敌方主坦）打出巨量爆发伤害。
 
-相关文档链接：
-- [英雄/单位名录](/entities/units/_index.md)
+## 技能与战斗表现
+
+### 1. 探索技能（小队 RPG / 副本 / 猎熊）
+- **暴风连击 (Storm Combo)**：对目标造成多段快速穿透伤害，且每次暴击均有概率追加额外攻击。
+- **致命专注 (Fatal Focus)**：攻击时随战斗时间提升自身的暴击率与暴击伤害，在持久战中输出曲线极为陡峭。
+- **枪影穿刺**：对敌方单体目标造成高额破甲伤害，并附带持续流血状态。
+
+### 2. 远征技能（SLG 大地图 / 集结）
+- **长枪突击**：率领枪兵部队时，大幅提高全队的穿透力与攻击力。
+- **集结狂暴**：作为集结车头或主攻手时，提升集结部队对中立巨兽与野外据点的最终伤害。
+
+## 培养与使用建议
+
+- **平民与微氪首选**：米娅作为第三代幸运轮盘（Lucky Wheel）英雄，非大氪玩家应提前在 Gen 1-2 期间储备足够的宝石（建议至少 16 万至 20 万宝石），在 Gen 3 轮盘开启时直接冲刺满星或 4 星解锁核心被动。
+- **猎熊行动必备**：在每 48 小时的联盟猎熊行动中，米娅是打出千万级伤害排名的绝对核心担当。
+
+## 关联页面
+
+- [英雄与专家列表](/entities/units/index.md)
 - [数值与长线养成](/progression.md)
+- [多常驻玩法模式](/systems/content-modes.md)
+- [战斗系统](/systems/session-combat.md)

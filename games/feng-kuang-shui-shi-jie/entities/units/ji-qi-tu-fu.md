@@ -8,7 +8,7 @@ acquire: 200抽自选箱、高级招募、万能碎片
 pay_relevance: medium
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-14T11:00:00Z"
+timestamp: "2026-08-15T11:00:00Z"
 ---
 
 # 机器屠夫 (Ji Qi Tu Fu)

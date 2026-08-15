@@ -4,7 +4,7 @@ title: 疯狂水世界 基地建造与生存经营
 description: 疯狂水世界的木筏扩展、人口突破、加工生产线与建筑委托加速机制。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-14T11:00:00Z"
+timestamp: "2026-08-15T11:00:00Z"
 ---
 
 # 疯狂水世界 基地建造与生存经营

@@ -8,7 +8,7 @@ rarity: Transcendent
 acquire: Limited Event ("北境之王"活动/礼包直购)
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-14T11:00:00Z"
+timestamp: "2026-08-15T11:00:00Z"
 ---
 
 # 北境大帝 (Bei Jing Da Di)

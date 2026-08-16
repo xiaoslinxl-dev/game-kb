@@ -4,7 +4,7 @@ title: 寒霜启示录 经济系统
 description: 基础生产资源（肉/木/煤/铁）、高级货币（宝石/霜星）与特殊代币的双轨经济模型分析。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-15T11:00:00Z"
+timestamp: "2026-08-16T11:00:00Z"
 ---
 
 # 寒霜启示录 经济系统

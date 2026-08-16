@@ -8,7 +8,7 @@ rarity: SSR (Generation 17)
 acquire: 幸运大转盘 / 兵工厂商店
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-15T11:00:00Z"
+timestamp: "2026-08-16T11:00:00Z"
 ---
 
 # 艾登 (Aiden)

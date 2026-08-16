@@ -8,7 +8,7 @@ rarity: SR
 acquire: "吉娜的复仇（Gina's Revenge）活动"
 pay_relevance: low
 confidence: high
-timestamp: "2026-08-15T11:00:00Z"
+timestamp: "2026-08-16T11:00:00Z"
 ---
 
 # 吉娜 (Gina)

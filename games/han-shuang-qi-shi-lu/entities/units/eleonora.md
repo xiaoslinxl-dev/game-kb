@@ -8,7 +8,7 @@ rarity: SSR (Generation 11)
 acquire: 幸运大转盘 (Lucky Wheel)
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-15T11:00:00Z"
+timestamp: "2026-08-16T11:00:00Z"
 ---
 
 # 埃莱奥诺拉 (Eleonora)

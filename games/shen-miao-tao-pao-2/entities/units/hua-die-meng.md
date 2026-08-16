@@ -8,7 +8,7 @@ acquire: Orb Gacha / Premium Pack
 pay_relevance: high
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-08-15T11:00:00Z"
+timestamp: "2026-08-16T11:00:00Z"
 ---
 
 # 花蝶梦 (Butterfly Wings)

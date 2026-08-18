@@ -3,7 +3,7 @@ type: Sources
 title: 信息来源
 description: 斗罗大陆：猎魂世界(官服) 知识库资料来源与参考文献
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
-timestamp: 2026-08-17T11:00:00Z
+timestamp: 2026-08-18T11:00:00Z
 confidence: high
 ---
 

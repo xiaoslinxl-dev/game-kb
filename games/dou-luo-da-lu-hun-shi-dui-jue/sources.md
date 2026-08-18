@@ -3,7 +3,7 @@ type: Sources
 title: 信息来源与参考文献
 description: 本知识库用到的官方公告、商店页面、社区及媒体信源汇总
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-08-17T11:00:00Z
+timestamp: 2026-08-18T11:00:00Z
 confidence: high
 ---
 

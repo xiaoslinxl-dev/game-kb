@@ -8,7 +8,7 @@ rarity: SSR
 acquire: VIP特权礼包购买 / VIP专属商店
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-17T11:00:00Z"
+timestamp: "2026-08-18T11:00:00Z"
 ---
 
 # 杰罗尼莫 (Jeronimo)

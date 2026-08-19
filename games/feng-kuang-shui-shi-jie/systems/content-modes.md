@@ -4,7 +4,7 @@ title: 疯狂水世界 玩法模式与副本体系
 description: 疯狂水世界的主线推关、试炼副本、竞技场、世界 BOSS 与轮换限时活动。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-17T11:00:00Z"
+timestamp: "2026-08-19T11:00:00Z"
 ---
 
 # 疯狂水世界 玩法模式与副本体系

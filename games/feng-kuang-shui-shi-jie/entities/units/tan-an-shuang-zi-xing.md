@@ -8,7 +8,7 @@ rarity: Transcendent
 acquire: 美人鱼联动主题活动、限定超凡招募池
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-17T11:00:00Z"
+timestamp: "2026-08-19T11:00:00Z"
 ---
 
 # 探案双子星 (Tan An Shuang Zi Xing)

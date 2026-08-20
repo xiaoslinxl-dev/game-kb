@@ -4,7 +4,7 @@ title: 神庙逃亡2 风险与不确定性
 description: 《神庙逃亡2》在玩法老化、氪金平衡、合规监管与外挂防治方面的风险评估。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-08-19T11:00:00Z"
+timestamp: "2026-08-20T11:00:00Z"
 ---
 
 # 风险与不确定性

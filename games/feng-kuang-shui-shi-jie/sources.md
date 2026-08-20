@@ -4,7 +4,7 @@ title: 疯狂水世界 资料来源与参考文献
 description: 疯狂水世界知识库 Bundle 所引用的官方渠道、媒体报道与社区攻略清单。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-19T11:00:00Z"
+timestamp: "2026-08-20T11:00:00Z"
 ---
 
 # 疯狂水世界 资料来源与参考文献
@@ -20,7 +20,7 @@ timestamp: "2026-08-19T11:00:00Z"
 3. [小米游戏中心 — 疯狂水世界官方页面与攻略专区](https://game.xiaomi.com/game/62416703)
    - 官方游戏简介、基础机制（潜水拾荒、基地经营、社区订单、英雄委任、追击路易斯、联盟城战、探案双子星角色攻略）。
 4. [Google Play — 瘋狂水世界 (Flot Shelter)](https://play.google.com/store/apps/details?id=com.iyagames.flotshelter&hl=zh_HK)
-   - 海外版发行信息（Hong Kong Just Game Technology Limited / IYAGAMES）、核心玩法描述与更新。
+   - 海外版发行信息（Hong Kong Just Game Technology Limited / IYAGAMES / 香港商阿爾發遊戲）、核心玩法描述与更新。
 5. [腾讯应用宝 — 疯狂水世界微信小游戏入口](https://sj.qq.com/appdetail/wx2ea52a972ea18e5e)
    - 微信小游戏双端体验及广州益玩网络科技有限公司发行资质信息。
 
@@ -59,3 +59,5 @@ timestamp: "2026-08-19T11:00:00Z"
     - 开局升星优先级（大嘴山姆 3 星全场嘲讽、兰博 3 星红温、巫师老侃 3 星护盾）、1.5 万钻石囤积与机器屠夫 200 抽自选。
 20. [小米游戏中心 — 海兽系统全攻略与词条洗练推荐](https://game.xiaomi.com/viewpoint/1672495402_1773215352206_13)
     - 详解海兽位置升级、30/65/100级词条解锁规律、四大传说海兽（鳌蟹/海豚/章鱼/鲨鱼）与高阶超凡海兽（蓝血鲎/铁甲人鱼）定位与洗练方案。
+21. [MuMu Player — 《瘋狂水世界》事前預約開跑210抽與傳說英雄福利](https://www.mumuplayer.com/tw/blog/flot-shelter-preregister.html)
+    - 2026年8月海外繁体中文及全球版本《Flot Shelter》（瘋狂水世界）开启全平台事前预约，公布 210 抽与免费传说英雄（米娅、大嘴山姆、一龙、微醺之龙）等预约福利，以及「漂流者的海上派对」有奖创意征集活动。

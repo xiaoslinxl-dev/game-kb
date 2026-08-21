@@ -8,7 +8,7 @@ rarity: SSR (Generation 1)
 acquire: 每日特惠礼包 / 心愿小筑 / 英雄大厅招募
 pay_relevance: medium
 confidence: high
-timestamp: "2026-08-19T11:00:00Z"
+timestamp: "2026-08-21T11:00:00Z"
 ---
 
 # 津曼 (Zinman)

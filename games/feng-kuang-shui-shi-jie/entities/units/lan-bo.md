@@ -8,7 +8,7 @@ acquire: 开服第8天幸运转盘、勇者战令、高级招募
 pay_relevance: high
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-20T11:00:00Z"
+timestamp: "2026-08-21T11:00:00Z"
 ---
 
 # 兰博 (Lan Bo)

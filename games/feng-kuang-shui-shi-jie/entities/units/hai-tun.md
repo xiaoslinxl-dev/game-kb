@@ -8,7 +8,7 @@ acquire: 海兽培育室（23级解锁）
 pay_relevance: medium
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-20T11:00:00Z"
+timestamp: "2026-08-21T11:00:00Z"
 ---
 
 # 海豚 (Hai Tun)

@@ -4,7 +4,7 @@ title: 疯狂水世界 资料来源与参考文献
 description: 疯狂水世界知识库 Bundle 所引用的官方渠道、媒体报道与社区攻略清单。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-22T11:00:00Z"
+timestamp: "2026-08-23T11:00:00Z"
 ---
 
 # 疯狂水世界 资料来源与参考文献
@@ -14,13 +14,13 @@ timestamp: "2026-08-22T11:00:00Z"
 ## 1. 官方与应用商店渠道
 
 1. [App Store — 疯狂水世界](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630)
-   - iOS 官方版本信息、陈小春代言公告、夏日狂浪节版本（v1.1.5）、S7 赛季更新日志（等级上限100级、4300关、试炼140关、超凡装备精炼、赛季商店、荣耀之巅红藏品、铁甲人鱼海兽、世界BOSS）。
+   - iOS 官方版本信息、陈小春代言公告、夏日狂浪节版本（v1.1.5 / v1.7.0）、S7 赛季更新日志（等级上限100级、4300关、试炼140关、超凡装备精炼、赛季商店、荣耀之巅红藏品、铁甲人鱼海兽、世界BOSS）。
 2. [TapTap — 疯狂水世界官方页面与论坛](https://www.taptap.cn/app/790816)
    - 益世界官方代理下载页面、制作人“水哥”开发理念、陈小春代言与狂浪节公告、年中开荒报告送多汪多旺皮肤活动、AI 真人短剧预告。
 3. [小米游戏中心 — 疯狂水世界官方页面与攻略专区](https://game.xiaomi.com/game/62416703)
    - 官方游戏简介、基础机制（潜水拾荒、基地经营、社区订单、英雄委任、追击路易斯、联盟城战、探案双子星角色攻略）。
-4. [Google Play — 瘋狂水世界 (Flot Shelter)](https://play.google.com/store/apps/details?id=com.iyagames.flotshelter&hl=zh_HK)
-   - 海外版发行信息（Hong Kong Just Game Technology Limited / IYAGAMES / 香港商阿爾發遊戲）、核心玩法描述与更新。
+4. [Google Play — 瘋狂水世界 (Flot Shelter / Wild Water World)](https://play.google.com/store/apps/details?id=com.iyagames.flotshelter&hl=zh_HK)
+   - 海外版发行信息（Hong Kong Just Game Technology Limited / IYAGAMES / 香港商阿爾發遊戲）、核心玩法描述与更新（2026年8月19日更新）。
 5. [腾讯应用宝 — 疯狂水世界微信小游戏入口](https://sj.qq.com/appdetail/wx2ea52a972ea18e5e)
    - 微信小游戏双端体验及广州益玩网络科技有限公司发行资质信息。
 
@@ -30,34 +30,36 @@ timestamp: "2026-08-22T11:00:00Z"
    - 2026年1月爆款行业分析，益世界水世界生存题材模拟经营+SLG玩法解析与榜单表现。
 7. [17173 — 《疯狂水世界》放弃洗大R、砍PVP奖励？这款小游戏畅销榜Top3的SLG，摸到了品类融合的真谛](https://news.17173.com/content/03252026/173055891.shtml)
    - 2026年3月深度产品拆解，分析模拟经营前置钩子、卡牌养成数值主体与SLG大地图扩展的品类融合架构。
-8. [新浪电竞 — 益世界旗下《疯狂水世界》《这城有良田》获华为游戏中心年度双项大奖](https://dj.sina.com.cn/article/nimcxxc4067698.shtml)
-   - 2026年8月 HarmonyOS 游戏非凡之夜，《疯狂水世界》斩获华为游戏中心“年度最受欢迎游戏”大奖。
-9. [新浪电竞 — 益世界《疯狂水世界》×《美人鱼》联动上线：以经典IP激活海洋题材游戏新表达](http://dj.sina.com.cn/article/nihispv8369927.shtml)
-   - 2026年7月周星驰执导电影《美人鱼》重磅联动合作，推出奇珍异兽博物馆藏品、探案双子星坦克英雄与铁甲人鱼海兽。
-10. [新浪电竞 — 南海遗珍，丝路新生！益世界《疯狂水世界》& 广州海事博物馆展开联动](https://dj.sina.com.cn/article/nhvqwea4678361.shtml)
+8. [新浪电竞 — 《疯狂水世界》狂浪节上线，益世界打造游戏内外联动的夏日冒险体验](https://dj.sina.com.cn/article/ninttrk8681204.shtml)
+   - 2026年8月18日报道，益世界夏日狂浪节布局、陈小春代言人TVC、50集AI真人短剧及快手荒岛求生实景直播全景拆解。
+9. [GamingonPhone — Wild Water World lets you rebuild civilisation after the ocean swallows the world; mobile pre-registration now live](https://gamingonphone.com/news/wild-water-world-lets-you-rebuild-civilisation-after-the-ocean-swallows-the-world-mobile-pre-registration-now-live/)
+   - 2026年8月20日报道，IYAGAMES 旗下 4X 策略游戏《Wild Water World》（原 Flot Shelter）在 iOS/Android 开启全球预约，定档 2026 年 9 月 1 日公测。
+10. [新浪电竞 — 益世界旗下《疯狂水世界》《这城有良田》获华为游戏中心年度双项大奖](https://dj.sina.com.cn/article/nimcxxc4067698.shtml)
+    - 2026年8月 HarmonyOS 游戏非凡之夜，《疯狂水世界》斩获华为游戏中心“年度最受欢迎游戏”大奖。
+11. [新浪电竞 — 益世界《疯狂水世界》×《美人鱼》联动上线：以经典IP激活海洋题材游戏新表达](http://dj.sina.com.cn/article/nihispv8369927.shtml)
+    - 2026年7月周星驰执导电影《美人鱼》重磅联动合作，推出奇珍异兽博物馆藏品、探案双子星坦克英雄与铁甲人鱼海兽。
+12. [新浪电竞 — 南海遗珍，丝路新生！益世界《疯狂水世界》& 广州海事博物馆展开联动](https://dj.sina.com.cn/article/nhvqwea4678361.shtml)
     - 2026年4月与广州海事博物馆联动，引入南海神庙地标、西村窑青白壶等数字文物及古物修复玩法。
-11. [新浪电竞 — 益世界《疯狂水世界》再推AI短剧：末日废土之上，一场关于生存与人性的终极博弈](https://dj.sina.com.cn/article/ninnzcn0995298.shtml)
-    - 2026年8月16日正式上线AI真人短剧，拓展水之都盟主陈浩与少年阿水的末日世界观叙事。
-12. [凤凰网 — 益世界《疯狂水世界》上线AI真人短剧，探索游戏IP内容叙事新路径](https://baby.ifeng.com/c/8vdW3uTlkjN)
+13. [新浪电竞 — 益世界《疯狂水世界》再推AI短剧：末日废土之上，一场关于生存与人性的终极博弈](https://dj.sina.com.cn/article/ninnzcn0995298.shtml)
+    - 2026年8月16日报道，解析益世界 50 集 AI 真人短剧对水之都盟主陈浩与少年阿水的末日世界观叙事拓展。
+14. [凤凰网 — 益世界《疯狂水世界》上线AI真人短剧，探索游戏IP内容叙事新路径](https://baby.ifeng.com/c/8vdW3uTlkjN)
     - 2026年8月16日行业深度报道，解析益世界从买量短剧风口走向连续影像叙事与跨场景IP沉淀。
-13. [发布网 — 益世界《疯狂水世界》官宣陈小春，快手荒岛求生直播同步来袭](https://www.fabugov.com/html/yule/2026/0807/35045.html)
-    - 2026年8月7日官宣陈小春出任游戏代言人（“海上掌舵人”），启动首届“夏日狂浪节”并与快手合作荒岛求生实景直播。
-14. [游侠手游 — 海上末日题材突围，《疯狂水世界》荣获微信小游戏“新锐突破小游戏”](https://m.ali213.net/news/260613/225711.html)
+15. [游侠手游 — 海上末日题材突围，《疯狂水世界》荣获微信小游戏“新锐突破小游戏”](https://m.ali213.net/news/260613/225711.html)
     - 2026年6月微信小游戏开发者大会，荣获年度“新锐突破小游戏”荣誉，微信小游戏畅销榜 TOP2、抖音小游戏畅销榜 TOP1。
 
 ## 3. 社区攻略与实测文献
 
-15. [TapTap 玩家社区 — 多场景（世界BOSS、闯关等）阵容搭配推荐](https://www.taptap.cn/moment/784011749559895947)
+16. [TapTap 玩家社区 — 多场景（世界BOSS、闯关等）阵容搭配推荐](https://www.taptap.cn/moment/784011749559895947)
     - 记录大嘴山姆、兰博、李忠诚、蜜雪儿、巫师老侃等英雄站位与多场景阵容调优。
-16. [九游 — 《疯狂水世界》萌新开局操作技巧与跨服阵容推荐](https://www.9game.cn/fkssj/11755133.html)
+17. [九游 — 《疯狂水世界》萌新开局操作技巧与跨服阵容推荐](https://www.9game.cn/fkssj/11755133.html)
     - 记录开局英雄培养顺序、万能碎片投放策略（山姆>兰博>老侃）、海兽选择与跨服田忌赛马配队。
-17. [游侠手游 — 疯狂水世界 S6 赛季最强阵容搭配推荐](https://m.ali213.net/news/gl2606/1786963.html)
+18. [游侠手游 — 疯狂水世界 S6 赛季最强阵容搭配推荐](https://m.ali213.net/news/gl2606/1786963.html)
     - 详细记录 S6 赛季国家队铁三角（兰博+大嘴山姆+巫师老侃+千代+蜜雪儿）配置与词条精炼优化。
-18. [3DM手游 — 疯狂水世界兰博技能养成与阵容搭配攻略](https://shouyou.3dmgame.com/gl/625658.html)
+19. [3DM手游 — 疯狂水世界兰博技能养成与阵容搭配攻略](https://shouyou.3dmgame.com/gl/625658.html)
     - 兰博攻速门槛（≥1.0-1.13）、暴击词条洗练与第 8 天转盘抽取策略。
-19. [TapTap 玩家社区 — 疯狂水世界新手保姆级开荒与升星攻略](https://www.taptap.cn/moment/771772364277941745)
+20. [TapTap 玩家社区 — 疯狂水世界新手保姆级开荒与升星攻略](https://www.taptap.cn/moment/771772364277941745)
     - 开局升星优先级（大嘴山姆 3 星全场嘲讽、兰博 3 星红温、巫师老侃 3 星护盾）、1.5 万钻石囤积与机器屠夫 200 抽自选。
-20. [小米游戏中心 — 海兽系统全攻略与词条洗练推荐](https://game.xiaomi.com/viewpoint/1672495402_1773215352206_13)
+21. [小米游戏中心 — 海兽系统全攻略与词条洗练推荐](https://game.xiaomi.com/viewpoint/1672495402_1773215352206_13)
     - 详解海兽位置升级、30/65/100级词条解锁规律、四大传说海兽（鳌蟹/海豚/章鱼/鲨鱼）与高阶超凡海兽（蓝血鲎/铁甲人鱼）定位与洗练方案。
-21. [MuMu Player — 《瘋狂水世界》事前預約開跑210抽與傳說英雄福利](https://www.mumuplayer.com/tw/blog/flot-shelter-preregister.html)
+22. [MuMu Player — 《瘋狂水世界》事前預約開跑210抽與傳說英雄福利](https://www.mumuplayer.com/tw/blog/flot-shelter-preregister.html)
     - 2026年8月海外繁体中文及全球版本《Flot Shelter》（瘋狂水世界）开启全平台事前预约，公布 210 抽与免费传说英雄（米娅、大嘴山姆、一龙、微醺之龙）等预约福利，以及「漂流者的海上派对」有奖创意征集活动。

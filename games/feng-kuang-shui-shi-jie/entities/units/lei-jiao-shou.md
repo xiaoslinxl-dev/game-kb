@@ -8,7 +8,7 @@ acquire: 新手引导必定获得、常规招募
 pay_relevance: low
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-22T11:00:00Z"
+timestamp: "2026-08-23T11:00:00Z"
 ---
 
 # 雷教授 (Lei Jiao Shou)

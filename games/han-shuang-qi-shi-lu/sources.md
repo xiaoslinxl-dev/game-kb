@@ -4,7 +4,7 @@ title: 寒霜启示录 参考资料与来源
 description: 收集自 Century Games 官方公告、Google Play、GNN 新闻、BitTopup、BlueStacks、TOPUPlive、WoS Tools、WOS Wiki 与巴哈姆特社区的参考资料清单。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-22T11:00:00Z"
+timestamp: "2026-08-23T11:00:00Z"
 ---
 
 # 寒霜启示录 参考资料与来源

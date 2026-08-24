@@ -4,12 +4,12 @@ title: 疯狂水世界 英雄与海兽名册总览
 description: 疯狂水世界核心代表性英雄与海兽职能分工、养成定位与获取路径汇总。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-23T11:00:00Z"
+timestamp: "2026-08-24T11:00:00Z"
 ---
 
 # 疯狂水世界 英雄与海兽名册总览
 
-本图鉴遵循 `unit_policy: representative` 策略，筛选了游戏内影响新手开荒过渡、T0 国家队构建、跨界联动与 PVP/PVE Meta 选育的 14 个最具代表性的英雄与海兽实体。
+本图鉴遵循 `unit_policy: representative` 策略，筛选了游戏内影响新手开荒过渡、T0 国家队构建、跨界联动与夏日狂浪节 PVP/PVE Meta 选育的 15 个最具代表性的英雄与海兽实体。
 
 ## 1. 核心英雄名册（T0 国家队与关键职能）
 
@@ -17,6 +17,7 @@ timestamp: "2026-08-23T11:00:00Z"
 |---|---|---|---|---|---|---|
 | **大嘴山姆** | [da-zui-shan-mu](/entities/units/da-zui-shan-mu.md) | 物理主坦 | 传说 (Legendary) | 登录第2天免费送、常规招募、万能碎片 | 极高（需拉3星+专武） | 绰号“懂王”，高闪避+全屏嘲讽聚怪，全期前排绝对核心 |
 | **兰博** | [lan-bo](/entities/units/lan-bo.md) | 能量主C | 传说 (Legendary) | 第8天转盘、招募、勇者战令 | 极高（转盘耗钻/战令） | 自由者阵营 ADC 一哥，攻速达标后红温无上限增伤，专武带保命 |
+| **过江龙** | [guo-jiang-long](/entities/units/guo-jiang-long.md) | 战士/爆发 | 超凡 (Transcendent) | 夏日狂浪节限定活动、超凡招募池 | 极高（狂浪节限定） | 兄弟会近战战神，高爆发真实伤害，随赛季更新自动进阶技能 |
 | **探案双子星** | [tan-an-shuang-zi-xing](/entities/units/tan-an-shuang-zi-xing.md) | 物理主坦 | 超凡 (Transcendent) | 美人鱼联动限定活动、超凡招募池 | 极高（联动限定） | 召唤人鱼分身聚怪承伤，拥有随赛季更新自动进阶技能机制 |
 | **北境大帝** | [bei-jing-da-di](/entities/units/bei-jing-da-di.md) | 坦克/干扰 | 超凡 (Transcendent) | S1限定活动“北境之王”/礼包直购 | 极高（S1限定超凡） | 具备免控霸体、冲锋切后排与高额双生命护盾，S1国家队真神 |
 | **千代** | [qian-dai](/entities/units/qian-dai.md) | 刺客/爆发 | 超凡 (Transcendent) | S2赛季限定招募/转盘活动 | 极高（S2限定超凡） | 精准锁定敌方最高攻目标（兰博），高额减伤与隐匿连环收割 |

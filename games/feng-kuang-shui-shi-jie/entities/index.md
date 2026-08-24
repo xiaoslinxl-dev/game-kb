@@ -1,10 +1,11 @@
 # 疯狂水世界 实体模块 Index
 
-本目录遵循 `unit_policy: representative` 策略，收录了《疯狂水世界》中最具代表性的 14 个核心英雄与海兽实体，覆盖新手开荒过渡、T0 国家队、跨界联动限定英雄及海兽选育。
+本目录遵循 `unit_policy: representative` 策略，收录了《疯狂水世界》中最具代表性的 15 个核心英雄与海兽实体，覆盖新手开荒过渡、T0 国家队、跨界联动限定英雄、夏日狂浪节新超凡英雄及海兽选育。
 
 - [/entities/units/_index.md](/entities/units/_index.md) — 代表性英雄与海兽名册总览
 - [/entities/units/da-zui-shan-mu.md](/entities/units/da-zui-shan-mu.md) — 大嘴山姆（懂王，T0 物理主坦，全屏嘲讽聚怪）
 - [/entities/units/lan-bo.md](/entities/units/lan-bo.md) — 兰博（T0 能量主C，自由者红温爆发与持久战真神）
+- [/entities/units/guo-jiang-long.md](/entities/units/guo-jiang-long.md) — 过江龙（夏日狂浪节超凡战士，高爆发真伤与赛季进阶机制）
 - [/entities/units/tan-an-shuang-zi-xing.md](/entities/units/tan-an-shuang-zi-xing.md) — 探案双子星（美人鱼联动限定超凡主坦，人鱼分身嘲讽）
 - [/entities/units/bei-jing-da-di.md](/entities/units/bei-jing-da-di.md) — 北境大帝（S1 限定超凡坦克/输出，冲锋破阵免控）
 - [/entities/units/qian-dai.md](/entities/units/qian-dai.md) — 千代（S2 限定超凡刺客，锁定高攻隐匿收割）

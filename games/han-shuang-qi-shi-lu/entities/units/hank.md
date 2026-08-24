@@ -8,7 +8,7 @@ rarity: SSR (Generation 15)
 acquire: 幸运大转盘 / 高阶心愿小筑
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-23T11:00:00Z"
+timestamp: "2026-08-24T11:00:00Z"
 ---
 
 # 汉克 (Hank)

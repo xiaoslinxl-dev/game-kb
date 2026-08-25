@@ -5,7 +5,7 @@ description: 知识库模块架构定义与内容索引
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 genre_tags: [mmo, mmorpg, open-world, action, douluo-ip, 3d]
 language: zh-CN
-timestamp: "2026-08-24T11:00:00Z"
+timestamp: "2026-08-25T11:00:00Z"
 confidence: high
 modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, session-combat, exploration, content-modes, matchmaking, units]
 unit_policy: representative

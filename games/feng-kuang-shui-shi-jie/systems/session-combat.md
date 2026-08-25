@@ -4,7 +4,7 @@ title: 疯狂水世界 对抗与卡牌战斗系统
 description: 疯狂水世界的 5v5 阵型卡牌战斗、战术飞钩拉人、阵型光环与装备词条对抗。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-24T11:00:00Z"
+timestamp: "2026-08-25T11:00:00Z"
 ---
 
 # 疯狂水世界 对抗与卡牌战斗系统
@@ -45,9 +45,12 @@ timestamp: "2026-08-24T11:00:00Z"
 2. **狂浪战士爆发流（狂浪节新体系）**：
    - **配置**：[过江龙](/entities/units/guo-jiang-long.md) + [大嘴山姆](/entities/units/da-zui-shan-mu.md) + [兰博](/entities/units/lan-bo.md) + [巫师老侃](/entities/units/wu-shi-lao-kan.md) + [蜜雪儿](/entities/units/mi-xue-er.md)。
    - **逻辑**：过江龙跃阵击飞控场并开启狂暴真实伤害爆发，与兰博形成双重压制，残局击杀重置大招连环收割。
-3. **刺客突进切后流**：
+3. **S7 科技防暴铁壁流（S7 赛季顶配防守）**：
+   - **配置**：[典狱长赛斯](/entities/units/dian-yu-zhang-sai-si.md) + [大嘴山姆](/entities/units/da-zui-shan-mu.md) + [兰博](/entities/units/lan-bo.md) + [巫师老侃](/entities/units/wu-shi-lao-kan.md) + [蜜雪儿](/entities/units/mi-xue-er.md)。
+   - **逻辑**：赛斯电磁力场限制位移与群体禁锢，单次锁伤上限与防暴护盾抵御刺客爆发，搭载【登峰】核芯实现残局逆转。
+4. **刺客突进切后流**：
    - **配置**：[北境大帝](/entities/units/bei-jing-da-di.md) + [千代](/entities/units/qian-dai.md) + [小丑杰克](/entities/units/xiao-chou-jie-ke.md) + [巫师老侃](/entities/units/wu-shi-lao-kan.md) + [铁腿红魔](/entities/units/tie-tui-hong-mo.md)。
    - **逻辑**：大帝冲锋破阵免控，千代锁定敌方最高攻主 C 爆发秒杀，小丑杰克隐身补刀，快速摧毁敌方后排。
-4. **美人鱼联动双子流**：
+5. **美人鱼联动双子流**：
    - **配置**：[探案双子星](/entities/units/tan-an-shuang-zi-xing.md) + [兰博](/entities/units/lan-bo.md) + [千代](/entities/units/qian-dai.md) + [巫师老侃](/entities/units/wu-shi-lao-kan.md) + [蜜雪儿](/entities/units/mi-xue-er.md)。
    - **逻辑**：双子星召唤人鱼分身吸收巨量爆发，配合铁甲人鱼海兽反伤净化，为双 C 创造终极输出空间。

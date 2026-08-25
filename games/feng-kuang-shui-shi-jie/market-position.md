@@ -4,7 +4,7 @@ title: 疯狂水世界 市场定位与竞品分析
 description: 疯狂水世界的市场定位、品类差异化优势、发行策略与竞品对标。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-24T11:00:00Z"
+timestamp: "2026-08-25T11:00:00Z"
 ---
 
 # 疯狂水世界 市场定位与竞品分析

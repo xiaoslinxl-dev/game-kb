@@ -5,7 +5,7 @@ description: 疯狂水世界（Feng Kuang Shui Shi Jie）知识库 Bundle 的模
 game_id: feng-kuang-shui-shi-jie
 genre_tags: [survival, simulation, slg, nautical, card-rpg]
 language: zh-CN
-timestamp: "2026-08-24T11:00:00Z"
+timestamp: "2026-08-25T11:00:00Z"
 confidence: high
 modules: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources, base-build, content-modes, exploration, session-combat, units]
 unit_policy: representative
@@ -24,4 +24,4 @@ unit_policy: representative
   - `session-combat`：涵盖 5v5 阵型卡牌战斗、前后排站位、战术飞钩拉人机制、海兽技能辅助（如鳌蟹、海豚、铁甲人鱼）、控制抗性属性、登峰核芯、PVP 战斗超时机制与装备海兽洗练工具“洗刷锁”。
   - `content-modes`：涵盖关卡挂机推图（70层蓝图分水岭与双博士卡关点）、日常试炼副本、竞技场、世界 BOSS、美人鱼联动副本、联盟商船、巅峰擂台赛与大地图联盟城战。
 - **Entities (实体模块)**：
-  - `units`：遵循 `unit_policy: representative`，精选 15 个影响版本 Meta 与开荒节奏的关键英雄与海兽实体。
+  - `units`：遵循 `unit_policy: representative`，精选 16 个影响版本 Meta、S7 赛季与开荒节奏的关键英雄与海兽实体。

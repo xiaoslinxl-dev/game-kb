@@ -30,8 +30,9 @@ okf_version: "0.1"
 ## 3. 实体模块 (Entities)
 
 - [实体目录 (entities/index.md)](/entities/index.md) — 实体子目录导航
-- [英雄与海兽名册总览 (entities/units/_index.md)](/entities/units/_index.md) — 15 个关键代表性实体（T0 国家队、超凡限定英雄与海兽）选育与职能总表
+- [英雄与海兽名册总览 (entities/units/_index.md)](/entities/units/_index.md) — 16 个关键代表性实体（T0 国家队、超凡限定英雄与海兽）选育与职能总表
 - [过江龙 (entities/units/guo-jiang-long.md)](/entities/units/guo-jiang-long.md) — 夏日狂浪节超凡战士，高爆发真伤与随赛季更新自动进阶机制
+- [典狱长赛斯 (entities/units/dian-yu-zhang-sai-si.md)](/entities/units/dian-yu-zhang-sai-si.md) — S7 科技派超凡主坦，电磁禁锢与防暴力场
 - [大嘴山姆 (entities/units/da-zui-shan-mu.md)](/entities/units/da-zui-shan-mu.md) — 懂王，T0 物理主坦，全屏嘲讽聚怪
 - [兰博 (entities/units/lan-bo.md)](/entities/units/lan-bo.md) — T0 能量主C，自由者红温爆发与持久战真神
 - [探案双子星 (entities/units/tan-an-shuang-zi-xing.md)](/entities/units/tan-an-shuang-zi-xing.md) — 美人鱼联动限定超凡主坦，人鱼分身嘲讽

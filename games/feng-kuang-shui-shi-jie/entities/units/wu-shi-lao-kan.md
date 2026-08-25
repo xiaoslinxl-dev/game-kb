@@ -8,7 +8,7 @@ acquire: 开服第8天幸运转盘、招募、万能碎片
 pay_relevance: high
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-23T11:00:00Z"
+timestamp: "2026-08-25T11:00:00Z"
 ---
 
 # 巫师老侃 (Wu Shi Lao Kan)

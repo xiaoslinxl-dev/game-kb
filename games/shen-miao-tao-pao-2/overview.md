@@ -4,7 +4,7 @@ title: 神庙逃亡2 游戏概述
 description: 《神庙逃亡2》（Temple Run 2 中文版）的产品背景、核心玩法特征及中国本土化运营概述。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-08-24T11:00:00Z"
+timestamp: "2026-08-25T11:00:00Z"
 ---
 
 # 游戏概述

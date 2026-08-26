@@ -4,7 +4,7 @@ title: 寒霜启示录 商业化设计
 description: 极高ARPU的4X SLG商业化策略，涵盖永久功能礼包、VIP特权、幸运轮盘、火晶礼包与世代英雄抽卡。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-24T11:00:00Z"
+timestamp: "2026-08-26T11:00:00Z"
 ---
 
 # 寒霜启示录 商业化设计

@@ -4,7 +4,7 @@ title: 寒霜启示录 多常驻玩法模式与系统 (Content Modes)
 description: 寒霜启示录的探险推关、竞技场、地心探险、无尽考验、燃霜矿区、冰火战歌联赛、凛冬围城与双星同行联动玩法。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-24T11:00:00Z"
+timestamp: "2026-08-26T11:00:00Z"
 ---
 
 # 寒霜启示录 多常驻玩法模式与系统 (Content Modes)

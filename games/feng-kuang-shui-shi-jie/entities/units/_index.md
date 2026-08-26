@@ -4,12 +4,12 @@ title: 疯狂水世界 英雄与海兽名册总览
 description: 疯狂水世界核心代表性英雄与海兽职能分工、养成定位与获取路径汇总。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-25T11:00:00Z"
+timestamp: "2026-08-26T11:00:00Z"
 ---
 
 # 疯狂水世界 英雄与海兽名册总览
 
-本图鉴遵循 `unit_policy: representative` 策略，筛选了游戏内影响新手开荒过渡、T0 国家队构建、跨界联动、S7 赛季与夏日狂浪节 PVP/PVE Meta 选育的 16 个最具代表性的英雄与海兽实体。
+本图鉴遵循 `unit_policy: representative` 策略，筛选了游戏内影响新手开荒过渡、T0 国家队构建、跨界联动、S7 赛季与夏日狂浪节 PVP/PVE Meta 选育的 15 个最具代表性的英雄与海兽实体。
 
 ## 1. 核心英雄名册（T0 国家队与关键职能）
 
@@ -28,7 +28,6 @@ timestamp: "2026-08-25T11:00:00Z"
 | **铁腿红魔** | [tie-tui-hong-mo](/entities/units/tie-tui-hong-mo.md) | 物理副C | 传说 (Legendary) | 常规招募、万能碎片、VIP礼包 | 中等（国家队拼图） | 前中排范围打击与稳定眩晕控制，物理补伤副 C |
 | **小丑杰克** | [xiao-chou-jie-ke](/entities/units/xiao-chou-jie-ke.md) | 暴击刺客 | 传说 (Legendary) | 联盟商店、招募、赛季结算 | 中等（中后期切后） | 专武升阶后具备高暴击与单体秒杀能力，克制后排脆皮 |
 | **一龙** | [yi-long](/entities/units/yi-long.md) | 开荒前排 | 传说 (Legendary) | 6元首充礼包、不差钱商人 | 极低（首充即送） | 极高性价比新手过渡前排，大招 AOE 快速清理多波杂兵 |
-| **雷教授** | [lei-jiao-shou](/entities/units/lei-jiao-shou.md) | 能量群攻 | 传说 (Legendary) | 新手引导必得、常规招募 | 极低（免费过渡） | 新手过渡主力输出，范围能量轰炸，后期可无损重生 |
 
 ## 2. 代表性海兽名册（海兽培育室）
 

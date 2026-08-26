@@ -8,7 +8,7 @@ acquire: 招募、万能碎片兑换、活跃活动
 pay_relevance: medium
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-25T11:00:00Z"
+timestamp: "2026-08-26T11:00:00Z"
 ---
 
 # 铁腿红魔 (Tie Tui Hong Mo)

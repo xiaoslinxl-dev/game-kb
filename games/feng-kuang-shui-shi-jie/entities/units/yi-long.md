@@ -8,7 +8,7 @@ acquire: 6元首充礼包、不差钱商人
 pay_relevance: low
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-25T11:00:00Z"
+timestamp: "2026-08-26T11:00:00Z"
 ---
 
 # 一龙 (Yi Long)
@@ -22,5 +22,5 @@ timestamp: "2026-08-25T11:00:00Z"
 
 ## 2. 养成建议
 
-- **过渡定位**：前期基础面板较高，适合第 1-2 天配合 [雷教授](/entities/units/lei-jiao-shou.md) 推关过渡。
-- **无损重生**：由于游戏支持无损重生，后期获得 [大嘴山姆](/entities/units/da-zui-shan-mu.md) 与 [机器屠夫](/entities/units/ji-qi-tu-fu.md) 后，可将一龙直接重生返还资源投给国家队，无需浪费传说万能碎片。
+- **过渡定位**：前期基础面板较高，适合第 1-2 天配合新手赠送英雄快速推关过渡。
+- **无损重生**：由于游戏支持无损重生，后期获得 [大嘴山姆](/entities/units/da-zui-shan-mu.md) 与 [机器屠夫](/entities/units/ji-qi-tu-fu.md) 后，可将一龙直接重生返还全部资源投给国家队，无需浪费传说万能碎片。

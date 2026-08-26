@@ -4,7 +4,7 @@ title: 神庙逃亡2 内容玩法与模式
 description: 《神庙逃亡2》无尽模式、竞技场排位、主题地图副本、黄金矿山与限时收集赛。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-08-25T11:00:00Z"
+timestamp: "2026-08-26T11:00:00Z"
 ---
 
 # 内容玩法与模式

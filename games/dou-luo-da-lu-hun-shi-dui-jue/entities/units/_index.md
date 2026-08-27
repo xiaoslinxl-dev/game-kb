@@ -3,18 +3,19 @@ type: UnitRoster
 title: 魂师角色名录
 description: 《斗罗大陆：魂师对决》代表性魂师名录与链接列表
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-08-13T00:00:00Z
+timestamp: 2026-08-27T00:00:00Z
 confidence: high
 ---
 
 # 魂师角色名录 (Units Roster)
 
-本目录记录《斗罗大陆：魂师对决》中极具代表性的魂师角色。依据 `unit_policy: representative` 规则，仅精选在版本 Meta、商业化卡池（SP+/SP 梯队）或阵容机制（打火/拉条/破甲/阵法/神祇）中发挥核心作用的代表性魂师。
+本目录记录《斗罗大陆：魂师对决》中极具代表性的魂师角色。依据 `unit_policy: representative` 规则，仅精选在版本 Meta、商业化卡池（SP+/SP 梯队）或阵容机制（打火/拉条/破甲/阵法/神祇/多形态）中发挥核心作用的代表性魂师。
 
 ## 代表性魂师列表
 
 | 魂师名称 | 统一标识 (Slug) | 品质 | 职业定位 | 获取途径 | 商业化/版本权重 | 链接 |
 |----------|-----------------|------|----------|----------|-----------------|------|
+| **千面幻影·妖魅** | `sp-plus-qianmian-huanying-yaomei` | SP+ | 敏攻系 | 2026.8.29限定卡池 / 新服第3天卡池 | 首位 SP+ 敏攻系，幻面天成四形态切换 | [详情](/entities/units/sp-plus-qianmian-huanying-yaomei.md) |
 | **双神·唐三** | `shuangshen-tangsan` | SP+ / 神祇 | 神祇 (第7人) | 双神降临卡池 | 百级成神核心，首位独立第7人神祇 | [详情](/entities/units/shuangshen-tangsan.md) |
 | **月神·小舞** | `sp-plus-yueshen-xiaowu` | SP+ | 控制/辅助系 | 月舞九天卡池 | 望舒领域增伤，大版本核心神辅 | [详情](/entities/units/sp-plus-yueshen-xiaowu.md) |
 | **太初食神·奥斯卡** | `sp-plus-taichu-shishen-oscar` | SP+ | 辅助系 | 五周年限时卡池 | 五周年核心商化锚点，顶阶打火/做菜增伤 | [详情](/entities/units/sp-plus-taichu-shishen-oscar.md) |

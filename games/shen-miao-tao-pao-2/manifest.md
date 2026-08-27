@@ -5,7 +5,7 @@ description: 《神庙逃亡2》（神庙逃跑2 / Temple Run 2 中文版）知�
 game_id: shen-miao-tao-pao-2
 genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
-timestamp: "2026-08-26T11:00:00Z"
+timestamp: "2026-08-27T11:00:00Z"
 confidence: high
 modules: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources, session-combat, content-modes, units]
 unit_policy: representative

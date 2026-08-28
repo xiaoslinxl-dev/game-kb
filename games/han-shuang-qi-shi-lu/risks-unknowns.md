@@ -4,7 +4,7 @@ title: 寒霜启示录 风险与未知项
 description: 寒霜启示录在世代数值膨胀、大氪玩家对快速提升付费上限的反馈、混合变现平衡与长线买量成本方面的风险评估。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-26T11:00:00Z"
+timestamp: "2026-08-28T11:00:00Z"
 ---
 
 # 寒霜启示录 风险与未知项

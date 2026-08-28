@@ -8,7 +8,7 @@ rarity: SSR
 acquire: 首充礼包 / 累充活动
 pay_relevance: medium
 confidence: high
-timestamp: "2026-08-26T11:00:00Z"
+timestamp: "2026-08-28T11:00:00Z"
 ---
 
 # 娜塔莉亚 (Natalia)

@@ -4,7 +4,7 @@ title: 神庙逃亡2 进度与养成系统
 description: 《神庙逃亡2》的角色等级、通用属性升级、组合属性协同与排位段位晋升机制。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-08-27T11:00:00Z"
+timestamp: "2026-08-28T11:00:00Z"
 ---
 
 # 进度与养成系统

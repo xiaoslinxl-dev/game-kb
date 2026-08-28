@@ -4,7 +4,7 @@ title: 疯狂水世界 海域探索与资源收集
 description: 疯狂水世界的海面拾荒、深海潜水探险、垂钓与动态天气系统。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-27T11:00:00Z"
+timestamp: "2026-08-28T11:00:00Z"
 ---
 
 # 疯狂水世界 海域探索与资源收集

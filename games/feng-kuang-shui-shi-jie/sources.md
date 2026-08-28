@@ -4,7 +4,7 @@ title: 疯狂水世界 资料来源与参考文献
 description: 疯狂水世界知识库 Bundle 所引用的官方渠道、媒体报道与社区攻略清单。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-27T11:00:00Z"
+timestamp: "2026-08-28T11:00:00Z"
 ---
 
 # 疯狂水世界 资料来源与参考文献

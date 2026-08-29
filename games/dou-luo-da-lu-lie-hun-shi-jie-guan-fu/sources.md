@@ -3,7 +3,7 @@ type: Sources
 title: 信息来源
 description: 斗罗大陆：猎魂世界(官服) 知识库资料来源与参考文献
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
-timestamp: 2026-08-28T11:00:00Z
+timestamp: 2026-08-29T11:00:00Z
 confidence: high
 ---
 
@@ -20,5 +20,5 @@ confidence: high
 | S03 | App Store 国区 | 官方应用商店 | [App Store 斗罗大陆：猎魂世界](https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E7%8C%8E%E9%AD%82%E4%B8%96%E7%95%8C/id6739239402) | 官方版本发布说明、特别活动记录（「灵眸」拟态·霍雨浩登场等）。 |
 | S04 | 4399 游戏盒 / 4399云游戏 | 渠道/媒体 | [4399 斗罗大陆：猎魂世界专区](https://a.4399.cn/mobile/318512.html) | 版本历史、更新节点、礼包码信息与新玩法预告（含「光明龙神蝶」上线）。 |
 | S05 | 233乐园资讯 | 媒体 | [233乐园 猎魂世界专区](https://www.233leyuan.com/post-detail/2072198060113313792) | 一周年庆典活动规划及SSR「光霆帝胤」签到奖励、「不落金乌」活动公告。 |
-| S06 | 高手游资讯 | 媒体 | [高手游 斗罗大陆：猎魂世界专区](https://www.gaoshouyou.com/zhuanqu/974821.html) | 「极致之火」、「新武魂竞猜」、「天斗皇礼」与「不落金乌」战令活动规则与奖励说明。 |
+| S06 | 高手游资讯 | 媒体 | [高手游 斗罗大陆：猎魂世界专区](https://www.gaoshouyou.com/zhuanqu/974821.html) | 2.0版本「魂骨淬锋」前瞻与外附魂骨系统档案、「极致之火」、「新武魂竞猜」、「天斗皇礼」与「不落金乌」战令活动规则与奖励说明。 |
 | S07 | 雷电模拟器资讯 | 媒体 | [雷电模拟器 - 猎魂世界公测指南](https://m.ldmnq.com/8752/zixun/1025468.html) | 计费删档测试返利规则与公测指引。 |

@@ -5,7 +5,7 @@ description: 点点互动（Century Games）冰雪末日SLG《寒霜启示录》
 game_id: han-shuang-qi-shi-lu
 genre_tags: [4X SLG, 冰雪末日生存, 模拟经营, 放置挂机, 策略RPG]
 language: zh-CN
-timestamp: "2026-08-28T11:00:00Z"
+timestamp: "2026-08-29T11:00:00Z"
 confidence: high
 modules: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources, base-build, content-modes, exploration, matchmaking, session-combat, territory-war, units]
 unit_policy: representative
@@ -23,5 +23,5 @@ unit_policy: representative
    - `matchmaking`：竞技场积分匹配、跨服/跨王国战（KvK / SvS）、首领/王国转移（State Transfer）与跨服矿区/联赛匹配机制。
    - `session-combat`：包含单局放置回合/小队RPG战斗（探险/竞技场）以及4X大地图部队行军/集结SLG战斗模式。
    - `territory-war`：联盟领地大本营与旗帜铺路扩张、堡垒/要塞争夺、太阳城争霸（决战王城）及 SvS 最强王国跨服攻防战机制。
-3. **实体模块（Entities）**：
-   - `units`：精选代表性英雄，涵盖输出、肉盾、辅助、生产/发展与成长专家角色，并包含最新专家（Justus、Gareth、Kathy、Ronne等）与高世代英雄（含Gen 11 Eleonora/Rufus、Gen 15 Hank/Estrella/Viveca、Gen 16 Seigel/Ursar与Gen 17 Aiden/Bertha/Eleanor）。
+3. **实体模块（Entities Modules）**：
+   - `units`：按 `unit_policy: representative` 策略，精选 14 位最具代表性的核心英雄与晨曦学堂专家，涵盖开局引导（茉莉、娜塔莉亚）、付费核心（杰罗尼莫）、打怪与城建工具（吉娜、津曼）、关键代数人权（弗林特、阿隆索、米娅、埃莱奥诺拉、汉克、艾登）以及 2026 最新专家（加雷斯、贾斯图斯）。

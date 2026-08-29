@@ -8,7 +8,7 @@ rarity: SSR (Legendary Expert)
 acquire: 晨曦学堂 / 冰原历险 (Tundra Trek) 专属解锁
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-28T11:00:00Z"
+timestamp: "2026-08-29T11:00:00Z"
 ---
 
 # 加雷斯 (Gareth)

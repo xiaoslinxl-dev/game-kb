@@ -4,7 +4,7 @@ title: 疯狂水世界 经济系统
 description: 疯狂水世界的代币循环、基础资源产销链与商店交易体系。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-28T11:00:00Z"
+timestamp: "2026-08-29T11:00:00Z"
 ---
 
 # 疯狂水世界 经济系统

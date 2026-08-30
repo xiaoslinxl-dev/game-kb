@@ -4,7 +4,7 @@ title: 寒霜启示录 社交与 LiveOps 运营体系
 description: 寒霜启示录的联盟社交结构、跨服王战 (SvS)、2026年最新“双星同行”Kingshot 联动与线下诚品“熊先生书屋”运营。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-29T11:00:00Z"
+timestamp: "2026-08-30T11:00:00Z"
 ---
 
 # 寒霜启示录 社交与 LiveOps 运营体系

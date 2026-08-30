@@ -8,7 +8,7 @@ rarity: SSR (Generation 2)
 acquire: 第二世代幸运轮盘 / 心愿小筑
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-29T11:00:00Z"
+timestamp: "2026-08-30T11:00:00Z"
 ---
 
 # 阿隆索 (Alonso)

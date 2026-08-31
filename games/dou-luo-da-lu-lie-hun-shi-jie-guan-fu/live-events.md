@@ -3,7 +3,7 @@ type: LiveEvents
 title: 活动台账
 description: 斗罗大陆：猎魂世界(官服) 限时活动历史与运营规划
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
-timestamp: 2026-08-30T11:00:00Z
+timestamp: 2026-08-31T11:00:00Z
 confidence: high
 ---
 

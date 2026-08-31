@@ -4,7 +4,7 @@ title: 疯狂水世界 游戏概述
 description: 疯狂水世界的基础信息、核心题材、玩法融合形态及市场表现概览。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-30T11:00:00Z"
+timestamp: "2026-08-31T11:00:00Z"
 ---
 
 # 疯狂水世界 游戏概述

@@ -4,7 +4,7 @@ title: 疯狂水世界 核心循环
 description: 疯狂水世界的单局与日常核心玩法循环、资源流转与留存设计。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-30T11:00:00Z"
+timestamp: "2026-08-31T11:00:00Z"
 ---
 
 # 疯狂水世界 核心循环

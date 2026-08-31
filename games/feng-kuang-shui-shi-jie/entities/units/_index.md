@@ -4,7 +4,7 @@ title: 疯狂水世界 英雄与海兽名册总览
 description: 疯狂水世界核心代表性英雄与海兽职能分工、养成定位与获取路径汇总。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-30T11:00:00Z"
+timestamp: "2026-08-31T11:00:00Z"
 ---
 
 # 疯狂水世界 英雄与海兽名册总览

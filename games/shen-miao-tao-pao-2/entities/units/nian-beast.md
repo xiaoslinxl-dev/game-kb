@@ -8,7 +8,7 @@ acquire: Chinese New Year Event / Pack
 pay_relevance: high
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-08-30T11:00:00Z"
+timestamp: "2026-08-31T11:00:00Z"
 ---
 
 # 年兽 (Nian Beast)

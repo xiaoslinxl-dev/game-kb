@@ -4,7 +4,7 @@ title: 神庙逃亡2 市场定位与竞品分析
 description: 《神庙逃亡2》在跑酷赛道的市场定位、竞争优势与竞品对比。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-08-30T11:00:00Z"
+timestamp: "2026-08-31T11:00:00Z"
 ---
 
 # 市场定位与竞品分析

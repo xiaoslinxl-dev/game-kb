@@ -4,7 +4,7 @@ title: 神庙逃亡2 单局跑酷与竞技对抗
 description: 《神庙逃亡2》单局避障操作、道具拾取、三位一体技能释放与竞技场干扰机制。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-08-30T11:00:00Z"
+timestamp: "2026-08-31T11:00:00Z"
 ---
 
 # 单局跑酷与竞技对抗

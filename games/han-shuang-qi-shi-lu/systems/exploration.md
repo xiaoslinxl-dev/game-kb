@@ -4,7 +4,7 @@ title: 寒霜启示录 野外探索与苔原商路 (Exploration)
 description: 寒霜启示录的冰原迷雾、野外资源采矿、苔原商路 (Frost Wind Track)、灯塔情报与野兽猎杀机制。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-30T11:00:00Z"
+timestamp: "2026-08-31T11:00:00Z"
 ---
 
 # 寒霜启示录 野外探索与苔原商路 (Exploration)

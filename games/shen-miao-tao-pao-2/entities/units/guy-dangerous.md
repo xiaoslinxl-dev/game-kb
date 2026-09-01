@@ -8,7 +8,7 @@ acquire: Default
 pay_relevance: low
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-08-31T11:00:00Z"
+timestamp: "2026-09-01T11:00:00Z"
 ---
 
 # 危险盖伊 (Guy Dangerous)

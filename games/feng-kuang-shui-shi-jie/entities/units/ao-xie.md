@@ -8,7 +8,7 @@ acquire: S2赛季培育室、充值活动/弹窗礼包
 pay_relevance: high
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-31T11:00:00Z"
+timestamp: "2026-09-01T11:00:00Z"
 ---
 
 # 鳌蟹 (Ao Xie)

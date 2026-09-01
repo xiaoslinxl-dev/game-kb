@@ -4,7 +4,7 @@ title: 疯狂水世界 资料来源与参考文献
 description: 疯狂水世界知识库 Bundle 所引用的官方渠道、媒体报道与社区攻略清单。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-08-31T11:00:00Z"
+timestamp: "2026-09-01T11:00:00Z"
 ---
 
 # 疯狂水世界 资料来源与参考文献
@@ -20,7 +20,7 @@ timestamp: "2026-08-31T11:00:00Z"
 3. [小米游戏中心 — 疯狂水世界官方页面与更新公告专区](https://game.xiaomi.com/game/62416703)
    - 官方游戏简介、基础机制（潜水拾荒、基地经营、社区订单、英雄委任、追击路易斯、联盟城战、过江龙/探案双子星/瑟琳娜角色攻略、巅峰擂台赛赛制与联盟商船规则详解）。
 4. [Google Play — 瘋狂水世界 (Wild Water World / Flot Shelter)](https://play.google.com/store/apps/details?id=com.iyagames.flotshelter&hl=zh_HK)
-   - 海外版发行信息（Hong Kong Just Game Technology Limited / IYAGAMES / 香港商阿爾發遊戲）、核心玩法描述与事前预约更新（2026年8月19日更新，定档2026年9月1日上线）。
+   - 海外版发行信息（Hong Kong Just Game Technology Limited / IYAGAMES / 香港商阿爾發遊戲）、核心玩法描述与事前预约更新（2026年9月1日全球全平台正式公测上线，繁中版代言人李珠珢）。
 5. [腾讯应用宝 — 疯狂水世界微信小游戏入口](https://sj.qq.com/appdetail/wx2ea52a972ea18e5e)
    - 微信小游戏双端体验及广州益玩网络科技有限公司发行资质信息。
 

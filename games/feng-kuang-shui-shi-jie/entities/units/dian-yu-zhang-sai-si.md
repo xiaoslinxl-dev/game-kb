@@ -8,7 +8,7 @@ rarity: Transcendent
 acquire: S7赛季超凡招募池、赛季限定活动
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-31T11:00:00Z"
+timestamp: "2026-09-01T11:00:00Z"
 ---
 
 # 典狱长赛斯 (Warden Seth)

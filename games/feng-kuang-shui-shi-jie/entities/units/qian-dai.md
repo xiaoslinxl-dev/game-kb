@@ -8,7 +8,7 @@ rarity: Transcendent
 acquire: Limited Event (S2赛季限定招募/转盘活动)
 pay_relevance: high
 confidence: high
-timestamp: "2026-08-31T11:00:00Z"
+timestamp: "2026-09-01T11:00:00Z"
 ---
 
 # 千代 (Qian Dai)

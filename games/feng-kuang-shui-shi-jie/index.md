@@ -8,7 +8,7 @@ okf_version: "0.1"
 
 ## 1. 核心文档 (Core Modules)
 
-- [概览 (overview.md)](/overview.md) — 游戏定位、开发背景、混合玩法结构、华为/微信大奖与夏日狂浪节/海外定档 9 月 1 日公测
+- [概览 (overview.md)](/overview.md) — 游戏定位、开发背景、混合玩法结构、华为/微信大奖与夏日狂浪节/海外 9 月 1 日全球双平台公测
 - [架构配置 (manifest.md)](/manifest.md) — 模块构成规划与元数据定义
 - [核心循环 (core-loop.md)](/core-loop.md) — 拾荒/潜水 -> 加工/订单 -> 5v5推图/巅峰赛/城战 -> 资源再投入的三层闭环
 - [数值与养成系统 (progression.md)](/progression.md) — 玩家等级上限（100级）、英雄3星技能质变、专武、洗刷锁词条精炼、控制抗性与登峰核芯

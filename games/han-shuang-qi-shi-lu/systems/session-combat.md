@@ -4,7 +4,7 @@ title: 寒霜启示录 战斗系统与战术摆位 (Session Combat)
 description: 寒霜启示录的小队回合/放置 RPG 战斗与 4X 大地图 SLG 行军/集结战斗双重模式解构。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-31T11:00:00Z"
+timestamp: "2026-09-01T11:00:00Z"
 ---
 
 # 寒霜启示录 战斗系统与战术摆位 (Session Combat)

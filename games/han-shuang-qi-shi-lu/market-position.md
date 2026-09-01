@@ -4,7 +4,7 @@ title: 寒霜启示录 市场定位与竞品分析
 description: 点点互动在全球冰雪末日SLG赛道的破局之路，对比《无尽的拉格朗日》、《万国觉醒》、《Age of Origins》等竞品。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-08-31T11:00:00Z"
+timestamp: "2026-09-01T11:00:00Z"
 ---
 
 # 寒霜启示录 市场定位与竞品分析

@@ -4,7 +4,7 @@ title: 疯狂水世界 数值与养成系统
 description: 疯狂水世界的玩家等级、英雄升星、专武、装备徽章及海兽藏品数值成长体系。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-01T11:00:00Z"
+timestamp: "2026-09-02T11:00:00Z"
 ---
 
 # 疯狂水世界 数值与养成系统

@@ -4,7 +4,7 @@ title: 神庙逃亡2 进度与养成系统
 description: 《神庙逃亡2》的角色等级、通用属性升级、组合属性协同与排位段位晋升机制。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-01T11:00:00Z"
+timestamp: "2026-09-02T11:00:00Z"
 ---
 
 # 进度与养成系统
@@ -27,8 +27,8 @@ timestamp: "2026-09-01T11:00:00Z"
 
 | 实体类型 | 核心成长作用 | 代表技能/效果 |
 |---|---|---|
-| **角色（Character）** | 提供基础速度上限、能量积攒速度与个人特技 | 如 [莉莉丝](/entities/units/lilith.md) 提高 20% 速度上限、能量消耗减 30% |
-| **坐骑（Mount）** | 提供生存容错、特殊加速与对手干扰效果 | 如 [傲狠](/entities/units/ao-hen.md) 30% 概率使对手加速无效、绊倒护盾 |
+| **角色（Character）** | 提供基础速度上限、能量积攒速度与个人特技 | 如 [莉莉丝](/entities/units/lilith.md) 提高 20% 速度上限、[沃利纳特](/entities/units/wally-nut.md) 发条冲刺与玩具王国得分亲和 |
+| **坐骑（Mount）** | 提供生存容错、特殊加速与对手干扰效果 | 如 [傲狠](/entities/units/ao-hen.md) 30% 概率使对手加速无效、绊倒护盾；[年兽](/entities/units/nian-beast.md) 局内免费复活 |
 | **宠物（Pet）** | 提供特定道具概率掉落、分数倍率加成与金币爆率 | 如 [仙灵鹤](/entities/units/xian-ling-he.md) 金币加成、[小香猪](/entities/units/xiao-xiang-zhu.md) 活动代币掉落 |
 | **羽翼/称号（Wings & Title）** | 额外分数倍率加成与特定竞技护航 | 如 [花蝶梦](/entities/units/hua-die-meng.md) 飞行时分数加成 12 倍 |
 

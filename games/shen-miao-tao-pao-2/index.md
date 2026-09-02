@@ -26,7 +26,7 @@ okf_version: "0.1"
 
 ## 3. 代表性实体 (Entities)
 
-本知识库采用 `representative`（代表性实体）策略，收录了 10 个核心角色、坐骑、宠物与羽翼：
+本知识库采用 `representative`（代表性实体）策略，收录了 11 个核心角色、坐骑、宠物与羽翼：
 
 - [实体名册总览 (entities/units/_index.md)](/entities/units/_index.md) — 代表性角色与坐骑分类索引
 - **核心角色（Characters）**：
@@ -35,6 +35,7 @@ okf_version: "0.1"
   - [赵云 (zhao-yun.md)](/entities/units/zhao-yun.md) — 国风三国风云限定角色，国风商业化与竞技主力
   - [比奥斯博士 (dr-bios.md)](/entities/units/dr-bios.md) — 7日签到免费赠送 A 级科幻角色，长线留存福利代表
   - [安妮 (anne.md)](/entities/units/anne.md) — 浪漫婚纱主题限定角色，主打 2v2 双人组队协同加速
+  - [沃利纳特 (wally-nut.md)](/entities/units/wally-nut.md) — 玩具王国主题限定角色（玩具士兵），代表主题赛道亲和与活动收集
 - **核心坐骑（Mounts）**：
   - [年兽 (nian-beast.md)](/entities/units/nian-beast.md) — 经典中国神话春节限定坐骑，国风坐骑先驱
   - [傲狠 (ao-hen.md)](/entities/units/ao-hen.md) — 竞技场顶级干扰坐骑，30% 概率封印对手加速并自带二次护盾

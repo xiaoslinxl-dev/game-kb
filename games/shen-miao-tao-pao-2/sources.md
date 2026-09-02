@@ -4,7 +4,7 @@ title: 神庙逃亡2 资料来源与参考文献
 description: 《神庙逃亡2》知识库 Bundle 涉及的官方公告、媒体报道、玩家攻略与行业报告汇编。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-01T11:00:00Z"
+timestamp: "2026-09-02T11:00:00Z"
 ---
 
 # 资料来源与参考文献
@@ -17,7 +17,7 @@ timestamp: "2026-09-01T11:00:00Z"
    - 包含《神庙逃亡2》代理运营信息、公司概况、财报与招股书披露数据。  
    - 链接：[创梦天地官网](https://www.idreamsky.com/module-yx?pageid=2)
 2. **App Store / 应用宝 / 小米游戏中心 / TapTap / 哔哩哔哩游戏中心 《神庙逃亡2》官方更新日志**  
-   - 版本 7.1.0 ~ 7.3.2 更新说明（玩具王国主题、比奥斯博士、赛博神庙、百花戈壁、黄金矿山挂机、限时西瓜/书本/扳手收集赛、订阅特权礼包等）。  
+   - 版本 7.1.0 ~ 7.3.2 更新说明（玩具王国主题、比奥斯博士、沃利纳特、赛博神庙、百花戈壁、黄金矿山挂机、限时西瓜/书本/扳手收集赛、订阅特权礼包等）。  
    - 链接：[TapTap - 神庙逃亡2](https://www.taptap.cn/app/5)  
    - 链接：[小米游戏中心 - 神庙逃亡2](https://game.xiaomi.com/game/62231942)  
    - 链接：[应用宝 - 神庙逃亡2](https://sj.qq.com/appdetail/com.imangi.templerun2)  

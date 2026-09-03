@@ -4,7 +4,7 @@ title: 寒霜启示录 数值与长线养成系统
 description: 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火晶纪元）、领主装备/宝符、17代英雄与晨曦学堂专家长线养成结构。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-02T11:00:00Z"
+timestamp: "2026-09-03T11:00:00Z"
 ---
 
 # 寒霜启示录 数值与长线养成系统
@@ -33,23 +33,29 @@ timestamp: "2026-09-02T11:00:00Z"
   - **最新上限**：开放**传奇 T6 三星领主装备（Legendary T6 3-Star Chief Gear）**。官方设定门槛为所在王国解锁 **Gen 6（第6代）** 英雄后正式开放，为顶级车头领主提供关键的百分比属性拉开空间。
 - **领主宝符 (Chief Charms)**：
   - 针对具体兵种（盾兵生命/防御、矛兵/弓兵攻击/杀伤）提供额外加成。
-  - **最新上限**：宝符等级上限提升至 **18 级（Chief Charm Lv. 18）**，官方设定在王国解锁 **Gen 8（第8代）** 英雄后开放。
+  - **最新上限**：宝符等级上限提升至 **17 级与 18 级（Chief Charm Lv. 17 & 18）**，每个等级细分为 **9 个子阶段（Substages）**，官方设定在王国解锁 **Gen 8（第8代）** 英雄后开放。
 
-## 3. 部队科技与 T12 煌耀兵种 (Helios & Exalted Troops)
+## 3. 英雄装备与精通进阶 (Hero Gear & Mastery)
+
+- **专属装备与神话装备**：
+  - 英雄配备专属武器与四件通用装备（头盔、护甲、靴子、饰品）。
+  - **精通锻造细分（Mastery Forging Substages）**：英雄装备精通自 **4 级** 起引入子阶段机制。锻造总消耗保持一致，但新增细分进度条，大幅降低卡级焦虑，使领主能更直观感知战力成长。
+
+## 4. 部队科技与 T12 煌耀兵种 (Helios & Exalted Troops)
 
 - **战争学院与炽炎科技 (Flame Tech)**：
   - 解锁 T11 炽炎部队（Helios Troops）后，领主可通过战争学院研发“炽炎科技”，进一步强化部队三维属性。
 - **T12 煌耀兵种 (Exalted Troops)**：
-  - 2026年推出的最高阶兵种，需要极高的科技投入与资源储备，在 SvS 与盟战中具备极高战术统治力。
+  - 2026年推出的最高阶兵种，需要极高的科技投入与资源储备，在 SvS 与盟战中具备极高战术统治力。大地图防守与据点争夺对 T12 兵种阶级依赖显著提升。
 
-## 4. 世代英雄迭代表 (Hero Generations 1 - 17)
+## 5. 世代英雄迭代表 (Hero Generations 1 - 17)
 
 游戏采用大约每 **80 天** 更新一代新英雄的机制。世代越新的英雄，初始数值面板与技能系数越高：
 
 | 世代 (Generation) | 解锁王国天数 | 代表性英雄 | 核心定位与获取管道 |
 |---|---|---|---|
-| **Gen 1** | Day 0+ | [赫罗尼莫](/entities/units/jeronimo.md), [茉莉](/entities/units/molly.md), [辛曼](/entities/units/zinman.md) | VIP首充/免费/心愿小筑 |
-| **Gen 2** | Day 40+ | [弗林特](/entities/units/flint.md), [阿隆索](/entities/units/alonso.md), [费利](/entities/units/philly.md) | 转盘盾/点杀弓/辅助 |
+| **Gen 1** | Day 0+ | [杰罗尼莫](/entities/units/jeronimo.md), [茉莉](/entities/units/molly.md), [津曼](/entities/units/zinman.md) | VIP首充/免费/心愿小筑 |
+| **Gen 2** | Day 40+ | [弗林特](/entities/units/flint.md), [阿隆索](/entities/units/alonso.md), [菲利](/entities/units/philly.md) | 转盘盾/点杀弓/辅助 |
 | **Gen 3** | Day 120+ | [米娅](/entities/units/mia.md), 格雷格, 罗根 | 转盘矛（打熊神将）/竞技场 |
 | **Gen 4** | Day 200+ | 琳恩, 阿赫摩斯, 玲奈 | 转盘弓（防守弓）/减伤盾 |
 | **Gen 5** | Day 280+ | 赫克托, 格温, 诺拉 | 转盘盾（F2P主力）/直切后排弓 |
@@ -60,18 +66,23 @@ timestamp: "2026-09-02T11:00:00Z"
 | **Gen 10** | Day 680+ | 布兰琪, 芙蕾雅, 格里高利 | 10代禁疗弓/死后全员增伤盾 |
 | **Gen 11** | Day 760+ | [埃莱奥诺拉](/entities/units/eleonora.md), 鲁弗斯, 劳埃德 | 11代转盘盾（T0反伤）/斜对角秒杀弓 |
 | **Gen 12 - 14** | Day 840+ - 1000+ | 赫尔薇尔, 乌尔卡努斯, 艾丽芙 | 高世代属性膨胀与多元协同 |
-| **Gen 15** | Day 1080+ | [汉克](/entities/units/hank.md), 艾丝黛拉, 維薇卡 | 15代转盘盾/顶尖集结输出 |
+| **Gen 15** | Day 1080+ | [汉克](/entities/units/hank.md), 埃斯特拉, 维维卡 | 15代转盘盾/顶尖集结输出 |
 | **Gen 16** | Day 1160+ | 西格尔, 乌尔撒, 艾诗琳 | 16代高属性拉开 |
 | **Gen 17** | Day 1240+ | [艾登](/entities/units/aiden.md), 伯莎 (Bertha), 埃莉诺 (Eleanor) | 2026最新世代转盘盾/矛/弓 |
 
-## 5. 晨曦学堂专家系统 (Dawn Academy Experts)
+## 6. 晨曦学堂专家系统 (Dawn Academy Experts)
 
 除了战斗英雄外，领主在大熔炉达到指定等级后可解锁“晨曦学堂”，通过[冰原历险](/systems/exploration.md)获取信物（Sigils）与知识之书（Books of Knowledge）培养城建/军事专家：
 
-1. **一代专家**：Agnes（情报/体力）、西里尔（猎熊）、Holger（竞技场）、Romulus（PvP）。
-2. **二代专家**：Baldur（联盟活动）、Fabian（兵工厂）、Valeria（SvS战阶段）、罗妮（商路护航）。
-3. **三代专家**：凯西（采矿/霜火矿井）、[加雷斯](/entities/units/gareth.md)（铁棘领主/集结减战损与铁铸宝箱）。
-4. **成长专家贾斯图斯 (Justus)**：[贾斯图斯](/entities/units/justus.md)专精于王朝荣誉宝箱挂机产出、迷宫荧光石增益与宠物探险，预计于 2026 年 10 月版本在 Gen 6+ 王国上线，作为 2026 年度收官专家。
+1. **一代专家**：Agnes（艾格尼丝，项目管理技能提升研究速度）、西里尔（猎熊）、Holger（竞技场）、Romulus（PvP）。
+2. **二代专家**：Baldur（联盟活动）、Fabian（兵工厂）、Valeria（SvS战阶段）、Ronne（罗妮，雪原商路护航与掠夺黄金货车）。
+3. **三代专家**：Kathy（凯西，采矿/霜火矿井）、[加雷斯](/entities/units/gareth.md)（铁棘领主/集结减战损与铁铸宝箱）。
+4. **成长专家贾斯图斯 (Justus)**：[贾斯图斯](/entities/units/justus.md)专精于王朝荣誉宝箱挂机产出、迷宫荧光石增益与宠物探险，官方排期于 2026 年 10 月版本在 Gen 6+ 王国上线，作为 2026 年度收官专家。
+
+## 7. 爬塔与副本进阶 (Climbing Modes)
+
+- **地心探险【大地之心】**：新增 50 层高难关卡，通关产出大量高阶精炼资源与专家信物。
+- **迷宫探险 (Labyrinth)**：平滑了深层关卡的难度曲线，避免因单次机制暴毙卡关。
 
 ## 关联页面
 

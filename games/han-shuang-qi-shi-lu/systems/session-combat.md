@@ -4,7 +4,7 @@ title: 寒霜启示录 战斗系统与战术摆位 (Session Combat)
 description: 寒霜启示录的小队回合/放置 RPG 战斗与 4X 大地图 SLG 行军/集结战斗双重模式解构。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-02T11:00:00Z"
+timestamp: "2026-09-03T11:00:00Z"
 ---
 
 # 寒霜启示录 战斗系统与战术摆位 (Session Combat)
@@ -17,14 +17,14 @@ timestamp: "2026-09-02T11:00:00Z"
 
 ### 1.1 站位与队伍构成
 - 队伍由 **5 名英雄** 组成，阵型分为前排（1、2 号位）与后排（3、4、5 号位）：
-  - **前排**：推荐放置盾兵/步兵英雄（如[赫罗尼莫](/entities/units/jeronimo.md)、[娜塔莉亚](/entities/units/natalia.md)、[弗林特](/entities/units/flint.md)），吸收伤害并提供控制。
-  - **后排**：放置射手/枪兵与辅助英雄（如[茉莉](/entities/units/molly.md)、[菲利](/entities/units/philly.md)），进行主输出与治疗。
+  - **前排**：推荐放置盾兵/步兵英雄（如[杰罗尼莫](/entities/units/jeronimo.md)、[娜塔莉亚](/entities/units/natalia.md)、[弗林特](/entities/units/flint.md)、[埃莱奥诺拉](/entities/units/eleonora.md)、[汉克](/entities/units/hank.md)、[艾登](/entities/units/aiden.md)），吸收伤害并提供控制与护盾。
+  - **后排**：放置射手/枪兵与辅助英雄（如[茉莉](/entities/units/molly.md)、[菲利](/entities/units/philly.md)、[阿隆索](/entities/units/alonso.md)、[米娅](/entities/units/mia.md)），进行主力输出、点杀与治疗续航。
 
 ### 1.2 战斗机制
-- **普攻与怒气大招**：英雄普攻与受击积攒怒气，怒气满后自动释放大招（如茉莉的冰晶风暴控制、阿隆索的强力控场）。
+- **普攻与怒气大招**：英雄普攻与受击积攒怒气，怒气满后自动释放大招（如茉莉的冰晶风暴控制、阿隆索的强力后排单点狙杀）。
 - **兵种克制与阵型流派**：
   - 盾兵克制弓兵，弓兵克制矛兵，矛兵克制盾兵。
-  - 存在“斜对角直切后排流”、“融坦流”（如[埃莱奥诺拉](/entities/units/eleonora.md)）等战术。
+  - 存在“斜对角直切后排流”、“融坦流”（如埃莱奥诺拉的烈焰之盾）与“全员控制链”等战术。
 
 ---
 
@@ -33,12 +33,13 @@ timestamp: "2026-09-02T11:00:00Z"
 适用于**野外采矿/击杀野兽**、**城邦攻防战**、**联盟集结 (Rally)**、**燃霜矿区**与[太阳城争霸](/systems/territory-war.md)。
 
 ### 2.1 行军与部队构成
-- 领主派遣队伍由 **1 名主将（队长）+ 2 名副将** 带领，携带一定数量的三大兵种（盾兵、矛兵、弓兵）。
-- 部队行军速度受领主科技、英雄技能与领主装备加成。
+- 领主派遣队伍由 **1 名主将（队长）+ 2 名副将** 带领，携带一定数量的三大兵种（盾兵、矛兵、弓兵）。在[冰火战歌联赛](/systems/content-modes.md)中，出战阵容强制要求配置满 3 名英雄。
+- 部队行军速度受领主科技、英雄远征技能与领主装备加成。
+- **高阶兵种统治力**：研发炽炎科技后解锁的 **T12 煌耀兵种（Exalted Troops）** 在攻防三维上具有压倒性优势，成为高世代服务器中集结与驻防胜负的核心胜负手。
 
 ### 2.2 远征技能 (Expedition Skills)
 - **远征技能（Expedition Skills）**：在SLG战斗中，英雄不释放小队大招，而是触发其“远征技能”，为随行部队提供全局百分比攻击、防御、减伤或集结伤害加成。
-- **集结车头 (Rally Captain)**：集结战斗中，集结部队优先享受发起人（车头）的英雄远征技能加成，如[杰罗尼莫](/entities/units/jeronimo.md)的全局伤害提升。
+- **集结车头 (Rally Captain)**：集结战斗中，集结部队优先享受发起人（车头）的英雄远征技能加成，如[杰罗尼莫](/entities/units/jeronimo.md)的全局伤害提升或军事专家[加雷斯](/entities/units/gareth.md)的死伤减免。
 
 ---
 

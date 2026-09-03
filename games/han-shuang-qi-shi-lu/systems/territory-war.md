@@ -4,7 +4,7 @@ title: "联盟领地战与王城跨服争夺 (Territory War & State Battle)"
 description: 《寒霜启示录》的联盟领地扩张、王城争霸（太阳城大战）、跨服战（SvS 最强王国）与堡垒/要塞争夺机制。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-02T11:00:00Z"
+timestamp: "2026-09-03T11:00:00Z"
 ---
 
 # 联盟领地战与王城跨服争夺 (Territory War & State Battle)
@@ -69,6 +69,7 @@ timestamp: "2026-09-02T11:00:00Z"
 
 - 地图分布不同等级的**堡垒（Fortress）**与**要塞（Stronghold）**。
 - 定期开放争夺，占领联盟可获得全盟属性 Buff（如攻击力、防御力、行军速度加成）及领地资源产量提升。
+- 奖励分配界面新增火晶等级直观展示，协助盟主按战力与贡献公平分配要塞战利品。
 
 ---
 
@@ -78,5 +79,5 @@ timestamp: "2026-09-02T11:00:00Z"
 - [长线数值与火晶时代](/progression.md)
 - [系统概览：战斗模式](/systems/session-combat.md)
 - [系统概览：匹配机制](/systems/matchmaking.md)
-- [代表性英雄：赫罗尼莫](/entities/units/jeronimo.md)
+- [代表性英雄：杰罗尼莫](/entities/units/jeronimo.md)
 - [代表性英雄：吉娜](/entities/units/gina.md)

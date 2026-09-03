@@ -8,7 +8,7 @@ rarity: Legendary
 acquire: 新手五巨头任务、常规招募、万能碎片兑换
 pay_relevance: low
 confidence: high
-timestamp: "2026-09-02T11:00:00Z"
+timestamp: "2026-09-03T11:00:00Z"
 ---
 
 # 蜜雪儿 (Mi Xue Er)

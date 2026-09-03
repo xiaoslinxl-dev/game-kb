@@ -8,7 +8,7 @@ acquire: Diamond / Shop Pack
 pay_relevance: high
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-02T11:00:00Z"
+timestamp: "2026-09-03T11:00:00Z"
 ---
 
 # 莉莉丝 (Lilith)

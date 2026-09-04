@@ -3,7 +3,7 @@ type: Monetization
 title: 商业化体系
 description: 《斗罗大陆：魂师对决》抽卡卡池、分层礼包、通行证与付费点设计
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-03T11:00:00Z
+timestamp: 2026-09-04T11:00:00Z
 confidence: high
 ---
 

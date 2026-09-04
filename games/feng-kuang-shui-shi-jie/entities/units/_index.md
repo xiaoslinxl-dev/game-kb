@@ -4,7 +4,7 @@ title: 疯狂水世界 英雄与海兽名册总览
 description: 疯狂水世界核心代表性英雄与海兽职能分工、养成定位与获取路径汇总。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-03T11:00:00Z"
+timestamp: "2026-09-04T11:00:00Z"
 ---
 
 # 疯狂水世界 英雄与海兽名册总览
@@ -15,18 +15,18 @@ timestamp: "2026-09-03T11:00:00Z"
 
 | 英雄名称 | Slug | 职能/类型 | 稀有度 | 获取途径 | 付费关联度 (pay_relevance) | 核心机制与版本定位 |
 |---|---|---|---|---|---|---|
-| **大嘴山姆** | [da-zui-shan-mu](/entities/units/da-zui-shan-mu.md) | 物理主坦 | 传说 (Legendary) | 登录第2天免费送、常规招募、万能碎片 | 极高（需拉3星+专武） | 绰号“懂王”，高闪避+全屏嘲讽聚怪，全期前排绝对核心 |
-| **兰博** | [lan-bo](/entities/units/lan-bo.md) | 能量主C | 传说 (Legendary) | 第8天转盘、招募、勇者战令 | 极高（转盘耗钻/战令） | 自由者阵营 ADC 一哥，攻速达标后红温无上限增伤，专武带保命 |
+| **大嘴山姆** | [da-zui-shan-mu](/entities/units/da-zui-shan-mu.md) | 物理主坦 | 传说 (Legendary) | 登录第2天免费送、常规招募、万能碎片 | 极高（需拉3星+专武） | 绰号“懂王”，75%闪避上限+全屏嘲讽聚怪，全期前排绝对核心 |
+| **兰博** | [lan-bo](/entities/units/lan-bo.md) | 能量主C | 传说 (Legendary) | 第8天转盘、招募、勇者战令 | 极高（转盘耗钻/战令） | 自由者阵营 ADC 一哥，攻速1.0-1.2达标后红温无上限增伤，专武带保命 |
 | **过江龙** | [guo-jiang-long](/entities/units/guo-jiang-long.md) | 战士/爆发 | 超凡 (Transcendent) | 夏日狂浪节限定活动、超凡招募池 | 极高（狂浪节限定） | 兄弟会近战战神，高爆发真实伤害，随赛季更新自动进阶技能 |
 | **典狱长赛斯** | [dian-yu-zhang-sai-si](/entities/units/dian-yu-zhang-sai-si.md) | 科技主坦 | 超凡 (Transcendent) | S7赛季限定超凡招募、限定活动 | 极高（S7限定超凡） | 科技派电磁力场主坦，单次锁伤上限、群体禁锢减攻与防暴吸收盾 |
 | **探案双子星** | [tan-an-shuang-zi-xing](/entities/units/tan-an-shuang-zi-xing.md) | 物理主坦 | 超凡 (Transcendent) | 美人鱼联动限定活动、超凡招募池 | 极高（联动限定） | 召唤人鱼分身聚怪承伤，拥有随赛季更新自动进阶技能机制 |
 | **北境大帝** | [bei-jing-da-di](/entities/units/bei-jing-da-di.md) | 坦克/干扰 | 超凡 (Transcendent) | S1限定活动“北境之王”/礼包直购 | 极高（S1限定超凡） | 具备免控霸体、冲锋切后排与高额双生命护盾，S1国家队真神 |
 | **千代** | [qian-dai](/entities/units/qian-dai.md) | 刺客/爆发 | 超凡 (Transcendent) | S2赛季限定招募/转盘活动 | 极高（S2限定超凡） | 精准锁定敌方最高攻目标（兰博），高额减伤与隐匿连环收割 |
-| **巫师老侃** | [wu-shi-lao-kan](/entities/units/wu-shi-lao-kan.md) | 增伤辅助 | 传说 (Legendary) | 第8天幸运转盘、招募、自选箱 | 极高（核心辅助） | 绰号“侃爷”，3星开局全队护盾+攻速暴击增益，持久战增伤核心 |
-| **蜜雪儿** | [mi-xue-er](/entities/units/mi-xue-er.md) | 控场辅助 | 传说 (Legendary) | 新手五巨头任务、常规招募 | 极低（平民友好） | 极寒冰城冻结 3 人打断爆发，4技能全队回能 16 点缩短技能冷却 |
-| **机器屠夫** | [ji-qi-tu-fu](/entities/units/ji-qi-tu-fu.md) | 副坦/控制 | 传说 (Legendary) | 200抽自选箱、招募、万能碎片 | 中等（战术必备） | 独特飞钩机制强制对位勾人集火，破阵与通关双博士关卡关键 |
+| **巫师老侃** | [wu-shi-lao-kan](/entities/units/wu-shi-lao-kan.md) | 增伤辅助 | 传说 (Legendary) | 第8天幸运转盘、招募、自选箱 | 极高（核心辅助） | 绰号“侃爷”，3星开局全队护盾+攻速暴击增益，技能强度防护盾秒碎 |
+| **蜜雪儿** | [mi-xue-er](/entities/units/mi-xue-er.md) | 控场辅助 | 传说 (Legendary) | 新手五巨头任务、常规招募 | 极低（平民友好） | 极寒冰城冻结 3 人持续 2.4 秒，4技能全队回能 16 点缩短技能冷却 25% |
+| **机器屠夫** | [ji-qi-tu-fu](/entities/units/ji-qi-tu-fu.md) | 副坦/控制 | 传说 (Legendary) | 200抽自选箱、招募、万能碎片 | 中等（战术必备） | 上位钩下位/下位钩上位机制对位勾人集火，破阵与通关 800 关双博士关键 |
 | **铁腿红魔** | [tie-tui-hong-mo](/entities/units/tie-tui-hong-mo.md) | 物理副C | 传说 (Legendary) | 常规招募、万能碎片、VIP礼包 | 中等（国家队拼图） | 前中排范围打击与稳定眩晕控制，物理补伤副 C |
-| **小丑杰克** | [xiao-chou-jie-ke](/entities/units/xiao-chou-jie-ke.md) | 暴击刺客 | 传说 (Legendary) | 联盟商店、招募、赛季结算 | 中等（中后期切后） | 专武升阶后具备高暴击与单体秒杀能力，克制后排脆皮 |
+| **小丑杰克** | [xiao-chou-jie-ke](/entities/units/xiao-chou-jie-ke.md) | 暴击刺客 | 传说 (Legendary) | 联盟商店、招募、赛季结算 | 中等（中后期切后） | 专武 60 级成型具备高暴击与单体秒杀能力，3 刀直接切碎后排 |
 | **一龙** | [yi-long](/entities/units/yi-long.md) | 开荒前排 | 传说 (Legendary) | 6元首充礼包、不差钱商人 | 极低（首充即送） | 极高性价比新手过渡前排，大招 AOE 快速清理多波杂兵 |
 
 ## 2. 代表性海兽名册（海兽培育室）

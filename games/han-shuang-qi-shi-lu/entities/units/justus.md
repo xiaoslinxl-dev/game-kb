@@ -8,7 +8,7 @@ rarity: SSR (Legendary Expert)
 acquire: 晨曦学堂 / 冰原历险 (Tundra Trek) 专属解锁 (预计2026年10月解锁)
 pay_relevance: high
 confidence: high
-timestamp: "2026-09-03T11:00:00Z"
+timestamp: "2026-09-04T11:00:00Z"
 ---
 
 # 贾斯图斯 (Justus)

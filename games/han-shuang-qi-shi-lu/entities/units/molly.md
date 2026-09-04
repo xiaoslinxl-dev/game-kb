@@ -8,7 +8,7 @@ rarity: SSR (Generation 1)
 acquire: 七日签到免费赠送 / 幸运大转盘 / 英雄大厅招募
 pay_relevance: low
 confidence: high
-timestamp: "2026-09-03T11:00:00Z"
+timestamp: "2026-09-04T11:00:00Z"
 ---
 
 # 茉莉 (Molly)

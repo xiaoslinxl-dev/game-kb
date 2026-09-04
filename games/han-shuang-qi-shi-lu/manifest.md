@@ -5,8 +5,11 @@ description: 点点互动（Century Games）冰雪末日SLG《寒霜启示录》
 game_id: han-shuang-qi-shi-lu
 genre_tags: [4X SLG, 冰雪末日生存, 模拟经营, 放置挂机, 策略RPG]
 language: zh-CN
-timestamp: "2026-09-03T11:00:00Z"
+timestamp: "2026-09-04T11:00:00Z"
 confidence: high
+modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
+modules_systems: [base-build, content-modes, exploration, matchmaking, session-combat, territory-war]
+modules_entities: [units]
 modules: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources, base-build, content-modes, exploration, matchmaking, session-combat, territory-war, units]
 unit_policy: representative
 ---

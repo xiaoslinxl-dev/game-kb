@@ -42,3 +42,4 @@ okf_version: "0.1"
   - [灵眸（霍雨浩）](/entities/units/ling-mou.md)
   - [极致之火凤凰（马小桃）](/entities/units/ji-zhi-zhi-huo-feng-huang.md)
   - [光明龙神蝶（唐舞桐）](/entities/units/guang-ming-long-shen-die.md)
+  - [白甲地龙（拓跋云）](/entities/units/bai-jia-di-long.md)

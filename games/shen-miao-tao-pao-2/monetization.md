@@ -4,7 +4,7 @@ title: 神庙逃亡2 商业化与变现设计
 description: 《神庙逃亡2》混合变现模式（内购 IAP + 广告 IAA + 订阅特权 + 通行证）解析。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-04T11:00:00Z"
+timestamp: "2026-09-05T11:00:00Z"
 ---
 
 # 商业化与变现设计

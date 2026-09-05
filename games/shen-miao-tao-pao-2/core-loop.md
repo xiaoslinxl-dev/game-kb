@@ -4,7 +4,7 @@ title: 神庙逃亡2 核心循环
 description: 《神庙逃亡2》单局跑酷、资源积攒、能力成长与竞技对战的核心玩法循环架构。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-04T11:00:00Z"
+timestamp: "2026-09-05T11:00:00Z"
 ---
 
 # 核心循环

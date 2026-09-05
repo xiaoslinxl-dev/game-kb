@@ -8,7 +8,7 @@ acquire: 限时收集赛 / 版本活动宝箱
 pay_relevance: medium
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-04T11:00:00Z"
+timestamp: "2026-09-05T11:00:00Z"
 ---
 
 # 沃利纳特 (Wally Nutcracker)

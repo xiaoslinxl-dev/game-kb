@@ -4,7 +4,7 @@ title: 寒霜启示录 (Whiteout Survival) 英雄列表 (Units Roster)
 description: 寒霜启示录精选代表性英雄列表，涵盖核心SSR/SR英雄、世代英雄与晨曦学堂专家。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-04T11:00:00Z"
+timestamp: "2026-09-05T11:00:00Z"
 ---
 
 # 寒霜启示录 英雄列表 (Units Roster)
@@ -25,6 +25,7 @@ timestamp: "2026-09-04T11:00:00Z"
 - [埃莱奥诺拉 (Eleonora)](/entities/units/eleonora.md) — SSR 盾兵（第11代转盘 / T0级烈焰之盾与融防坦克）
 - [汉克 (Hank)](/entities/units/hank.md) — SSR 盾兵（第15代转盘 / 绝对防御领域与战线压制）
 - [艾登 (Aiden)](/entities/units/aiden.md) — SSR 盾兵（第17代最新转盘 / 2026顶级防线与火炬之盾）
+- *第18代英雄（Gen 18 先锋前瞻）* — 2026年9月在极少数开服1320天以上的先锋服开启测试预览，全服英雄图鉴增至65位以上
 - [加雷斯 (Gareth)](/entities/units/gareth.md) — 传奇军事专家（晨曦学堂 / 铁棘领主、反伤与集结低战损）
 - [贾斯图斯 (Justus)](/entities/units/justus.md) — 传奇成长专家（2026年8月最新 / 王朝荣誉宝箱与迷宫探险收益）
 

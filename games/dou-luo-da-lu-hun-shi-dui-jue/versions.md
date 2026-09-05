@@ -3,7 +3,7 @@ type: Versions
 title: 版本时间线
 description: 《斗罗大陆：魂师对决》已验证的版本更新与维护记录
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-04T11:00:00Z
+timestamp: 2026-09-05T11:00:00Z
 confidence: high
 ---
 

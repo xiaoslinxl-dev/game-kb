@@ -8,7 +8,7 @@ acquire: 登录第2天免费送、招募、万能碎片
 pay_relevance: high
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-04T11:00:00Z"
+timestamp: "2026-09-05T11:00:00Z"
 ---
 
 # 大嘴山姆 (Da Zui Shan Mu)

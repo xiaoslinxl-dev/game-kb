@@ -4,7 +4,7 @@ title: 疯狂水世界 对抗与卡牌战斗系统
 description: 疯狂水世界的 5v5 阵型卡牌战斗、战术飞钩拉人、阵型光环与装备词条对抗。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-04T11:00:00Z"
+timestamp: "2026-09-05T11:00:00Z"
 ---
 
 # 疯狂水世界 对抗与卡牌战斗系统
@@ -64,3 +64,6 @@ timestamp: "2026-09-04T11:00:00Z"
 5. **刺客突进切后流**：
    - **配置**：[北境大帝](/entities/units/bei-jing-da-di.md) + [千代](/entities/units/qian-dai.md) + [小丑杰克](/entities/units/xiao-chou-jie-ke.md) + [巫师老侃](/entities/units/wu-shi-lao-kan.md) + [铁腿红魔](/entities/units/tie-tui-hong-mo.md)。
    - **机制**：大帝冲锋破阵免控，千代锁定敌方最高攻主 C 爆发秒杀，小丑杰克隐身补刀，快速摧毁敌方后排。
+6. **人海召唤流（推图与单体克制）**：
+   - **配置**：李忠诚 + 机修萝莉 + 神父欧玛 + [大嘴山姆](/entities/units/da-zui-shan-mu.md) + 不死州长 / [小丑杰克](/entities/units/xiao-chou-jie-ke.md)。
+   - **机制**：李忠诚与机修萝莉召唤多重机械分身吸收伤害并形成人海包围；机修萝莉 4 技能利用友方阵亡单位进一步强化在场召唤物，配合神父欧玛群体治疗维持续航，以多打少在长线 PVE 与单体强力 BOSS 战中表现突出。

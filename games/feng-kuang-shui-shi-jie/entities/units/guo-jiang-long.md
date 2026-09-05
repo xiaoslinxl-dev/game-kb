@@ -8,7 +8,7 @@ rarity: Transcendent
 acquire: 夏日狂浪节限定活动、超凡招募池
 pay_relevance: high
 confidence: high
-timestamp: "2026-09-04T11:00:00Z"
+timestamp: "2026-09-05T11:00:00Z"
 ---
 
 # 过江龙 (Guo Jiang Long)

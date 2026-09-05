@@ -5,7 +5,7 @@ description: 疯狂水世界（feng-kuang-shui-shi-jie）知识库 Bundle 的模
 game_id: feng-kuang-shui-shi-jie
 genre_tags: [survival, simulation, slg, nautical, card-rpg]
 language: zh-CN
-timestamp: "2026-09-04T11:00:00Z"
+timestamp: "2026-09-05T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [base-build, content-modes, exploration, session-combat]
@@ -24,7 +24,7 @@ unit_policy: representative
 - **Systems (系统模块)**：
   - `base-build`：涵盖木筏扩展、民居与发电站突破人口上限、切鱼厂/材料厂/建材厂生产线、指挥中心英雄委派加速及基地建筑皮肤机制。
   - `exploration`：涵盖海面物资打捞/自动拾荒、深海潜水探险搜寻高阶蓝图与藏品、钓鱼捕捞、古物修复及动态天气系统。
-  - `session-combat`：涵盖 5v5 阵型卡牌战斗、前后排站位、战术飞钩拉人机制、海兽技能辅助（如鳌蟹、海豚、铁甲人鱼）、控制抗性属性、登峰核芯、PVP 战斗超时机制、装备海兽洗练工具“洗刷锁”与 S6 赛季最新国家队 Meta。
+  - `session-combat`：涵盖 5v5 阵型卡牌战斗、前后排站位、战术飞钩拉人机制、海兽技能辅助（如鳌蟹、海豚、铁甲人鱼）、控制抗性属性、登峰核芯、PVP 战斗超时机制、装备海兽洗练工具“洗刷锁”与 S6 赛季最新国家队及六大主流实战阵容 Meta。
   - `content-modes`：涵盖关卡挂机推图（70层蓝图分水岭与800关双博士卡关点）、日常试炼副本、竞技场、世界 BOSS、美人鱼联动副本、联盟商船、巅峰擂台赛与大地图联盟城战。
 - **Entities (实体模块)**：
   - `units`：遵循 `unit_policy: representative`，精选 15 个影响版本 Meta、S7 赛季与开荒节奏的关键英雄与海兽实体。

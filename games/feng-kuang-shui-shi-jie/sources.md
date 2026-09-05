@@ -4,7 +4,7 @@ title: 疯狂水世界 资料来源与参考文献
 description: 疯狂水世界知识库 Bundle 所引用的官方渠道、媒体报道与社区攻略清单。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-04T11:00:00Z"
+timestamp: "2026-09-05T11:00:00Z"
 ---
 
 # 疯狂水世界 资料来源与参考文献
@@ -32,10 +32,10 @@ timestamp: "2026-09-04T11:00:00Z"
    - 2026年9月1日海外双平台正式公测报道，李珠珢（珠珠）代言“水世界宣传大使”、210抽开局福利、首期社群创作活动“漂流者的海上派对”。
 8. [ThisisGame Thailand — Wild Water World SEA Launch](https://thisisgamethailand.com/games/mobile/wild-water-world-live-th/)
    - 2026年9月1日 IYAGAMES 东南亚（泰国等地区）双平台正式上线与玩法特色报道。
-9. [GameLook — 小游戏开年爆款！《疯狂水世界》杀入微信小游戏畅销榜TOP10](http://www.gamelook.com.cn/2026/01/585849/)
-   - 首发上线 3 天登榜、微信小游戏新政激励分析、益世界模拟经营矩阵布局。
-10. [GameLook / QQ News — 半年分水岭之后，小游戏该怎么走？《疯狂水世界》选择了一条没人走过的路](https://news.qq.com/rain/a/20260828A0DGG100)
-    - 2026年1-6月小程序游戏大盘（316.57亿元，同比+36.01%）背景分析、产品上线半年稳居微信畅销榜前十表现、品牌节日“夏日狂浪节”与 IP 长线营销路径拆解。
+9. [GameLook — 半年分水岭之后，小游戏该怎么走？《疯狂水世界》选择了一条没人走过的路](http://www.gamelook.com.cn/2026/08/601157/)
+   - 2026年8月31日深度报道，分析2026上半年小程序游戏大盘（316.57亿元，同比+36.01%）、产品上线半年稳居微信小游戏畅销榜前十、抖音登顶与夏日狂浪节 IP 品牌化营销路径。
+10. [GameLook — 小游戏开年爆款！《疯狂水世界》杀入微信小游戏畅销榜TOP10](http://www.gamelook.com.cn/2026/01/585849/)
+    - 首发上线 3 天登榜、微信小游戏新政激励分析、益世界模拟经营矩阵布局。
 11. [17173 — 《疯狂水世界》放弃洗大R、砍PVP奖励？这款小游戏畅销榜Top3的SLG，摸到了品类融合的真谛](https://news.17173.com/content/03252026/173055891.shtml)
     - “模拟经营买量钩子 + SLG外皮 + 卡牌数值骨架”品类融合深度拆解、城建资源与大世界资源解耦机制。
 12. [新浪电竞 / 游民星空 — 《疯狂水世界》狂浪节上线，益世界打造游戏内外联动的夏日冒险体验](https://dj.sina.com.cn/article/ninttrk8681204.shtml)
@@ -49,19 +49,21 @@ timestamp: "2026-09-04T11:00:00Z"
 
 15. [雷电模拟器 — 《瘋狂水世界》新手攻略｜主要玩法、資源獲取技巧和開荒必做](https://www.ldplayer.tw/blog/wild-water-world-beginner-guide.html)
     - 2026年9月2日更新，基础资源打捞优先级（木板＞金属＞塑料＞绳索）、收集器3级自动收集、拾荒船2级提速与鲨鱼碰撞3次机制、14级前基础循环与100关海上田园。
-16. [雷电模拟器 — 《瘋狂水世界》角色強度排行I T0～T2英雄推薦](https://www.ldplayer.tw/blog/wild-water-world-tier-list.html)
+16. [雷电模拟器 — 《瘋狂水世界》陣容推薦｜新手配隊與6套實用隊伍整理](https://www.ldplayer.tw/blog/wild-water-world-team-guide.html)
+    - 2026年9月1日实测配队，整理新手队（雷教授+鬼火杰森+米娅+巨石绿魔+蜜雪儿）、群伤队、刺客队、召唤队（李忠诚+机修萝莉+神父欧玛+不死州长+大嘴山姆）、闪避队与发育队。
+17. [雷电模拟器 — 《瘋狂水世界》角色強度排行I T0～T2英雄推薦](https://www.ldplayer.tw/blog/wild-water-world-tier-list.html)
     - 2026年9月1日全梯度英雄实测（T0: 兰博、雷教授、蜜雪儿；T1: 鬼火杰森、大嘴山姆、小丑杰克、巫师老侃；T2: 戴安娜、机械屠夫）。
-17. [雷电模拟器 — 《瘋狂水世界》禮包碼整理|最新可用兌換碼序號&兌換教學](https://www.ldplayer.tw/blog/wild-water-world-codes.html)
+18. [雷电模拟器 — 《瘋狂水世界》禮包碼整理|最新可用兌換碼序號&兌換教學](https://www.ldplayer.tw/blog/wild-water-world-codes.html)
     - 2026年9月4日更新，最新可用礼包码序列（GIFT666, GIFT777, GIFT888, CRAZYWORLD, SSJ2026, Pud777, Akon777, rog777, nyy777, pppp777, JUEUN777, FLOTDISCORD2026）与官方 iOS 独立 Web 兑换通道（https://www.gamermall.net/global/flot/cdkey）。
-18. [精灵手游代储 — 【2026禮包碼】《瘋狂水世界》最新兌換碼與特色玩法](https://elfgames24h.com/%E7%98%8B%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C%E7%A6%AE%E5%8C%85%E7%A2%BC/)
+19. [精灵手游代储 — 【2026禮包碼】《瘋狂水世界》最新兌換碼與特色玩法](https://elfgames24h.com/%E7%98%8B%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C%E7%A6%AE%E5%8C%85%E7%A2%BC/)
     - 繁体中文版最新礼包码合集（JUEUN777, FLOTDISCORD2026, CRAZY777等）、官方兑换流程与开荒策略。
-19. [游侠手游 — 疯狂水世界最新礼包码汇总](https://m.ali213.net/news/gl2603/1753189.html)
+20. [游侠手游 — 疯狂水世界最新礼包码汇总](https://m.ali213.net/news/gl2603/1753189.html)
     - 2026年9月最新可用礼包码（1SJJ9246, SJJ72915, SSJ2Q6F等）与兑换注意事项。
-20. [游侠手游 — 疯狂水世界S6赛季最强阵容搭配推荐](https://m.ali213.net/news/gl2606/1786963.html)
+21. [游侠手游 — 疯狂水世界S6赛季最强阵容搭配推荐](https://m.ali213.net/news/gl2606/1786963.html)
     - 2026年S6赛季国家队铁三角（大嘴山姆+兰博+巫师老侃）精析、蜜雪儿控场与16点回能机制、千代双C搭配与李忠诚1星承伤过渡。
-21. [3733手游网 — 疯狂水世界最强阵容搭配推荐与氪金攻略](https://m.3733.com/news/478008.html)
+22. [3733手游网 — 疯狂水世界最强阵容搭配推荐与氪金攻略](https://m.3733.com/news/478008.html)
     - 国家队（懂王/兰博/侃爷/腿魔/大帝）构建、英雄3星技能质变节点、自动特权解锁条件与礼包性价比梯度。
-22. [游戏宝 — 疯狂水世界 S1-S6 顶级阵容与装备词条搭配攻略](https://m.youxibao.com/gonglue/41518.html)
+23. [游戏宝 — 疯狂水世界 S1-S6 顶级阵容与装备词条搭配攻略](https://m.youxibao.com/gonglue/41518.html)
     - 兰博攻速词条（1.0-1.2区间）、大嘴山姆 75% 闪避阈值、千代锁头主 C 机制与海兽培育选择。
-23. [趣想互动官方社区 — 疯狂水世界版本更新细节与联盟商船/巅峰擂台赛全攻略](https://fkssj.quxianghudong.com/thread/105401)
+24. [趣想互动官方社区 — 疯狂水世界版本更新细节与联盟商船/巅峰擂台赛全攻略](https://fkssj.quxianghudong.com/thread/105401)
     - 联盟商船出海规则与水母币收益测算、巅峰擂台赛赛程与竞猜机制、矿场抢占 30 次上限机制、洗刷锁与战利品分配解析。

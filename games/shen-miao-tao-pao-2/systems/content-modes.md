@@ -4,7 +4,7 @@ title: 神庙逃亡2 内容玩法与模式
 description: 《神庙逃亡2》无尽模式、竞技场排位、主题地图副本、黄金矿山与限时收集赛。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 ---
 
 # 内容玩法与模式
@@ -15,7 +15,7 @@ timestamp: "2026-09-05T11:00:00Z"
 
 - **模式定位**：最纯粹的单机生存跑酷，不设奔跑终点。
 - **动态难度递增**：随着奔跑距离和时间的增长，角色奔跑的基础速度持续递增，转弯与避障的反应窗口被压缩至极致。
-- **高分核心与结算**：通过装配高倍率角色（如 [赵云](/entities/units/zhao-yun.md)）、高分羽翼（如 [花蝶梦](/entities/units/hua-die-meng.md)），并在失误时使用绿钻石 Save Me 续关，争夺全球与微信好友排行榜巅峰。
+- **高分核心与结算**：通过装配高倍率角色（如 [赵云](/entities/units/zhao-yun.md)、[雅丹天女](/entities/units/yadan-tian-nu.md)）、高分羽翼（如 [花蝶梦](/entities/units/hua-die-meng.md)），并在失误时使用绿钻石 Save Me 续关，争夺全球与微信好友排行榜巅峰。
 
 ## 2. 竞技场与排位赛（Arena & Ranked Mode）
 
@@ -31,6 +31,7 @@ timestamp: "2026-09-05T11:00:00Z"
 
 - **沉浸式特色赛道**：
   - **玩具王国（Toyland）**：充满童趣的梦幻赛道，包含急速穿梭的玩具火车、深不见底的巧克力瀑布、巨大姜饼人机关，与主题角色 [沃利纳特](/entities/units/wally-nut.md) 形成玩法亲和。
+  - **丝路奇遇（Silk Road）**：携手敦煌画院联合推出的古风文化赛道，还原莫高窟壁画泥本风貌、大漠黄沙与反弹琵琶飞天胜境，与 [雅丹天女](/entities/units/yadan-tian-nu.md) 完美契合。
   - **赛博神庙（Cyber Temple）**：霓虹光效与未来机械守卫构成的赛博朋克风神庙，带有独特音效与视效转场。
   - **百花戈壁 & 全民假日**：融合自然戈壁与假日沙滩风貌的休闲赛道。
   - **幽灵穹顶（Spooky Summit） & 冰封暗影（Frozen Shadows）**：经典节日地图，带有南瓜灯、夜行蝙蝠与光滑冰雪赛道。

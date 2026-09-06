@@ -8,7 +8,7 @@ acquire: Limited Pack / Event
 pay_relevance: high
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 ---
 
 # 赵云 (Zhao Yun)

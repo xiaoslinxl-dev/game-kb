@@ -14,7 +14,7 @@ okf_version: "0.1"
 - [进度与养成系统 (progression.md)](/progression.md) — 通用属性金币升级、角色/坐骑/宠物/羽翼技能协同与排位赛赛季段位晋升
 - [商业化与变现设计 (monetization.md)](/monetization.md) — 混合变现模式（内购 IAP + 激励广告 IAA + 礼包直购 + 宝珠盲盒抽卡）
 - [经济系统与代币循环 (economy.md)](/economy.md) — 金币、钻石、幸运宝珠与活动代币的产销流转与防通胀机制
-- [社交与长线运营 (social-liveops.md)](/social-liveops.md) — 2v2 组队排位、好友排行榜、高频主题版本、收集赛与黄金矿山挂机
+- [社交与长线运营 (social-liveops.md)](/social-liveops.md) — 跨界文化/品牌联动、2v2 组队排位、好友排行榜、高频主题版本、收集赛与黄金矿山挂机
 - [市场定位与竞品分析 (market-position.md)](/market-position.md) — 跑酷品类头部地位、创梦天地发行护城河与主流竞品差异化对比
 - [风险与不确定性 (risks-unknowns.md)](/risks-unknowns.md) — 玩法机制老化、数值膨胀对冲、排位外挂防治与合规防沉迷挑战
 - [资料来源与参考文献 (sources.md)](/sources.md) — 官方公告、应用商店、行业媒体深度报道与社区攻略汇编
@@ -22,11 +22,11 @@ okf_version: "0.1"
 ## 2. 玩法与系统模块 (Systems)
 
 - [单局跑酷与竞技对抗 (systems/session-combat.md)](/systems/session-combat.md) — 重力感应与手势避障、道具拾取、三位一体技能释放与竞技场干扰对抗
-- [内容玩法与模式 (systems/content-modes.md)](/systems/content-modes.md) — 无尽经典模式、1v1/2v2 竞技排位、主题场景副本、黄金矿山与限时收集赛
+- [内容玩法与模式 (systems/content-modes.md)](/systems/content-modes.md) — 无尽经典模式、1v1/2v2 竞技排位、主题场景副本（玩具王国/丝路奇遇等）、黄金矿山与限时收集赛
 
 ## 3. 代表性实体 (Entities)
 
-本知识库采用 `representative`（代表性实体）策略，收录了 11 个核心角色、坐骑、宠物与羽翼：
+本知识库采用 `representative`（代表性实体）策略，收录了 12 个核心角色、坐骑、宠物与羽翼：
 
 - [实体名册总览 (entities/units/_index.md)](/entities/units/_index.md) — 代表性角色与坐骑分类索引
 - **核心角色（Characters）**：
@@ -36,6 +36,7 @@ okf_version: "0.1"
   - [比奥斯博士 (dr-bios.md)](/entities/units/dr-bios.md) — 7日签到免费赠送 A 级科幻角色，长线留存福利代表
   - [安妮 (anne.md)](/entities/units/anne.md) — 浪漫婚纱主题限定角色，主打 2v2 双人组队协同加速
   - [沃利纳特 (wally-nut.md)](/entities/units/wally-nut.md) — 玩具王国主题限定角色（玩具士兵），代表主题赛道亲和与活动收集
+  - [雅丹天女 (yadan-tian-nu.md)](/entities/units/yadan-tian-nu.md) — 敦煌画院跨界联动限定角色，反弹琵琶飞天造型，代表国风传统文化破圈运营
 - **核心坐骑（Mounts）**：
   - [年兽 (nian-beast.md)](/entities/units/nian-beast.md) — 经典中国神话春节限定坐骑，国风坐骑先驱
   - [傲狠 (ao-hen.md)](/entities/units/ao-hen.md) — 竞技场顶级干扰坐骑，30% 概率封印对手加速并自带二次护盾

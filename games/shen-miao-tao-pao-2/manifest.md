@@ -5,7 +5,7 @@ description: 《神庙逃亡2》（神庙逃跑2 / Temple Run 2 中文版）知�
 game_id: shen-miao-tao-pao-2
 genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [session-combat, content-modes]
@@ -23,5 +23,5 @@ unit_policy: representative
 - **Core (核心模块)**：全量包含 Overview（概述）、Core Loop（核心循环）、Progression（养成与进度）、Monetization（变现与付费设计）、Economy（经济体系与代币循环）、Social/LiveOps（社交与长线运营）、Market Position（市场定位与竞品分析）、Risks/Unknowns（风险与未知项）和 Sources（资料来源与参考文献）。
 - **Systems (系统模块)**：
   - `session-combat`：涵盖单局跑酷操作、重力感应与划屏避障、道具拾取、三位一体技能联动以及 2v2 竞技场干扰与对抗机制。
-  - `content-modes`：涵盖经典无尽模式、竞技场/排位赛（1v1/2v2）、主题地图副本（如玩具王国、赛博神庙、百花戈壁、幽灵穹顶、迷失丛林、全民假日等）、黄金矿山挂机及限时收集赛等多重玩法。
-- **Entities (实体模块)**：采用 `representative`（代表性实体）策略，挑选了具有代表性的角色、坐骑、宠物与羽翼配饰（如危险盖伊、莉莉丝、赵云、比奥斯博士、安妮、沃利纳特、年兽、傲狠、仙灵鹤、小香猪、花蝶梦翅膀），覆盖新手入门、长线留存福利、版本付费锚点与竞技 PvP Meta。
+  - `content-modes`：涵盖经典无尽模式、竞技场/排位赛（1v1/2v2）、主题地图副本（如玩具王国、丝路奇遇、赛博神庙、百花戈壁、幽灵穹顶、全民假日等）、黄金矿山挂机及限时收集赛等多重玩法。
+- **Entities (实体模块)**：采用 `representative`（代表性实体）策略，挑选了 12 个具有代表性的角色、坐骑、宠物与羽翼配饰（如危险盖伊、莉莉丝、赵云、比奥斯博士、安妮、沃利纳特、雅丹天女、年兽、傲狠、仙灵鹤、小香猪、花蝶梦翅膀），覆盖新手入门、长线留存福利、版本付费锚点、传统文化联动与竞技 PvP Meta。

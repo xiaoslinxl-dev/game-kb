@@ -4,7 +4,7 @@ title: 疯狂水世界 英雄与海兽名册总览
 description: 疯狂水世界核心代表性英雄与海兽职能分工、养成定位与获取路径汇总。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 ---
 
 # 疯狂水世界 英雄与海兽名册总览
@@ -16,7 +16,7 @@ timestamp: "2026-09-05T11:00:00Z"
 | 英雄名称 | Slug | 职能/类型 | 稀有度 | 获取途径 | 付费关联度 (pay_relevance) | 核心机制与版本定位 |
 |---|---|---|---|---|---|---|
 | **大嘴山姆** | [da-zui-shan-mu](/entities/units/da-zui-shan-mu.md) | 物理主坦 | 传说 (Legendary) | 登录第2天免费送、常规招募、万能碎片 | 极高（需拉3星+专武） | 绰号“懂王”，75%闪避上限+全屏嘲讽聚怪，全期前排绝对核心 |
-| **兰博** | [lan-bo](/entities/units/lan-bo.md) | 能量主C | 传说 (Legendary) | 第8天转盘、招募、勇者战令 | 极高（转盘耗钻/战令） | 自由者阵营 ADC 一哥，攻速1.0-1.2达标后红温无上限增伤，专武带保命 |
+| **兰博** | [lan-bo](/entities/units/lan-bo.md) | 能量主C | 传说 (Legendary) | 第8天转盘、招募、勇者战令 | 极高（转盘耗钻/战令） | 自由者阵营 ADC 一哥，攻速1.0-1.2达标后红温无上限增伤，自带全队攻速增益Buff |
 | **过江龙** | [guo-jiang-long](/entities/units/guo-jiang-long.md) | 战士/爆发 | 超凡 (Transcendent) | 夏日狂浪节限定活动、超凡招募池 | 极高（狂浪节限定） | 兄弟会近战战神，高爆发真实伤害，随赛季更新自动进阶技能 |
 | **典狱长赛斯** | [dian-yu-zhang-sai-si](/entities/units/dian-yu-zhang-sai-si.md) | 科技主坦 | 超凡 (Transcendent) | S7赛季限定超凡招募、限定活动 | 极高（S7限定超凡） | 科技派电磁力场主坦，单次锁伤上限、群体禁锢减攻与防暴吸收盾 |
 | **探案双子星** | [tan-an-shuang-zi-xing](/entities/units/tan-an-shuang-zi-xing.md) | 物理主坦 | 超凡 (Transcendent) | 美人鱼联动限定活动、超凡招募池 | 极高（联动限定） | 召唤人鱼分身聚怪承伤，拥有随赛季更新自动进阶技能机制 |

@@ -1,14 +1,14 @@
 ---
 type: Unit
 title: 兰博
-description: 兰博是疯狂水世界中全期核心的 T0 级能量主 C 英雄。
+description: 兰博是疯狂水世界中全期核心的 T0 级能量主 C 英雄，具备极高攻速、无限叠伤与全队攻速增益。
 unit_role: DPS
 rarity: Legendary
 acquire: 开服第8天幸运转盘、勇者战令、高级招募
 pay_relevance: high
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 ---
 
 # 兰博 (Lan Bo)
@@ -18,6 +18,7 @@ timestamp: "2026-09-05T11:00:00Z"
 ## 1. 核心属性与定位
 
 - **职业与类型**：能量远程主 C（自由者阵营）。
+- **核心定位优势**：输出上限随着战斗进程推进持续提升；自身具备极高初始攻速与叠伤被动，同时可为全队提供攻速增益 Buff，不仅单兵输出爆表，更可带动全队整体输出节拍。
 - **获取途径**：开服第 8 天转盘活动（需囤积约 1.5W 钻石抽券买礼包补至 400 抽）、购买兰博勇者战令或高级招募。
 
 ## 2. 技能与专武机制

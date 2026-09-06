@@ -4,7 +4,7 @@ title: 疯狂水世界 对抗与卡牌战斗系统
 description: 疯狂水世界的 5v5 阵型卡牌战斗、战术飞钩拉人、阵型光环与装备词条对抗。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 ---
 
 # 疯狂水世界 对抗与卡牌战斗系统
@@ -17,7 +17,7 @@ timestamp: "2026-09-05T11:00:00Z"
 
 - **职业与职能分工**：
   - **前排主坦（Tank）**：核心以 [大嘴山姆](/entities/units/da-zui-shan-mu.md) 为代表，3 星解锁全屏嘲讽，堆至 75% 闪避上限吸收成吨物理伤害；或超凡主坦 [典狱长赛斯](/entities/units/dian-yu-zhang-sai-si.md) 施加电磁禁锢与防暴护盾。
-  - **后排核心输出（DPS）**：核心以 [兰博](/entities/units/lan-bo.md) 为代表，依靠全队攻速叠加伤害进入红温连斩；或群攻法师雷教授闪现锁 5 目标连锁放电。
+  - **后排核心输出（DPS）**：核心以 [兰博](/entities/units/lan-bo.md) 为代表，依靠全队攻速叠加伤害进入红温连斩，同时为全队提供攻速增益光环；或群攻法师雷教授闪现锁 5 目标连锁放电。
   - **战术刺客（Assassin）**：以 [千代](/entities/units/qian-dai.md) 与 [小丑杰克](/entities/units/xiao-chou-jie-ke.md) 为代表，具备隐身/瞬移特性直接绕开敌方前排切杀后排高威胁目标。
   - **辅助与发动机（Support）**：以 [蜜雪儿](/entities/units/mi-xue-er.md)（冰冻石化控场+全队回能）与 [巫师老侃](/entities/units/wu-shi-lao-kan.md)（全队护盾+攻速增伤+破盾）为核心。
 - **阵型光环加成与场景切换**：

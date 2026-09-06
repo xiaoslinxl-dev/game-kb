@@ -4,7 +4,7 @@ title: 疯狂水世界 数值与养成系统
 description: 疯狂水世界的玩家等级、英雄升星、专武、装备徽章及海兽藏品数值成长体系。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 ---
 
 # 疯狂水世界 数值与养成系统
@@ -31,7 +31,7 @@ timestamp: "2026-09-05T11:00:00Z"
 ### 技能加点与技能书消耗
 - **技能书阶梯消耗**：2 级技能消耗 10 本技能书；3 级技能消耗 30 本；4 级技能消耗 90 本；5 级技能消耗 150 本。
 - **万能碎片与技能书分配优先级**：
-  - 推荐升星顺序：[大嘴山姆](/entities/units/da-zui-shan-mu.md)（懂王拉到 3 星解锁全屏嘲讽） → [兰博](/entities/units/lan-bo.md)（拉到 3 星开启攻速红温爆发） → [巫师老侃](/entities/units/wu-shi-lao-kan.md)（拉到 3 星提供全队护盾与增伤） → [过江龙](/entities/units/guo-jiang-long.md) / [千代](/entities/units/qian-dai.md)。
+  - 推荐升星顺序：[大嘴山姆](/entities/units/da-zui-shan-mu.md)（懂王拉到 3 星解锁全屏嘲讽） → [兰博](/entities/units/lan-bo.md)（拉到 3 星开启攻速红温爆发与全队攻速增益） → [巫师老侃](/entities/units/wu-shi-lao-kan.md)（拉到 3 星提供全队护盾与增伤） → [过江龙](/entities/units/guo-jiang-long.md) / [千代](/entities/units/qian-dai.md)。
   - 技能书优先全部投给主 C 兰博的 1 技能（狂暴大招）与 4 技能（攻速成长被动），其次升级山姆的大招与老侃的护盾技能。
 - **无损重生机制**：游戏提供无损重生功能，英雄重生 100% 返还升级经验与进阶金币。但**传说万能碎片与传说技能书为不可返还稀缺资源**，必须严格投资给 T0 核心阵容。
 

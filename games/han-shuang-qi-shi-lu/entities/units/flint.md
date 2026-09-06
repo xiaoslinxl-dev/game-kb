@@ -8,7 +8,7 @@ rarity: SSR (Generation 2)
 acquire: 第二世代幸运轮盘 (Lucky Wheel)
 pay_relevance: high
 confidence: high
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 ---
 
 # 弗林特 (Flint)

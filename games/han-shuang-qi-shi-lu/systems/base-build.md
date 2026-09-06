@@ -4,7 +4,7 @@ title: 基地建造与模拟经营 (Base Building)
 description: 大熔炉供暖、民宅与猎人小屋建设、幸存者健康度/满意度管理、火晶时代心愿驿站与破晓岛扩展机制。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 ---
 
 # 基地建造与模拟经营 (Base Building)

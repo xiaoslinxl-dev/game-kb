@@ -4,7 +4,7 @@ title: 寒霜启示录 社交与 LiveOps 运营体系
 description: 寒霜启示录的联盟社交结构、跨服王战 (SvS)、2026年9月冰火战歌联赛规则重塑与“双星同行”/诚品动漫祭LiveOps运营。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-05T11:00:00Z"
+timestamp: "2026-09-06T11:00:00Z"
 ---
 
 # 寒霜启示录 社交与 LiveOps 运营体系
@@ -63,7 +63,18 @@ timestamp: "2026-09-05T11:00:00Z"
 
 ### E. 2026年9月最新活跃礼包与社区福利
 
-- 活跃礼包兑换码包括：`6ZbjAXK6`, `gogoWOS`, `2ndYoutubeKR`, `1stYoutubeKR`, `GuDokYTKOR`, `WOS0815`, `summer26jp`, `VIP0815`, `WOS0812`, `100gomYTKOR`, `WOS0806`, `WOS0803`, `0803FORU`, `Byebye2025` 等。
+- **2026年9月活跃礼包兑换码（截至9月6日核实）**：
+  - `wm6B7MM4u`（9月活跃兑换码，包含宝石、加速与生存资源）
+  - `K6ZbjAXK6` / `6ZbjAXK6`（9月通用福利兑换码）
+  - `OFFICIALSTORE`（官方商城专属常驻兑换码）
+  - `gogoWOS`（官方长期推广码，含 500 宝石、10,000 英雄经验、2 把黄金钥匙、20 个 5 分钟通用加速）
+  - `2ndYoutubeKR`（官方油管社区达成礼包，含 500 宝石、100 领主体力、3 个 1 小时通用加速、200 强化经验组件与资源包）
+  - `1stYoutubeKR`（官方油管社区福利礼包）
+  - `GuDokYTKOR`（官方社群福利礼包）
+  - `summer26jp`、`VIP0815`、`WOS0815`、`WOS0812`、`100gomYTKOR`、`WOS0806`、`WOS0803`、`0803FORU`、`Byebye2025` 等。
+- **双端兑换流程指引**：
+  - **Android 端**：游戏内点击左上角领主头像 -> 设置 -> 礼品码（Gift Code）直接输入兑换，奖励实时派发至系统邮箱；
+  - **iOS 端**：受平台政策限制，领主需访问官方网页兑换中心（Gift Code Center），输入角色数字 ID（FID）并校验所属王国后兑换。
 
 ## 关联页面
 

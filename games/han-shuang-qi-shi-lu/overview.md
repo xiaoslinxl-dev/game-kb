@@ -4,7 +4,7 @@ title: 寒霜启示录 (Whiteout Survival) 概览
 description: 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的产品定位、核心玩法特色与长线留存逻辑。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-06T11:00:00Z"
+timestamp: "2026-09-07T11:00:00Z"
 ---
 
 # 寒霜启示录 概览
@@ -12,9 +12,9 @@ timestamp: "2026-09-06T11:00:00Z"
 ## 产品基本信息
 
 - **游戏名称**：寒霜启示录（Whiteout Survival）
-- **开发商/发行商**：点点互动（Century Games）
+- **开发商/发行商**：点点互动（Century Games / 世纪华通）
 - **品类**：4X 策略 SLG + 冰雪末日生存模拟 + 放置 RPG
-- **主要市场**：全球（欧美、日韩、港澳台及中国大陆等，全球累计下载与注册玩家突破 4 亿，累计内购流水超 20 亿美元）
+- **主要市场**：全球（欧美、日韩、港澳台及中国大陆等，全球累计下载与注册玩家突破 4 亿，海外 App Store 与 Google Play 累计内购流水超 22.4 亿美元，全生态总流水逼近 50 亿美元）
 - **商业化模式**：免费下载 + 道具内购（F2P + IAP / 网页商城 Frost Stars 双轨）
 
 ## 核心设计特色
@@ -38,6 +38,8 @@ timestamp: "2026-09-06T11:00:00Z"
 - [核心循环](/core-loop.md)
 - [数值与长线养成](/progression.md)
 - [商业化模型](/monetization.md)
+- [市场定位与竞品分析](/market-position.md)
 - [系统概览：城建与大熔炉](/systems/base-build.md)
 - [系统概览：联盟领地战与王城争霸](/systems/territory-war.md)
 - [代表性英雄概览](/entities/units/_index.md)
+- [参考资料与来源](/sources.md)

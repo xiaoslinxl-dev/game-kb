@@ -5,7 +5,7 @@ description: 《神庙逃亡2》（神庙逃跑2 / Temple Run 2 中文版）知�
 game_id: shen-miao-tao-pao-2
 genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
-timestamp: "2026-09-06T11:00:00Z"
+timestamp: "2026-09-07T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [session-combat, content-modes]
@@ -16,7 +16,7 @@ unit_policy: representative
 
 # 模块选择说明
 
-《神庙逃亡2》（神庙逃跑2 / Temple Run 2 中文版）由美国 Imangi Studios 研发、深圳市创梦天地科技有限公司（乐逗游戏 / iDreamSky）在中国大陆引进、深度本土化二次开发并长期运营。作为全球移动游戏史上的现象级 3D 跑酷动作手游，其中国版本加入了大量的本土化系统、丰富的主题赛道与长线商业化运营机制。
+《神庙逃亡2》（神庙逃跑2 / Temple Run 2 中文版）由美国 Imangi Studios 研发、深圳市创梦天地科技有限公司（乐逗游戏 / iDreamSky）在中国大陆引进、深度本土化二次开发并长期运营。作为全球移动游戏史上的现象级 3D 越野跑酷动作手游，其中国版本加入了大量的本土化系统、丰富的主题赛道与长线商业化运营机制。
 
 ## 启用模块说明
 

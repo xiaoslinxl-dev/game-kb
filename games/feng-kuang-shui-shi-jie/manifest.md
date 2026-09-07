@@ -5,7 +5,7 @@ description: 疯狂水世界（feng-kuang-shui-shi-jie）知识库 Bundle 的模
 game_id: feng-kuang-shui-shi-jie
 genre_tags: [survival, simulation, slg, nautical, card-rpg]
 language: zh-CN
-timestamp: "2026-09-06T11:00:00Z"
+timestamp: "2026-09-07T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [base-build, content-modes, exploration, session-combat]
@@ -16,7 +16,7 @@ unit_policy: representative
 
 # 疯狂水世界 知识库 Manifest
 
-《疯狂水世界》（英文名及海外版本名：*Wild Water World* / 原测试名 *Flot Shelter*）由益世界（广州益玩网络科技有限公司 / IYAGAMES / 香港商阿爾發遊戲）发行，是一款融合了末日海洋生存、模拟经营建设、放置卡牌养成与 SLG 联盟大地图城战的微信小游戏及双端手游。根据 2026 年 8 月微信小游戏大盘收入统计，该作高居收入榜第二名（榜眼位置），并在 2026 年 9 月 1 日展开全球全平台公测（v1.2.2）。
+《疯狂水世界》（英文名及海外版本名：*Wild Water World* / 原测试名 *Flot Shelter*）由益世界（广州益玩网络科技有限公司 / IYAGAMES / 香港商阿爾發遊戲）发行，是一款融合了末日海洋生存、模拟经营建设、放置卡牌养成与 SLG 联盟大地图城战的微信小游戏及双端手游。根据 2026 年 8 月行业收入大盘统计，该作勇夺微信小游戏与抖音小游戏月度收入“双榜眼”，并于 9 月 7 日被七麦数据评为 8 月热门游戏榜单新晋 Top 30 核心黑马。目前海外版（v1.2.2）全球双平台公测首周稳健推进。
 
 ## 模块选择说明
 

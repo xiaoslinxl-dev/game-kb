@@ -5,7 +5,7 @@ description: 疯狂水世界（feng-kuang-shui-shi-jie）知识库 Bundle 的模
 game_id: feng-kuang-shui-shi-jie
 genre_tags: [survival, simulation, slg, nautical, card-rpg]
 language: zh-CN
-timestamp: "2026-09-07T11:00:00Z"
+timestamp: "2026-09-08T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [base-build, content-modes, exploration, session-combat]
@@ -16,11 +16,13 @@ unit_policy: representative
 
 # 疯狂水世界 知识库 Manifest
 
-《疯狂水世界》（英文名及海外版本名：*Wild Water World* / 原测试名 *Flot Shelter*）由益世界（广州益玩网络科技有限公司 / IYAGAMES / 香港商阿爾發遊戲）发行，是一款融合了末日海洋生存、模拟经营建设、放置卡牌养成与 SLG 联盟大地图城战的微信小游戏及双端手游。根据 2026 年 8 月行业收入大盘统计，该作勇夺微信小游戏与抖音小游戏月度收入“双榜眼”，并于 9 月 7 日被七麦数据评为 8 月热门游戏榜单新晋 Top 30 核心黑马。目前海外版（v1.2.2）全球双平台公测首周稳健推进。
+《疯狂水世界》（英文名及海外版本名：*Wild Water World* / 原测试名 *Flot Shelter*）由益世界（广州益玩网络科技有限公司 / Hong Kong Just Game Technology Limited / IYAGAMES / 香港商阿爾發遊戲）发行，是一款融合了末日海洋生存、模拟经营建设、放置卡牌养成与 SLG 联盟大地图城战的微信小游戏及双端手游。
+
+根据 2026 年 8 月行业权威收入大盘统计，该作勇夺微信小游戏与抖音小游戏月度收入“双榜眼”（第 2 名），并于 9 月 7 日被七麦数据与 36氪评为 8 月热门游戏榜单新晋 Top 30 核心黑马。2026 年 9 月 8 日，官方宣布首届“夏日狂浪节”品牌盛典圆满收官并开启余热资源兑换，同步开放小程序至官方 APP 的角色跨端迁移服务；海外版客户端（v1.2.2）全球双平台公测首周稳健推进，Google Play 下载量突破 10 万+（评分 4.4），官方第一期社群创作活动“漂流者的海上派对”进入倒计时最后 48 小时冲刺。
 
 ## 模块选择说明
 
-- **Core (核心模块)**：全量包含 Overview、Core Loop、Progression、Monetization、Economy、Social/LiveOps、Market Position、Risks/Unknowns 和 Sources。
+- **Core (核心模块)**：全量包含 Overview（概述）、Core Loop（核心循环）、Progression（数值与养成）、Monetization（商业化变现）、Economy（经济系统）、Social/LiveOps（社交与长线运营）、Market Position（市场定位与竞品分析）、Risks/Unknowns（风险与未知项）和 Sources（资料来源）。
 - **Systems (系统模块)**：
   - `base-build`：涵盖木筏扩展、民居与发电站突破人口上限、切鱼厂/材料厂/建材厂生产线、指挥中心英雄委派加速及基地建筑皮肤机制。
   - `exploration`：涵盖海面物资打捞/自动拾荒、深海潜水探险搜寻高阶蓝图与藏品、钓鱼捕捞、古物修复及动态天气系统。

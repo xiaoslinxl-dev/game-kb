@@ -4,7 +4,7 @@ title: 寒霜启示录 经济系统
 description: 基础生产资源（肉/木/煤/铁）、高级货币（宝石/霜星）与特殊代币的双轨经济模型分析。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-07T11:00:00Z"
+timestamp: "2026-09-08T11:00:00Z"
 ---
 
 # 寒霜启示录 经济系统
@@ -43,12 +43,9 @@ timestamp: "2026-09-07T11:00:00Z"
   - 迷宫探险（Labyrinth）与地心探险核心产出，用于地下科研与成长线进阶。
 - **苔原贸易站 (Tundra Trading Station)**：
   - 资产保值回收站。支持多余的满星英雄碎片与溢出专属武器零件（Widgets）进行一键快捷兑换，降低世代淘汰的资源贬值感。
-- **竞技场积分（Arena Tokens）**：
-  - 来自于竞技场排名与每日结算，可在竞技场商店兑换金色英雄装备与专属材料。
-- **联盟个人贡献（Alliance Honor）**：
-  - 通过联盟捐献与互助获得，可在联盟商店购买 12 小时防护罩、高级迁城与加速道具。
 
-相关文档链接：
-- [商业化设计](/monetization.md)
-- [数值与长线养成](/progression.md)
+## 关联页面
+
 - [基地建造与模拟经营](/systems/base-build.md)
+- [数值与长线养成系统](/progression.md)
+- [商业化模型](/monetization.md)

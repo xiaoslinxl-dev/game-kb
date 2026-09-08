@@ -1,10 +1,10 @@
 ---
 type: Sources
 title: 寒霜启示录 参考资料与来源
-description: 收集自 Century Games 官方公告、AppMagic、Sensor Tower、GamesRadar、Eldorado.gg、WSCO Blog、GNN 新闻、Treabar、GamsGo、TOPUPlive、WoS Tools、WOS Wiki 与巴哈姆特社区的参考资料清单。
+description: 收集自 Century Games 官方公告、AppMagic、Sensor Tower、BlueStacks、BuffBuff、Eldorado.gg、WSCO Blog、GNN 新闻、Treabar、GamsGo、TOPUPlive、WoS Tools、WOS Wiki 与巴哈姆特社区的参考资料清单。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-07T11:00:00Z"
+timestamp: "2026-09-08T11:00:00Z"
 ---
 
 # 寒霜启示录 参考资料与来源
@@ -17,16 +17,20 @@ timestamp: "2026-09-07T11:00:00Z"
 
 2. **AppMagic & Sensor Tower 市场与流水研报 (2026年8-9月)**：
    - 链接：[AppMagic: Top Mobile Games by Revenue and Downloads in August 2026](https://gamedevreports.substack.com/p/appmagic-top-mobile-games-by-revenue-980) | [Sensor Tower: Mobile Market H1 2026 Gaming Digital Market Index](https://www.pocketgamer.biz/mobile-gaming-iap-dipped-2-as-ad-spend-climbed-in-h1-2026/) | [Sensor Tower State of Mobile 2026](https://www.scribd.com/document/1002190883/Sensor-Tower-State-of-Mobile-2026-en-2) | [Century Games Case Study: Scaling Whiteout Survival to $2B](https://thinkingai.io/customers/century-games/)
-   - 贡献内容：2026年8月全球手游收入榜单数据（寒霜启示录位居全球第6，净收入9,690万美元；Kingshot位居第9，7,810万美元）；Century Games位列全球手游发行商内购收入榜第2；游戏全球累计下载与体验用户超4亿，全球累计总流水逼近50亿美元（含国内微信小游戏《无尽冬日》及网页商城）。
+   - 贡献内容：2026年8月全球手游收入榜单数据（寒霜启示录位居全球第6，净收入9,690万美元；Kingshot位居第9，7,810万美元）；Century Games位列全球手游发行商内购收入榜第2；游戏全球累计下载与体验用户超4亿，全球累计总流水逼近50亿美元（含国内微信小游戏《无尽冬日》及网页商城）。2026年9月初在港台与日本市场持续稳坐 App Store 畅销前十。
 
 3. **WoS Tools & WSCO 社区攻略与数据分析 (2026年8-9月)**：
    - 链接：[WoS Tools State Transfer Confirmed September 13–19, 2026](https://wostools.net/blog) | [WoS Tools Chief Concierge Sneak Peek & Backlash](https://wostools.net/blog/chief-concierge-sneak-peek-august-2026) | [WoS Tools Experts Calculator](https://wostools.net/wiki/experts) | [WoS Heroes Generation 17 Guide](https://wosheroes.com/heroes/generation-17-heroes/) | [April 15, 2026 Update — Patch Notes & T12 FAQ](https://wostools.net/blog/april-15-2026-update)
-   - 贡献内容：2026年8月大氪玩家对快速提升付费上限的反馈与反响分析（Frostdragon Tyrant 宣言与官方妥协排期）；专家技能与升级消耗（Gareth, Kathy, Ronne, Justus）；第17代英雄技能与兵种定位（Aiden - 盾兵, Bertha - 矛兵, Eleanor - 弓兵）；2026年9月13–19日跨服移民（State Transfer）第20组预测与规则（覆盖 States 4–4326）；T12兵种解锁科技树与防守站位。
+   - 贡献内容：2026年8月大氪玩家对快速提升付费上限的反馈与反响分析（Frostdragon Tyrant 宣言与官方妥协排期）；晨曦学堂全部 10 位专家技能与升级消耗（Agnes, Cyrille, Holger, Romulus, Baldur, Fabian, Valeria, Ronne, Kathy, Gareth, Justus）；第17代英雄技能与兵种定位（Aiden - 盾兵, Bertha - 矛兵, Eleanor - 弓兵）；2026年9月13–19日跨服移民（State Transfer）第20组预测与规则（覆盖 States 4–4326，领航王国配额与领航荣耀 Leading Glory 体系）；T12兵种解锁科技树与防守站位。
 
-4. **GamesRadar, Eldorado.gg, Treabar, GamsGo & BuffBuff 跨服与礼包追踪 (2026年9月7日)**：
-   - 链接：[GamesRadar Whiteout Survival Codes September 2026](https://www.gamesradar.com/games/survival/whiteout-survival-codes-gift/) | [Eldorado.gg Whiteout Survival Newest Codes (Sep 7, 2026)](https://www.eldorado.gg/blog/whiteout-survival-en/whiteout-survival-newest-codes/) | [Treabar September State Transfer 3-Phase Guide (Sep 3, 2026)](http://treabar.com/id/blog/10621) | [GamsGo All Active Gift Codes September 2026](https://www.gamsgo.com/blog/whiteout-survival-gift-codes) | [TOPUPlive Gift Codes September 2026](https://www.topuplive.com/news/newest-whiteout-survival-gift-codes.html)
-   - 贡献内容：2026年9月7日最新兑换码（`4dp5ZGM4c` 限时至9月12日；常驻与社区活跃码 `GuDokYTKOR`, `2ndYoutubeKR`, `gogoWOS`, `wm6B7MM4u`, `K6ZbjAXK6`, `OFFICIALSTORE` 等）；iOS网页中心与Android内嵌双端兑换机制；2026年9月13–19日王国转移（State Transfer）三阶段流程细节。
+4. **BlueStacks, BuffBuff, Eldorado.gg, Treabar, GamsGo & TOPUPlive 跨服与礼包追踪 (2026年9月8日)**：
+   - 链接：[BlueStacks 寒霜启示录2026年9月兑换码大全](https://www.bluestacks.com/tw/blog/redeem-codes/whiteout-survival-redeem-codes-tw.html) | [BuffBuff 最新寒霜启示录可用兌換碼 (2026-09-08)](https://buffbuff.com/zh-tw/blog/whiteout-survival-gift-codes) | [Eldorado.gg Whiteout Survival Newest Codes (Sep 7, 2026)](https://www.eldorado.gg/blog/whiteout-survival-en/whiteout-survival-newest-codes/) | [Treabar September State Transfer 3-Phase Guide (Sep 3, 2026)](http://treabar.com/id/blog/10621) | [GamsGo All Active Gift Codes September 2026](https://www.gamsgo.com/blog/whiteout-survival-gift-codes) | [TOPUPlive Gift Codes September 2026](https://www.topuplive.com/news/newest-whiteout-survival-gift-codes.html)
+   - 贡献内容：2026年9月8日最新核实兑换码（`4dp5ZGM4c` 限时至9月12日；常驻与社区活跃码 `GuDokYTKOR`, `2ndYoutubeKR`, `gogoWOS`, `wm6B7MM4u`, `K6ZbjAXK6`, `OFFICIALSTORE` 等）；iOS网页中心与Android内嵌双端兑换机制；2026年9月13–19日王国转移（State Transfer）三阶段流程与 Group 20（States 4251–4326）移民细则。
 
-5. **巴哈姆特电玩疯与 GNN 新闻社群报道 (2026年7-8月)**：
-   - 链接：[GNN新聞 2026-07-23 熊先生書屋限時開張帶來全球首發漫畫](https://gnn.gamer.com.tw/detail.php?sn=308622) | [迷誠品 熊先生書屋開張活動公告](https://meet.eslite.com/tw/tc/news/202607170001) | [巴哈姆特 寒霜啟示錄哈啦區精華組](https://forum.gamer.com.tw/B.php?bsn=76999)
-   - 贡献内容：台北诚品生活动漫祭线下快闪店“熊先生书屋”（8月1日至9月30日）活动规则、全球首发全彩漫画《寒霜英雄别册－茉莉篇》与世界观设定、寒霜酷娃包周边；台服最新社区礼包与版本更新回馈活动。
+5. **巴哈姆特电玩疯与 GNN 新闻社群报道 (2026年7-9月)**：
+   - 链接：[GNN新聞 2026-07-23 熊先生書屋限時開張帶來全球首發漫畫](https://gnn.gamer.com.tw/detail.php?sn=308622) | [迷誠品 熊先生書屋開張活動公告 (2026-08-01 ~ 09-30)](https://meet.eslite.com/tw/tc/news/202607170001) | [巴哈姆特 寒霜啟示錄哈啦區精華組](https://forum.gamer.com.tw/B.php?bsn=76999)
+   - 贡献内容：台北诚品生活动漫祭线下快闪店“熊先生书屋”（8月松烟店，9月西门店，全台9大分馆联合展示）活动规则、全球首发全彩漫画《寒霜英雄别册－茉莉篇》与世界观设定、寒霜酷娃包周边；台服最新社区礼包与版本更新回馈活动。
+
+6. **MMO Culture & Apptopia 版本与功能解析 (2026年8月中旬)**：
+   - 链接：[MMO Culture: Whiteout Survival Fire Crystal Age Expansion & Version 1.33.9](https://mmoculture.com/2026/08/whiteout-survival-fire-crystal-age-expansion-and-new-updates/) | [Apptopia: Whiteout Survival Version History & Leading Glory](https://apptopia.com/google-play/app/com.gof.global/about)
+   - 贡献内容：Version 1.33.9 正式上线内容：火晶纪元资料片（心愿驿站、9座免费娱乐设施、风吼者·乌尔夫加无尽试炼、大地之心50层）、聊天群上限增至200人、领航荣耀系统（Leading Glory System）与跨服王战时长调整。

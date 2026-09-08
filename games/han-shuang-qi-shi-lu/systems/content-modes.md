@@ -4,7 +4,7 @@ title: 寒霜启示录 多常驻玩法模式与系统 (Content Modes)
 description: 寒霜启示录的探险推关、竞技场、地心探险、无尽考验、燃霜矿区、冰火战歌联赛、凛冬围城与双星同行联动玩法。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-07T11:00:00Z"
+timestamp: "2026-09-08T11:00:00Z"
 ---
 
 # 寒霜启示录 多常驻玩法模式与系统 (Content Modes)
@@ -48,10 +48,3 @@ timestamp: "2026-09-07T11:00:00Z"
   - 开放 10 倍速钓鱼与海草图鉴，配备极限深度指示器与自动最高级钓具，大幅提升休闲获取效率。
 - **缤纷刨冰铺与休闲副玩法**：
   - 内置果汁/果酱色彩分拣等益智小游戏，新增【标签模式】（带水果图标的果酱瓶），大幅改善辨识通关体验，提供丰厚的日常加速与成长材料。
-
-## 关联页面
-
-- [战斗系统](/systems/session-combat.md)
-- [野外探索](/systems/exploration.md)
-- [联盟领地战与王城争霸](/systems/territory-war.md)
-- [实体列表](/entities/units/index.md)

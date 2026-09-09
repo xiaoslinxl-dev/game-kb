@@ -4,7 +4,7 @@ title: 疯狂水世界 商业化与付费变现
 description: 疯狂水世界的内购礼包架构、VIP特权、转盘抽卡与商业化策略分析。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-08T11:00:00Z"
+timestamp: "2026-09-09T11:00:00Z"
 ---
 
 # 疯狂水世界 商业化与付费变现
@@ -37,8 +37,8 @@ timestamp: "2026-09-08T11:00:00Z"
   - 保底机制为每 50 抽必出传说英雄。
   - 登录第 2 天免费赠送 T0 核心主坦 [大嘴山姆](/entities/units/da-zui-shan-mu.md)（懂王），通关 40 层免费解救米娅，200 抽提供传说英雄自选箱。
   - 全球双端公测达成 100 万预约里程碑，全服送出 **210 抽**（实装为 70 抽藏品券 + 160 抽招募卡、1000 金币与 200 钻石，玩家达到 9 级解锁信箱可直接领取），并送出多位免费传说英雄（米娅、大嘴山姆、一龙、微醺之龙）。
-- **2026年9月最新可用礼包码序列（截至9月7日）**：
-  - 大陆微信/手游客服及活动码：`SSJJ72915` / `SJJ72915`（9月10日前有效）、`APBG6O46`、`73SJJ95`、`共贺百万`、`CYKMP7WY`、`FKSSJ666`、`FKSSJ777`、`VIP666`、`VIP888`。
+- **2026年9月最新可用礼包码序列（截至9月9日实测）**：
+  - 中秋限定与9月最新福利码：`ASSGMSDAGW`、`TEIQ9QE`、`3RYMWQY`、`2SJJ5064`、`SJJ58023`、`39SJJ14`、`SSJJ72915` / `SJJ72915`（9月10日前有效）、`W3SSJ5K`、`VXY2CKO2`、`73SJJ95`、`共贺百万`、`CYKMP7WY`、`FKSSJ666`、`VIP666`。
   - 通用及繁中版公测礼包码：`JUEUN777`（李珠珢专属好礼）、`FLOTDISCORD2026`（Discord专属）、`CRAZY777`、`CRAZYWORLD`、`GIFT666`、`GIFT777`、`GIFT888`、`SSJ2026`、`Pud777`、`Akon777`、`rog777`、`nyy777`、`pppp777`。
 - **iOS 专属官方 Web 兑换通道**：
   - 因苹果 App Store 官方规范限制，iOS 游戏客户端内未设置直接兑换码输入框。官方设立专属 Web 兑换入口：`https://www.gamermall.net/global/flot/cdkey`，iOS 玩家输入游戏角色 ID（UID）与服务器编号即可兑换奖励至游戏内邮箱。

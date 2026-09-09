@@ -10,9 +10,9 @@ okf_version: "0.1"
 * [寒霜启示录 市场定位与竞品分析](market-position.md) - 点点互动在全球冰雪末日SLG赛道的破局之路，对比《无尽的拉格朗日》、《万国觉醒》、《Age of Origins》、《Last War》等竞品。
 * [寒霜启示录 商业化设计](monetization.md) - 极高ARPU的4X SLG商业化策略，涵盖永久功能礼包、VIP特权、幸运轮盘、火晶礼包与世代英雄抽卡。
 * [寒霜启示录 (Whiteout Survival) 概览](overview.md) - 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的产品定位、核心玩法特色与长线留存逻辑。
-* [寒霜启示录 数值与长线养成系统](progression.md) - 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火晶纪元）、领主装备/宝符、17代英雄与晨曦学堂专家长线养成结构。
+* [寒霜启示录 数值与长线养成系统](progression.md) - 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火晶纪元）、领主装备/宝符、18代英雄与晨曦学堂专家长线养成结构。
 * [寒霜启示录 风险与未知项](risks-unknowns.md) - 寒霜启示录在世代数值膨胀、大氪玩家对快速提升付费上限的反馈、混合变现平衡与长线买量成本方面的风险评估。
-* [寒霜启示录 社交与 LiveOps 运营体系](social-liveops.md) - 寒霜启示录的联盟社交结构、跨服王战 (SvS)、2026年9月冰火战歌联赛规则重塑与“双星同行”/诚品动漫祭LiveOps运营。
+* [寒霜启示录 社交与 LiveOps 运营体系](social-liveops.md) - 寒霜启示录的联盟社交结构、跨服王战 (SvS)、2026年9月冰火战歌联赛规则重塑、18代英雄活动与“双星同行”/诚品动漫祭LiveOps运营。
 * [寒霜启示录 参考资料与来源](sources.md) - 收集自 Century Games 官方公告、AppMagic、Sensor Tower、BlueStacks、BuffBuff、Eldorado.gg、WSCO Blog、GNN 新闻、Treabar、GamsGo、TOPUPlive、WoS Tools、WOS Wiki 与巴哈姆特社区的参考资料清单。
 
 # Subdirectories

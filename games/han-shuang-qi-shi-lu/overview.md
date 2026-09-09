@@ -4,7 +4,7 @@ title: 寒霜启示录 (Whiteout Survival) 概览
 description: 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的产品定位、核心玩法特色与长线留存逻辑。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-08T11:00:00Z"
+timestamp: "2026-09-09T11:00:00Z"
 ---
 
 # 寒霜启示录 概览
@@ -14,7 +14,7 @@ timestamp: "2026-09-08T11:00:00Z"
 - **游戏名称**：寒霜启示录（Whiteout Survival）
 - **开发商/发行商**：点点互动（Century Games / 世纪华通）
 - **品类**：4X 策略 SLG + 冰雪末日生存模拟 + 放置 RPG
-- **主要市场**：全球（欧美、日韩、港澳台及中国大陆等，全球累计下载与注册玩家突破 4 亿，海外 App Store 与 Google Play 累计内购流水超 22.4 亿美元，全生态总流水逼近 50 亿美元）
+- **主要市场**：全球（欧美、日韩、港澳台及中国大陆等，全球累计下载与注册玩家突破 4 亿，海外 App Store 与 Google Play 累计内购流水超 22.4 亿美元，全生态总流水逼近 50 亿美元；在 2026 年 8 月全球移动游戏总收入榜中高居第 3 位，继续领跑全球策略 SLG 赛道）
 - **商业化模式**：免费下载 + 道具内购（F2P + IAP / 网页商城 Frost Stars 双轨）
 
 ## 核心设计特色
@@ -29,7 +29,7 @@ timestamp: "2026-09-08T11:00:00Z"
    - **重度 4X SLG**：中后期过度至大地图资源争夺、联盟大本营扩张、[燃霜矿区](/systems/content-modes.md)、[冰火战歌联赛](/systems/content-modes.md)与[太阳城争霸](/systems/territory-war.md)。
 
 3. **世代英雄、火晶时代与长线竞技驱动**：
-   - 围绕每 80 天更新一代的[世代英雄](/progression.md)（目前已推进至第 17 代英雄，如 [Aiden](/entities/units/aiden.md)）以及[晨曦学堂专家](/entities/units/justus.md)（如 [Justus](/entities/units/justus.md)、[加雷斯](/entities/units/gareth.md)）展开长线数值养成。
+   - 围绕每 80 天更新一代的[世代英雄](/progression.md)（截至 2026 年 9 月已正式推进至第 18 代英雄，如 [约顿](/entities/units/jordan.md)、[艾登](/entities/units/aiden.md)）以及[晨曦学堂专家](/entities/units/justus.md)（如 [Justus](/entities/units/justus.md)、[加雷斯](/entities/units/gareth.md)）展开长线数值养成。
    - 主城熔炉 30 级后开启[火晶时代（FC1-FC10及Fire Crystal Age）](/systems/base-build.md)与炽炎科技 T12 煌耀兵种，为高付费玩家提供持续追求。
    - 持续推陈出新的跨服赛事（SvS 最强王国、冰火战歌联赛、凛冬围城），构建高凝聚力的联盟竞争壁垒。
 

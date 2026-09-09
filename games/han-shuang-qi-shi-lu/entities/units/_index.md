@@ -4,12 +4,12 @@ title: 寒霜启示录 (Whiteout Survival) 英雄列表 (Units Roster)
 description: 寒霜启示录精选代表性英雄列表，涵盖核心SSR/SR英雄、世代英雄与晨曦学堂专家。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-08T11:00:00Z"
+timestamp: "2026-09-09T11:00:00Z"
 ---
 
 # 寒霜启示录 英雄列表 (Units Roster)
 
-本目录记录《寒霜启示录》中最具代表性的核心英雄实体。根据 Manifest 的 `unit_policy: representative` 策略，知识库仅精选对新手引导、大付费锚定、战斗/城建 Meta 以及 LiveOps 运营至关重要的代表性英雄：
+本目录记录《寒霜启示录》中最具代表性的核心英雄实体。根据 Manifest 的 `unit_policy: representative` 策略，知识库仅精选对新手引导、大付费锚定、战斗/城建 Meta 以及 LiveOps 运营至关重要的 15 位代表性英雄与专家：
 
 ## 精选代表性英雄与专家
 
@@ -24,14 +24,15 @@ timestamp: "2026-09-08T11:00:00Z"
 - [米娅 (Mia)](/entities/units/mia.md) — SSR 矛兵（第三代转盘 / 猎熊行动与暴击爆发输出核心）
 - [埃莱奥诺拉 (Eleonora)](/entities/units/eleonora.md) — SSR 盾兵（第11代转盘 / T0级烈焰之盾与融防坦克）
 - [汉克 (Hank)](/entities/units/hank.md) — SSR 盾兵（第15代转盘 / 绝对防御领域与战线压制）
-- [艾登 (Aiden)](/entities/units/aiden.md) — SSR 盾兵（第17代最新转盘 / 2026顶级防线与火炬之盾）
-- *第18代英雄（Gen 18 先锋前瞻）* — 2026年9月在极少数开服1320天以上的先锋服开启测试预览，全服英雄图鉴增至65位以上
+- [艾登 (Aiden)](/entities/units/aiden.md) — SSR 盾兵（第17代最新转盘 / 顶级防线与火炬之盾）
+- [约顿 (Jordan)](/entities/units/jordan.md) — SSR 盾兵（第18代最新英雄 / 狂涛战局掌控者、突破敌军行军防线）
+- *第18代英雄阵容（Gen 18 正式登场）* — 2026年9月官方App Store活动及先锋服正式公开阵容：约顿 (Jordan，盾兵)、艾西娅 (Aisha，矛兵)、尼古拉 (Nikola，弓兵)，全服英雄图鉴增至65位以上
 - [加雷斯 (Gareth)](/entities/units/gareth.md) — 传奇军事专家（晨曦学堂 / 铁棘领主、反伤与集结低战损）
 - [贾斯图斯 (Justus)](/entities/units/justus.md) — 传奇成长专家（2026年8月前瞻、排期于10月上线 / 王朝荣誉宝箱与迷宫探险收益）
 
 ## 关联页面
 
-- [数值与长线养成：17代英雄迭代表](/progression.md)
+- [数值与长线养成：18代英雄迭代表](/progression.md)
 - [战斗系统与战术摆位](/systems/session-combat.md)
 - [基地建造与大熔炉](/systems/base-build.md)
 - [商业化模型：英雄付费与转盘](/monetization.md)

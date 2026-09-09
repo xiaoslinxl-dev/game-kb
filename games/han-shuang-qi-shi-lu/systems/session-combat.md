@@ -4,7 +4,7 @@ title: 寒霜启示录 战斗系统与战术摆位 (Session Combat)
 description: 寒霜启示录的小队回合/放置 RPG 战斗与 4X 大地图 SLG 行军/集结战斗双重模式解构。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-08T11:00:00Z"
+timestamp: "2026-09-09T11:00:00Z"
 ---
 
 # 寒霜启示录 战斗系统与战术摆位 (Session Combat)
@@ -17,7 +17,7 @@ timestamp: "2026-09-08T11:00:00Z"
 
 ### 1.1 站位与队伍构成
 - 队伍由 **5 名英雄** 组成，阵型分为前排（1、2 号位）与后排（3、4、5 号位）：
-  - **前排**：推荐放置盾兵/步兵英雄（如[杰罗尼莫](/entities/units/jeronimo.md)、[娜塔莉亚](/entities/units/natalia.md)、[弗林特](/entities/units/flint.md)、[埃莱奥诺拉](/entities/units/eleonora.md)、[汉克](/entities/units/hank.md)、[艾登](/entities/units/aiden.md)），吸收伤害并提供控制与护盾。
+  - **前排**：推荐放置盾兵/步兵英雄（如[杰罗尼莫](/entities/units/jeronimo.md)、[娜塔莉亚](/entities/units/natalia.md)、[弗林特](/entities/units/flint.md)、[埃莱奥诺拉](/entities/units/eleonora.md)、[汉克](/entities/units/hank.md)、[艾登](/entities/units/aiden.md)、[约顿](/entities/units/jordan.md)），吸收伤害并提供控制与护盾。
   - **后排**：放置射手/枪兵与辅助英雄（如[茉莉](/entities/units/molly.md)、[菲利](/entities/units/philly.md)、[阿隆索](/entities/units/alonso.md)、[米娅](/entities/units/mia.md)），进行主力输出、点杀与治疗续航。
 
 ### 1.2 战斗机制
@@ -39,7 +39,7 @@ timestamp: "2026-09-08T11:00:00Z"
 
 ### 2.2 远征技能 (Expedition Skills)
 - **远征技能（Expedition Skills）**：在SLG战斗中，英雄不释放小队大招，而是触发其“远征技能”，为随行部队提供全局百分比攻击、防御、减伤或集结伤害加成。
-- **集结车头 (Rally Captain)**：集结战斗中，集结部队优先享受发起人（车头）的英雄远征技能加成，如[杰罗尼莫](/entities/units/jeronimo.md)的全局伤害提升或军事专家[加雷斯](/entities/units/gareth.md)的死伤减免。
+- **集结车头 (Rally Captain)**：集结战斗中，集结部队优先享受发起人（车头）的英雄远征技能加成，如[杰罗尼莫](/entities/units/jeronimo.md)的全局伤害提升、第18代前排[约顿](/entities/units/jordan.md)的惊涛破阵或军事专家[加雷斯](/entities/units/gareth.md)的死伤减免。
 
 ---
 

@@ -8,7 +8,7 @@ rarity: SSR (Generation 15)
 acquire: 幸运大转盘 (Lucky Wheel) / 高阶心愿小筑
 pay_relevance: high
 confidence: high
-timestamp: "2026-09-08T11:00:00Z"
+timestamp: "2026-09-09T11:00:00Z"
 ---
 
 # 汉克 (Hank)
@@ -32,4 +32,4 @@ timestamp: "2026-09-08T11:00:00Z"
 
 - [战斗系统与战术摆位](/systems/session-combat.md)
 - [英雄名录](/entities/units/_index.md)
-- [数值与长线养成：17代英雄迭代表](/progression.md)
+- [数值与长线养成：18代英雄迭代表](/progression.md)

@@ -4,7 +4,7 @@ title: 寒霜启示录 数值与长线养成系统
 description: 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火晶纪元）、领主装备/宝符、18代英雄与晨曦学堂专家长线养成结构。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-09T11:00:00Z"
+timestamp: "2026-09-10T11:00:00Z"
 ---
 
 # 寒霜启示录 数值与长线养成系统

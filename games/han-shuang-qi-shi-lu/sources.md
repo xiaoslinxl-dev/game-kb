@@ -4,7 +4,7 @@ title: 寒霜启示录 参考资料与来源
 description: 收集自 Century Games 官方公告、AppMagic、Sensor Tower、BlueStacks、BuffBuff、Eldorado.gg、WSCO Blog、GNN 新闻、Treabar、GamsGo、TOPUPlive、WoS Tools、WOS Wiki 与巴哈姆特社区的参考资料清单。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-09T11:00:00Z"
+timestamp: "2026-09-10T11:00:00Z"
 ---
 
 # 寒霜启示录 参考资料与来源
@@ -23,9 +23,9 @@ timestamp: "2026-09-09T11:00:00Z"
    - 链接：[WoS Tools State Transfer Confirmed September 13–19, 2026](https://wostools.net/blog) | [WoS Tools Chief Concierge Sneak Peek & Backlash](https://wostools.net/blog/chief-concierge-sneak-peek-august-2026) | [WoS Tools Experts Calculator](https://wostools.net/wiki/experts) | [WoS Heroes Generation 17 & 18 Guide](https://wosheroes.com/heroes/generation-17-heroes/) | [April 15, 2026 Update — Patch Notes & T12 FAQ](https://wostools.net/blog/april-15-2026-update)
    - 贡献内容：2026年8月大氪玩家对快速提升付费上限的反馈与反响分析（Frostdragon Tyrant 宣言与官方妥协排期）；晨曦学堂全部 10 位专家技能与升级消耗（Agnes, Cyrille, Holger, Romulus, Baldur, Fabian, Valeria, Ronne, Kathy, Gareth, Justus）；第17/18代英雄技能与兵种定位（Jordan - 盾兵, Aisha - 矛兵, Nikola - 弓兵, Aiden - 盾兵）；2026年9月13–19日跨服移民（State Transfer）第20组预测与规则（覆盖 States 4–4326，领航王国配额与领航荣耀 Leading Glory 体系）；T12兵种解锁科技树与防守站位。
 
-4. **GamesRadar, Daily Jang, BlueStacks, BuffBuff, Eldorado.gg & GamsGo 礼包追踪 (2026年9月9日)**：
+4. **GamesRadar, Daily Jang, BlueStacks, BuffBuff, Eldorado.gg & GamsGo 礼包与转服追踪 (2026年9月9-10日)**：
    - 链接：[GamesRadar Whiteout Survival codes (September 2026)](https://www.gamesradar.com/games/survival/whiteout-survival-codes-gift/) | [Daily Jang Whiteout survival codes September 2026](https://jang.com.pk/en/72830-whiteout-survival-codes-for-september-2026-to-redeem-exciting-rewards-news) | [BlueStacks 寒霜启示录2026年9月兑换码大全](https://www.bluestacks.com/tw/blog/redeem-codes/whiteout-survival-redeem-codes-tw.html) | [BuffBuff 最新寒霜启示录可用兌換碼 (2026-09-08)](https://buffbuff.com/zh-tw/blog/whiteout-survival-gift-codes) | [Eldorado.gg Whiteout Survival Newest Codes (Sep 7, 2026)](https://www.eldorado.gg/blog/whiteout-survival-en/whiteout-survival-newest-codes/) | [Treabar September State Transfer 3-Phase Guide](http://treabar.com/id/blog/10621)
-   - 贡献内容：2026年9月9日最新核实兑换码（`WOS0909` 9月9日最新上线，含3天原始共鸣头像框、500钻石、10个5分钟加速、200 VIP经验，需熔炉Lv.9；`4dp5ZGM4c` 限时至9月12日；常驻与社区活跃码 `GuDokYTKOR`, `2ndYoutubeKR`, `gogoWOS`, `wm6B7MM4u`, `K6ZbjAXK6`, `OFFICIALSTORE` 等）；iOS网页中心与Android内嵌双端兑换机制；2026年9月13–19日王国转移（State Transfer）三阶段流程与 Group 20（States 4251–4326）移民细则。
+   - 贡献内容：2026年9月10日最新核实兑换码（`WOS0909` 9月9日最新上线，含3天原始共鸣头像框、500钻石、10个5分钟加速、200 VIP经验，需熔炉Lv.9；`4dp5ZGM4c` 限时至9月12日；常驻与社区活跃码 `GuDokYTKOR`, `2ndYoutubeKR`, `gogoWOS`, `wm6B7MM4u`, `K6ZbjAXK6`, `OFFICIALSTORE` 等）；iOS网页中心与Android内嵌双端兑换机制；2026年9月13–19日王国转移（State Transfer）三阶段流程与 Group 20（States 4251–4326）移民细则。
 
 5. **巴哈姆特电玩疯与 GNN 新闻社群报道 (2026年7-9月)**：
    - 链接：[GNN新聞 2026-07-23 熊先生書屋限時開張帶來全球首發漫畫](https://gnn.gamer.com.tw/detail.php?sn=308622) | [迷誠品 熊先生書屋開張活動公告 (2026-08-01 ~ 09-30)](https://meet.eslite.com/tw/tc/news/202607170001) | [巴哈姆特 寒霜啟示錄哈啦區精華組](https://forum.gamer.com.tw/B.php?bsn=76999)

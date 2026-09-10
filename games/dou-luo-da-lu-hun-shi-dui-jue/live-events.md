@@ -3,7 +3,7 @@ type: LiveEvents
 title: 限时活动台账
 description: 《斗罗大陆：魂师对决》历史与当前已验证的限时卡池与运营活动记录
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-09T11:00:00Z
+timestamp: 2026-09-10T11:00:00Z
 confidence: high
 ---
 

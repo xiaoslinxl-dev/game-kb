@@ -3,7 +3,7 @@ type: Sources
 title: 信息来源与参考文献
 description: 本知识库用到的官方公告、商店页面、社区及媒体信源汇总
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-09T11:00:00Z
+timestamp: 2026-09-10T11:00:00Z
 confidence: high
 ---
 
@@ -79,3 +79,5 @@ confidence: high
 61. [233乐园 / biubiu加速器 游戏资讯区](https://www.233leyuan.com/) — 极道尘心真身系统、月神小舞玩法机制、百级成神剧本与太初食神奥斯卡烹饪做菜系统深度解析。
 62. [7723游戏 / 何二维一攻略](https://www.7723.cn/strategy/490132.html) — 资深玩家/攻略作者对于 SP+ 千面幻影·妖魅「幻面天成」机制与全 SP/SP+ 魂师节奏榜的深度分析。
 63. [微信公众号“迎风布阵的斗罗攻略”](https://mp.weixin.qq.com/s?__biz=M) — 检索获取神殿之争、盛情夏日扭蛋机、SP+奥斯卡做菜、月神小舞及五周年预告等实测细节。
+64. [好游快爆 - 斗罗大陆：魂师对决历史版本更新日志](https://m.3839.com/gamehistorylog/131769.htm) — 记录游戏版本 2.39.4、2.38.2、2.37.4、2.32.5（《仙逆》动画联动第一期与 SP 王林上线）、2.29.4（开学赠礼与 SP 霍雨浩&唐舞桐返场）等客户端版本记录。
+65. [腾讯应用宝 - 斗罗大陆：魂师对决详情与更新日志](https://sj.qq.com/appdetail/com.tencent.tmgp.dldlhsdjsy) — 记录版本 2.35.2（2026 马年新春版本「光黯·千仞雪」重磅登场、开服修罗诏令与 1000 万能碎片保送红五星福利）及全版本安装包信息。

@@ -4,7 +4,7 @@ title: 寒霜启示录 (Whiteout Survival) 概览
 description: 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的产品定位、核心玩法特色与长线留存逻辑。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-10T11:00:00Z"
+timestamp: "2026-09-11T11:00:00Z"
 ---
 
 # 寒霜启示录 概览
@@ -22,24 +22,20 @@ timestamp: "2026-09-10T11:00:00Z"
 1. **冰雪末日生存题材与情绪共鸣**：
    - 区别于传统三国、中世纪或现代战争 SLG，本作以极寒灾变与末日生存在全球市场脱颖而出。
    - 城建经营融合[大熔炉](/systems/base-build.md)供暖机制，幸存者有生病、暴动与满意度指数，强化前期的副玩法趣味与留存。
+2. **轻度模拟经营向重度 4X SLG 平滑过渡**：
+   - 前 1–3 小时主打模拟经营、供暖伐木与猎人小屋建造；
+   - 逐步解锁迷雾探索、探险副本（放置小队 RPG）与灯塔情报，最终平滑引入大地图行军、资源点采集与联盟战争（万国觉醒式大地图无缝缩放与据点争夺）。
+3. **高频世代轮换与长线数值深度**：
+   - 采用约 80 天一轮的“世代英雄（Hero Generations）”推出机制，截至 2026 年 9 月已推出第 18 代英雄（如[约顿](/entities/units/jordan.md)），有效解决了传统 SLG 后期战力停滞问题。
+   - 大熔炉 30 级后进入“火晶时代（FC1 至 FC10）”及火晶纪元（Version 1.33.9 资料片），融合[心愿驿站](/systems/base-build.md)、9 座免费娱乐设施、领主装备/宝符、宠物洗练与晨曦学堂专家，赋予大氪玩家深厚的战力追求。
+4. **强联盟社交与大型跨服生态 (LiveOps)**：
+   - 游戏深度依赖联盟互助与集结，设计了[猎熊行动](/social-liveops.md)、疯狂的乔、冰火战歌联赛、太阳城争霸及跨服王国对抗（SvS）。
+   - 定期开展王国转移（State Transfer，如 2026 年 9 月 13–19 日开启的 Group 20 跨服移民），并配套“领航荣耀体系（Leading Glory System）”维持各服生态活跃度。
 
-2. **轻重结合的混合玩法架构**：
-   - **轻度模拟经营与放置**：前期通过建造猎人小屋、木材厂、宿舍与大熔炉体验冰雪生存模拟。
-   - **放置 RPG 探险**：融合放置 RPG 探险关卡（如[茉莉](/entities/units/molly.md)、[吉娜](/entities/units/gina.md)的5v5推关），降低操作门槛。
-   - **重度 4X SLG**：中后期过度至大地图资源争夺、联盟大本营扩张、[燃霜矿区](/systems/content-modes.md)、[冰火战歌联赛](/systems/content-modes.md)与[太阳城争霸](/systems/territory-war.md)。
-
-3. **世代英雄、火晶时代与长线竞技驱动**：
-   - 围绕每 80 天更新一代的[世代英雄](/progression.md)（截至 2026 年 9 月已正式推进至第 18 代英雄，如 [约顿](/entities/units/jordan.md)、[艾登](/entities/units/aiden.md)）以及[晨曦学堂专家](/entities/units/justus.md)（如 [Justus](/entities/units/justus.md)、[加雷斯](/entities/units/gareth.md)）展开长线数值养成。
-   - 主城熔炉 30 级后开启[火晶时代（FC1-FC10及Fire Crystal Age）](/systems/base-build.md)与炽炎科技 T12 煌耀兵种，为高付费玩家提供持续追求。
-   - 持续推陈出新的跨服赛事（SvS 最强王国、冰火战歌联赛、凛冬围城），构建高凝聚力的联盟竞争壁垒。
-
-## 关联链接
+## 关联页面
 
 - [核心循环](/core-loop.md)
 - [数值与长线养成](/progression.md)
 - [商业化模型](/monetization.md)
 - [市场定位与竞品分析](/market-position.md)
-- [系统概览：城建与大熔炉](/systems/base-build.md)
-- [系统概览：联盟领地战与王城争霸](/systems/territory-war.md)
-- [代表性英雄概览](/entities/units/_index.md)
-- [参考资料与来源](/sources.md)
+- [社交与LiveOps运营](/social-liveops.md)

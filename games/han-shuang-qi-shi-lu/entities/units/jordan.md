@@ -8,7 +8,7 @@ rarity: SSR (Generation 18)
 acquire: 幸运大转盘 (Lucky Wheel) / 最强领主 (Hall of Chiefs)
 pay_relevance: high
 confidence: high
-timestamp: "2026-09-10T11:00:00Z"
+timestamp: "2026-09-11T11:00:00Z"
 ---
 
 # 约顿 (Jordan)

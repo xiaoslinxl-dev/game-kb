@@ -5,7 +5,7 @@ description: 《神庙逃亡2》（神庙逃跑2 / Temple Run 2 中文版）知�
 game_id: shen-miao-tao-pao-2
 genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
-timestamp: "2026-09-11T11:00:00Z"
+timestamp: "2026-09-12T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [session-combat, content-modes]
@@ -25,3 +25,9 @@ unit_policy: representative
   - `session-combat`：涵盖单局跑酷操作、重力感应与划屏避障、道具拾取、三位一体技能联动以及 2v2 竞技场干扰与对抗机制。
   - `content-modes`：涵盖经典无尽模式、竞技场/排位赛（1v1/2v2）、主题地图副本（如玩具王国、丝路奇遇、赛博神庙、百花戈壁、幽灵穹顶、全民假日等）、黄金矿山挂机及限时收集赛等多重玩法。
 - **Entities (实体模块)**：采用 `representative`（代表性实体）策略，挑选了 12 个具有代表性的角色、坐骑、宠物与羽翼配饰（如危险盖伊、莉莉丝、赵云、比奥斯博士、安妮、沃利纳特、雅丹天女、年兽、傲狠、仙灵鹤、小香猪、花蝶梦翅膀），覆盖新手入门、长线留存福利、版本付费锚点、传统文化联动与竞技 PvP Meta。
+
+## 2026 年 9 月 12 日最新运营动态与知识库同步要点
+
+1. **秋季开学季与中秋佳节双节主题运营深度推进**：游戏内持续开展“玩转九月开学季”活动，赛道中高频掉落【书本】与【书包】主题道具，并开启中秋佳节“花好月圆”限定羽翼与灵宠“中秋福灯”返场预热；
+2. **社区与渠道 CDKEY 兑换礼包同步**：汇总更新了 2026 秋季可用的通用与渠道专属礼包码（如 `smtw666`、`smtw888`、`smtw999`、`smtm520`、`SVIP666`、`SVIP777`、`SVIP888` 等），并在社交长线运营模块明确指引输入路径；
+3. **版本运行态势与公平竞技防护**：中文稳定版持续维持在 v7.3.2 体系，实物周边收集赛与排位榜单严格执行“3km 赛道道具刷新保护”防脚本机制，配合“黄金矿山”挂机资源产出，平衡玩家肝度与长期留存。

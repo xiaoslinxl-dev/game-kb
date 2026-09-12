@@ -4,7 +4,7 @@ title: 神庙逃亡2 资料来源与参考文献
 description: 《神庙逃亡2》知识库 Bundle 涉及的官方公告、媒体报道、玩家攻略与行业报告汇编。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-11T11:00:00Z"
+timestamp: "2026-09-12T11:00:00Z"
 ---
 
 # 资料来源与参考文献
@@ -31,7 +31,7 @@ timestamp: "2026-09-11T11:00:00Z"
    - 链接：[应用宝 - 神庙逃亡2 官方正版](https://sj.qq.com/appdetail/com.imangi.templerun2)  
    - 链接：[App Store - 神庙逃亡2 官方版](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673)
 4. **Imangi Studios 官方网站及 Google Play 页面**  
-   - Temple Run 2 官方全球版核心介绍、v1.134.0 版本更新与触控优化特性。  
+   - Temple Run 2 官方全球版核心介绍、v1.134.0~v1.136.0 版本更新与触控优化特性。  
    - 链接：[Imangi Studios 官方网站](https://imangistudios.com/thegames/temple-run-2/)  
    - 链接：[Google Play - Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2)
 
@@ -61,10 +61,11 @@ timestamp: "2026-09-11T11:00:00Z"
 
 ## 3. 玩家社区与攻略资料
 
-1. **233乐园 - 《神庙逃亡2跑酷游戏免费安装与高分实战技巧》**  
-   - 跟踪《神庙逃亡2》（畅游玩具王国）关卡随机机制、靠墙减速与半空转向高分技巧、坐骑技能与无尽逃亡玩法。  
+1. **233乐园 - 《神庙逃亡2跑酷游戏免费安装与高分实战技巧》与《2026热门小游戏合集兑换码汇总》**  
+   - 跟踪《神庙逃亡2》（畅游玩具王国）关卡随机机制、靠墙减速与半空转向高分技巧、最新可用福利礼包码与 CDKEY 兑换全攻略。  
    - 链接：[233乐园 神庙逃亡2专题](https://www.233leyuan.com/s/18636691598)  
-   - 链接：[233乐园 高分实战技巧](https://www.233leyuan.com/post-detail/2019616678920482602)
+   - 链接：[233乐园 高分实战技巧](https://www.233leyuan.com/post-detail/2019616678920482602)  
+   - 链接：[233乐园 2026热门小游戏合集兑换码汇总](https://www.233leyuan.com/a/13779076921)
 2. **4399 手机游戏网 - 《神庙逃亡2》竞技模式与阵容搭配攻略**  
    - 竞技场 2v2 玩法规则解析、莉莉丝/赵云/傲狠/花蝶梦技能联动与实战技巧。  
    - 链接：[4399手机游戏网专区](https://a.4399.cn/gl/36419639_24368.html)  

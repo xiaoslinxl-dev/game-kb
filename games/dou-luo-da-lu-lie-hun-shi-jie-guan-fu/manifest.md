@@ -5,7 +5,7 @@ description: 知识库模块架构定义与内容索引
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 genre_tags: [mmo, mmorpg, open-world, action, douluo-ip, 3d]
 language: zh-CN
-timestamp: "2026-09-11T11:00:00Z"
+timestamp: "2026-09-12T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
 modules_systems: [session-combat, exploration, content-modes, matchmaking]
@@ -26,3 +26,10 @@ unit_policy: representative
    - `matchmaking.md`：覆盖「斗魂对决」跨服赛季 PvP 竞技与天梯匹配机制。
 3. **实体模块（Entities）**：
    - `entities/units/`：遵循 `unit_policy: representative` 原则，收录 12 个涵盖强攻、敏攻、控制、防御、辅助全定位及攻防双形态的核心代表性武魂/魂师档案。
+
+## 2026年9月12日最新运营动向
+
+1. **2.0 年度大版本「魂骨淬锋」深化运行**：游戏当前处于 2.0.0 核心版本阶段，等级上限扩展至 88 级，魂环强化上限提升至 70 级。外附魂骨（面部星宸灵瞳骨/胸部月辉晶心铠）三维养成与魂骨符文赤金升品系统全面生效；
+2. **首个攻守双形态武魂「白甲地龙」（拓跋云）上线**：2026年9月10日正式开启「白虹裁月」限定卡池（持续至10月7日），同步返场光明圣龙与灵眸。拓跋云凭借「剑盾蓄雷守千钧」与「锯斧破阵断八方」的双形易势机制成为版本攻防一体新核心，社区打卡挑战活动火热开展；
+3. **9月全新龙系战令宝典「金曜破霄龙」接档**：2026年9月11日05:00正式接棒结算的「不落金乌」战令，开启为期一个月的全新通行证周期，提供黄金龙王秋儿星魂命轨与限定武魂幻形；
+4. **周常策略演武与竞技排位推进**：「斗罗演武：元素掌控 (9月期)」步入第二阶段（双队试炼推进至第10层，第二首领挑战开启）；跨服天梯「天水雷汐劫·S14赛季」与「远征计划 (2.0赛季)」火热争榜中。

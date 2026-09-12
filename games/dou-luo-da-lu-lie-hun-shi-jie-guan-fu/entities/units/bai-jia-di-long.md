@@ -7,7 +7,7 @@ rarity: SSR
 acquire: 限定觉醒卡池「白虹裁月」（2026-09-10 ~ 2026-10-07）
 pay_relevance: high
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
-timestamp: 2026-09-11T11:00:00Z
+timestamp: 2026-09-12T11:00:00Z
 confidence: high
 ---
 

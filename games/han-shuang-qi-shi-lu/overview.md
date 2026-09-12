@@ -4,7 +4,7 @@ title: 寒霜启示录 (Whiteout Survival) 概览
 description: 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的产品定位、核心玩法特色与长线留存逻辑。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-11T11:00:00Z"
+timestamp: "2026-09-12T11:00:00Z"
 ---
 
 # 寒霜启示录 概览
@@ -29,8 +29,8 @@ timestamp: "2026-09-11T11:00:00Z"
    - 采用约 80 天一轮的“世代英雄（Hero Generations）”推出机制，截至 2026 年 9 月已推出第 18 代英雄（如[约顿](/entities/units/jordan.md)），有效解决了传统 SLG 后期战力停滞问题。
    - 大熔炉 30 级后进入“火晶时代（FC1 至 FC10）”及火晶纪元（Version 1.33.9 资料片），融合[心愿驿站](/systems/base-build.md)、9 座免费娱乐设施、领主装备/宝符、宠物洗练与晨曦学堂专家，赋予大氪玩家深厚的战力追求。
 4. **强联盟社交与大型跨服生态 (LiveOps)**：
-   - 游戏深度依赖联盟互助与集结，设计了[猎熊行动](/social-liveops.md)、疯狂的乔、冰火战歌联赛、太阳城争霸及跨服王国对抗（SvS）。
-   - 定期开展王国转移（State Transfer，如 2026 年 9 月 13–19 日开启的 Group 20 跨服移民），并配套“领航荣耀体系（Leading Glory System）”维持各服生态活跃度。
+   - 游戏深度依赖联盟互助与集结，设计了[猎熊行动](/social-liveops.md)、疯狂的乔、冰火战歌联赛、太阳城争霸、跨服王国对抗（SvS）以及跨赛区巅峰对决[霜龙霸主](/systems/territory-war.md)。
+   - 定期开展王国转移（State Transfer，如 2026 年 9 月 13–19 日开启的 Group 20 跨服移民，当前进入最后不足 13 小时临战倒计时），并配套“领航荣耀体系（Leading Glory System）”维持各服生态活跃度。
 
 ## 关联页面
 

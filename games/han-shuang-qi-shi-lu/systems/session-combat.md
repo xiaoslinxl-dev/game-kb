@@ -4,7 +4,7 @@ title: 寒霜启示录 战斗系统与战术摆位 (Session Combat)
 description: 寒霜启示录的小队回合/放置 RPG 战斗与 4X 大地图 SLG 行军/集结战斗双重模式解构。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-11T11:00:00Z"
+timestamp: "2026-09-12T11:00:00Z"
 ---
 
 # 寒霜启示录 战斗系统与战术摆位 (Session Combat)
@@ -30,16 +30,17 @@ timestamp: "2026-09-11T11:00:00Z"
 
 ## 2. 大地图 SLG 行军与集结战斗 (Map SLG Combat)
 
-适用于**野外采矿/击杀野兽**、**城邦攻防战**、**联盟集结 (Rally)**、**燃霜矿区**与[太阳城争霸](/systems/territory-war.md)。
+适用于**野外采矿/击杀野兽**、**城邦攻防战**、**联盟集结 (Rally)**、**燃霜矿区**、[太阳城争霸](/systems/territory-war.md)与[霜龙霸主](/systems/territory-war.md)。
 
 ### 2.1 行军与部队构成
 - 领主派遣队伍由 **1 名主将（队长）+ 2 名副将** 带领，携带一定数量的三大兵种（盾兵、矛兵、弓兵）。在[冰火战歌联赛](/systems/content-modes.md)中，出战阵容强制要求配置满 3 名英雄。
 - 部队行军速度受领主科技、英雄远征技能与领主装备加成。
 - **高阶兵种统治力**：研发炽炎科技后解锁的 **T12 煌耀兵种（Exalted Troops）** 在攻防三维上具有压倒性优势，成为高世代服务器中集结与驻防胜负的核心胜负手。
 
-### 2.2 远征技能 (Expedition Skills)
+### 2.2 远征技能 (Expedition Skills) 与集结车头机制
 - **远征技能（Expedition Skills）**：在SLG战斗中，英雄不释放小队大招，而是触发其“远征技能”，为随行部队提供全局百分比攻击、防御、减伤或集结伤害加成。
 - **集结车头 (Rally Captain)**：集结战斗中，集结部队优先享受发起人（车头）的英雄远征技能加成，如[杰罗尼莫](/entities/units/jeronimo.md)的全局伤害提升、第18代前排[约顿](/entities/units/jordan.md)的惊涛破阵或军事专家[加雷斯](/entities/units/gareth.md)的死伤减免。
+- **顶级战役集结与补兵机制**：在[霜龙霸主](/systems/territory-war.md)等多服对抗中，防守与进攻建筑均依赖多路车头轮番集结及庞大“车身”盟友的高频快速补兵，战损由全队共同分担，高度考验联盟执行力。
 
 ---
 

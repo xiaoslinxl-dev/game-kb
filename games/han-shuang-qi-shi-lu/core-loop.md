@@ -4,7 +4,7 @@ title: 寒霜启示录 核心循环
 description: 解析《寒霜启示录》从前期模拟经营到中后期4X大地图战争的双核循环机制。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-11T11:00:00Z"
+timestamp: "2026-09-12T11:00:00Z"
 ---
 
 # 寒霜启示录 核心循环
@@ -28,7 +28,7 @@ timestamp: "2026-09-11T11:00:00Z"
 
 1. **野外资源采集与野兽猎杀**：派遣军队采集地图大矿，猎杀冰原野兽与冰原巨兽（Bear / Beast），获得领主装备材料与宝石。
 2. **联盟集结与领地建造**：加入活跃联盟，建造联盟旗帜与工程站，瓜分要塞（Fortress）与枢纽设施。
-3. **王城争霸与跨服对抗**：参与日光城（Sunfire Castle）争夺战、跨国决战（State vs State）与[冰火战歌联赛](/systems/content-modes.md)，争夺国王特权与全服排名奖励。
+3. **王城争霸、跨服对抗与巅峰战**：参与日光城（Sunfire Castle）争夺战、跨服最强王国（State vs State）、[霜龙霸主](/systems/territory-war.md)多王国巅峰对决与[冰火战歌联赛](/systems/content-modes.md)，争夺执政官特权、霸主王座与全服排名奖励。
 
 相关文档链接：
 - [游戏概览](/overview.md)

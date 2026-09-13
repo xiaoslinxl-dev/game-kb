@@ -4,7 +4,7 @@ title: 疯狂水世界 资料来源与参考文献
 description: 疯狂水世界知识库 Bundle 所引用的官方渠道、媒体报道与社区攻略清单。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-12T11:00:00Z"
+timestamp: "2026-09-13T11:00:00Z"
 ---
 
 # 疯狂水世界 资料来源与参考文献
@@ -18,7 +18,7 @@ timestamp: "2026-09-12T11:00:00Z"
 2. [TapTap — 疯狂水世界官方页面与论坛](https://www.taptap.cn/app/790816)
    - 益世界官方下载页面、制作人“水哥”开发理念、陈小春代言与狂浪节公告、年中开荒报告送多汪多旺皮肤活动、AI 真人短剧预告，以及 2026 年 8 月微信小游戏与抖音小游戏大盘双榜眼、最新礼包码讨论。
 3. [TapTap 官方论坛 — 账号迁移申请与多端互通专区](https://www.taptap.cn/app/790816/topic)
-   - 2026年9月8日至12日持续更新。官方开通抖音小游戏海岛服/海港服、番茄小说小程序及微信小程序角色迁移至官服原生 APP 的统一申请受理流程，帮助高战力玩家解决设备发热掉帧痛点。
+   - 2026年9月8日至13日持续更新。官方开通抖音小游戏海岛服/海港服、番茄小说小程序及微信小程序角色迁移至官服原生 APP 的统一申请受理流程，帮助高战力玩家解决设备发热掉帧痛点。
 4. [小米游戏中心 — 疯狂水世界【评价有奖】活动与更新专区](https://game.xiaomi.com/viewpoint/1672495402_1788487200339_100)
    - 2026年9月3日至9月30日官方好评宠粉活动。官方简介、基础机制（潜水拾荒、基地经营、社区订单、英雄委任、巅峰擂台赛赛制与联盟商船规则详解）。
 5. [Google Play — 瘋狂水世界 (Wild Water World / Flot Shelter)](https://play.google.com/store/apps/details?id=com.iyagames.flotshelter&hl=zh_HK)
@@ -74,38 +74,44 @@ timestamp: "2026-09-12T11:00:00Z"
 ## 3. 玩家社区与核心攻略精选
 
 28. [7724游戏 — 疯狂水世界兑换码没过期-十五个礼包码永久有效](http://www.7724.com/fjssj/news/237612.html)
-    - 2026年9月12日最新实测发布。整理并下发全新一批 15 个有效礼包码（DSFMFDSKHDSF, WETEIWQ9T, SDGDSAMGKS, WETEIW9TEW, DAGDSMAKG, WQTIEWQ9T, TTMQHQE, ADSGNGJWETEW, FSJSWATER, FSJSVIPGIFT, FSJSYUE08, FSJSLUCK, RQHRIQW9H [648礼包], DGDSGMK, SDHFI9HS, ADGDSAGMK, ETMWKYQW, 3WETIEW9T, ADSGMDSKG, RQHIQ9H, afmskg）及领取限制规范。
-29. [7724游戏 — 疯狂水世界中秋兑换码2026年—中秋礼包码最新领取](http://www.7724.com/fjssj/news/238104.html)
-    - 2026年9月9-11日发布。汇总最新中秋节限定礼包兑换码（ASSGMSDAGW, TEIQ9QE, 3RYMWQY, DHNDIS9HDS, SDHMDFSKH, WQTWEIQ9TWE, SDAGADSMGK）及专属渠道福利码。
-30. [游侠手游 — 疯狂水世界最新礼包码汇总](https://m.ali213.net/news/gl2603/1753189.html)
-    - 2026年9月8-12日实测更新。首发最新礼包码（2SJJ5064, SJJ58023, 提示 SJJ72915 已过期）与兑换使用指南。
-31. [3733游戏 — 疯狂水世界中秋国庆要屯多少资源-中秋国庆囤货攻略与功勋速刷](https://m.3733.com/news/478015.html)
-    - 2026年9月4-12日攻略。金秋双节半成品与种子储备规划、攻勋速刷技巧与生产线分配。
-32. [18183手游网 — 2026疯狂水世界兑换码大全疯狂水世界礼包码9月最新汇总](https://m.18183.com/gonglue/202609/9jgogk6m.html)
-    - 2026年9月7日-12日更新，最新整理9月可用礼包码合集（APBG6O46、64SJJ72、73SJJ95、共贺百万、CYKMP7WY等）及兑换流程说明。
-33. [巴哈姆特哈啦区 — 【情報】禮包碼序號整理（瘋狂水世界）](https://forum.gamer.com.tw/C.php?bsn=85988&snA=18)
-    - 2026年9月4日-9月12日玩家社群整理，汇总海外/繁中版全套有效序号（AKON777, NYY777, ROG777, PUD777, PPPP777, GIFT666, GIFT777, GIFT888, JUEUN777, CRAZY777, CRAZYWORLD, SSJ2026, FLOTDISCORD2026）及 iOS 官网兑换流程验证。
-34. [精灵手游代储 — 《瘋狂水世界》T0角色強度排行｜最強英雄推薦攻略](https://elfgames24h.com/%E7%98%8B%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C%E6%94%BB%E7%95%A5/)
-    - 2026年9月2日实测更新，深度解析 T0 梯队兰博（持续输出/全队攻速增益/主C）、雷教授、蜜雪儿与大嘴山姆的实战建队思路。
-35. [精灵手游代储 — 【2026禮包碼】《瘋狂水世界》最新兌換碼與特色玩法](https://elfgames24h.com/%E7%98%8B%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C%E7%A6%AE%E5%8C%85%E7%A2%BC/)
+    - 2026年9月12-13日最新实测发布。整理并下发全新一批有效礼包码及领取限制规范。
+29. [7724游戏 — 疯狂水世界中秋活动2026玩法—国庆活动奖励一览](http://www.7724.com/fjssj/news/238128.html)
+    - 2026年9月13日最新发布。剖析金秋双节（中秋节与国庆节）前瞻合并活动规则、节日限定花灯兑换、七日签到与专属冲榜福利。
+30. [7724游戏 — 疯狂水世界官方正版下载入口—疯狂水世界体验指引](http://www.7724.com/fjssj/news/238119.html)
+    - 2026年9月13日指引。官方双端正版入口体验指引、防封反外挂规范与云端同步要点。
+31. [3733游戏 — 疯狂水世界海商王极限跑商攻略与功勋速刷技巧](http://m.3733.com/news/478052.html)
+    - 2026年9月13日高阶攻略。解构海商王玩法海域城池供求价差模型、批发部高倍率订单调度策略与 S7 攻城零损刷功勋方法。
+32. [3733游戏 — 疯狂水世界中秋国庆要屯多少资源-中秋国庆囤货攻略与功勋速刷](https://m.3733.com/news/478015.html)
+    - 2026年9月4-13日攻略。金秋双节半成品与种子储备规划、功勋速刷技巧与生产线分配。
+33. [趣想互动官方社区 — 疯狂水世界常驻玩法合集（海商王/联盟商船/巅峰赛全解析）](https://fkssj.quxianghudong.com/thread/106820)
+    - 2026年9月13日综合指引。系统化解析海商王、联盟商船、世界BOSS、远征副本与巅峰擂台赛赛程及收益最大化模型。
+34. [游侠手游 — 疯狂水世界最新礼包码汇总](https://m.ali213.net/news/gl2603/1753189.html)
+    - 2026年9月8-13日实测更新。首发最新礼包码（提示 SJJ72915 已过期）与兑换使用指南。
+35. [18183手游网 — 2026疯狂水世界兑换码大全疯狂水世界礼包码9月最新汇总](https://m.18183.com/gonglue/202609/9jgogk6m.html)
+    - 2026年9月7日-13日更新，最新整理9月可用礼包码合集及兑换流程说明。
+36. [巴哈姆特哈啦区 — 【情報】禮包碼序號整理（瘋狂水世界）](https://forum.gamer.com.tw/C.php?bsn=85988&snA=18)
+    - 2026年9月4日-9月13日玩家社群整理，汇总海外/繁中版全套有效序号（AKON777, NYY777, ROG777, PUD777, PPPP777, GIFT666, GIFT777, GIFT888, JUEUN777, CRAZY777, CRAZYWORLD, SSJ2026, FLOTDISCORD2026）及 iOS 官网兑换流程验证。
+37. [精灵手游代储 — 《瘋狂水世界》T0角色強度排行｜最強英雄推薦攻略](https://elfgames24h.com/%E7%98%8B%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C%E6%94%BB%E7%95%A5/)
+    - 2026年9月实测更新，深度解析 T0 梯队兰博（持续输出/全队攻速增益/主C）、雷教授、蜜雪儿与大嘴山姆的实战建队思路。
+38. [精灵手游代储 — 【2026禮包碼】《瘋狂水世界》最新兌換碼與特色玩法](https://elfgames24h.com/%E7%98%8B%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C%E7%A6%AE%E5%8C%85%E7%A2%BC/)
     - 繁体中文版最新礼包码合集（JUEUN777, FLOTDISCORD2026, CRAZY777等）、官方兑换流程与开荒策略。
-36. [雷电模拟器 — 《瘋狂水世界》新手攻略｜主要玩法、資源獲取技巧和開荒必做](https://www.ldplayer.tw/blog/wild-water-world-beginner-guide.html)
-    - 2026年9月2日更新，基础资源打捞优先级（木板＞金属＞塑料＞绳索）、收集器3级自动收集、拾荒船2级提速与鲨鱼碰撞3次机制、14级前基础循环与100关海上田园。
-37. [雷电模拟器 — 《瘋狂水世界》陣容推薦｜新手配隊與6套實用隊伍整理](https://www.ldplayer.tw/blog/wild-water-world-team-guide.html)
-    - 2026年9月1日实测配队，整理新手队、群伤队、刺客队、召唤队（李忠诚+机修萝莉+神父欧玛+不死州长+大嘴山姆）、闪避队与发育队。
-38. [雷电模拟器 — 《瘋狂水世界》禮包碼整理|最新可用兌換碼序號&兌換教學](https://www.ldplayer.tw/blog/wild-water-world-codes.html)
-    - 2026年9月4日更新，最新可用礼包码序列（GIFT666, GIFT777, GIFT888, CRAZYWORLD, SSJ2026, Pud777, Akon777, rog777, nyy777, pppp777, JUEUN777, FLOTDISCORD2026）与官方 iOS 独立 Web 兑换通道。
-39. [游侠手游 — 疯狂水世界S6赛季最强阵容搭配推荐](https://m.ali213.net/news/gl2606/1786963.html)
+39. [雷电模拟器 — 《瘋狂水世界》新手攻略｜主要玩法、資源獲取技巧和開荒必做](https://www.ldplayer.tw/blog/wild-water-world-beginner-guide.html)
+    - 2026年9月更新，基础资源打捞优先级（木板＞金属＞塑料＞绳索）、收集器3级自动收集、拾荒船2级提速与鲨鱼碰撞3次机制、14级前基础循环与100关海上田园。
+40. [雷电模拟器 — 《瘋狂水世界》陣容推薦｜新手配隊與6套實用隊伍整理](https://www.ldplayer.tw/blog/wild-water-world-team-guide.html)
+    - 2026年9月实测配队，整理新手队、群伤队、刺客队、召唤队（李忠诚+机修萝莉+神父欧玛+不死州长+大嘴山姆）、闪避队与发育队。
+41. [雷电模拟器 — 《瘋狂水世界》禮包碼整理|最新可用兌換碼序號&兌換教學](https://www.ldplayer.tw/blog/wild-water-world-codes.html)
+    - 2026年9月更新，最新可用礼包码序列与官方 iOS 独立 Web 兑换通道。
+42. [游侠手游 — 疯狂水世界S6赛季最强阵容搭配推荐](https://m.ali213.net/news/gl2606/1786963.html)
     - 2026年S6赛季国家队铁三角（大嘴山姆+兰博+巫师老侃）精析、蜜雪儿控场与16点回能机制、千代双C搭配与李忠诚1星承伤过渡。
-40. [3733手游网 — 疯狂水世界最强阵容搭配推荐与氪金攻略](https://m.3733.com/news/478008.html)
+43. [3733手游网 — 疯狂水世界最强阵容搭配推荐与氪金攻略](https://m.3733.com/news/478008.html)
     - 国家队（懂王/兰博/侃爷/腿魔/大帝）构建、英雄3星技能质变节点、自动特权解锁条件与礼包性价比梯度。
-41. [游戏宝 — 疯狂水世界 S1-S6 顶级阵容与装备词条搭配攻略](https://m.youxibao.com/gonglue/41518.html)
+44. [游戏宝 — 疯狂水世界 S1-S6 顶级阵容与装备词条搭配攻略](https://m.youxibao.com/gonglue/41518.html)
     - 兰博攻速词条（1.0-1.2区间）、大嘴山姆 75% 闪避阈值、千代锁头主 C 机制与海兽培育选择。
-42. [趣想互动官方社区 — 疯狂水世界版本更新细节与联盟商船/巅峰擂台赛全攻略](https://fkssj.quxianghudong.com/thread/105401)
+45. [趣想互动官方社区 — 疯狂水世界版本更新细节与联盟商船/巅峰擂台赛全攻略](https://fkssj.quxianghudong.com/thread/105401)
     - 联盟商船出海规则与水母币收益测算、巅峰擂台赛赛程与竞猜机制、矿场抢占 30 次上限机制、洗刷锁与战利品分配解析。
-43. [趣想互动官方社区论坛 — 疯狂水世界合区周期与S1/S2超凡英雄数值探讨](https://fkssj.quxianghudong.com/thread/102498)
+46. [趣想互动官方社区论坛 — 疯狂水世界合区周期与S1/S2超凡英雄数值探讨](https://fkssj.quxianghudong.com/thread/102498)
     - 2026年玩家社区与官方讨论区确认全服 18 天标准赛季周期（S1 18天合服进 S2，后续 4 服合服并提供 72 小时自由组盟窗口）。披露高阶超凡英雄（北境大帝、千代）完全成型需 1400 碎片与 1120 技能书，专武升级消耗 725 中级、900 高级、350 特级合金。
-44. [Pocket Gamer — Set sail in Wild Water World with 210 free draws to claim](https://www.pocketgamer.com/wild-water-world/global-launch/)
-    - 2026年9月1-12日海外公测专栏报道，分析 IYAGAMES 全球发行策略、开局 210 抽福利体系与“漂流者的海上派对”（Drifting Sea Party）跨国玩家创作征集收官与评审成果。
-45. [趣想互动官方社区 / TapTap论坛 — 疯狂水世界战区生态与安全治理公告](https://fkssj.quxianghudong.com/)
-    - 2026年9月10-12日社区动态。针对 S7 赛季中后期跨区服对局、大地图联盟城战态势（9235/9236 战区生态）及脚本辅助打击展开治理公告，保障健康公平的竞技环境。
+47. [Pocket Gamer — Set sail in Wild Water World with 210 free draws to claim](https://www.pocketgamer.com/wild-water-world/global-launch/)
+    - 2026年9月海外公测专栏报道，分析 IYAGAMES 全球发行策略、开局 210 抽福利体系与“漂流者的海上派对”（Drifting Sea Party）跨国玩家创作征集收官与评审成果。
+48. [趣想互动官方社区 / TapTap论坛 — 疯狂水世界战区生态与安全治理公告](https://fkssj.quxianghudong.com/)
+    - 2026年9月10-13日社区动态。针对 S7 赛季中后期跨区服对局、大地图联盟城战态势（9235/9236 战区生态）及脚本辅助打击展开治理公告，保障健康公平的竞技环境。

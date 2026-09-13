@@ -8,13 +8,13 @@ okf_version: "0.1"
 
 ## 1. 核心文档 (Core Modules)
 
-- [概览 (overview.md)](/overview.md) — 游戏定位、开发背景、混合玩法结构、华为/微信大奖、夏日狂浪节与李珠珢代言全球双平台公测
+- [概览 (overview.md)](/overview.md) — 游戏定位、开发背景、混合玩法结构、华为/微信大奖、夏日狂浪节与双星代言全球登顶三地免费榜
 - [架构配置 (manifest.md)](/manifest.md) — 模块构成规划与元数据定义
 - [核心循环 (core-loop.md)](/core-loop.md) — 拾荒/潜水 -> 加工/订单 -> 5v5推图/巅峰赛/城战 -> 资源再投入的三层闭环
 - [数值与养成系统 (progression.md)](/progression.md) — 玩家等级上限（100级）、英雄3星技能质变、专武、洗刷锁词条精炼、控制抗性与登峰核芯
 - [商业化与付费变现 (monetization.md)](/monetization.md) — 开服210抽里程碑、12元自动生产特权、首充/月卡/战令阶梯、第8天转盘抽卡、巅峰竞猜卡与舰队特效皮肤
-- [经济系统 (economy.md)](/economy.md) — 基础建材流水线、钻石、蓝图红线、水母币、竞猜积分、洗刷锁与盟主战利品分配
-- [社交与长线运营 (social-liveops.md)](/social-liveops.md) — 联盟商船、巅峰擂台赛、陈小春代言狂浪节、AI短剧、全球双端公测与李珠珢代言社群活动
+- [经济系统 (economy.md)](/economy.md) — 基础建材流水线、海商王跑商差价、水母币、竞猜积分、洗刷锁与盟主战利品分配
+- [社交与长线运营 (social-liveops.md)](/social-liveops.md) — 联盟商船、巅峰擂台赛、金秋双节与海商王跑商联动、全球双星代言社群活动与礼包码
 - [市场定位与竞品分析 (market-position.md)](/market-position.md) — 益世界“模拟经营+”矩阵定位、造节长线运营、双代言人矩阵与传统SLG/小游戏竞品差异化对比
 - [风险与不确定性 (risks-unknowns.md)](/risks-unknowns.md) — 战利品分配矛盾、矿场抢占上限消耗、战力数值虚标与海外多地区长留验证
 - [资料来源与参考文献 (sources.md)](/sources.md) — 官方渠道、应用商店、巴哈姆特GNN、行业媒体报道（GameLook/新浪电竞/游民/GamingonPhone）与社区攻略
@@ -25,7 +25,7 @@ okf_version: "0.1"
 - [基地建造与生存经营 (systems/base-build.md)](/systems/base-build.md) — 木筏扩展、民居/发电站人口突破、切鱼厂/材料厂加工流水线、指挥中心英雄委派与建筑皮肤
 - [海域探索与资源收集 (systems/exploration.md)](/systems/exploration.md) — 海面拾荒、深海潜水探险、钓鱼图鉴迭代、博物馆藏品与动态天气系统
 - [对抗与卡牌战斗系统 (systems/session-combat.md)](/systems/session-combat.md) — 5v5 阵型卡牌战斗、战术飞钩机制、控制抗性、登峰核芯、PVP 超时机制与阵容 Meta
-- [玩法模式与副本体系 (systems/content-modes.md)](/systems/content-modes.md) — 主线闯关、日常试炼、世界 BOSS、联盟商船、巅峰擂台赛与大地图城战
+- [玩法模式与副本体系 (systems/content-modes.md)](/systems/content-modes.md) — 主线闯关、日常试炼、世界 BOSS、联盟商船、海商王贸易、巅峰擂台赛与大地图城战
 
 ## 3. 实体模块 (Entities)
 

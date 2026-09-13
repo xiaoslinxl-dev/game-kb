@@ -4,7 +4,7 @@ title: 神庙逃亡2 资料来源与参考文献
 description: 《神庙逃亡2》知识库 Bundle 涉及的官方公告、媒体报道、玩家攻略与行业报告汇编。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-12T11:00:00Z"
+timestamp: "2026-09-13T11:00:00Z"
 ---
 
 # 资料来源与参考文献
@@ -31,9 +31,10 @@ timestamp: "2026-09-12T11:00:00Z"
    - 链接：[应用宝 - 神庙逃亡2 官方正版](https://sj.qq.com/appdetail/com.imangi.templerun2)  
    - 链接：[App Store - 神庙逃亡2 官方版](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673)
 4. **Imangi Studios 官方网站及 Google Play 页面**  
-   - Temple Run 2 官方全球版核心介绍、v1.134.0~v1.136.0 版本更新与触控优化特性。  
+   - Temple Run 2 官方全球版核心介绍、v1.134.0~v1.136.0 版本更新（包含 2026 年 9 月全新奥林匹斯山 Mount Olympus 地图与赫拉克勒斯 Hercules 角色）与触控优化特性。  
    - 链接：[Imangi Studios 官方网站](https://imangistudios.com/thegames/temple-run-2/)  
-   - 链接：[Google Play - Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2)
+   - 链接：[Google Play - Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2)  
+   - 链接：[Temple Run 2 - NEW UPDATE 2026 New Maps : Mount Olympus - YouTube](https://www.youtube.com/watch?v=nkMyJSrgNds)
 
 ## 2. 媒体报道与行业研究报告
 

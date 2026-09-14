@@ -5,7 +5,7 @@ description: 限定控制/辅助系精神干扰与减益核心
 unit_role: 控制
 rarity: SSR
 acquire: 限定觉醒卡池「洞世之眸」（2026-09-10开启返场卡池）
-timestamp: 2026-09-13T11:00:00Z
+timestamp: 2026-09-14T11:00:00Z
 pay_relevance: high
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high

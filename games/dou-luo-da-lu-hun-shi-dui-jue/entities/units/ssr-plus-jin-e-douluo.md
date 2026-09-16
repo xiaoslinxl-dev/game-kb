@@ -8,7 +8,7 @@ rarity: SSR+
 acquire: 2026年9月13日首发专属诏令「金鳄镇渊」豪华版 / 奇遇抽奖活动「金鳄之遇」
 pay_relevance: high
 confidence: high
-timestamp: 2026-09-15T11:00:00Z
+timestamp: 2026-09-16T11:00:00Z
 ---
 
 # 金鳄斗罗

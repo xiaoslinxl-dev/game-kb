@@ -5,7 +5,7 @@ description: 《神庙逃亡2》（神庙逃跑2 / Temple Run 2 中文版）知�
 game_id: shen-miao-tao-pao-2
 genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
-timestamp: "2026-09-15T11:00:00Z"
+timestamp: "2026-09-16T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [session-combat, content-modes]
@@ -26,7 +26,7 @@ unit_policy: representative
   - `content-modes`：涵盖经典无尽模式、竞技场/排位赛（1v1/2v2）、主题地图副本（如玩具王国、丝路奇遇、赛博神庙、百花戈壁、幽灵穹顶、全民假日等）、黄金矿山挂机及限时收集赛等多重玩法。
 - **Entities (实体模块)**：采用 `representative`（代表性实体）策略，挑选了 12 个具有代表性的角色、坐骑、宠物与羽翼配饰（如危险盖伊、莉莉丝、赵云、比奥斯博士、安妮、沃利纳特、雅丹天女、年兽、傲狠、仙灵鹤、小香猪、花蝶梦翅膀），覆盖新手入门、长线留存福利、版本付费锚点、传统文化联动与竞技 PvP Meta。
 
-## 2026 年 9 月 15 日最新运营动态与知识库同步要点
+## 2026 年 9 月 16 日最新运营动态与知识库同步要点
 
 1. **中秋佳节与秋季开学季双节主题运营深度推进**：游戏内持续开展“玩转九月开学季”活动，赛道中高频掉落【书本】与【书包】主题道具；随着中秋佳节临近，“花好月圆”限定羽翼与灵宠“中秋福灯”兑换进入核心冲刺期，赛道同步开放限定中秋月饼掉落与兑换商城阶段性大奖刷新；
 2. **国际原厂版本（Imangi Studios）动态追踪**：海外全球版推进至 v1.136.0 体系（2026 年 9 月中旬），持续热运希腊神话主题赛道“奥林匹斯山”（Mount Olympus）与传奇新跑者“赫拉克勒斯”（Hercules / 大力神），展现出与国服本土化传统文化（如敦煌丝路奇遇、雅丹天女）互为补充的全球多元化赛道生态；

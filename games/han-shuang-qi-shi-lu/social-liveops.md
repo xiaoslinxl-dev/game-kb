@@ -1,10 +1,10 @@
 ---
 type: SocialLiveOps
 title: 寒霜启示录 社交与 LiveOps 运营体系
-description: 寒霜启示录的联盟社交结构、跨服王战 (SvS)、霜龙霸主跨赛区争霸、2026年9月转服第二阶段定向邀请实操、巴哈姆特30周年线上双重联动、18代英雄与诚品动漫祭LiveOps运营。
+description: 寒霜启示录的联盟社交结构、跨服王战 (SvS)、霜龙霸主跨赛区争霸、2026年9月转服Phase II冲刺与Phase III自由转服战备、巴哈姆特30周年线上双重联动、18代英雄与诚品动漫祭LiveOps运营。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-16T11:00:00Z"
+timestamp: "2026-09-17T11:00:00Z"
 ---
 
 # 寒霜启示录 社交与 LiveOps 运营体系

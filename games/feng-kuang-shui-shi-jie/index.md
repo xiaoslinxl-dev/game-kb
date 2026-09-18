@@ -8,7 +8,7 @@ okf_version: "0.1"
 
 ## 1. 核心文档 (Core Modules)
 
-- [概览 (overview.md)](/overview.md) — 游戏定位、开发背景、四层融合形态、华为/微信大奖、狂浪节、全球三地登顶、9月17日大版本实装、S6+ 征服赛季与最新动向
+- [概览 (overview.md)](/overview.md) — 游戏定位、开发背景、四层融合形态、华为/微信大奖、狂浪节、全球三地登顶、9月18日最新运营、S6+ 征服赛季与最新动向
 - [架构配置 (manifest.md)](/manifest.md) — 模块构成规划与元数据定义
 - [核心循环 (core-loop.md)](/core-loop.md) — Survival 起手 -> Simulation 生产链 -> Card Battle 数值反哺与翻牌池 -> Light SLG / 征服赛季的四层洋葱式融合驱动模型
 - [数值与养成系统 (progression.md)](/progression.md) — 玩家等级上限（100级）、英雄升星阶梯、全新翻牌卡池保底、专武、51 级远征每周 20 枚超凡碎片、装备精炼洗刷锁、兵工厂与登峰核芯
@@ -16,8 +16,8 @@ okf_version: "0.1"
 - [经济系统 (economy.md)](/economy.md) — 基础建材流水线、海商王贸易、51 级远征币换超凡碎片、翻牌卡池代币、商船水母币、硅矿与征服赛季经济流转
 - [社交与长线运营 (social-liveops.md)](/social-liveops.md) — 净海行动公益联动、S6+ 征服赛季「黑潮」剧本、280+ 地块沙盘、自由组队 2.0、联盟商船减负与全渠道实测礼包码
 - [市场定位与竞品分析 (market-position.md)](/market-position.md) — 益世界“模拟经营+SLG”矩阵演进、国内双榜眼、海外营销本地化、双端生态差异与洋葱式四层架构
-- [风险与不确定性 (risks-unknowns.md)](/risks-unknowns.md) — 端际权益剪刀差争议、转盘卡池重构信任危机、大月卡价值稀释、征服赛季 280+ 地块设备性能与海外长留验证
-- [资料来源与参考文献 (sources.md)](/sources.md) — 官方渠道、应用商店、Enjoy出海深度报道、官方停服更新公告、9月17日社区一手实测、行业媒体报道与社区核心攻略
+- [风险与不确定性 (risks-unknowns.md)](/risks-unknowns.md) — 端际权益剪刀差与账号迁移摩擦、转盘卡池重构信任危机、大月卡价值稀释、征服赛季 280+ 地块设备性能与海外长留验证
+- [资料来源与参考文献 (sources.md)](/sources.md) — 官方渠道、应用商店、Enjoy出海深度报道、官方停服更新公告、社区一手实测、账号迁移工单、行业媒体报道与社区核心攻略
 
 ## 2. 系统模块 (Systems)
 

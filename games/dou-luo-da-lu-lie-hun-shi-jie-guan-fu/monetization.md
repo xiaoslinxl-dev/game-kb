@@ -3,7 +3,7 @@ type: Monetization
 title: 斗罗大陆：猎魂世界(官服) 变现模式
 description: 抽卡卡池机制、付费货币、通行证/战令与商业化商业结构
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
-timestamp: 2026-09-17T11:00:00Z
+timestamp: 2026-09-18T11:00:00Z
 confidence: high
 ---
 

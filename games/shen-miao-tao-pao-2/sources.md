@@ -4,7 +4,7 @@ title: 神庙逃亡2 资料来源与参考文献
 description: 《神庙逃亡2》知识库 Bundle 涉及的官方公告、媒体报道、玩家攻略与行业报告汇编。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-17T11:00:00Z"
+timestamp: "2026-09-18T11:00:00Z"
 ---
 
 # 资料来源与参考文献
@@ -22,7 +22,7 @@ timestamp: "2026-09-17T11:00:00Z"
    - 链接：[神庙逃亡2携手敦煌画院官方公告](https://tp2.uu.cc/show/4640.html)  
    - 链接：[神庙逃亡2开学季版本官方资讯](https://idreamsky.com/3785.html)
 3. **App Store / TapTap / 小米游戏中心 / 哔哩哔哩 / 应用宝《神庙逃亡2》官方更新日志**  
-   - 中文版本 7.1.0 ~ 7.3.2 官方更新说明（涵盖玩具王国主题、比奥斯博士、沃利纳特玩具士兵、丝路奇遇、赛博神庙、百花戈壁、黄金矿山挂机减负、开学季书本/书包收集赛、夏日西瓜收集赛、金币皮肤如排队蜡烛/环保沙滩、18元超级会员、12元/15元订阅特权等）。  
+   - 中文版本 7.1.0 ~ 7.3.2 官方更新说明（涵盖玩具王国主题、比奥斯博士、沃利纳特玩具士兵、丝路奇遇、赛博神庙、百花戈壁、黄金矿山挂机减负、开学季书本/书包收集赛、中秋月饼收集与花好月圆羽翼返场、金币皮肤如排队蜡烛/环保沙滩、18元超级会员、12元/15元订阅特权等）。  
    - 链接：[TapTap - 神庙逃亡2 官方页面](https://www.taptap.cn/app/5)  
    - 链接：[TapTap - 神庙逃亡2 官方资讯专栏](https://www.taptap.cn/collection/moment?id=%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12-%E8%B5%84%E8%AE%AF-1100000503)  
    - 链接：[小米游戏中心 - 神庙逃亡2 畅游玩具王国](https://game.xiaomi.com/game/62231942)  
@@ -30,11 +30,12 @@ timestamp: "2026-09-17T11:00:00Z"
    - 链接：[哔哩哔哩游戏中心 - 神庙逃亡2 官方下载](https://www.biligame.com/detail/?id=106613)  
    - 链接：[应用宝 - 神庙逃亡2 官方正版](https://sj.qq.com/appdetail/com.imangi.templerun2)  
    - 链接：[App Store - 神庙逃亡2 官方版](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673)
-4. **Imangi Studios 官方网站及 Google Play 页面**  
-   - Temple Run 2 官方全球版核心介绍、v1.134.0~v1.136.0 版本更新（包含 2026 年 9 月全新奥林匹斯山 Mount Olympus 地图与赫拉克勒斯 Hercules 角色）与触控优化特性。  
+4. **Imangi Studios 官方网站及 Google Play / App Store 页面**  
+   - Temple Run 2 官方全球版核心介绍、v1.134.0~v1.137.0 版本更新（包含 2026 年 8~9 月经典暮光之殿 Twilight Palace 返场、限时挑战新英雄卢西恩·克罗斯 Lucien Cross、月神塞勒涅 Selene Celeste 与哪吒返场、奥林匹斯山 Mount Olympus 地图与赫拉克勒斯 Hercules 角色）与触控优化特性。  
    - 链接：[Imangi Studios 官方网站](https://imangistudios.com/thegames/temple-run-2/)  
    - 链接：[Google Play - Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2)  
-   - 链接：[Temple Run 2 - NEW UPDATE 2026 New Maps : Mount Olympus - YouTube](https://www.youtube.com/watch?v=nkMyJSrgNds)
+   - 链接：[App Store - Temple Run 2 (English Global)](https://apps.apple.com/na/app/temple-run-2/id572395608)  
+   - 链接：[Temple Run 2 - NEW UPDATE 2026 Twilight Palace - YouTube](https://www.youtube.com/watch?v=NRNlADRYMKs)
 
 ## 2. 媒体报道与行业研究报告
 

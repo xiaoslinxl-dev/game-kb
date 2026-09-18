@@ -3,7 +3,7 @@ type: SystemModule
 title: 局内战斗系统
 description: 《斗罗大陆：魂师对决》回合制战斗机制、速度拉条、魂力/魄力、阵容克制与竞技增益2.0
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-17T11:00:00Z
+timestamp: 2026-09-18T11:00:00Z
 confidence: high
 ---
 

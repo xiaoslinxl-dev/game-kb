@@ -3,7 +3,7 @@ type: SystemModule
 title: 玩法模式与副本结构
 description: 《斗罗大陆：魂师对决》PVE剧情、长图悬赏、百级成神体系与PVP竞技模式
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-18T11:00:00Z
+timestamp: 2026-09-19T11:00:00Z
 confidence: high
 ---
 

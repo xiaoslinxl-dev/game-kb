@@ -8,7 +8,7 @@ okf_version: "0.1"
 
 ## 1. 核心文档 (Core Modules)
 
-- [概览 (overview.md)](/overview.md) — 游戏定位、开发背景、四层融合形态、荣耀/vivo/OPPO开发者大会六项大奖、狂浪节、全球三地登顶、S6+ 征服赛季「黑潮入侵」与9月19日最新动向
+- [概览 (overview.md)](/overview.md) — 游戏定位、开发背景、四层融合形态、荣耀/vivo/OPPO开发者大会六项大奖、狂浪节、全球三地登顶、S6+ 征服赛季「黑潮入侵」与9月20日最新动向
 - [架构配置 (manifest.md)](/manifest.md) — 模块构成规划与元数据定义
 - [核心循环 (core-loop.md)](/core-loop.md) — Survival 起手 -> Simulation 生产链 -> Card Battle 数值反哺、极限试炼与翻牌池 -> Light SLG / 征服赛季开荒汽油模型的四层洋葱式融合驱动模型
 - [数值与养成系统 (progression.md)](/progression.md) — 玩家等级上限（100级）、英雄升星阶梯、战术核芯（流转/登峰）、4种新阵型、外观属性赋能、专武、51 级远征每周 20 枚超凡碎片、装备精炼洗刷锁与内置英雄攻略站

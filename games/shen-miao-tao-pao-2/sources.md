@@ -4,7 +4,7 @@ title: 神庙逃亡2 资料来源与参考文献
 description: 《神庙逃亡2》知识库 Bundle 涉及的官方公告、媒体报道、玩家攻略与行业报告汇编。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-20T11:00:00Z"
+timestamp: "2026-09-21T11:00:00Z"
 ---
 
 # 资料来源与参考文献
@@ -36,6 +36,7 @@ timestamp: "2026-09-20T11:00:00Z"
    - 链接：[Google Play - Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2)  
    - 链接：[App Store - Temple Run 2 (English Global)](https://apps.apple.com/na/app/temple-run-2/id572395608)  
    - 链接：[Temple Run 2 Mt. Olympus 2026 Full Gameplay - YouTube](https://m.youtube.com/shorts/u2VjFGBEtM8)  
+   - 链接：[Mount Olympus - Temple Run 2 - YouTube](https://m.youtube.com/shorts/1PxaBSmbbhE)  
    - 链接：[Temple Run 2 - NEW UPDATE 2026 Twilight Palace - YouTube](https://www.youtube.com/watch?v=NRNlADRYMKs)
 
 ## 2. 媒体报道与行业研究报告

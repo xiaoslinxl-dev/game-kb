@@ -8,7 +8,7 @@ acquire: 敦煌限定活动 / 专属礼包
 pay_relevance: high
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-09-20T11:00:00Z"
+timestamp: "2026-09-21T11:00:00Z"
 ---
 
 # 雅丹天女 (Yadan Celestial Maiden)

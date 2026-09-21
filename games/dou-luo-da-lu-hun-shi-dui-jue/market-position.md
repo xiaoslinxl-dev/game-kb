@@ -3,7 +3,7 @@ type: MarketPosition
 title: 市场定位与竞品分析
 description: 《斗罗大陆：魂师对决》市场表现、用户画像与商业竞争力
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-19T11:00:00Z
+timestamp: 2026-09-21T11:00:00Z
 confidence: high
 ---
 

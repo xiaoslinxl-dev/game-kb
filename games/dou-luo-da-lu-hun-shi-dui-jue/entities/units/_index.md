@@ -3,7 +3,7 @@ type: UnitRoster
 title: 魂师角色名录
 description: 《斗罗大陆：魂师对决》代表性魂师名录与链接列表
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-19T11:00:00Z
+timestamp: 2026-09-21T11:00:00Z
 confidence: high
 ---
 

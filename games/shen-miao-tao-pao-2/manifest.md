@@ -5,7 +5,7 @@ description: 《神庙逃亡2》（神庙逃跑2 / Temple Run 2 中文版）知�
 game_id: shen-miao-tao-pao-2
 genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
-timestamp: "2026-09-21T11:00:00Z"
+timestamp: "2026-09-22T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [session-combat, content-modes]
@@ -26,10 +26,10 @@ unit_policy: representative
   - `content-modes`：涵盖经典无尽模式、竞技场/排位赛（1v1/2v2）、主题地图副本（如玩具王国、丝路奇遇、赛博神庙、百花戈壁、全民假日、月夜穹顶等）、黄金矿山挂机及限时收集赛等多重玩法。
 - **Entities (实体模块)**：采用 `representative`（代表性实体）策略，挑选了 12 个具有代表性的角色、坐骑、宠物与羽翼配饰（如危险盖伊、莉莉丝、赵云、比奥斯博士、安妮、沃利纳特、雅丹天女、年兽、傲狠、仙灵鹤、小香猪、花蝶梦翅膀），覆盖新手入门、长线留存福利、版本付费锚点、传统文化联动与竞技 PvP Meta。
 
-## 2026 年 9 月 21 日最新运营动态与知识库同步要点
+## 2026 年 9 月 22 日最新运营动态与知识库同步要点
 
-1. **中秋周末双倍狂欢圆满收官与奖励结算补领期**：2026 年 9 月 21 日正值周一，为期 48 小时的中秋“周末双倍掉落狂欢”正式圆满收官，大盘进入活动代币【中秋月饼】与【节日福袋】的最终结算兑换与补领窗口。周末冲刺阶段玩家集中借助 [小香猪](/entities/units/xiao-xiang-zhu.md) 的额外掉落技能冲刺兑换限定羽翼“花好月圆”与限定灵宠“中秋福灯”；周一开始大盘转入周常巩固与十一国庆黄金周倒计时，为双节长假运营提供平稳过渡；
-2. **十一国庆长假 9 天倒计时与迎国庆大版本内容前瞻**：距离 10 月 1 日国庆黄金周仅剩 9 天，项目组全面启动十一黄金周版本的筹备与内容预热。经典国风全明星阵容（如 [赵云](/entities/units/zhao-yun.md)、[雅丹天女](/entities/units/yadan-tian-nu.md)）及中国传统神兽坐骑（如 [年兽](/entities/units/nian-beast.md)、[傲狠](/entities/units/ao-hen.md)）的限时返场轮换排期已全面公布，配套国庆主题集字与赛道狂欢活动已全面就绪；
-3. **海外原厂（Imangi Studios）9月重磅大版本：奥林匹斯山（Mount Olympus）与新英雄赫拉克勒斯（Hercules）持续热跑**：全球国际版稳定推进至 v1.136.x / v1.137.0 体系，Imangi Studios 官方在 9 月不仅持续推进“暮光之殿”（Twilight Palace: Academy）返场与新英雄“卢西恩·克罗斯”（Lucien Cross），更重磅推出希腊神话全新主题赛道“奥林匹斯山”（Mount Olympus），配套推出全新传奇英雄“赫拉克勒斯”（Hercules）、神庙通行证“通往奥林匹斯之路”（Road to Olympus Temple Pass）以及“云端之上”（Beyond the Clouds）限时全球金币收集挑战赛，并返场时光胡子西古尔（Sigur Chronos Time Beard）、赵云（Zhao Yun）等角色，与国服中秋及敦煌丝路形成了东西方神话与文化语境下的全球跑酷共振；
-4. **社区礼包码（CDKEY）体系最新核验（2026 年 9 月 21 日可用代码）**：全面核验 2026 年 9 月 21 日可用的通用与专属礼包码（通用码 `smtw666`、`smtw888`、`smtw999`、`smtm520`，专属及VIP码 `SVIP666`、`SVIP777`、`SVIP888`，赛季节点码 `FALL2026`、`RUN2026` 等），通过游戏内设置兑换入口为玩家提供开局金币、钻石与实用加速道具；
+1. **中秋代币最后 24 小时结算兑换冲刺与代币折算提醒**：2026 年 9 月 22 日（周二），中秋“花好月圆”主题活动代币【中秋月饼】与【节日福袋】进入为期 48 小时最终兑换窗口的最后 24 小时倒计时阶段。活动商店将于 9 月 23 日 24:00 正式关闭，届时未使用的节日代币将按固定比例自动折算为金币。限定羽翼“花好月圆”与限定灵宠“中秋福灯”迎来绝版兑换的最后窗口，大盘活跃玩家正抓紧完成每日活跃任务补齐代币差额；
+2. **十一国庆长假 8 天倒计时与迎国庆大版本内容预热**：距离 10 月 1 日国庆黄金周仅剩 8 天，创梦天地项目组已全面启动十一大版本的灰度测试与内容预热。经典国风全明星阵容（如 [赵云](/entities/units/zhao-yun.md)、[雅丹天女](/entities/units/yadan-tian-nu.md)）及中国传统神兽坐骑（如 [年兽](/entities/units/nian-beast.md)、[傲狠](/entities/units/ao-hen.md)）的限时返场轮换排期已排定，配套七天长假连登豪华签到、赛道双倍金币掉落等活动方案已排期就绪；
+3. **海外原厂（Imangi Studios）9月重磅大版本：奥林匹斯山（Mount Olympus）与新英雄赫拉克勒斯（Hercules）持续热跑**：全球国际版稳定推进至 v1.136.x / v1.137.0 体系。Imangi Studios 官方在 9 月全新推出的希腊神话赛道“奥林匹斯山”（Mount Olympus）迎来第二周活跃高潮；专属神庙通行证“通往奥林匹斯之路”（Road to Olympus Temple Pass）持续推进（有效至 10 月 11 日 - 10 月 12 日），终极大奖为传奇新英雄“赫拉克勒斯”（Hercules）；限时全球金币挑战“云端之上”（Beyond the Clouds）持续释放丰厚奖励与时光胡子西古尔（Sigur Chronos Time Beard）；海外商城同步轮换返场经典中国风英雄 [赵云](/entities/units/zhao-yun.md) 与哪吒（Nezha），并开启神秘赛道“暮光之殿”（Twilight Palace）新跑者“卢西恩·克罗斯”（Lucien Cross）的限时挑战；
+4. **社区礼包码（CDKEY）体系最新核验（2026 年 9 月 22 日可用代码）**：全面核验 2026 年 9 月 22 日可用的通用与专属礼包码（通用码 `smtw666`、`smtw888`、`smtw999`、`smtm520`，专属及VIP码 `SVIP666`、`SVIP777`、`SVIP888`，赛季节点码 `FALL2026`、`RUN2026` 等），通过游戏内设置兑换入口为玩家提供开局金币、钻石与实用加速道具；
 5. **版本运行态势、减负体系与防作弊公平竞技**：中文稳定版持续维持在 v7.3.2 体系，实物周边收集赛与排位榜单严格执行“3km 赛道道具刷新保护”防脚本机制，配合“黄金矿山”挂机资源产出与订阅特权机制（12元免插页广告、15元免费重生双倍金币、18元荣耀勋章），稳固大盘留存与良性生态。

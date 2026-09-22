@@ -3,7 +3,7 @@ type: CoreLoop
 title: 核心循环
 description: 《斗罗大陆：魂师对决》玩法闭环与日常/周常动力机制
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-21T11:00:00Z
+timestamp: 2026-09-22T11:00:00Z
 confidence: high
 ---
 

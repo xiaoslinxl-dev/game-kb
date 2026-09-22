@@ -12,7 +12,7 @@ okf_version: "0.1"
 * [寒霜启示录 (Whiteout Survival) 概览](overview.md) - 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的产品定位、核心玩法特色与长线留存逻辑。
 * [寒霜启示录 数值与长线养成系统](progression.md) - 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火晶纪元）、领主装备/宝符、18代英雄与晨曦学堂专家长线养成结构。
 * [寒霜启示录 风险与未知项](risks-unknowns.md) - 寒霜启示录在世代数值膨胀、大氪玩家对快速提升付费上限的反馈、混合变现平衡与长线买量成本方面的风险评估。
-* [寒霜启示录 社交与 LiveOps 运营体系](social-liveops.md) - 寒霜启示录的联盟社交结构、跨服王战 (SvS)、霜龙霸主跨赛区争霸、2026年中秋明月盛典首日盛大开幕与JPsilverweek26新码、WOS0919最后兑换告警、转服战后整编与25天冷却、巴哈姆特30周年线上双重联动第6日、18代英雄与诚品动漫祭LiveOps运营。
+* [寒霜启示录 社交与 LiveOps 运营体系](social-liveops.md) - 寒霜启示录的联盟社交结构、跨服王战 (SvS)、霜龙霸主跨赛区争霸、2026年中秋明月盛典第2日与「瑤池月色裝飾包」正式开售、WOS0919到期闭合与中秋预热码最后期限、JPsilverweek26礼包、转服战后整编第3日与25天冷却、巴哈姆特30周年线上双重联动第7日、18代英雄与诚品动漫祭LiveOps运营。
 * [寒霜启示录 参考资料与来源](sources.md) - 收集自 Century Games 官方公告、领主管家前瞻、巴哈姆特 30 週年合作公告、AppMagic、Sensor Tower、BlueStacks、BuffBuff、Eldorado.gg、WSCO Blog、GNN 新闻、Treabar、GamsGo、TOPUPlive、WoS Tools、WOS Wiki 与巴哈姆特社区的参考资料清单。
 
 # Subdirectories

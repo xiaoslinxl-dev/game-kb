@@ -4,7 +4,7 @@ title: "联盟领地战与王城跨服争夺 (Territory War & State Battle)"
 description: 《寒霜启示录》的联盟领地扩张、王城争霸（太阳城大战）、跨服战（SvS 最强王国）、堡垒要塞争夺与跨王国巅峰战“霜龙霸主”。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-22T11:00:00Z"
+timestamp: "2026-09-23T11:00:00Z"
 ---
 
 # 联盟领地战与王城跨服争夺 (Territory War & State Battle)

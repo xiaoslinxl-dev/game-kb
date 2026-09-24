@@ -4,7 +4,7 @@ title: 疯狂水世界 核心循环
 description: 疯狂水世界的单局与日常核心玩法循环、四层洋葱式融合驱动模型、水姆特权、双节正式上线代币流转、极限试炼与征服赛季长线留存设计。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-23T11:00:00Z"
+timestamp: "2026-09-24T11:00:00Z"
 ---
 
 # 疯狂水世界 核心循环

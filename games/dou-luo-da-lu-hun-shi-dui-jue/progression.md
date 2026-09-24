@@ -3,7 +3,7 @@ type: Progression
 title: 养成体系
 description: 《斗罗大陆：魂师对决》魂师、魂环、魂骨、魂核、万源归宗、神境铭值、至臻套装与竞技增益2.0养成长线
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-23T11:00:00Z
+timestamp: 2026-09-24T11:00:00Z
 confidence: high
 ---
 

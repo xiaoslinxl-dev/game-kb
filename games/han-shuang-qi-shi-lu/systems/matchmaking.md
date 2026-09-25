@@ -4,7 +4,7 @@ title: 匹配与跨服机制 (Matchmaking)
 description: 解析竞技场积分匹配、燃霜矿区/冰火战歌联赛匹配、王国转移（State Transfer）、跨服战（SvS）与霜龙霸主匹配规则。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-09-24T11:00:00Z"
+timestamp: "2026-09-25T11:00:00Z"
 ---
 
 # 匹配与跨服机制 (Matchmaking)

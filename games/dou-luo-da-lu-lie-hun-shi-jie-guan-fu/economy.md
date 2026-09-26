@@ -4,7 +4,7 @@ title: 斗罗大陆：猎魂世界(官服) 经济系统
 description: 游戏内货币循环、材料产出与道具消耗结构
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
-timestamp: 2026-09-25T11:00:00Z
+timestamp: 2026-09-26T11:00:00Z
 ---
 
 # 经济系统

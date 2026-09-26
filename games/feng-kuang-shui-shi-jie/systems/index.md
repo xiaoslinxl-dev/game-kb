@@ -3,5 +3,5 @@
 - [systems/base-build.md](/systems/base-build.md) — 基地建造、人口突破、兵工厂生产线、宠物海獭【有獭有福】邮件发放（+5%）、双节 35% 叠加提速与水姆特权联动
 - [systems/exploration.md](/systems/exploration.md) — 海面拾荒（净滩行动四大阵营手动拾荒累计减碳值）、深海潜水探险与动态天气系统
 - [systems/session-combat.md](/systems/session-combat.md) — 5v5 阵型卡牌战斗、战术飞钩机制、4种新阵型、流转核芯与阵容 Meta
-- [systems/content-modes.md](/systems/content-modes.md) — 主线闯关、日常试炼、循环玩法「极限试炼」（3天限时）、双节大活动第3天实测（海底捞月10关/海獭皮肤领取/兑换避坑）、S6+ 征服赛季水之都决战与巅峰擂台赛优化
-- [systems/territory-war.md](/systems/territory-war.md) — 联盟领地战、城市工事、S6+ 征服赛季第5天水之都外围决战与明日合服前夕备战（8 势力水之都、黑潮避战、汽油远征维修实测）与自由组队 2.0
+- [systems/content-modes.md](/systems/content-modes.md) — 主线闯关、日常试炼、极限试炼、双节大活动第4天实测（海底捞月10关/扫荡循环机制破解/时间差冲榜/官方直播/兑换避坑）、巅峰擂台赛优化
+- [systems/territory-war.md](/systems/territory-war.md) — 联盟领地战、城市工事、S6+ 征服赛季第6天水之都外围决战与今日9月26日合服正式生效（8 势力水之都、黑潮避战、汽油远征维修实测）与自由组队 2.0

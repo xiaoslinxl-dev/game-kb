@@ -28,6 +28,7 @@ okf_version: "0.1"
 ## 代表性实体 (Entities)
 
 - [魂师图鉴索引](/entities/units/_index.md) — 核心 Meta 魂师列表与版本推荐
+- [SP+ 统御神王·唐三](/entities/units/sp-plus-tongyu-shenwang-tangsan.md) (国庆双神统御系/三形态切换/神王链接)
 - [SP+ 千面幻影·妖魅](/entities/units/sp-plus-qianmian-huanying-yaomei.md) (首位SP+敏攻/幻面天成四形态)
 - [SSR+ 金鳄斗罗](/entities/units/ssr-plus-jin-e-douluo.md) (黄金鳄王/防辅竞技核心)
 - [SP 神王·霍雨浩](/entities/units/sp-shenwang-huoyuhao.md) (情绪双形态/出离六道/百万年真身)

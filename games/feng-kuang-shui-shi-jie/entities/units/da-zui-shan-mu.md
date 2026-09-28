@@ -23,9 +23,9 @@ timestamp: "2026-09-27T11:00:00Z"
 ## 2. 技能与专武机制
 
 - **技能加点**：主点 1 技能（大招）与 4 技能（闪避/减伤被动）。3 星解锁 4 技能后开启全屏嘲讽与聚怪反甲机制。
-- **专武效果**：激活专属武器后，在前排受到攻击时可为己方主 C（如 [兰博](/entities/units/lan-bo.md)）快速刷大叠攻速，增强防守反击能力。
+- **专武效果**：激活专属武器后，在前排受到攻击时可为己方主 C（如 [兰博](lan-bo.md)）快速刷大叠攻速，增强防守反击能力。
 - **装备词条洗练**：优先洗练 **闪避词条**（目标堆至 75% 闪避上限），其余洗练生命与爆抗，使其成为兼具极高闪避与肉度的避风港。
 
 ## 3. 阵容搭配
 
-作为“国家队”第一前排，几乎适配所有主流阵容（[大嘴山姆](/entities/units/da-zui-shan-mu.md) + [兰博](/entities/units/lan-bo.md) + [机器屠夫](/entities/units/ji-qi-tu-fu.md) + [巫师老侃](/entities/units/wu-shi-lao-kan.md) + [蜜雪儿](/entities/units/mi-xue-er.md)）。
+作为“国家队”第一前排，几乎适配所有主流阵容（[大嘴山姆](da-zui-shan-mu.md) + [兰博](lan-bo.md) + [机器屠夫](ji-qi-tu-fu.md) + [巫师老侃](wu-shi-lao-kan.md) + [蜜雪儿](mi-xue-er.md)）。

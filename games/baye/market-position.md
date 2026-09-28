@@ -37,6 +37,6 @@ confidence: high
 - **包体轻量与门槛控制**：游戏包体大小约378MB，适配中低端手机设备，极大地降低了用户下载与试玩门槛。
 
 关联模块：
-- 返回 [游戏概述](/overview.md)。
-- 查看变现模式与买量逻辑，参见 [变现模式](/monetization.md)。
-- 查看玩法痛点与未知风险，参见 [风险与未知](/risks-unknowns.md)。
+- 返回 [游戏概述](overview.md)。
+- 查看变现模式与买量逻辑，参见 [变现模式](monetization.md)。
+- 查看玩法痛点与未知风险，参见 [风险与未知](risks-unknowns.md)。

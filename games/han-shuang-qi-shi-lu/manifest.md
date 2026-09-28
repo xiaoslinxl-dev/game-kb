@@ -18,7 +18,7 @@ unit_policy: representative
 
 ## 模块启用说明
 
-1. **核心模块（Core Modules）**：包含概览 ([overview.md](/overview.md))、核心循环 ([core-loop.md](/core-loop.md))、数值与长线养成 ([progression.md](/progression.md))、商业化模型 ([monetization.md](/monetization.md))、双轨经济模型 ([economy.md](/economy.md))、社交与LiveOps运营 ([social-liveops.md](/social-liveops.md))、市场定位与竞品对比 ([market-position.md](/market-position.md))、风险与未知项 ([risks-unknowns.md](/risks-unknowns.md))，以及参考文献 ([sources.md](/sources.md))。
+1. **核心模块（Core Modules）**：包含概览 ([overview.md](overview.md))、核心循环 ([core-loop.md](core-loop.md))、数值与长线养成 ([progression.md](progression.md))、商业化模型 ([monetization.md](monetization.md))、双轨经济模型 ([economy.md](economy.md))、社交与LiveOps运营 ([social-liveops.md](social-liveops.md))、市场定位与竞品对比 ([market-position.md](market-position.md))、风险与未知项 ([risks-unknowns.md](risks-unknowns.md))，以及参考文献 ([sources.md](sources.md))。
 2. **系统模块（Systems Modules）**：
    - `base-build`：大熔炉供暖机制、火晶时代（FC1-FC10及火晶纪元/Fire Crystal Age）、心愿驿站、9座免费娱乐设施、破晓岛生态拓展、幸存者满意度与居民宿舍/猎人小屋等模拟经营建设。
    - `content-modes`：包含探险挂机副本、竞技场、日常整合分页、无尽试炼（Endless Trial - 蛮族首领风吼者·乌尔夫加 Wulfgar）、地心探险（大地之心新增50层）、燃霜矿区、霜龙霸主（跨王国巅峰王座争夺与随时竞猜修改）、王城争霸、冰火战歌联赛（Icefire Warhymn League，预选赛阵型锁定新规）、联盟凛冬围城（Winter Siege）、中秋明月盛典（迎来第7日核心任务收官终章，瑤池月色裝飾包正式停售下架，妙解千機数阵解谜第7轮收官与壺納千祥投壶小游戏第7日决战挑战，望月商铺延后24小时至明日9月28日关闭，提醒领主及时使用祝福明灯）、巴哈姆特30周年线上问答第12日达人试炼冲刺15次问答大奖与九宫格联动，以及“双星同行”（Kingshot 联动）与诚品“熊先生书屋”活动。

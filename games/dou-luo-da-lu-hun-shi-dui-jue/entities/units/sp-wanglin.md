@@ -25,5 +25,5 @@ confidence: high
 
 ## 相关链接
 
-- 返回魂师列表请参阅 [entities/units/_index.md](/entities/units/_index.md)。
-- 角色真身卡池记录请参阅 [live-events.md](/live-events.md)。
+- 返回魂师列表请参阅 [entities/units/_index.md](_index.md)。
+- 角色真身卡池记录请参阅 [live-events.md](../../live-events.md)。

@@ -61,6 +61,6 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 关联页面
 
-- [联盟领地战与王城争霸](/systems/territory-war.md)
-- [常驻多玩法系统](/systems/content-modes.md)
-- [社交与 LiveOps 运营体系](/social-liveops.md)
+- [联盟领地战与王城争霸](territory-war.md)
+- [常驻多玩法系统](content-modes.md)
+- [社交与 LiveOps 运营体系](../social-liveops.md)

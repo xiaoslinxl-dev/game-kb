@@ -37,4 +37,4 @@ Genshin Impact is primarily designed as a single-player action RPG experience wi
 - **Genius Invokation TCG:** Permanent in-game collectible card game featuring casual and direct player-vs-player (PvP) match capabilities.
 - **Serenitea Pot:** Housing and customization sub-game allowing players to build custom islands, invite friends, and construct custom structures.
 
-For market context and community reach of this LiveOps model, see [Market Position](/market-position.md).
+For market context and community reach of this LiveOps model, see [Market Position](market-position.md).

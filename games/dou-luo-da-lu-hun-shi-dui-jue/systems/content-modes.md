@@ -46,6 +46,6 @@ confidence: high
 
 ## 相关模块
 
-- 战斗机制请参阅 [systems/session-combat.md](/systems/session-combat.md)。
-- 活动台账请参阅 [live-events.md](/live-events.md)。
-- 版本更新请参阅 [versions.md](/versions.md)。
+- 战斗机制请参阅 [systems/session-combat.md](session-combat.md)。
+- 活动台账请参阅 [live-events.md](../live-events.md)。
+- 版本更新请参阅 [versions.md](../versions.md)。

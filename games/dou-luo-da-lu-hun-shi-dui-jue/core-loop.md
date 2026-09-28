@@ -52,6 +52,6 @@ confidence: high
 
 ## 相关模块
 
-- 详细养成路径请参阅 [progression.md](/progression.md)。
-- 战斗场景与机制请参阅 [systems/session-combat.md](/systems/session-combat.md)。
-- 玩法模式分布请参阅 [systems/content-modes.md](/systems/content-modes.md)。
+- 详细养成路径请参阅 [progression.md](progression.md)。
+- 战斗场景与机制请参阅 [systems/session-combat.md](systems/session-combat.md)。
+- 玩法模式分布请参阅 [systems/content-modes.md](systems/content-modes.md)。

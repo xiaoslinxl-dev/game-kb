@@ -30,12 +30,12 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 3. 培养与使用建议
 
-- **定位**：微氪与中氪玩家的开局前排首选，搭配[茉莉](/entities/units/molly.md)形成坚实的新手推图与竞技场防线。
-- **过渡路径**：在中期第 2 世代解锁[弗林特](/entities/units/flint.md)后，逐步交接主坦职责。
+- **定位**：微氪与中氪玩家的开局前排首选，搭配[茉莉](molly.md)形成坚实的新手推图与竞技场防线。
+- **过渡路径**：在中期第 2 世代解锁[弗林特](flint.md)后，逐步交接主坦职责。
 
 ## 关联页面
 
-- [英雄/单位名录](/entities/units/_index.md)
-- [商业化设计](/monetization.md)
-- [战斗系统与小队/SLG机制](/systems/session-combat.md)
-- [代表性英雄：弗林特](/entities/units/flint.md)
+- [英雄/单位名录](_index.md)
+- [商业化设计](../../monetization.md)
+- [战斗系统与小队/SLG机制](../../systems/session-combat.md)
+- [代表性英雄：弗林特](flint.md)

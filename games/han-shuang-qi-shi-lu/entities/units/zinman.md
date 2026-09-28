@@ -35,7 +35,7 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 关联页面
 
-- [英雄与专家列表](/entities/units/index.md)
-- [基地建造与模拟经营](/systems/base-build.md)
-- [数值与长线养成](/progression.md)
-- [经济系统](/economy.md)
+- [英雄与专家列表](index.md)
+- [基地建造与模拟经营](../../systems/base-build.md)
+- [数值与长线养成](../../progression.md)
+- [经济系统](../../economy.md)

@@ -39,8 +39,8 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 关联页面
 
-- [系统概览](/overview.md)
-- [长线养成](/progression.md)
-- [风险与未知项](/risks-unknowns.md)
-- [实体索引](/entities/index.md)
-- [英雄与专家列表](/entities/units/index.md)
+- [系统概览](../../overview.md)
+- [长线养成](../../progression.md)
+- [风险与未知项](../../risks-unknowns.md)
+- [实体索引](../index.md)
+- [英雄与专家列表](index.md)

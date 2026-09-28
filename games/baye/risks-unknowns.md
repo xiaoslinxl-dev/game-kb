@@ -33,6 +33,6 @@ confidence: high
 - **海外市场拓展表现**：目前主要在国内iOS与安卓渠道运营，是否会在港澳台或东南亚地区推出定制化国潮版本仍有待验证。
 
 关联模块：
-- 返回 [游戏概述](/overview.md)。
-- 查看变现与礼包机制，参见 [变现模式](/monetization.md)。
-- 查看市场竞品格局，参见 [市场定位](/market-position.md)。
+- 返回 [游戏概述](overview.md)。
+- 查看变现与礼包机制，参见 [变现模式](monetization.md)。
+- 查看市场竞品格局，参见 [市场定位](market-position.md)。

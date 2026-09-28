@@ -36,9 +36,9 @@ timestamp: "2026-09-27T11:00:00Z"
 ## 3. 专属代币与多元循环体系
 
 - **心愿印记 (Wish Marks)**：
-  - 熔炉 FC1 后通过[心愿驿站](/systems/base-build.md)完成幸存者诉求获得，用于兑换 9 大娱乐建筑专属建材。
+  - 熔炉 FC1 后通过[心愿驿站](systems/base-build.md)完成幸存者诉求获得，用于兑换 9 大娱乐建筑专属建材。
 - **复苏之印 (Revitalization Seals)**：
-  - [破晓岛](/systems/base-build.md)生态进阶专属货币。当生命之树等级与王国进度达标后解锁专属商店，用于兑换高阶岛屿外观与配件。
+  - [破晓岛](systems/base-build.md)生态进阶专属货币。当生命之树等级与王国进度达标后解锁专属商店，用于兑换高阶岛屿外观与配件。
 - **荧光石 (Glowstones)**：
   - 迷宫探险（Labyrinth）与地心探险核心产出，用于地下科研与成长线进阶。
 - **苔原贸易站 (Tundra Trading Station)**：
@@ -46,6 +46,6 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 关联页面
 
-- [基地建造与模拟经营](/systems/base-build.md)
-- [数值与长线养成系统](/progression.md)
-- [商业化模型](/monetization.md)
+- [基地建造与模拟经营](systems/base-build.md)
+- [数值与长线养成系统](progression.md)
+- [商业化模型](monetization.md)

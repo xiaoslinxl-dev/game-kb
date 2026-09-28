@@ -77,7 +77,7 @@ timestamp: "2026-09-27T11:00:00Z"
   - 累计 **600 抽必得 300 超凡万能碎片**（价值质变）；
   - **限购与定投属性**：每日限购 10 张翻牌抽奖券（单张 500 钻，买满 10 张需 5000 钻），将传统一波流重氪抽卡重构为长达 **60 天的定投养成线**。
 - **常规“幸运转盘”**：
-  - 消耗常规转盘券或钻石抽取核心英雄碎片（如开服第 8 天 [兰博](/entities/units/lan-bo.md) 转盘）；
+  - 消耗常规转盘券或钻石抽取核心英雄碎片（如开服第 8 天 [兰博](entities/units/lan-bo.md) 转盘）；
   - 转盘券与新翻牌池券不互通，各自独立结算。
 - **中秋盲盒抽卡机制**：
   - 12 个盲盒一局，品质排序：金蟾（隐藏款）> 月兔 > 月桂 > 月饼；
@@ -163,7 +163,7 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 6. 与其他模块的关联
 
-- 资源产销账与代币流转见 [经济系统 (economy.md)](/economy.md)。
-- 英雄升星与万能碎片消耗见 [数值与养成系统 (progression.md)](/progression.md)。
-- 征服赛季攻防工事耗材与行军规则见 [联盟领地战与世界城战 (systems/territory-war.md)](/systems/territory-war.md)。
-- 开发者大会大奖与行业定位见 [市场定位与竞品分析 (market-position.md)](/market-position.md)。
+- 资源产销账与代币流转见 [经济系统 (economy.md)](economy.md)。
+- 英雄升星与万能碎片消耗见 [数值与养成系统 (progression.md)](progression.md)。
+- 征服赛季攻防工事耗材与行军规则见 [联盟领地战与世界城战 (systems/territory-war.md)](systems/territory-war.md)。
+- 开发者大会大奖与行业定位见 [市场定位与竞品分析 (market-position.md)](market-position.md)。

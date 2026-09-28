@@ -22,5 +22,5 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 2. 养成与技能
 
-- **养成顺序**：[大嘴山姆](/entities/units/da-zui-shan-mu.md) 3 星 → [兰博](/entities/units/lan-bo.md) 3 星 → [巫师老侃](/entities/units/wu-shi-lao-kan.md) 3 星 → [机器屠夫](/entities/units/ji-qi-tu-fu.md) 3 星 → 铁腿红魔 3 星。
+- **养成顺序**：[大嘴山姆](da-zui-shan-mu.md) 3 星 → [兰博](lan-bo.md) 3 星 → [巫师老侃](wu-shi-lao-kan.md) 3 星 → [机器屠夫](ji-qi-tu-fu.md) 3 星 → 铁腿红魔 3 星。
 - **定位优势**：升至 3 星解锁四技能后，在推关与 PVP 中提供稳定的控制压制与伤害补充。

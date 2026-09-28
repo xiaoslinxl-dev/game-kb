@@ -96,7 +96,7 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 5. 与其他模块的关联
 
-- 变现礼包定价与广告商店见 [商业化与付费变现 (monetization.md)](/monetization.md)。
-- 基地工厂生产与委派见 [基地建造 (systems/base-build.md)](/systems/base-build.md)。
-- 跑商规则与联盟商船见 [玩法模式与副本体系 (systems/content-modes.md)](/systems/content-modes.md)。
-- 征服赛季攻防工事见 [联盟领地战与世界城战 (systems/territory-war.md)](/systems/territory-war.md)。
+- 变现礼包定价与广告商店见 [商业化与付费变现 (monetization.md)](monetization.md)。
+- 基地工厂生产与委派见 [基地建造 (systems/base-build.md)](systems/base-build.md)。
+- 跑商规则与联盟商船见 [玩法模式与副本体系 (systems/content-modes.md)](systems/content-modes.md)。
+- 征服赛季攻防工事见 [联盟领地战与世界城战 (systems/territory-war.md)](systems/territory-war.md)。

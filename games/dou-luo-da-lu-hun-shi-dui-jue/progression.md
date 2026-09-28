@@ -79,6 +79,6 @@ confidence: high
 
 ## 相关模块
 
-- 经济资源循环请参阅 [economy.md](/economy.md)。
-- 商业化抽卡请参阅 [monetization.md](/monetization.md)。
-- 代表性魂师列表请参阅 [entities/units/_index.md](/entities/units/_index.md)。
+- 经济资源循环请参阅 [economy.md](economy.md)。
+- 商业化抽卡请参阅 [monetization.md](monetization.md)。
+- 代表性魂师列表请参阅 [entities/units/_index.md](entities/units/_index.md)。

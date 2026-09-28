@@ -28,4 +28,4 @@ confidence: high
 
 ## 相关模块
 
-- 养成体系请参阅 [progression.md](/progression.md)。
+- 养成体系请参阅 [progression.md](progression.md)。

@@ -35,7 +35,7 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 关联页面
 
-- [英雄/单位名录](/entities/units/_index.md)
-- [商业化设计](/monetization.md)
-- [战斗系统与小队/SLG机制](/systems/session-combat.md)
-- [联盟领地战与王城跨服争夺](/systems/territory-war.md)
+- [英雄/单位名录](_index.md)
+- [商业化设计](../../monetization.md)
+- [战斗系统与小队/SLG机制](../../systems/session-combat.md)
+- [联盟领地战与王城跨服争夺](../../systems/territory-war.md)

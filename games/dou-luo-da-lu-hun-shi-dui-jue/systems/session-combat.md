@@ -48,6 +48,6 @@ confidence: high
 
 ## 相关模块
 
-- 模式分布请参阅 [content-modes.md](/systems/content-modes.md)。
-- 核心循环请参阅 [core-loop.md](/core-loop.md)。
-- 代表性魂师列表请参阅 [entities/units/_index.md](/entities/units/_index.md)。
+- 模式分布请参阅 [content-modes.md](content-modes.md)。
+- 核心循环请参阅 [core-loop.md](../core-loop.md)。
+- 代表性魂师列表请参阅 [entities/units/_index.md](../entities/units/_index.md)。

@@ -48,7 +48,7 @@ timestamp: "2026-09-27T11:00:00Z"
 ### 3.1 阶段构成
 跨服战（State vs State）是全服玩家参与的大型双服对决，分为四个阶段：
 1. **配对阶段（Matching）**：根据相邻王国前 100 名玩家的综合战力进行对等匹配。
-2. **备战阶段（Preparation - 5 天）**：类似于“最强领主”，包含城建发展、科技研究、士兵训练、野怪击杀（使用[吉娜](/entities/units/gina.md)降低体力消耗）与加速道具消耗等 5 个积分比拼日。获胜方获得治疗加成 +15% 与募兵所容量 +200% 的战争增益。
+2. **备战阶段（Preparation - 5 天）**：类似于“最强领主”，包含城建发展、科技研究、士兵训练、野怪击杀（使用[吉娜](../entities/units/gina.md)降低体力消耗）与加速道具消耗等 5 个积分比拼日。获胜方获得治疗加成 +15% 与募兵所容量 +200% 的战争增益。
 3. **战争阶段（War - 12 小时）**：
    - 备战胜方作为进攻方，跨服前往敌对王国进攻对方太阳城与避难所；
    - 熔炉等级差限制在 3 级以内（如 30 级熔炉仅能攻击 27~30 级玩家避难所）；
@@ -102,11 +102,11 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 关联链接
 
-- [核心循环](/core-loop.md)
-- [长线数值与火晶时代](/progression.md)
-- [系统概览：多常驻玩法模式](/systems/content-modes.md)
-- [系统概览：战斗模式](/systems/session-combat.md)
-- [系统概览：匹配机制](/systems/matchmaking.md)
-- [代表性英雄：杰罗尼莫](/entities/units/jeronimo.md)
-- [代表性英雄：吉娜](/entities/units/gina.md)
-- [代表性英雄：约顿](/entities/units/jordan.md)
+- [核心循环](../core-loop.md)
+- [长线数值与火晶时代](../progression.md)
+- [系统概览：多常驻玩法模式](content-modes.md)
+- [系统概览：战斗模式](session-combat.md)
+- [系统概览：匹配机制](matchmaking.md)
+- [代表性英雄：杰罗尼莫](../entities/units/jeronimo.md)
+- [代表性英雄：吉娜](../entities/units/gina.md)
+- [代表性英雄：约顿](../entities/units/jordan.md)

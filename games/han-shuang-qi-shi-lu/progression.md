@@ -11,11 +11,11 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 1. 城建与大熔炉 (Furnace Progression)
 
-[大熔炉](/systems/base-build.md)是领主城池的核心。大熔炉等级直接决定了其他建筑的等级上限、可训练士兵的阶级（T1 至 T10）以及可解锁的玩法模块：
+[大熔炉](systems/base-build.md)是领主城池的核心。大熔炉等级直接决定了其他建筑的等级上限、可训练士兵的阶级（T1 至 T10）以及可解锁的玩法模块：
 
 - **基础熔炉（Lv 1 - 30）**：
   - Lv 1 - 10：完成前90分钟模拟经营留存，解锁幸存者宿舍、厨房、木材厂与肉铺。
-  - Lv 10 - 20：解锁[吉娜](/entities/units/gina.md)野怪猎杀、灯塔情报与初步联盟集结。
+  - Lv 10 - 20：解锁[吉娜](entities/units/gina.md)野怪猎杀、灯塔情报与初步联盟集结。
   - Lv 30：解锁 T10 顶级兵种，城建进入“火晶时代”（Fire Crystal Age）。
 - **火晶时代（FC1 - FC10）**：
   - 大熔炉达到 30 级后，后续升级不再仅消耗常规资源（肉、木、煤、铁），而是需要大量**火晶（Fire Crystals）**与**精炼火晶**。
@@ -54,13 +54,13 @@ timestamp: "2026-09-27T11:00:00Z"
 
 | 世代 | 代表英雄 | 标志性机制 / 定位 |
 | :--- | :--- | :--- |
-| **Gen 1** | [杰罗尼莫](/entities/units/jeronimo.md) (盾), [茉莉](/entities/units/molly.md) (枪), [津曼](/entities/units/zinman.md) (弓), [娜塔莉亚](/entities/units/natalia.md) (盾) | 开荒与引导期，杰罗尼莫为大氪集结车头核心，茉莉为平民首选 |
-| **Gen 2** | [弗林特](/entities/units/flint.md) (盾), [菲利](/entities/units/philly.md) (枪), [阿隆索](/entities/units/alonso.md) (弓) | 阿隆索竞技场封神，弗林特范围眩晕主坦，菲利提供首个团队群奶 |
-| **Gen 3** | [米娅](/entities/units/mia.md) (枪), 格雷格 (弓), 洛根 (盾) | 米娅成为猎熊行动永远的输出神卡，高暴击连击 |
+| **Gen 1** | [杰罗尼莫](entities/units/jeronimo.md) (盾), [茉莉](entities/units/molly.md) (枪), [津曼](entities/units/zinman.md) (弓), [娜塔莉亚](entities/units/natalia.md) (盾) | 开荒与引导期，杰罗尼莫为大氪集结车头核心，茉莉为平民首选 |
+| **Gen 2** | [弗林特](entities/units/flint.md) (盾), [菲利](entities/units/philly.md) (枪), [阿隆索](entities/units/alonso.md) (弓) | 阿隆索竞技场封神，弗林特范围眩晕主坦，菲利提供首个团队群奶 |
+| **Gen 3** | [米娅](entities/units/mia.md) (枪), 格雷格 (弓), 洛根 (盾) | 米娅成为猎熊行动永远的输出神卡，高暴击连击 |
 | **Gen 4 - 10** | 林恩 (Lynn), 赫克托 (Hector), 韦恩 (Wayne), 布拉德利 (Bradley) 等 | 引入破盾、眩晕抗性与百分比灼烧机制 |
-| **Gen 11 - 14** | [埃莱奥诺拉](/entities/units/eleonora.md) (盾), 玛格努斯 (弓), 弗雷德 (枪) | 烈焰护盾、真实伤害与队伍协同减伤机制全面成型 |
-| **Gen 15 - 17** | [汉克](/entities/units/hank.md) (盾), 伯莎 (枪), [艾登](/entities/units/aiden.md) (盾) | 绝对防御领域、护盾转化与超长蓄力斩杀 |
-| **Gen 18** | [约顿](/entities/units/jordan.md) (盾), 艾西娅 (枪), 尼古拉 (弓) | 2026年9月最新登场，狂涛破阵、远古怒火主宰与雷暴科技战术核心 |
+| **Gen 11 - 14** | [埃莱奥诺拉](entities/units/eleonora.md) (盾), 玛格努斯 (弓), 弗雷德 (枪) | 烈焰护盾、真实伤害与队伍协同减伤机制全面成型 |
+| **Gen 15 - 17** | [汉克](entities/units/hank.md) (盾), 伯莎 (枪), [艾登](entities/units/aiden.md) (盾) | 绝对防御领域、护盾转化与超长蓄力斩杀 |
+| **Gen 18** | [约顿](entities/units/jordan.md) (盾), 艾西娅 (枪), 尼古拉 (弓) | 2026年9月最新登场，狂涛破阵、远古怒火主宰与雷暴科技战术核心 |
 
 ## 5. 晨曦学堂与专家系统 (Dawn Academy & Experts)
 
@@ -68,13 +68,13 @@ timestamp: "2026-09-27T11:00:00Z"
 
 - **专家矩阵**：
   - 经济/内政专家：艾格尼丝（Agnes）、西里尔（Cyrille）、霍尔格（Holger）等，提供造兵速度、采集加速与科研减免。
-  - 军事专家：罗穆卢斯（Romulus）、巴尔德（Baldur）、法比安（Fabian）、瓦莱里亚（Valeria）与[加雷斯](/entities/units/gareth.md)（铁棘领主，大幅降低集结死亡率并附加反伤）。
-  - 成长专家：[贾斯图斯](/entities/units/justus.md)（专精于王朝荣誉宝箱产出与迷宫/宠物探险收益强化，官方排期定于 2026 年 10 月面向 Gen 6+ 王国上线，计划作为 2026 年度收官专家）。
+  - 军事专家：罗穆卢斯（Romulus）、巴尔德（Baldur）、法比安（Fabian）、瓦莱里亚（Valeria）与[加雷斯](entities/units/gareth.md)（铁棘领主，大幅降低集结死亡率并附加反伤）。
+  - 成长专家：[贾斯图斯](entities/units/justus.md)（专精于王朝荣誉宝箱产出与迷宫/宠物探险收益强化，官方排期定于 2026 年 10 月面向 Gen 6+ 王国上线，计划作为 2026 年度收官专家）。
 
 ## 关联页面
 
-- [核心循环](/core-loop.md)
-- [基地建造与模拟经营](/systems/base-build.md)
-- [战斗系统与战术摆位](/systems/session-combat.md)
-- [英雄列表](/entities/units/_index.md)
-- [商业化模型](/monetization.md)
+- [核心循环](core-loop.md)
+- [基地建造与模拟经营](systems/base-build.md)
+- [战斗系统与战术摆位](systems/session-combat.md)
+- [英雄列表](entities/units/_index.md)
+- [商业化模型](monetization.md)

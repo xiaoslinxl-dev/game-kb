@@ -36,4 +36,4 @@ The title revolutionized free-to-play mobile and console gaming by combining AAA
 3. **Character Roster:** A growing pool of over 80 playable 4-star and 5-star characters, unlocked through story progression or gacha banners.
 4. **Cross-Platform Sync:** Unified account architecture allowing cross-save and cross-play across mobile, PC, and consoles.
 
-For detailed breakdowns of core gameplay dynamics, see [Core Loop](/core-loop.md) and [Combat](/combat.md). For business models and market metrics, reference [Monetization](/monetization.md) and [Market Position](/market-position.md).
+For detailed breakdowns of core gameplay dynamics, see [Core Loop](core-loop.md) and [Combat](combat.md). For business models and market metrics, reference [Monetization](monetization.md) and [Market Position](market-position.md).

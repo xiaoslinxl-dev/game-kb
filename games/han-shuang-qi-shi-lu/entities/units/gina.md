@@ -35,7 +35,7 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 关联页面
 
-- [英雄/单位名录](/entities/units/_index.md)
-- [野外探索与苔原商路](/systems/exploration.md)
-- [核心循环](/core-loop.md)
-- [社交与 LiveOps 运营体系](/social-liveops.md)
+- [英雄/单位名录](_index.md)
+- [野外探索与苔原商路](../../systems/exploration.md)
+- [核心循环](../../core-loop.md)
+- [社交与 LiveOps 运营体系](../../social-liveops.md)

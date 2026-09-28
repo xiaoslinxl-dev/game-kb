@@ -13,24 +13,24 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 代表性角色（Characters）
 
-1. [危险盖伊 (Guy Dangerous)](/entities/units/guy-dangerous.md) - 经典初始默认探险家，代表新手入门。
-2. [莉莉丝 (Lilith)](/entities/units/lilith.md) - 竞技场提速霸主，提供 20% 速度上限与能量节约。
-3. [赵云 (Zhao Yun)](/entities/units/zhao-yun.md) - 国风三国联动限定角色，代表经典国风商业化。
-4. [比奥斯博士 (Dr. Bios)](/entities/units/dr-bios.md) - 7 日签到免费送的 A 级角色，代表长线留存福利。
-5. [安妮 (Anne)](/entities/units/anne.md) - 春季婚纱主题限定角色，代表版本主打外显与组队协同。
-6. [沃利纳特 (Wally Nutcracker)](/entities/units/wally-nut.md) - 玩具王国版本限定角色（玩具士兵），代表主题赛道亲和与活动收集。
-7. [雅丹天女 (Yadan Celestial Maiden)](/entities/units/yadan-tian-nu.md) - 敦煌画院跨界联动限定角色，反弹琵琶飞天造型，代表国风传统文化破圈运营。
+1. [危险盖伊 (Guy Dangerous)](guy-dangerous.md) - 经典初始默认探险家，代表新手入门。
+2. [莉莉丝 (Lilith)](lilith.md) - 竞技场提速霸主，提供 20% 速度上限与能量节约。
+3. [赵云 (Zhao Yun)](zhao-yun.md) - 国风三国联动限定角色，代表经典国风商业化。
+4. [比奥斯博士 (Dr. Bios)](dr-bios.md) - 7 日签到免费送的 A 级角色，代表长线留存福利。
+5. [安妮 (Anne)](anne.md) - 春季婚纱主题限定角色，代表版本主打外显与组队协同。
+6. [沃利纳特 (Wally Nutcracker)](wally-nut.md) - 玩具王国版本限定角色（玩具士兵），代表主题赛道亲和与活动收集。
+7. [雅丹天女 (Yadan Celestial Maiden)](yadan-tian-nu.md) - 敦煌画院跨界联动限定角色，反弹琵琶飞天造型，代表国风传统文化破圈运营。
 
 ## 代表性坐骑（Mounts）
 
-8. [年兽 (Nian Beast)](/entities/units/nian-beast.md) - 经典中国风春节限定坐骑，代表早期的坐骑商业化。
-9. [傲狠 (Ao Hen)](/entities/units/ao-hen.md) - 竞技场核心坐骑，具备 30% 概率使对手加速失效的强大封印技能。
+8. [年兽 (Nian Beast)](nian-beast.md) - 经典中国风春节限定坐骑，代表早期的坐骑商业化。
+9. [傲狠 (Ao Hen)](ao-hen.md) - 竞技场核心坐骑，具备 30% 概率使对手加速失效的强大封印技能。
 
 ## 代表性宠物（Pets）
 
-10. [仙灵鹤 (Fairy Crane)](/entities/units/xian-ling-he.md) - 中国神话风格首发宠物，代表金币与分数加成。
-11. [小香猪 (Little Pig)](/entities/units/xiao-xiang-zhu.md) - 生肖春节签到限定宠物，代表活动参与与代币奖励。
+10. [仙灵鹤 (Fairy Crane)](xian-ling-he.md) - 中国神话风格首发宠物，代表金币与分数加成。
+11. [小香猪 (Little Pig)](xiao-xiang-zhu.md) - 生肖春节签到限定宠物，代表活动参与与代币奖励。
 
 ## 代表性羽翼装备（Wings）
 
-12. [花蝶梦 (Butterfly Wings)](/entities/units/hua-die-meng.md) - 梦幻精灵翅膀，提供飞行姿态与 12 倍爆分加成。
+12. [花蝶梦 (Butterfly Wings)](hua-die-meng.md) - 梦幻精灵翅膀，提供飞行姿态与 12 倍爆分加成。

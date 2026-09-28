@@ -18,7 +18,7 @@ timestamp: "2026-09-27T11:00:00Z"
 “典狱长赛斯”是《疯狂水世界》在 2026 年 8 月推出的 S7 赛季全新超凡（Transcendent）品质坦克英雄，隶属于“科技派”阵营。在世界观设定中，赛斯曾是旧世界高科技浮岛监狱的铁血管理者，掌握着先进的电磁力场与机械外骨骼防御技术。
 
 - **阵营与职能**：科技派阵营 / 前排核心主坦兼群体控场。
-- **定位优势**：具备极高的物理与能量双重减伤、群体范围禁锢与电磁力场反伤机制，是 S7 赛季对抗高频物理爆发（如 [兰博](/entities/units/lan-bo.md)、[过江龙](/entities/units/guo-jiang-long.md)）与刺客突进（如 [千代](/entities/units/qian-dai.md)）的顶级防御前排。
+- **定位优势**：具备极高的物理与能量双重减伤、群体范围禁锢与电磁力场反伤机制，是 S7 赛季对抗高频物理爆发（如 [兰博](lan-bo.md)、[过江龙](guo-jiang-long.md)）与刺客突进（如 [千代](qian-dai.md)）的顶级防御前排。
 
 ## 2. 技能机制详解
 
@@ -34,10 +34,10 @@ timestamp: "2026-09-27T11:00:00Z"
 ## 3. 阵容与海兽搭配推荐
 
 - **推荐阵容配置**：
-  - **前排**：典狱长赛斯（主坦抗压与禁锢） + [大嘴山姆](/entities/units/da-zui-shan-mu.md)（副坦聚怪） / [过江龙](/entities/units/guo-jiang-long.md)（近战爆发）
-  - **后排**：[兰博](/entities/units/lan-bo.md)（核心输出） + [巫师老侃](/entities/units/wu-shi-lao-kan.md)（增伤与全队护盾） + [蜜雪儿](/entities/units/mi-xue-er.md)（极寒冻结与回能）
+  - **前排**：典狱长赛斯（主坦抗压与禁锢） + [大嘴山姆](da-zui-shan-mu.md)（副坦聚怪） / [过江龙](guo-jiang-long.md)（近战爆发）
+  - **后排**：[兰博](lan-bo.md)（核心输出） + [巫师老侃](wu-shi-lao-kan.md)（增伤与全队护盾） + [蜜雪儿](mi-xue-er.md)（极寒冻结与回能）
 - **阵法选择**：闪避增强阵 或 能量恢复阵。
-- **推荐海兽**：[鳌蟹](/entities/units/ao-xie.md)（提供全队开局护盾与霸体支持）或 [海豚](/entities/units/hai-tun.md)（持续回血强化续航）。
+- **推荐海兽**：[鳌蟹](ao-xie.md)（提供全队开局护盾与霸体支持）或 [海豚](hai-tun.md)（持续回血强化续航）。
 
 ## 4. 词条与装备洗练
 

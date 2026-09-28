@@ -45,6 +45,6 @@ confidence: high
 
 ## 5. 相关指引
 
-- 版本更新历史详见 [版本时间线](/versions.md)。
-- 限时活动台账详见 [活动台账](/live-events.md)。
-- 竞技匹配与天梯机制详见 [竞技匹配系统](/systems/matchmaking.md)。
+- 版本更新历史详见 [版本时间线](versions.md)。
+- 限时活动台账详见 [活动台账](live-events.md)。
+- 竞技匹配与天梯机制详见 [竞技匹配系统](systems/matchmaking.md)。

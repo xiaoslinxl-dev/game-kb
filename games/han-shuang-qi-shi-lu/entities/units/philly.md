@@ -30,11 +30,11 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 培养与使用建议
 
-- **竞技场防守流核心**：在竞技场防守阵型中，菲利配合[弗林特](/entities/units/flint.md)或[杰罗尼莫](/entities/units/jeronimo.md)等强力前排，能够构建令对手无法在规定时间内减员的“铁桶阵”。
-- **探险高难关卡通关保障**：在面对高爆发多波次野怪关卡时，菲利是确保后排[茉莉](/entities/units/molly.md)或[阿隆索](/entities/units/alonso.md)不被秒杀的关键保障。
+- **竞技场防守流核心**：在竞技场防守阵型中，菲利配合[弗林特](flint.md)或[杰罗尼莫](jeronimo.md)等强力前排，能够构建令对手无法在规定时间内减员的“铁桶阵”。
+- **探险高难关卡通关保障**：在面对高爆发多波次野怪关卡时，菲利是确保后排[茉莉](molly.md)或[阿隆索](alonso.md)不被秒杀的关键保障。
 
 ## 关联页面
 
-- [英雄与专家列表](/entities/units/index.md)
-- [数值与长线养成](/progression.md)
-- [战斗系统](/systems/session-combat.md)
+- [英雄与专家列表](index.md)
+- [数值与长线养成](../../progression.md)
+- [战斗系统](../../systems/session-combat.md)

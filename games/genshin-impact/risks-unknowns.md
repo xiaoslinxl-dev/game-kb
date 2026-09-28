@@ -32,4 +32,4 @@ confidence: high
 - **Challenge:** The developers explicitly minimize high-stress player-vs-player (PvP) and competitive endgame modes to prevent player anxiety. However, veteran players face a lack of challenging activities to utilize highly invested characters outside of Spiral Abyss and Imaginarium Theater.
 - **Impact:** Long-term veteran burnout and reduced motivation to pull new character power spikes once existing teams easily clear content.
 
-For market environment comparisons, see [Market Position](/market-position.md).
+For market environment comparisons, see [Market Position](market-position.md).

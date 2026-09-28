@@ -30,6 +30,6 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 关联页面
 
-- [战斗系统与战术摆位](/systems/session-combat.md)
-- [英雄名录](/entities/units/_index.md)
-- [数值与长线养成：18代英雄迭代表](/progression.md)
+- [战斗系统与战术摆位](../../systems/session-combat.md)
+- [英雄名录](_index.md)
+- [数值与长线养成：18代英雄迭代表](../../progression.md)

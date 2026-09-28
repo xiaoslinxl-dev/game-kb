@@ -141,7 +141,7 @@ timestamp: "2026-09-27T11:00:00Z"
 | **舰船类** | 舰船耐久、修复消耗、修复时间 | 点至 1/2 或 3/4 即可 | **优先点满舰船耐久** | 耐久度是持续接敌的核心，高战需顶在前排连续冲阵 |
 | **攻城战** | 攻城行军速度、耐久破坏、损失减免 | 行军速度点 1/2，其余少点 | 行军速度与损失减免点满 | 快速集结与缩短敌方城市耐久摧毁时间 |
 | **功勋类** | 出征功勋、击败功勋、连胜功勋、终结功勋 | **出征/击败功勋点至20级** | **击败与连胜功勋点满** | 平民靠出征混功勋，高战靠击杀与多连胜刷满战功 |
-| **战斗属性** | 坦克/战士防御、后排输出攻击 | 按主力阵容补充 | 依据队伍全线拉满 | 针对性增强 [兰博](/entities/units/lan-bo.md) 攻击与 [大嘴山姆](/entities/units/da-zui-shan-mu.md)/[典狱长赛斯](/entities/units/dian-yu-zhang-sai-si.md) 坦度 |
+| **战斗属性** | 坦克/战士防御、后排输出攻击 | 按主力阵容补充 | 依据队伍全线拉满 | 针对性增强 [兰博](../entities/units/lan-bo.md) 攻击与 [大嘴山姆](../entities/units/da-zui-shan-mu.md)/[典狱长赛斯](../entities/units/dian-yu-zhang-sai-si.md) 坦度 |
 
 ### 6.2 赛季战利品分配制度
 - **由盟主自主分配**：赛季结算最强联盟排行奖励转为“联盟战利品分配机制”，由盟主与管理根据盟员出勤率、攻城杀敌数与资源捐献贡献统一调配赛季币与珍稀物资自选箱。
@@ -158,7 +158,7 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 8. 与其他模块的关联
 
-- 基础原料与造船耗材由 [基地建造 (systems/base-build.md)](/systems/base-build.md) 生产供给。
-- 英雄在战斗中的具体对抗机制参考 [对抗与卡牌战斗 (systems/session-combat.md)](/systems/session-combat.md)。
-- 跑商物流与联盟商船的经济流转详见 [玩法模式与副本体系 (systems/content-modes.md)](/systems/content-modes.md) 及 [经济系统 (economy.md)](/economy.md)。
-- 征服赛季与城战策略的宏观市场定位见 [市场定位与竞品分析 (market-position.md)](/market-position.md)。
+- 基础原料与造船耗材由 [基地建造 (systems/base-build.md)](base-build.md) 生产供给。
+- 英雄在战斗中的具体对抗机制参考 [对抗与卡牌战斗 (systems/session-combat.md)](session-combat.md)。
+- 跑商物流与联盟商船的经济流转详见 [玩法模式与副本体系 (systems/content-modes.md)](content-modes.md) 及 [经济系统 (economy.md)](../economy.md)。
+- 征服赛季与城战策略的宏观市场定位见 [市场定位与竞品分析 (market-position.md)](../market-position.md)。

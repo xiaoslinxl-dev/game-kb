@@ -52,6 +52,6 @@ timestamp: "2026-09-27T11:00:00Z"
 5. **大使馆（Embassy）**：增加盟友帮助次数与盟友驻防容量。
 
 相关文档链接：
-- [核心循环](/core-loop.md)
-- [数值与长线养成](/progression.md)
-- [冰原探索与大地图](/systems/exploration.md)
+- [核心循环](../core-loop.md)
+- [数值与长线养成](../progression.md)
+- [冰原探索与大地图](exploration.md)

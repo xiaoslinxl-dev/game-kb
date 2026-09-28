@@ -47,4 +47,4 @@ The core revenue driver is the character and weapon banner system.
 3. **Cosmetics & Outfits:**
    - Character skin cosmetics sold via Genesis Crystals (ranging from $15–$30 USD equivalent).
 
-For commercial impacts and market scale of this revenue model, consult [Market Position](/market-position.md).
+For commercial impacts and market scale of this revenue model, consult [Market Position](market-position.md).

@@ -25,6 +25,6 @@ confidence: high
 
 ## 相关链接
 
-- 返回魂师列表请参阅 [entities/units/_index.md](/entities/units/_index.md)。
-- 商业化卡池请参阅 [monetization.md](/monetization.md)。
-- 运营活动请参阅 [live-events.md](/live-events.md)。
+- 返回魂师列表请参阅 [entities/units/_index.md](_index.md)。
+- 商业化卡池请参阅 [monetization.md](../../monetization.md)。
+- 运营活动请参阅 [live-events.md](../../live-events.md)。

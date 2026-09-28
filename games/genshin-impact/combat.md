@@ -49,4 +49,4 @@ A standard competitive team composition typically balances four structural roles
 3. **Support / Buffer:** Characters applying damage multipliers, resistance shreds, or crowd control (e.g., Kazuha, Bennett, Faruzan).
 4. **Sustain / Shielder / Healer:** Defensive anchors preserving party HP and interruption resistance (e.g., Zhongli, Xianyun, Kokomi, Baizhu).
 
-For details on how character gear and stats affect combat output, see [Progression](/progression.md).
+For details on how character gear and stats affect combat output, see [Progression](progression.md).

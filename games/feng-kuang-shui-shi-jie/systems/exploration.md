@@ -64,6 +64,6 @@ timestamp: "2026-09-27T11:00:00Z"
 
 ## 4. 与其他模块的关联
 
-- 拾荒与潜水采集的原料在 [基地建造 (systems/base-build.md)](/systems/base-build.md) 中加工。
-- 拾荒循环作为最底层驱动，与 [核心循环 (core-loop.md)](/core-loop.md) 紧密相扣。
-- 大地图出征与战略资源争夺详见 [联盟领地战与世界城战 (systems/territory-war.md)](/systems/territory-war.md)。
+- 拾荒与潜水采集的原料在 [基地建造 (systems/base-build.md)](base-build.md) 中加工。
+- 拾荒循环作为最底层驱动，与 [核心循环 (core-loop.md)](../core-loop.md) 紧密相扣。
+- 大地图出征与战略资源争夺详见 [联盟领地战与世界城战 (systems/territory-war.md)](territory-war.md)。

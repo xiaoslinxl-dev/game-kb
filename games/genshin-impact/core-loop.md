@@ -53,4 +53,4 @@ Genshin Impact structures player engagement across short-term, medium-term, and 
 2. **Map Exploration:** Clear fog of war, collect Oculi (Anemoculi, Geoculi, etc.), open chests, and solve regional puzzle mechanics to reach 100% completion per zone.
 3. **Endgame Combat Challenges:** Reset cycles of **Spiral Abyss** (Floor 9-12) and **Imaginarium Theater**, yielding Primogems and endgame materials for optimized team compositions.
 
-For details on combat interactions driving this loop, see [Combat](/combat.md). To understand character and resin progression sinks, consult [Progression](/progression.md).
+For details on combat interactions driving this loop, see [Combat](combat.md). To understand character and resin progression sinks, consult [Progression](progression.md).

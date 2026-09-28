@@ -25,5 +25,5 @@ confidence: high
 
 ## 相关模块
 
-- 风险分析请参阅 [risks-unknowns.md](/risks-unknowns.md)。
-- 商业化机制请参阅 [monetization.md](/monetization.md)。
+- 风险分析请参阅 [risks-unknowns.md](risks-unknowns.md)。
+- 商业化机制请参阅 [monetization.md](monetization.md)。

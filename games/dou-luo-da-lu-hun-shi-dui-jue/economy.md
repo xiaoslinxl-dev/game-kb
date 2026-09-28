@@ -45,5 +45,5 @@ confidence: high
 
 ## 相关模块
 
-- 商业化机制请参阅 [monetization.md](/monetization.md)。
-- 养成消耗请参阅 [progression.md](/progression.md)。
+- 商业化机制请参阅 [monetization.md](monetization.md)。
+- 养成消耗请参阅 [progression.md](progression.md)。

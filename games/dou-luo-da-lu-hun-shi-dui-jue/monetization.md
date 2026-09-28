@@ -52,6 +52,6 @@ confidence: high
 
 ## 相关模块
 
-- 代币与资源流转请参阅 [economy.md](/economy.md)。
-- 运营活动台账请参阅 [live-events.md](/live-events.md)。
-- 市场定位分析请参阅 [market-position.md](/market-position.md)。
+- 代币与资源流转请参阅 [economy.md](economy.md)。
+- 运营活动台账请参阅 [live-events.md](live-events.md)。
+- 市场定位分析请参阅 [market-position.md](market-position.md)。

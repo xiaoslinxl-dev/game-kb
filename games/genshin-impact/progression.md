@@ -56,4 +56,4 @@ Artifacts represent the primary repeatable endgame progression sink. Characters 
   3. **Initial Substat RNG:** 3 or 4 initial sub-lines.
   4. **Substat Upgrade RNG:** Every 4 levels (up to +20), a random substat upgrades.
 
-For how progression powers team combat output, see [Combat](/combat.md). For how gacha yields character duplicate Constellations, see [Monetization](/monetization.md).
+For how progression powers team combat output, see [Combat](combat.md). For how gacha yields character duplicate Constellations, see [Monetization](monetization.md).

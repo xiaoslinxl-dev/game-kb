@@ -31,12 +31,12 @@ timestamp: "2026-09-27T11:00:00Z"
 ## 3. 培养与使用建议
 
 - **培养优先度**：极高。平民玩家前期应通过日常招募与各类通用活动碎片稳定提升星级（建议达到 4~5 星），以保证探险关卡与竞技场的高额挂机收益。
-- **专武升级**：专武“雪精灵”建议升至 4~6 级，过渡到 3 代矛兵[米娅](/entities/units/mia.md)前保持主力地位。
-- **阵容搭配**：配合前排肉盾英雄[娜塔莉亚](/entities/units/natalia.md)、[弗林特](/entities/units/flint.md)或[杰罗尼莫](/entities/units/jeronimo.md)构建稳定攻防阵容。
+- **专武升级**：专武“雪精灵”建议升至 4~6 级，过渡到 3 代矛兵[米娅](mia.md)前保持主力地位。
+- **阵容搭配**：配合前排肉盾英雄[娜塔莉亚](natalia.md)、[弗林特](flint.md)或[杰罗尼莫](jeronimo.md)构建稳定攻防阵容。
 
 ## 关联页面
 
-- [英雄/单位名录](/entities/units/_index.md)
-- [数值与长线养成](/progression.md)
-- [战斗系统与小队/SLG机制](/systems/session-combat.md)
-- [代表性英雄：米娅](/entities/units/mia.md)
+- [英雄/单位名录](_index.md)
+- [数值与长线养成](../../progression.md)
+- [战斗系统与小队/SLG机制](../../systems/session-combat.md)
+- [代表性英雄：米娅](mia.md)

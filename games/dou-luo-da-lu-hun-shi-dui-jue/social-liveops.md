@@ -35,5 +35,5 @@ confidence: high
 
 ## 相关模块
 
-- 具体版本更新记录请参阅 [versions.md](/versions.md)。
-- 限时活动台账请参阅 [live-events.md](/live-events.md)。
+- 具体版本更新记录请参阅 [versions.md](versions.md)。
+- 限时活动台账请参阅 [live-events.md](live-events.md)。

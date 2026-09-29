@@ -1,10 +1,10 @@
 ---
 type: SessionCombat
 title: 疯狂水世界 对抗与卡牌战斗系统
-description: 疯狂水世界的 5v5 阵型卡牌战斗、战术飞钩拉人、阵型光环、流转核芯、控制抗性与装备词条对抗（更新至2026年9月28日）。
+description: 疯狂水世界的 5v5 阵型卡牌战斗、战术飞钩拉人、阵型光环、流转核芯、控制抗性与装备词条对抗（更新至2026年9月29日）。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-28T11:00:00Z"
+timestamp: "2026-09-29T11:00:00Z"
 ---
 
 # 疯狂水世界 对抗与卡牌战斗系统

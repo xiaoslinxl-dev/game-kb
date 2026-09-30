@@ -1,14 +1,14 @@
 ---
 type: Unit
 title: 铁腿红魔
-description: 铁腿红魔是疯狂水世界中具备稳定控制与物理输出的副 C 英雄。
+description: 铁腿红魔是疯狂水世界中具备稳定控制与物理输出的副 C 英雄，在国庆全新「水世界牌」中为高爆发终局决胜卡。
 unit_role: SubDPS
 rarity: Legendary
 acquire: 招募、万能碎片兑换、活跃活动
 pay_relevance: medium
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-29T11:00:00Z"
+timestamp: "2026-09-30T11:00:00Z"
 ---
 
 # 铁腿红魔 (Tie Tui Hong Mo)
@@ -24,3 +24,8 @@ timestamp: "2026-09-29T11:00:00Z"
 
 - **养成顺序**：[大嘴山姆](/entities/units/da-zui-shan-mu.md) 3 星 → [兰博](/entities/units/lan-bo.md) 3 星 → [巫师老侃](/entities/units/wu-shi-lao-kan.md) 3 星 → [机器屠夫](/entities/units/ji-qi-tu-fu.md) 3 星 → 铁腿红魔 3 星。
 - **定位优势**：升至 3 星解锁四技能后，在推关与 PVP 中提供稳定的控制压制与伤害补充。
+
+## 3. 国庆「水世界牌」实战定位（9月30日）
+
+- 在国庆特色玩法「水世界牌」中，铁腿红魔具备全卡组顶尖的单卡爆发战力；
+- 常用作最后一回合在关键战场的制胜一击卡牌打出，一举锁定胜局；但需警惕敌方杰森卡牌的反制。

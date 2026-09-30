@@ -4,7 +4,7 @@ title: 疯狂水世界 英雄与海兽名册总览
 description: 疯狂水世界核心代表性英雄与海兽职能分工、养成定位与获取路径汇总。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-29T11:00:00Z"
+timestamp: "2026-09-30T11:00:00Z"
 ---
 
 # 疯狂水世界 英雄与海兽名册总览
@@ -25,7 +25,7 @@ timestamp: "2026-09-29T11:00:00Z"
 | **巫师老侃** | [wu-shi-lao-kan](/entities/units/wu-shi-lao-kan.md) | 增伤辅助 | 传说 (Legendary) | 第8天幸运转盘、招募、自选箱 | 极高（核心辅助） | 绰号“侃爷”，3星开局全队护盾+攻速暴击增益，技能强度防护盾秒碎 |
 | **蜜雪儿** | [mi-xue-er](/entities/units/mi-xue-er.md) | 控场辅助 | 传说 (Legendary) | 新手五巨头任务、常规招募 | 极低（平民友好） | 极寒冰城冻结 3 人持续 2.4 秒，4技能全队回能 16 点缩短技能冷却 25% |
 | **机器屠夫** | [ji-qi-tu-fu](/entities/units/ji-qi-tu-fu.md) | 副坦/控制 | 传说 (Legendary) | 200抽自选箱、招募、万能碎片 | 中等（战术必备） | 上位钩下位/下位钩上位机制对位勾人集火，破阵与通关 800 关双博士关键 |
-| **铁腿红魔** | [tie-tui-hong-mo](/entities/units/tie-tui-hong-mo.md) | 物理副C | 传说 (Legendary) | 常规招募、万能碎片、VIP礼包 | 中等（国家队拼图） | 前中排范围打击与稳定眩晕控制，物理补伤副 C |
+| **铁腿红魔** | [tie-tui-hong-mo](/entities/units/tie-tui-hong-mo.md) | 物理副C | 传说 (Legendary) | 常规招募、万能碎片、VIP礼包 | 中等（国家队拼图） | 前中排范围打击与稳定眩晕控制，在「水世界牌」中充当末段高爆发制胜核心卡 |
 | **小丑杰克** | [xiao-chou-jie-ke](/entities/units/xiao-chou-jie-ke.md) | 暴击刺客 | 传说 (Legendary) | 联盟商店、招募、赛季结算 | 中等（中后期切后） | 专武 60 级成型具备高暴击与单体秒杀能力，3 刀直接切碎后排 |
 | **一龙** | [yi-long](/entities/units/yi-long.md) | 开荒前排 | 传说 (Legendary) | 6元首充礼包、不差钱商人 | 极低（首充即送） | 极高性价比新手过渡前排，大招 AOE 快速清理多波杂兵 |
 

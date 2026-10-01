@@ -12,6 +12,10 @@ game_id: "genshin-impact"
 confidence: high
 ---
 
+> **兼容导航**：本文为旧版根级战斗文档。新结构下战斗规则迁移至
+> `systems/session-combat.md`（见仓库根 `SCHEMA.md`）；迁移完成前本文保留可读，
+> 不再新增内容。
+
 # Genshin Impact — Combat System
 
 ## Core Mechanics & Party Switching

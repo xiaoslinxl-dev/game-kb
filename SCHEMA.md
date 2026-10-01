@@ -20,7 +20,7 @@ games/<game_id>/
 ├── risks-unknowns.md
 ├── sources.md               # 来源总索引（只放入口与概览）
 ├── sources/                 # 来源详情（research_schema_version: 1 起）
-│   └── <source-id>.md       #   一份独立来源 + 编号证据（evidence_id）
+│   └── <source-id>.md       #   一份独立来源，按修订分章节（## r001 …），每章节含检查时间与编号证据
 ├── systems/                 # 按品类启用
 │   ├── session-combat.md
 │   ├── base-build.md

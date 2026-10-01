@@ -8,11 +8,12 @@ game_id: "{{game_id}}"
 project_id: ""
 confidence: low
 research_schema_version: 1
+system_id: "sys-{{game_id}}"
+objective: "TODO（一句话说明该系统的目标）"
+applies_to: all
 ---
 
 # Session combat
-
-目标：TODO（一句话说明该系统在游戏中的作用）。
 
 ## 规则
 

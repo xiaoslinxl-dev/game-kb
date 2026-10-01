@@ -1,10 +1,10 @@
 ---
 type: MarketPosition
 title: 疯狂水世界 市场定位与竞品分析
-description: 疯狂水世界的市场定位、品类差异化优势、益世界开发者大会大奖、双节长线运营（更新至2026年9月30日）、模拟经营+SLG演进路线与竞品对标。
+description: 疯狂水世界的市场定位、品类差异化优势、益世界开发者大会大奖、双节长线运营（更新至2026年10月1日）、模拟经营+SLG演进路线与竞品对标。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
-timestamp: "2026-09-30T11:00:00Z"
+timestamp: "2026-10-01T11:00:00Z"
 ---
 
 # 疯狂水世界 市场定位与竞品分析

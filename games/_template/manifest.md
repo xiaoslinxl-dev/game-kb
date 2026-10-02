@@ -8,6 +8,10 @@ game_id: "{{game_id}}"
 project_id: ""
 confidence: low
 research_schema_version: 1
+modules: []
+modules_core: []
+modules_systems: []
+modules_entities: []
 ---
 
 # Manifest

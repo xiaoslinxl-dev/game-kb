@@ -8,7 +8,7 @@ game_id: "{{game_id}}"
 project_id: ""
 confidence: low
 research_schema_version: 1
-system_id: "sys-{{game_id}}"
+system_id: sys-xxx
 objective: "TODO（一句话说明该系统的目标）"
 applies_to: all
 ---

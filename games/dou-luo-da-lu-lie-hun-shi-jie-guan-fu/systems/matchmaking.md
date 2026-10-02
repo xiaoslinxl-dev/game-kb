@@ -1,13 +1,12 @@
 ---
 type: System
 title: 斗罗大陆：猎魂世界(官服) 竞技匹配系统
-description: 斗魂对决跨服赛季天梯匹配、属性天平与KOF双队赛制（research_schema_version: 1）
+description: "斗魂对决跨服赛季天梯匹配、属性天平与KOF双队赛制（research_schema_version: 1）"
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 system_id: sys-matchmaking
 objective: 斗魂对决跨服赛季天梯匹配、属性天平与KOF双队赛制
 applies_to: all
-research_schema_version: 1
----
+research_schema_version: 1---
 
 # 竞技匹配系统
 

@@ -1,10 +1,9 @@
 ---
 type: LiveEvents
 title: 疯狂水世界 活动台账
-description: 疯狂水世界历次限时运营活动与长线LiveOps事件台账（research_schema_version: 1）。
+description: "疯狂水世界历次限时运营活动与长线LiveOps事件台账（research_schema_version: 1）。"
 game_id: feng-kuang-shui-shi-jie
-research_schema_version: 1
----
+research_schema_version: 1---
 
 # 疯狂水世界 活动台账
 

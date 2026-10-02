@@ -1,10 +1,9 @@
 ---
 type: LiveEvents
 title: 斗罗大陆：猎魂世界(官服) 活动台账
-description: 斗罗大陆：猎魂世界历次限时运营活动与长线LiveOps事件台账（research_schema_version: 1）。
+description: "斗罗大陆：猎魂世界历次限时运营活动与长线LiveOps事件台账（research_schema_version: 1）。"
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
-research_schema_version: 1
----
+research_schema_version: 1---
 
 # 斗罗大陆：猎魂世界(官服) 活动台账
 

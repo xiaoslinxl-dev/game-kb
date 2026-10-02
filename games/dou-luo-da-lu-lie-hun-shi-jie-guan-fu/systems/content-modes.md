@@ -1,13 +1,12 @@
 ---
 type: System
 title: 斗罗大陆：猎魂世界(官服) 多模式玩法内容
-description: 副本体系、PVE周常、限定挑战与团队共斗模式（research_schema_version: 1）
+description: "副本体系、PVE周常、限定挑战与团队共斗模式（research_schema_version: 1）"
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 system_id: sys-content-modes
 objective: 副本刷取、高难共斗、公平对弈、世界首领与限时节日玩法集合
 applies_to: all
-research_schema_version: 1
----
+research_schema_version: 1---
 
 # 多模式玩法内容
 

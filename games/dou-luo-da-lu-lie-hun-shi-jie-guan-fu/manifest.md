@@ -1,7 +1,7 @@
 ---
 type: Manifest
 title: 斗罗大陆：猎魂世界(官服) 模块清单
-description: 知识库模块架构定义与内容索引（research_schema_version: 1）
+description: "知识库模块架构定义与内容索引（research_schema_version: 1）"
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 genre_tags: [mmo, mmorpg, open-world, action, douluo-ip, 3d]
 language: zh-CN
@@ -12,8 +12,7 @@ modules_core: [overview, core-loop, progression, monetization, economy, social-l
 modules_systems: [session-combat, exploration, content-modes, matchmaking]
 modules_entities: [units]
 modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, session-combat, exploration, content-modes, matchmaking, units]
-unit_policy: representative
----
+unit_policy: representative---
 
 # 模块启用说明
 

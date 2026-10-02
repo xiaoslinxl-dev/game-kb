@@ -1,13 +1,12 @@
 ---
 type: Progression
 title: 斗罗大陆：猎魂世界(官服) 养成体系
-description: 角色等级、武魂升星、魂环、魂核、魂骨与外附魂骨等核心养成系统解析（research_schema_version: 1）
+description: "角色等级、武魂升星、魂环、魂核、魂骨与外附魂骨等核心养成系统解析（research_schema_version: 1）"
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
 timestamp: "2026-10-01T20:45:00Z"
 applies_to: all
-research_schema_version: 1
----
+research_schema_version: 1---
 
 # 斗罗大陆：猎魂世界(官服) 养成体系
 

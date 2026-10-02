@@ -1,10 +1,9 @@
 ---
 type: Sources
 title: 疯狂水世界 来源总索引
-description: 疯狂水世界知识库来源总索引与证据映射（research_schema_version: 1）。
+description: "疯狂水世界知识库来源总索引与证据映射（research_schema_version: 1）。"
 game_id: feng-kuang-shui-shi-jie
-research_schema_version: 1
----
+research_schema_version: 1---
 
 # 疯狂水世界 来源总索引
 

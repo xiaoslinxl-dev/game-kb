@@ -1,13 +1,12 @@
 ---
 type: System
 title: 斗罗大陆：猎魂世界(官服) 实时动作战斗系统
-description: 4武魂无缝轮切、技能连携、无锁定动作战斗与多流派协同机制（research_schema_version: 1）
+description: "4武魂无缝轮切、技能连携、无锁定动作战斗与多流派协同机制（research_schema_version: 1）"
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 system_id: sys-session-combat
 objective: 4武魂无缝轮切、技能连携、无锁定动作战斗与多流派协同机制
 applies_to: all
-research_schema_version: 1
----
+research_schema_version: 1---
 
 # 实时动作战斗系统
 

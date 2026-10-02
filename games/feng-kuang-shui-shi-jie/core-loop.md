@@ -5,9 +5,31 @@ description: 疯狂水世界的单局与日常核心玩法循环、四层洋葱�
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+applies_to: all
+research_schema_version: 1
+---
+# 疯狂水世界 核心循环
+
+## 核心循环流转关系表
+
+| relation_id | 起点 ID | 关系类型 | 终点 ID | 条件 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|
+| rel-001 | sys-exploration | 产出 | res-raw-wood | 拾荒船打捞或海面漂浮收集 | src-0001@r001/ev-01 | confirmed |
+| rel-002 | res-raw-wood | 消耗 | prog-base-city | 木筏网格拼贴与工厂建造升级 | src-0001@r001/ev-01 | confirmed |
+| rel-003 | prog-base-city | 解锁 | sys-content-modes | 随主城与木筏提升解锁各模式关卡 | src-0001@r001/ev-01 | confirmed |
+| rel-004 | sys-content-modes | 产出 | res-coin | 关卡挂机推图与副本掉落 | src-0001@r001/ev-01 | confirmed |
+| rel-005 | res-coin | 消耗 | prog-unit-level | 英雄升级消耗金币与经验 | src-0001@r001/ev-01 | confirmed |
+| rel-006 | prog-unit-level | 强化 | sys-session-combat | 提升小队基础战力推图推关 | src-0001@r001/ev-01 | confirmed |
+| rel-007 | sys-session-combat | 产出 | res-diamond | 通关阶段关卡与天梯段位结算 | src-0001@r001/ev-01 | confirmed |
+| rel-008 | res-diamond | 消耗 | prog-unit-star | 翻牌卡池定投与抽卡获取本体碎片 | src-0003@r001/ev-02 | confirmed |
+| rel-009 | prog-base-city | 解锁 | prog-armory-tier | 指挥中心达到51级解锁兵工厂 | src-0001@r001/ev-01 | confirmed |
+| rel-010 | prog-armory-tier | 产出 | res-gasoline | 兵工厂加工产出城战维修燃油 | src-0003@r001/ev-01 | confirmed |
+| rel-011 | res-gasoline | 消耗 | sys-territory-war | 大地图长途奔袭与水之都攻城维修 | src-0003@r001/ev-01 | confirmed |
+| rel-012 | sys-territory-war | 产出 | res-silicon | 占领沙盘高阶矿点与整点货轮打捞 | src-0003@r001/ev-01 | confirmed |
+| rel-013 | res-fortune-knot | 转换 | res-heartbeat-point | 国庆佳节1福运结按1:10比例转化 | src-0002@r001/ev-01 | confirmed |
+
 ---
 
-# 疯狂水世界 核心循环
 
 《疯狂水世界》的核心体验驱动力来自于“拾荒生存 - 基地扩建 - 英雄推关 - 极限试炼 - 联盟协作/城战 - 征服赛季”的多重闭环循环。
 
@@ -57,7 +79,7 @@ timestamp: "2026-10-01T11:00:00Z"
    - 引入居民委托、货轮订单与“12 元自动生产”特权切口，通过生产线扩建与人口规模跃升带来模拟经营的深度正反馈。
 3. **第三层（第3天~第2周）：放置卡牌 RPG 养成层**：
    - 基地遭受变异海怪（章鱼、鲨鱼）与末日海盗劫掠，驱动玩家开启 5v5 自动卡牌对战；
-   - 核心主 C（如 [兰博](/entities/units/lan-bo.md)）、战术飞钩（[机器屠夫](/entities/units/ji-qi-tu-fu.md)）与嘲讽主坦（[大嘴山姆](/entities/units/da-zui-shan-mu.md)）成型，英雄升星、核芯镶嵌与徽章洗炼成为中线核心战力支撑。
+   - 核心主 C（如 [兰博](entities/units/lan-bo.md)）、战术飞钩（[机器屠夫](entities/units/ji-qi-tu-fu.md)）与嘲讽主坦（[大嘴山姆](entities/units/da-zui-shan-mu.md)）成型，英雄升星、核芯镶嵌与徽章洗炼成为中线核心战力支撑。
 4. **第四层（第2周以后）：重度 SLG 领地战与征服赛季层**：
    - 跨服大地图开放，玩家加入联盟参与世界城池集结、远洋货轮争夺、硅矿采集；
    - S6+ 升级为「黑潮入侵」征服赛季，8 势力在 280+ 地块宏大沙盘上向内海“水之都”发起向心决战。游戏完成了从泛娱乐小游戏到重度付费 SLG 的无缝演进。
@@ -85,7 +107,7 @@ timestamp: "2026-10-01T11:00:00Z"
 2. **放置推关（PVE）与关键突破**：
    - 通关主线关卡，开局第一天强烈建议将关卡推至 **70 关以上**，通关 70 关后挂机收益正式掉落建造极缺的核心物资**“蓝图”**；
    - 关卡支持自动连续推关与 10 秒后跳过战斗，挂机持续产出金币、经验、蓝图与随机徽章；双节期间挂机与闯关额外掉落活动道具「月爪」与盲盒卡；
-   - 800 关面对“双博士”卡关点时，需适时后置 [机器屠夫](/entities/units/ji-qi-tu-fu.md) 钩走对称位关键单位打破僵局。
+   - 800 关面对“双博士”卡关点时，需适时后置 [机器屠夫](entities/units/ji-qi-tu-fu.md) 钩走对称位关键单位打破僵局。
 3. **循环挑战「极限试炼」与双节特色玩法**：
    - 周期性限时开启（每期持续 3 天，S1-S3 赛季在第 25~27 天开启，S4 赛季起在第 22~24 天以及第 46~48 天开启）；
    - 针对困难模式登榜需求，平民社区提炼出以李忠诚+机修罗莉机械召唤流拆分二队承伤的通用方案；
@@ -112,8 +134,8 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 4. 与其他模块的关联
 
-- 基地升级瓶颈与建筑详见 [基地建造 (systems/base-build.md)](/systems/base-build.md)。
-- 英雄战力成型梯队与专武洗炼见 [数值与养成系统 (progression.md)](/progression.md)。
-- 资源流向与产销平衡见 [经济系统 (economy.md)](/economy.md)。
-- 征服赛季攻防规则与合服沙盘格局详见 [联盟领地战与世界城战 (systems/territory-war.md)](/systems/territory-war.md)。
-- 礼包码与 LiveOps 周期见 [社交与长线运营 (social-liveops.md)](/social-liveops.md)。
+- 基地升级瓶颈与建筑详见 [基地建造 (systems/base-build.md)](systems/base-build.md)。
+- 英雄战力成型梯队与专武洗炼见 [数值与养成系统 (progression.md)](progression.md)。
+- 资源流向与产销平衡见 [经济系统 (economy.md)](economy.md)。
+- 征服赛季攻防规则与合服沙盘格局详见 [联盟领地战与世界城战 (systems/territory-war.md)](systems/territory-war.md)。
+- 礼包码与 LiveOps 周期见 [社交与长线运营 (social-liveops.md)](social-liveops.md)。

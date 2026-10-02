@@ -5,9 +5,26 @@ description: 疯狂水世界的内购礼包架构、双节专属礼包矩阵、4
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+applies_to: all
+research_schema_version: 1
+---
+# 疯狂水世界 商业化与付费变现
+
+## 商业化产品与权益台账
+
+| product_id | 产品/权益 | 价格与币种 | 地区/平台 | 适用条件 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|
+| prd-auto-produce | 自动生产永久特权 | ¥12.00 CNY | 全平台 | 开荒期新手必备，彻底释放双手免受红点打断 | src-0001@r001/ev-01 | confirmed |
+| prd-first-recharge | 6元首充一龙超值礼包 | ¥6.00 CNY | 全平台 | 首充即送超凡物理前排一龙、钻石与全套开荒神装 | src-0001@r001/ev-01 | confirmed |
+| prd-monthly-pass-small | 进阶小月卡（每日钻石+体能） | ¥25.00 CNY | 全平台 | 购买立得300钻，连续30天每日领100钻与体能药水 | src-0001@r001/ev-01 | confirmed |
+| prd-monthly-pass-large | 至尊大月卡（黄海兽碎片+挂机收益） | ¥68.00 CNY | 全平台 | 购买立得680钻，挂机金币与经验收益永久+15%，送海兽碎片 | src-0001@r001/ev-01 | confirmed |
+| prd-battlepass-card | 国庆水世界牌专属战令 | ¥98.00 CNY | 全平台 | 7天限时活动期内有效，解锁高级牌套与戴安娜直通心动值 | src-0002@r001/ev-01 | confirmed |
+| prd-growth-fund | 指挥官等级成长基金 | ¥98.00 CNY | 全平台 | 达成对应等级阶梯累计返还十倍钻石收益 | src-0001@r001/ev-01 | confirmed |
+| prd-membership-weekly | 水姆商店每周尊享特权卡 | ¥30.00 CNY | 全平台 | 周卡订阅，水姆商店全场兑换享受8折优惠 | src-0001@r001/ev-01 | confirmed |
+| prd-flip-card-daily | 翻牌卡池每日特惠抽奖包 | ¥6.00~¥648.00 CNY | 全平台 | 翻牌卡池开放期间，每日限购10张定投抽卡券 | src-0003@r001/ev-02 | confirmed |
+
 ---
 
-# 疯狂水世界 商业化与付费变现
 
 《疯狂水世界》的商业化变现采用了“轻度体验促破冰、小额特权做留存、中度月卡锁长线、重度卡池与累充冲天花板”的成熟混合变现模型。
 
@@ -46,7 +63,7 @@ timestamp: "2026-10-01T11:00:00Z"
   - 累计 **600 抽必得 300 超凡万能碎片**（价值质变）；
   - **限购与定投属性**：每日限购 10 张翻牌抽奖券（单张 500 钻，买满 10 张需 5000 钻），将传统一波流重氪抽卡重构为长达 **60 天的定投养成线**。
 - **常规“幸运转盘”**：
-  - 消耗常规转盘券或钻石抽取核心英雄碎片（如开服第 8 天 [兰博](/entities/units/lan-bo.md) 转盘）；
+  - 消耗常规转盘券或钻石抽取核心英雄碎片（如开服第 8 天 [兰博](entities/units/lan-bo.md) 转盘）；
   - 转盘券与新翻牌池券不互通，各自独立结算。
 - **中秋盲盒抽卡机制**：
   - 12 个盲盒一局，品质排序：金蟾（隐藏款）> 月兔 > 月桂 > 月饼；
@@ -156,6 +173,6 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 6. 与其他模块的关联
 
-- 英雄抽卡概率与专武养成成本见 [数值与养成系统 (progression.md)](/progression.md)。
-- 资源流向与产销平衡见 [经济系统 (economy.md)](/economy.md)。
-- 商业化活动排期与社交赛事见 [社交与长线运营 (social-liveops.md)](/social-liveops.md)。
+- 英雄抽卡概率与专武养成成本见 [数值与养成系统 (progression.md)](progression.md)。
+- 资源流向与产销平衡见 [经济系统 (economy.md)](economy.md)。
+- 商业化活动排期与社交赛事见 [社交与长线运营 (social-liveops.md)](social-liveops.md)。

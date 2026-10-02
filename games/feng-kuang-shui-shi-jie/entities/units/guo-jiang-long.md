@@ -34,10 +34,10 @@ timestamp: "2026-10-01T11:00:00Z"
 ## 3. 阵容与海兽搭配推荐
 
 - **推荐阵容配置**：
-  - **前排**：过江龙（主战爆发） + [大嘴山姆](/entities/units/da-zui-shan-mu.md)（主坦聚怪） / [机器屠夫](/entities/units/ji-qi-tu-fu.md)（飞钩定点拉人）
-  - **后排**：[兰博](/entities/units/lan-bo.md)（核心射手主C） + [巫师老侃](/entities/units/wu-shi-lao-kan.md)（暴击攻速增伤） + [蜜雪儿](/entities/units/mi-xue-er.md)（极寒控场回能）
+  - **前排**：过江龙（主战爆发） + [大嘴山姆](da-zui-shan-mu.md)（主坦聚怪） / [机器屠夫](ji-qi-tu-fu.md)（飞钩定点拉人）
+  - **后排**：[兰博](lan-bo.md)（核心射手主C） + [巫师老侃](wu-shi-lao-kan.md)（暴击攻速增伤） + [蜜雪儿](mi-xue-er.md)（极寒控场回能）
 - **阵法选择**：攻速增强阵（加快狂暴大招怒气循环）或 闪避增强阵。
-- **推荐海兽**：[鳌蟹](/entities/units/ao-xie.md)（提供开局护盾与霸体支持）或 铁甲人鱼（反伤与减益净化）。
+- **推荐海兽**：[鳌蟹](ao-xie.md)（提供开局护盾与霸体支持）或 铁甲人鱼（反伤与减益净化）。
 
 ## 4. 词条与装备洗练
 

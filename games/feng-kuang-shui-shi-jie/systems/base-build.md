@@ -1,13 +1,30 @@
 ---
-type: BaseBuild
+type: System
 title: 疯狂水世界 基地建造与生存经营
 description: 疯狂水世界的木筏扩展、人口突破、兵工厂建设、加工生产线、建筑与海獭宠物皮肤加成、双节 35% 叠加提速与南海遗珍藏品全厂提速质变（更新至2026年10月1日）。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+system_id: sys-base-build
+objective: 建设并扩张水上浮岛基建，突破人口上限并形成自给自足的物资与军备生产流水线。
+applies_to: all
+research_schema_version: 1
+---
+# 疯狂水世界 基地建造与生存经营
+
+## 规则表
+
+| rule_id | 名称 | 入口与解锁 | 输入 | 操作与限制 | 输出 | 胜败条件 / 不适用理由 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|---|---|
+| rule-bb-expansion | 木筏网格扩展 | 主界面建造入口，开局即解锁 | 木板、金属、塑料 | 沿边缘网格扩展木筏地块，受主城等级限制 | 基地可用占地网格扩展 | not_applicable（基础建设机制，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+| rule-bb-pop-limit | 人口突破机制 | 发电站、医院等设施，等级达标解锁 | 建筑蓝图、金币、轻质钢 | 人口达上限时必须优先升级此类设施打破瓶颈 | 基地人口容纳上限提升 | not_applicable（基础数值扩容，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+| rule-bb-fish-pipeline | 切鱼加工流水线 | 工作台与切鱼厂，14级前解锁 | 生鱼原料 | 加工生鱼片，耗时受英雄委派与皮肤加速缩短 | 居民食物储备与外贸生鱼片 | not_applicable（流水线生产，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+| rule-bb-armory-51 | 51级战略兵工厂 | 基地主城等级达到51级 | 大地图击败海盗掉落军备原料 | 生产世界城战要塞工事所需建材与防御零件 | 城战防御工事与战备耗材 | not_applicable（战备设施，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+| rule-bb-hero-delegate | 指挥中心英雄驻扎委派 | 指挥中心建筑，初期引导解锁 | 空闲英雄 | 委任英雄为厂长，加速生产速率并提供暴击产出 | 工厂生产时间百分比缩短 | not_applicable（增益委派，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+| rule-bb-skin-stack | 建筑与海獭皮肤加成 | 换装系统与海兽宠物培育室 | 皮肤激活卡、海獭外观【有獭有福】 | 被动常驻生效，海獭+5%与双节30%叠加达35%提速 | 全厂生产效率质变提速 | not_applicable（被动增益，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+
 ---
 
-# 疯狂水世界 基地建造与生存经营
 
 《疯狂水世界》的基地建造以“木筏扩展”为核心，结合了高自由度的箱庭拼贴摆放、轻度 SOC 生产加工链、皮肤加成与基地外观个性化机制。
 
@@ -34,13 +51,13 @@ timestamp: "2026-10-01T11:00:00Z"
 - **战略军事建筑【兵工厂】（51级解锁）**：
   - 玩家基地等级达到 **51 级** 时解锁建造【兵工厂】。
   - 兵工厂专门用于加工前线世界城市工事所需的消耗性建材与防御零件。
-  - 其生产原材料由玩家在大地图击败、扫荡海盗船队与据点稳定获取，专门供给 [联盟领地战与世界城战 (systems/territory-war.md)](/systems/territory-war.md) 中的要塞防御工事铺设。
+  - 其生产原材料由玩家在大地图击败、扫荡海盗船队与据点稳定获取，专门供给 [联盟领地战与世界城战 (systems/territory-war.md)](territory-war.md) 中的要塞防御工事铺设。
 
 ### D. 仓储与功能辅助建筑
 - **仓库**：存储基础建材与加工成品。仓库容量不足时会阻断自动生产与拾荒回收，需配合主城等级优先升级扩容。
 - **装备锻造台**：打造英雄枪械、兵刃与防具，搭配蓝色装备可实现 3 秒快速锻造。
 - **指挥中心**：用于委派英雄入驻。英雄入驻后可为对应工厂提供百分比生产加速，加速比例与英雄品质和星级正相关。
-- **海兽培育室**：23 级解锁，用于选育并进化 [鳌蟹](/entities/units/ao-xie.md)、[海豚](/entities/units/hai-tun.md) 与铁甲人鱼等参战海兽。
+- **海兽培育室**：23 级解锁，用于选育并进化 [鳌蟹](../entities/units/ao-xie.md)、[海豚](../entities/units/hai-tun.md) 与铁甲人鱼等参战海兽。
 - **漫剧演播厅**：基地文化建筑，每日观看 AI 真人短剧可稳定领取日常资源奖励。
 
 ---
@@ -73,7 +90,7 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 4. 与其他模块的关联
 
-- 基地扩建人口与建筑解锁等级详见 [数值与养成系统 (progression.md)](/progression.md)。
-- 基地各产线物资投入产出经济账见 [经济系统 (economy.md)](/economy.md)。
-- 兵工厂产出的工事耗材供给 [联盟领地战与世界城战 (systems/territory-war.md)](/systems/territory-war.md)。
-- 海面拾荒与潜水采集机制见 [海域探索与资源收集 (systems/exploration.md)](/systems/exploration.md)。
+- 基地扩建人口与建筑解锁等级详见 [数值与养成系统 (progression.md)](../progression.md)。
+- 基地各产线物资投入产出经济账见 [经济系统 (economy.md)](../economy.md)。
+- 兵工厂产出的工事耗材供给 [联盟领地战与世界城战 (systems/territory-war.md)](territory-war.md)。
+- 海面拾荒与潜水采集机制见 [海域探索与资源收集 (systems/exploration.md)](exploration.md)。

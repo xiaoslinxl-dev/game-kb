@@ -29,4 +29,4 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 3. 阵容搭配
 
-与 [巫师老侃](/entities/units/wu-shi-lao-kan.md)（全队增伤）、[大嘴山姆](/entities/units/da-zui-shan-mu.md)（前排刷大）、[机器屠夫](/entities/units/ji-qi-tu-fu.md)（勾人集火）、[蜜雪儿](/entities/units/mi-xue-er.md)（控场回能）组成公认的“平民/氪佬通用国家队”。
+与 [巫师老侃](wu-shi-lao-kan.md)（全队增伤）、[大嘴山姆](da-zui-shan-mu.md)（前排刷大）、[机器屠夫](ji-qi-tu-fu.md)（勾人集火）、[蜜雪儿](mi-xue-er.md)（控场回能）组成公认的“平民/氪佬通用国家队”。

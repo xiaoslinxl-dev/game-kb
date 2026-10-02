@@ -1,13 +1,30 @@
 ---
-type: TerritoryWar
+type: System
 title: 疯狂水世界 联盟领地战与世界城战（Territory War & Conquest Season）
 description: 《疯狂水世界》的联盟领地争夺、要塞城市攻防、S6+ 征服赛季跨赛季同池风波、实战第11天水之都国庆总攻大决战打响、280+ 地块沙盘、8 势力争霸、合区后沙盘战局激化与汽油维修机制。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+system_id: sys-territory-war
+objective: 联盟跨服割据争夺沙盘城池、货轮与奇观，展开动态黑潮与长途维修博弈。
+applies_to: all
+research_schema_version: 1
+---
+# 疯狂水世界 联盟领地战与世界城战（Territory War & Conquest Season）
+
+## 规则表
+
+| rule_id | 名称 | 入口与解锁 | 输入 | 操作与限制 | 输出 | 胜败条件 / 不适用理由 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|---|---|
+| rule-war-base-citadel | 联盟领地大本营与防御工事 | 联盟大地图界面，入盟后解锁 | 领地大本营、哨塔、机枪碉堡、轻质钢 | 围绕大本营铺路外扩防御圈，部署驻守舰队 | 联盟领地专属资源产量百分比加成 | not_applicable（联盟基础设施，无直接胜负判定） | src-0001@r001/ev-01 | confirmed |
+| rule-war-darktide-weather | 黑潮天候禁战与禁铺路 | S6+征服赛季大沙盘，进入征服赛季开启 | 黑潮涨落天候动态事件 | 被黑潮吞没的城池据点进入禁战状态，且绝对不可作为连线铺路地块 | 迫使联盟指挥必须严格跟踪黑潮涨落表发起闪击 | not_applicable（沙盘战场规则，无直接胜负判定） | src-0003@r001/ev-01 | confirmed |
+| rule-war-gasoline-relay | 汽油远距离维修惩罚与加油站据点跳板 | 大地图城战交火，舰队受损后触发 | 战备汽油 | 外海维修油耗与主城几何直线距离严格挂钩；必须控制加油站中继站重置距离 | 建立安全高效的长途后勤保障链条 | not_applicable（战争补给机制，油耗耗尽无法修船判定败退） | src-0003@r001/ev-01 | confirmed |
+| rule-war-silicon-mine | 战略硅矿采集与货轮打捞 | 大地图整点刷新，全图争霸 | 采集舰队、出城行军令 | 争夺14个高级硅矿与万吨级货轮，受每日30次抢占上限管控 | 征服赛季关键硅晶材料与全盟战略储备 | 采集队伍在据点驻防成功直至完成采集判定成功 | src-0003@r001/ev-01 | confirmed |
+| rule-war-last-hit | 城战要塞“尾刀抢城”判定 | 城池耐久度降至极低濒临破城 | 联盟集结大军与机动小分队尾刀打击 | 无论前期破城耐久消耗占比，最终城池归属权由实施最后一击的联盟获得 | 夺取城池占领权与全盟城市每日税收 | 成功抢得最后一击判定夺城成功，否则判定攻城协助 | src-0003@r001/ev-01 | confirmed |
+| rule-war-loot-distribution | 联盟战利品分配机制 | 赛季结算界面，盟主管理权限 | 赛季占城与个人战功积分 | 赛季结算后由盟主在管理界面将最强联盟战利品按战功自主分配给盟员 | 极品超凡英雄碎片、稀有外观与高级建材宝箱 | not_applicable（战后结算分配机制，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+
 ---
 
-# 疯狂水世界 联盟领地战与世界城战（Territory War & Conquest Season）
 
 《疯狂水世界》的大地图联盟城战（SLG GvG）是其“模拟经营 + 放置卡牌 + SLG”四层玩法融合体系的最终落脚点。游戏在 16 级（约入坑第 3-4 天）正式开放大世界地图与联盟功能，构建了兼顾轻度减负与高烈度社交对抗的海上沙盘争夺。
 
@@ -176,7 +193,7 @@ timestamp: "2026-10-01T11:00:00Z"
 | **舰船类** | 舰船耐久、修复消耗、修复时间 | 点至 1/2 或 3/4 即可 | **优先点满舰船耐久** | 耐久度是持续接敌的核心，高战需顶在前排连续冲阵 |
 | **攻城战** | 攻城行军速度、耐久破坏、损失减免 | 行军速度点 1/2，其余少点 | 行军速度与损失减免点满 | 快速集结与缩短敌方城市耐久摧毁时间 |
 | **功勋类** | 出征功勋、击败功勋、连胜功勋、终结功勋 | **出征/击败功勋点至20级** | **击败与连胜功勋点满** | 平民靠出征混功勋，高战靠击杀与多连胜刷满战功 |
-| **战斗属性** | 坦克/战士防御、后排输出攻击 | 按主力阵容补充 | 依据队伍全线拉满 | 针对性增强 [兰博](/entities/units/lan-bo.md) 攻击与 [大嘴山姆](/entities/units/da-zui-shan-mu.md)/[典狱长赛斯](/entities/units/dian-yu-zhang-sai-si.md) 坦度 |
+| **战斗属性** | 坦克/战士防御、后排输出攻击 | 按主力阵容补充 | 依据队伍全线拉满 | 针对性增强 [兰博](../entities/units/lan-bo.md) 攻击与 [大嘴山姆](../entities/units/da-zui-shan-mu.md)/[典狱长赛斯](../entities/units/dian-yu-zhang-sai-si.md) 坦度 |
 
 ### 6.2 赛季战利品分配制度
 - **由盟主自主分配**：赛季结算最强联盟排行奖励转为“联盟战利品分配机制”，由盟主与管理根据盟员出勤率、攻城杀敌数与资源捐献贡献统一调配赛季币与珍稀物资自选箱。
@@ -193,7 +210,7 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 8. 与其他模块的关联
 
-- 基础原料与造船耗材由 [基地建造 (systems/base-build.md)](/systems/base-build.md) 生产供给。
-- 英雄在战斗中的具体对抗机制参考 [对抗与卡牌战斗 (systems/session-combat.md)](/systems/session-combat.md)。
-- 跑商物流与联盟商船的经济流转详见 [玩法模式与副本体系 (systems/content-modes.md)](/systems/content-modes.md) 及 [经济系统 (economy.md)](/economy.md)。
-- 征服赛季与城战策略的宏观市场定位见 [市场定位与竞品分析 (market-position.md)](/market-position.md)。
+- 基础原料与造船耗材由 [基地建造 (systems/base-build.md)](base-build.md) 生产供给。
+- 英雄在战斗中的具体对抗机制参考 [对抗与卡牌战斗 (systems/session-combat.md)](session-combat.md)。
+- 跑商物流与联盟商船的经济流转详见 [玩法模式与副本体系 (systems/content-modes.md)](content-modes.md) 及 [经济系统 (economy.md)](../economy.md)。
+- 征服赛季与城战策略的宏观市场定位见 [市场定位与竞品分析 (market-position.md)](../market-position.md)。

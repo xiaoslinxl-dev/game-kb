@@ -5,12 +5,13 @@ description: 疯狂水世界（feng-kuang-shui-shi-jie）知识库 Bundle 的模
 game_id: feng-kuang-shui-shi-jie
 genre_tags: [survival, simulation, slg, nautical, card-rpg]
 language: zh-CN
-timestamp: "2026-10-01T11:00:00Z"
+timestamp: "2026-10-01T20:30:00Z"
 confidence: high
-modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
+research_schema_version: 1
+modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
 modules_systems: [base-build, content-modes, exploration, session-combat, territory-war]
 modules_entities: [units]
-modules: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources, base-build, content-modes, exploration, session-combat, territory-war, units]
+modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, base-build, content-modes, exploration, session-combat, territory-war, units]
 unit_policy: representative
 ---
 
@@ -54,7 +55,7 @@ unit_policy: representative
 
 ## 模块选择说明
 
-- **Core (核心模块)**：全量包含 Overview（概述）、Core Loop（核心循环）、Progression（数值与养成）、Monetization（商业化变现）、Economy（经济系统）、Social/LiveOps（社交与长线运营）、Market Position（市场定位与竞品分析）、Risks/Unknowns（风险与未知项）和 Sources（资料来源）。
+- **Core (核心模块)**：全量包含 Overview（概述）、Core Loop（核心循环）、Progression（数值与养成）、Monetization（商业化变现）、Economy（经济系统）、Social/LiveOps（社交与长线运营）、Versions（版本总索引）、LiveEvents（活动台账）、Market Position（市场定位与竞品分析）、Risks/Unknowns（风险与未知项）和 Sources（资料来源与证据台账）。
 - **Systems (系统模块)**：
   - `base-build`：涵盖木筏扩展、民居与发电站突破人口上限、切鱼厂/材料厂流水线、51 级兵工厂、指挥中心英雄委派加速、建筑与宠物皮肤（海獭有獭有福普及生效+5%、日用品厂团结力量、年中报告宠物多汪多旺存量加成、净滩塑料再生建筑皮肤）及双节 30% 生产提速配合机制。
   - `exploration`：涵盖海面物资打捞/自动拾荒（及净滩行动四大阵营手动拾荒累计减碳值冲刺机制）、深海潜水探险搜寻高阶蓝图与藏品、钓鱼捕捞、古物修复及动态天气系统。

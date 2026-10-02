@@ -60,7 +60,7 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 4. 与其他模块的关联
 
-- 变现切口与特权卡见 [商业化与付费变现 (monetization.md)](/monetization.md)。
-- 资源与代币流转核算见 [经济系统 (economy.md)](/economy.md)。
-- 玩法模式演化见 [玩法模式与副本体系 (systems/content-modes.md)](/systems/content-modes.md)。
-- 长线运营周历与品牌动作见 [社交与长线运营 (social-liveops.md)](/social-liveops.md)。
+- 变现切口与特权卡见 [商业化与付费变现 (monetization.md)](monetization.md)。
+- 资源与代币流转核算见 [经济系统 (economy.md)](economy.md)。
+- 玩法模式演化见 [玩法模式与副本体系 (systems/content-modes.md)](systems/content-modes.md)。
+- 长线运营周历与品牌动作见 [社交与长线运营 (social-liveops.md)](social-liveops.md)。

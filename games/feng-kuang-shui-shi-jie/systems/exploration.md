@@ -1,13 +1,29 @@
 ---
-type: Exploration
+type: System
 title: 疯狂水世界 海域探索与资源收集
 description: 疯狂水世界的海面拾荒、净滩行动四大阵营减碳机制、深海潜水探险、垂钓与动态天气系统。
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+system_id: sys-exploration
+objective: 在广阔海域中拾荒收集文明残骸、深海打捞高阶蓝图与藏品。
+applies_to: all
+research_schema_version: 1
+---
+# 疯狂水世界 海域探索与资源收集
+
+## 规则表
+
+| rule_id | 名称 | 入口与解锁 | 输入 | 操作与限制 | 输出 | 胜败条件 / 不适用理由 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|---|---|
+| rule-exp-salvage-auto | 海面拾荒与自动打捞 | 基地外海界面，初期引导开启 | 拾荒船、海面漂浮垃圾 | 升至2级解锁自动拾荒并提升20%航速 | 基础建材（木板、金属、塑料、绳索） | not_applicable（采集机制，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+| rule-exp-deepsea-diving | 深海潜水船坞探险 | 潜水船坞建筑，角色达到23级 | 潜水艇氧气瓶、探险燃料 | 深入沉没遗迹探索，规避深海暗流并打捞宝箱 | 高阶蓝图、超凡藏品套装碎片、黄金宝箱 | not_applicable（探索采集机制，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+| rule-exp-clean-beach | 线上“净滩行动”四大阵营打捞 | 净滩活动界面，全服自选阵营 | 手动拾取海面漂浮垃圾 | 累积个人与阵营减碳值，冲击全服90亿减碳阶梯 | 减碳值、主题头像框、塑料再生建筑皮肤 | not_applicable（全服合作公益事件，无胜负判定） | src-0002@r001/ev-02 | confirmed |
+| rule-exp-fishing-dex | 钓鱼捕捞与海域图鉴 | 钓鱼台，开局引导开启 | 普通鱼饵、高级鱼饵 | 抛竿垂钓稀有鱼类并收录图鉴，激活海域属性羁绊 | 生鱼原料、图鉴全队攻击/生命属性加成 | not_applicable（图鉴养成机制，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+| rule-exp-dynamic-weather | 动态天气系统 | 基地全域环境，随时间动态交替 | 晴天/雨天/暴风雨/黑夜天候 | 暴风雨降低拾荒船20%航速，夜间需灯塔照明 | 环境视线与拾荒效率周期性浮动 | not_applicable（环境模拟机制，无胜负判定） | src-0001@r001/ev-01 | confirmed |
+
 ---
 
-# 疯狂水世界 海域探索与资源收集
 
 《疯狂水世界》塑造了多元化的海域探索体验，涵盖海面拾荒、净滩公益互动、深海潜水、垂钓捕捞、文物修复及应对动态天气系统。
 
@@ -64,6 +80,6 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 4. 与其他模块的关联
 
-- 拾荒与潜水采集的原料在 [基地建造 (systems/base-build.md)](/systems/base-build.md) 中加工。
-- 拾荒循环作为最底层驱动，与 [核心循环 (core-loop.md)](/core-loop.md) 紧密相扣。
-- 大地图出征与战略资源争夺详见 [联盟领地战与世界城战 (systems/territory-war.md)](/systems/territory-war.md)。
+- 拾荒与潜水采集的原料在 [基地建造 (systems/base-build.md)](base-build.md) 中加工。
+- 拾荒循环作为最底层驱动，与 [核心循环 (core-loop.md)](../core-loop.md) 紧密相扣。
+- 大地图出征与战略资源争夺详见 [联盟领地战与世界城战 (systems/territory-war.md)](territory-war.md)。

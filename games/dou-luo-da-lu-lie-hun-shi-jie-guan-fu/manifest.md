@@ -12,7 +12,8 @@ modules_core: [overview, core-loop, progression, monetization, economy, social-l
 modules_systems: [session-combat, exploration, content-modes, matchmaking]
 modules_entities: [units]
 modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, session-combat, exploration, content-modes, matchmaking, units]
-unit_policy: representative---
+unit_policy: representative
+---
 
 # 模块启用说明
 

@@ -8,6 +8,7 @@ acquire: 限定觉醒卡池「剑落帝殒」
 pay_relevance: high
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 帝殒（拟态·莫长歌）

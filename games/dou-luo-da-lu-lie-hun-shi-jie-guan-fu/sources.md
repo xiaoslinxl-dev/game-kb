@@ -3,7 +3,8 @@ type: Sources
 title: 斗罗大陆：猎魂世界(官服) 信息来源
 description: "斗罗大陆：猎魂世界知识库资料来源与编号证据总索引（research_schema_version: 1）。"
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
-research_schema_version: 1---
+research_schema_version: 1
+---
 
 # 斗罗大陆：猎魂世界(官服) 信息来源
 

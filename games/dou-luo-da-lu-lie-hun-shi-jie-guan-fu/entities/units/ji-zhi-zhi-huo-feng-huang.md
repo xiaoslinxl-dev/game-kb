@@ -8,6 +8,7 @@ acquire: 限定觉醒卡池「极致之火」
 pay_relevance: high
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 极致之火凤凰（拟态·马小桃）

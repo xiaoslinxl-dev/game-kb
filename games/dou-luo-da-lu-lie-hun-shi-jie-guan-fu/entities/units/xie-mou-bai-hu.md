@@ -8,6 +8,7 @@ acquire: 常驻觉醒 / 限定返场
 pay_relevance: medium
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 邪眸白虎（拟态·戴沐白）

@@ -8,6 +8,7 @@ acquire: 常驻觉醒 / 新手保底 / 任务赠送
 pay_relevance: medium
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 昊天锤（拟态·唐三）

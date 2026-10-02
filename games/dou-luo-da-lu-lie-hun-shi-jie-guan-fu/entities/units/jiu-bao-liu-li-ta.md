@@ -8,6 +8,7 @@ acquire: 限定觉醒卡池「九彩琉璃」/ 祈愿池
 pay_relevance: high
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 九宝琉璃塔（拟态·宁荣荣）

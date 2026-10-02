@@ -5,6 +5,7 @@ description: 宗门系统、长线运营节奏、限定卡池轮换、创作者�
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 timestamp: 2026-10-01T11:00:00Z
 confidence: high
+research_schema_version: 1
 ---
 
 # 社交与 Live-Ops 机制

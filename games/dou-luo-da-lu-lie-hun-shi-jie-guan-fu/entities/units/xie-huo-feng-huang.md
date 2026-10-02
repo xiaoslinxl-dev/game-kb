@@ -8,6 +8,7 @@ acquire: 常驻觉醒 / 祈愿池
 pay_relevance: medium
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 邪火凤凰（拟态·马红俊）

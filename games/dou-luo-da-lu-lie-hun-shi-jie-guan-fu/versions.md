@@ -3,7 +3,8 @@ type: Versions
 title: 斗罗大陆：猎魂世界(官服) 版本总索引
 description: "斗罗大陆：猎魂世界版本发布总索引与历史清单（research_schema_version: 1）。"
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
-research_schema_version: 1---
+research_schema_version: 1
+---
 
 # 斗罗大陆：猎魂世界(官服) 版本总索引
 

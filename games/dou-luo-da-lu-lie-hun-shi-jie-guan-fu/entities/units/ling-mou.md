@@ -9,6 +9,7 @@ timestamp: 2026-09-14T11:00:00Z
 pay_relevance: high
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 灵眸（拟态·霍雨浩）

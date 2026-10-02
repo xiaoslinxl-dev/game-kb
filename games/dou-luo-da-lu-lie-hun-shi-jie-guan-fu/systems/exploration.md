@@ -6,7 +6,8 @@ game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 system_id: sys-exploration
 objective: 3D写实斗罗大世界地图探索、宝箱收集、仙草采集与奇遇解谜
 applies_to: all
-research_schema_version: 1---
+research_schema_version: 1
+---
 
 # 大世界探索系统
 

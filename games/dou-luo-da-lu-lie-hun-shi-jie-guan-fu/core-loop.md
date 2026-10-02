@@ -6,7 +6,8 @@ game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
 timestamp: "2026-10-01T20:45:00Z"
 applies_to: all
-research_schema_version: 1---
+research_schema_version: 1
+---
 
 # 斗罗大陆：猎魂世界(官服) 核心循环
 

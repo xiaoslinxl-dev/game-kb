@@ -8,6 +8,7 @@ acquire: 限定觉醒卡池「骨龙破晓」
 pay_relevance: high
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 骨龙（拟态·古榕）

@@ -1,5 +1,6 @@
 ---
 okf_version: "0.1"
+research_schema_version: 1
 ---
 
 # 斗罗大陆：猎魂世界(官服) 知识库
@@ -23,7 +24,6 @@ okf_version: "0.1"
 
 ## 2. 系统模块 (Systems)
 
-- [系统模块索引](systems/index.md) — 系统子目录索引
 - [实时动作战斗系统](systems/session-combat.md) — 4 武魂无缝轮切、连招与流派协同
 - [大世界探索系统](systems/exploration.md) — 地图区域、宝箱采集与奇遇解谜
 - [多模式玩法内容](systems/content-modes.md) — 副本体系、高难共斗与公平挑战
@@ -31,7 +31,7 @@ okf_version: "0.1"
 
 ## 3. 代表性实体 (Entities)
 
-- [实体索引](entities/index.md) — 代表性武魂实体名册与分类
+- [实体索引](entities/units/_index.md) — 代表性武魂实体名册与分类
   - [九宝琉璃塔（宁荣荣）](entities/units/jiu-bao-liu-li-ta.md)
   - [昊天锤（唐三）](entities/units/hao-tian-chui.md)
   - [邪眸白虎（戴沐白）](entities/units/xie-mou-bai-hu.md)

@@ -4,6 +4,7 @@ title: 斗罗大陆：猎魂世界(官服) 市场定位与竞品分析
 description: 市场定位、目标用户群与同类 IP 竞品对比
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 市场定位与竞品分析

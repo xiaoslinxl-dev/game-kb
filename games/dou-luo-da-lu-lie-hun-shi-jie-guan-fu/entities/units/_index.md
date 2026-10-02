@@ -4,6 +4,7 @@ title: 武魂名册 overview
 description: 代表性武魂实体名册
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 代表性武魂名册

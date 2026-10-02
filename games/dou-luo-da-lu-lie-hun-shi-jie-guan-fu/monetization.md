@@ -6,7 +6,8 @@ game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
 timestamp: "2026-10-01T20:45:00Z"
 applies_to: all
-research_schema_version: 1---
+research_schema_version: 1
+---
 
 # 斗罗大陆：猎魂世界(官服) 商业化系统
 
@@ -26,7 +27,7 @@ research_schema_version: 1---
 | prod-gacha-xiuluo | 限定觉醒·修罗执剑单抽/十连 | 160/1600 钻石 (或限定券) | CN / 全平台 | 开服≥4天且等级≥30级（80抽小保底/160抽命定大保底） | src-0006@r001/ev-01 | confirmed |
 | prod-gacha-baihong | 限定觉醒·白虹裁月单抽/十连 | 160/1600 钻石 (或限定券) | CN / 全平台 | 开服≥4天且等级≥30级（80抽小保底/160抽命定大保底） | src-0001@r001/ev-01 | confirmed |
 | prod-gacha-xincheng | 新程甄选限定自选UP卡池 | 160/1600 钻石 (或限定券) | CN / 全平台 | 角色创建第2天且等级≥27级（掉落启程玉） | src-0002@r001/ev-01 | confirmed |
-| prod-gacha-rerun | 经典限定武魂返场池（圣龙/灵眸） | 160/1600 钻石 (或限定券) | CN / 全平台 | 开服≥4天且等级≥30级（共享80抽/160抽保底与星神玉） | src-0004@r002/ev-02 | confirmed |
+| prod-gacha-rerun | 经典限定武魂返场池（圣龙/灵眸） | 160/1600 钻石 (或限定券) | CN / 全平台 | 开服≥4天且等级≥30级（共享80抽/160抽保底与星神玉） | src-0004@r001/ev-02 | confirmed |
 | prod-gacha-normal | 常驻武魂祈愿觉醒池 | 160/1600 钻石 (或觉醒券) | CN / 全平台 | 新手30抽保底SSR，后续60抽保底，满220抽开心愿池 | src-0001@r001/ev-01 | confirmed |
 | prod-haishen-coin-pack | 海神币充值档位 (6元~648元) | 6~648 CNY | CN / 全平台 | 首次充值享双倍钻石赠送，直购所有礼包 | src-0002@r001/ev-03 | confirmed |
 | prod-qiuxiao-gift | 秋宵双节特惠礼盒 | 6~328 CNY | CN / 全平台 | 魂师等级≥24级（含满月币/半月币与限定觉醒券） | src-0004@r001/ev-01 | confirmed |

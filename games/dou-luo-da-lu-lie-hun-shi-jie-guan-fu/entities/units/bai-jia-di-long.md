@@ -9,6 +9,7 @@ pay_relevance: high
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 timestamp: 2026-09-14T11:00:00Z
 confidence: high
+research_schema_version: 1
 ---
 
 # 白甲地龙（拟态·拓跋云）

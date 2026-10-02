@@ -4,6 +4,7 @@ title: 斗罗大陆：猎魂世界(官服) 概述
 description: 斗罗大陆：猎魂世界(官服) 游戏基本信息、定位与玩法概况
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 游戏概述

@@ -8,6 +8,7 @@ acquire: 限定觉醒卡池「圣翼辉临」
 pay_relevance: high
 game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
 confidence: high
+research_schema_version: 1
 ---
 
 # 六翼天使（拟态·千仞雪）

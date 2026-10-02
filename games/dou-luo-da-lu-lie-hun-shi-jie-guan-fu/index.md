@@ -37,6 +37,7 @@ research_schema_version: 1
   - [邪眸白虎（戴沐白）](entities/units/xie-mou-bai-hu.md)
   - [蓝电霸王龙（玉天恒）](entities/units/lan-dian-ba-wang-long.md)
   - [邪火凤凰（马红俊）](entities/units/xie-huo-feng-huang.md)
+  - [尖尾雨燕（白沉香）](entities/units/jian-wei-yu-yan.md)
   - [骨龙（古榕）](entities/units/gu-long.md)
   - [帝殒（莫长歌）](entities/units/di-yun.md)
   - [六翼天使（千仞雪）](entities/units/liu-yi-tian-shi.md)

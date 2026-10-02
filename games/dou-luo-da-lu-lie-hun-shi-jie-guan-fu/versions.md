@@ -24,5 +24,6 @@ research_schema_version: 1
 | v1-6-0-cn | 1.6.0 | CN / 全平台 | live | [v1-6-0-cn](versions/v1-6-0-cn.md) |
 | v1-5-0-cn | 1.5.0 | CN / 全平台 | live | [v1-5-0-cn](versions/v1-5-0-cn.md) |
 | v1-4-0-cn | 1.4.0 | CN / 全平台 | live | [v1-4-0-cn](versions/v1-4-0-cn.md) |
+| v1-3-0-cn | 1.3.0 | CN / 全平台 | live | [v1-3-0-cn](versions/v1-3-0-cn.md) |
 | v1-1-0-cn | 1.1.0 | CN / 全平台 | live | [v1-1-0-cn](versions/v1-1-0-cn.md) |
 | v1-0-0-cn | 1.0.0 | CN / 全平台 | live | [v1-0-0-cn](versions/v1-0-0-cn.md) |

@@ -16,6 +16,7 @@ research_schema_version: 1
 - [邪眸白虎](xie-mou-bai-hu.md)
 - [蓝电霸王龙](lan-dian-ba-wang-long.md)
 - [邪火凤凰](xie-huo-feng-huang.md)
+- [尖尾雨燕](jian-wei-yu-yan.md)
 - [骨龙](gu-long.md)
 - [帝殒](di-yun.md)
 - [六翼天使](liu-yi-tian-shi.md)

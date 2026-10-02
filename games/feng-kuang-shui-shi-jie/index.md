@@ -20,7 +20,7 @@ research_schema_version: 1
 - [活动台账 (live-events.md)](live-events.md) — 历次限时运营活动、世界剧本、IP联动与周期轮换事件规范化台账
 - [市场定位与竞品分析 (market-position.md)](market-position.md) — 益世界“模拟经营+SLG”矩阵演进、国内双榜眼、四大硬件厂商生态大满贯、CICF×AGF展会亮相、海外营销本地化与洋葱式四层架构
 - [风险与不确定性 (risks-unknowns.md)](risks-unknowns.md) — 水世界牌匹配超时托管机制与重试成本、移动端高负荷发热与小程序转官服APP迁移工单积压、新区滚服托号扎堆争议、海岛5302服内部账号维权跟进、双节盲盒兑换、合服后战区资源垄断与研究缺口台账
-- [资料来源与参考文献 (sources.md)](sources.md) — 来源总索引表（src-0001 至 src-0010）、编号证据映射与详细文献索引
+- [资料来源与参考文献 (sources.md)](sources.md) — 来源总索引表（src-0001 至 src-0011）、编号证据映射与详细文献索引
 
 ## 2. 系统模块 (Systems)
 

@@ -1,5 +1,6 @@
 ---
 okf_version: "0.1"
+research_schema_version: 1
 ---
 
 # 疯狂水世界 知识库索引
@@ -23,7 +24,6 @@ okf_version: "0.1"
 
 ## 2. 系统模块 (Systems)
 
-- [系统目录 (systems/index.md)](systems/index.md) — 系统子目录索引
 - [基地建造与生存经营 (systems/base-build.md)](systems/base-build.md) — 木筏扩展、民居/发电站人口突破、切鱼厂/材料厂流水线、51 级兵工厂、宠物海獭【有獭有福】（+5%）、双节 35% 叠加提速与规则台账
 - [海域探索与资源收集 (systems/exploration.md)](systems/exploration.md) — 海面拾荒（净滩行动四大阵营打捞垃圾累计减碳值）、深海潜水探险、南海遗珍文物、钓鱼图鉴迭代与动态天气系统规则台账
 - [对抗与卡牌战斗系统 (systems/session-combat.md)](systems/session-combat.md) — 5v5 阵型卡牌战斗、战术飞钩机制、4种新增阵型、流转核芯、登峰核芯、控制抗性与战斗规则台账
@@ -32,7 +32,6 @@ okf_version: "0.1"
 
 ## 3. 实体模块 (Entities)
 
-- [实体目录 (entities/index.md)](entities/index.md) — 实体子目录导航
 - [英雄与海兽名册总览 (entities/units/_index.md)](entities/units/_index.md) — 15 个关键代表性实体（T0 国家队、超凡限定英雄与海兽）选育与职能总表
 - [过江龙 (entities/units/guo-jiang-long.md)](entities/units/guo-jiang-long.md) — 夏日狂浪节超凡战士，高爆发真伤与随赛季更新自动进阶机制
 - [典狱长赛斯 (entities/units/dian-yu-zhang-sai-si.md)](entities/units/dian-yu-zhang-sai-si.md) — S7 科技派超凡主坦，电磁禁锢与防暴力场

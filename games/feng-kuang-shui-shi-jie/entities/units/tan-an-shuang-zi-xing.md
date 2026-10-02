@@ -9,6 +9,7 @@ acquire: 美人鱼联动主题活动、限定超凡招募池、双节节日商�
 pay_relevance: high
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 探案双子星 (Tan An Shuang Zi Xing)

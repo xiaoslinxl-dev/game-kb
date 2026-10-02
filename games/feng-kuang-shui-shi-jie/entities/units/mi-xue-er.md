@@ -9,6 +9,7 @@ acquire: 新手五巨头任务、常规招募、万能碎片兑换
 pay_relevance: low
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 蜜雪儿 (Mi Xue Er)

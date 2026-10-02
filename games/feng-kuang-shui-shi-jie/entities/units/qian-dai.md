@@ -9,6 +9,7 @@ acquire: Limited Event (S2赛季限定招募/转盘活动)
 pay_relevance: high
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 千代 (Qian Dai / 雾隐千代)

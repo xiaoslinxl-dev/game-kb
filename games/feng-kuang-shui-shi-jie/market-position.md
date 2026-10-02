@@ -5,6 +5,7 @@ description: 疯狂水世界的市场定位、品类差异化优势、益世界�
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 疯狂水世界 市场定位与竞品分析

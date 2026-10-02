@@ -3,7 +3,8 @@ type: Versions
 title: 疯狂水世界 版本总索引
 description: "疯狂水世界版本发布总索引与历史清单（research_schema_version: 1）。"
 game_id: feng-kuang-shui-shi-jie
-research_schema_version: 1---
+research_schema_version: 1
+---
 
 # 疯狂水世界 版本总索引
 

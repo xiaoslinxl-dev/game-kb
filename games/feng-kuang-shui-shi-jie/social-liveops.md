@@ -5,6 +5,7 @@ description: 疯狂水世界的联盟社交、大地图攻城、S6+ 征服赛季
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 疯狂水世界 社交与长线运营

@@ -9,6 +9,7 @@ pay_relevance: high
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 巫师老侃 (Wu Shi Lao Kan)

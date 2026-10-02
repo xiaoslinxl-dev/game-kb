@@ -9,6 +9,7 @@ pay_relevance: medium
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 铁腿红魔 (Tie Tui Hong Mo)

@@ -9,6 +9,7 @@ acquire: Limited Event ("北境之王"活动/礼包直购/双节节日商店)
 pay_relevance: high
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 北境大帝 (Bei Jing Da Di)

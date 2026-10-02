@@ -5,6 +5,7 @@ description: 疯狂水世界核心代表性英雄与海兽职能分工、养成�
 game_id: feng-kuang-shui-shi-jie
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 疯狂水世界 英雄与海兽名册总览

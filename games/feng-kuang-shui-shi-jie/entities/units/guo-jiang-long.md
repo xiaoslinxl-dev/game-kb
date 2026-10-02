@@ -9,6 +9,7 @@ acquire: 夏日狂浪节限定活动、超凡招募池
 pay_relevance: high
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 过江龙 (Guo Jiang Long)

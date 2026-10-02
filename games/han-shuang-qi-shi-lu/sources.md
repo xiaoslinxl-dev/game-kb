@@ -4,13 +4,15 @@ title: 寒霜启示录 参考资料与来源索引
 description: 寒霜启示录知识库引用的公开官方公告、应用商店版本记录、深度研报与社区权威数据来源总索引。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-10-01T11:00:00Z"
+timestamp: "2026-10-02T11:00:00Z"
 research_schema_version: 1
 ---
 
 # 寒霜启示录 参考资料与来源索引
 
 本知识库所引用的所有数据、规则变更与运营事实均遵循 `research_schema_version: 1` 证据追踪规范，每条机制或活动记录均可通过稳定引用语法 `source_id@source_revision/evidence_id` 追溯到以下来源详情中的具体证据：
+
+## 来源
 
 | source_id | 标题 | 来源类型 | 发布主体 | 记录链接 |
 |---|---|---|---|---|
@@ -24,6 +26,8 @@ research_schema_version: 1
 | src-0008 | 全家便利商店 x 韩籍啦啦队女神跨界应援公告 | official_announcement | 杰游有限公司 / 全家便利商店 | [src-0008.md](sources/src-0008.md) |
 | src-0009 | AppMagic & Sensor Tower 2026年8月全球手游收入研报 | media_report | Sensor Tower / AppMagic | [src-0009.md](sources/src-0009.md) |
 | src-0010 | WoS Tools & BlueStacks 数值与系统指南 | community_guide | WoS Tools / BlueStacks | [src-0010.md](sources/src-0010.md) |
+| src-0011 | Century Games 官方开发团队问答公告 | official_announcement | Century Games | [src-0011.md](sources/src-0011.md) |
+| src-0012 | Heaven Guardian 合服机制深度指南 | community_guide | Heaven Guardian | [src-0012.md](sources/src-0012.md) |
 
 ## 引用规范说明
 

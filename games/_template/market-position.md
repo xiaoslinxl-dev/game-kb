@@ -7,6 +7,7 @@ timestamp: "1970-01-01T00:00:00Z"
 game_id: "{{game_id}}"
 project_id: ""
 confidence: low
+research_schema_version: 1
 ---
 
 # Market position

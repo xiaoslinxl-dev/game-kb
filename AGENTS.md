@@ -23,6 +23,8 @@ You are reading a **per-game** competitive LLM wiki. Git history is the changelo
    - version timeline / per-version change lists → `versions.md` 与 `versions/<version-id>.md`；规则历史 → `revisions/<topic>/`
    - positioning / competitor narrative → `market-position.md`
    - uncertainty / open gaps → `risks-unknowns.md`
+   - coverage / readiness per question → `coverage.md`（声明 coverage_profile 时）
+   - 定量事实（阶段收支/成本/观察/对照）→ `analysis-data/`
    - citations → `sources.md` 与 `sources/<source-id>.md`（证据编号 evidence_id）
 4. Prefer progressive disclosure: index → overview → 1–3 relevant files. Do not dump the whole game folder.
 5. When answering, cite file paths and respect `confidence` in frontmatter. Mark `low` confidence clearly.

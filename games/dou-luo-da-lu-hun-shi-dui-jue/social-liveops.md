@@ -3,8 +3,9 @@ type: SocialLiveOps
 title: 长线运营与社交
 description: 《斗罗大陆：魂师对决》活动节奏、宗门社交与 LiveOps 策略
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-10-01T12:00:00Z
+timestamp: "2026-10-01T20:25:00Z"
 confidence: high
+research_schema_version: 1
 ---
 
 # 长线运营与社交
@@ -29,11 +30,10 @@ confidence: high
 
 ## 2. 宗门与社交体系
 
-- **宗门大厅与晚宴**：每天固定时间开启宗门答题、答谢与宗门晚宴，强化公会内部粘性。
-- **宗门战与嘉陵关**：每周定期开启宗门对抗，需要公会成员统一布阵、攻占关卡要塞，产出高阶宗门贡献与稀有称号。
+- **宗门大厅与晚宴**：每天固定时间开启宗门答题、答谢与宗门晚宴，强化公会内部粘性。\n- **宗门战与嘉陵关**：每周定期开启宗门对抗，需要公会成员统一布阵、攻占关卡要塞，产出高阶宗门贡献与稀有称号。
 - **跨服联盟与大陆征伐**：将多个区服划分为天斗帝国、武魂帝国、海神岛、星罗帝国四大联盟，进行大地图资源争夺。
 
 ## 相关模块
 
-- 具体版本更新记录请参阅 [versions.md](/versions.md)。
-- 限时活动台账请参阅 [live-events.md](/live-events.md)。
+- 具体版本更新记录请参阅 [versions.md](versions.md)。
+- 限时活动台账请参阅 [live-events.md](live-events.md)。

@@ -3,8 +3,9 @@ type: MarketPosition
 title: 市场定位与竞品分析
 description: 《斗罗大陆：魂师对决》市场表现、用户画像与商业竞争力
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-24T11:00:00Z
+timestamp: "2026-10-01T20:25:00Z"
 confidence: high
+research_schema_version: 1
 ---
 
 # 市场定位与竞品分析
@@ -25,5 +26,5 @@ confidence: high
 
 ## 相关模块
 
-- 风险分析请参阅 [risks-unknowns.md](/risks-unknowns.md)。
-- 商业化机制请参阅 [monetization.md](/monetization.md)。
+- 风险分析请参阅 [risks-unknowns.md](risks-unknowns.md)。
+- 商业化机制请参阅 [monetization.md](monetization.md)。

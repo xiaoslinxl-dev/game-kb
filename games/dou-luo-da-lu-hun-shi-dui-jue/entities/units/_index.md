@@ -3,8 +3,9 @@ type: UnitRoster
 title: 魂师角色名录
 description: 《斗罗大陆：魂师对决》代表性魂师名录与链接列表
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-30T11:00:00Z
+timestamp: "2026-10-01T20:25:00Z"
 confidence: high
+research_schema_version: 1
 ---
 
 # 魂师角色名录 (Units Roster)
@@ -15,18 +16,18 @@ confidence: high
 
 | 魂师名称 | 统一标识 (Slug) | 品质 | 职业定位 | 获取途径 | 商业化/版本权重 | 链接 |
 |----------|-----------------|------|----------|----------|-----------------|------|
-| **统御神王·唐三** | `sp-plus-tongyu-shenwang-tangsan` | SP+ | 统御系 (奉献/裁决双形态) | 2026国庆限定卡池「统御初临」 | 国庆大版本绝对核心，双神归一双形态切换、士气值机制与全队统御链接 | [详情](/entities/units/sp-plus-tongyu-shenwang-tangsan.md) |
-| **千面幻影·妖魅** | `sp-plus-qianmian-huanying-yaomei` | SP+ | 敏攻系 | 2026.8.29限定卡池 / 新服第3天卡池 | 首位 SP+ 敏攻系，幻面天成四形态切换 | [详情](/entities/units/sp-plus-qianmian-huanying-yaomei.md) |
-| **金鳄斗罗** | `ssr-plus-jin-e-douluo` | SSR+ | 防辅系 | 2026.9.13金鳄镇渊豪华版 / 金鳄之遇 | 竞技场核心防守反击防辅，黄金命运生命削减 | [详情](/entities/units/ssr-plus-jin-e-douluo.md) |
-| **神王·霍雨浩** | `sp-shenwang-huoyuhao` | SP | 强攻系 | 灵眸耀世卡池 / 限时卡池复刻 / 灵眸诏令 | 情绪爆发/崩坏双形态切换，出离六道词条极致输出 | [详情](/entities/units/sp-shenwang-huoyuhao.md) |
-| **双神·唐三** | `shuangshen-tangsan` | SP+ / 神祇 | 神祇 (第7人) | 双神降临卡池 / 10月1日卡池返场复刻 | 百级成神核心，首位独立第7人神祇 | [详情](/entities/units/shuangshen-tangsan.md) |
-| **月神·小舞** | `sp-plus-yueshen-xiaowu` | SP+ | 控制/辅助系 | 月舞九天卡池 | 望舒领域增伤，月落丹青专属国风水墨皮肤 | [详情](/entities/units/sp-plus-yueshen-xiaowu.md) |
-| **太初食神·奥斯卡** | `sp-plus-taichu-shishen-oscar` | SP+ | 辅助系 | 五周年限时卡池 | 五周年核心商化锚点，顶阶打火/做菜增伤 | [详情](/entities/units/sp-plus-taichu-shishen-oscar.md) |
-| **极致剑道·尘心** | `sp-plus-zhizhi-jiandao-chenxin` | SP+ | 强攻系 | 限定卡池复刻 | 强攻爆发主 C，剑意纵横预设 | [详情](/entities/units/sp-plus-zhizhi-jiandao-chenxin.md) |
-| **十方琉璃·宁荣荣** | `sp-plus-shifang-liuli-ningrongrong` | SP+ | 辅助系 | 神塔流光卡池 | 顶阶拉条/神塔诏令核心辅助 | [详情](/entities/units/sp-plus-shifang-liuli-ningrongrong.md) |
-| **罗刹神·比比东** | `sp-plus-luosha-bibidong` | SP+ | 控制系 | 限时卡池 | PVP/PVE 顶级控制与扣能量 | [详情](/entities/units/sp-plus-luosha-bibidong.md) |
-| **王林** | `sp-wanglin` | SP | 强攻系 | 《仙逆》联动卡池 / 2026.9.24真身返场 | IP 跨界联动主 C，古神外观与单桩长图真身爆发 | [详情](/entities/units/sp-wanglin.md) |
-| **李慕婉** | `sp-limuwan` | SP | 辅助系 | 《仙逆》联动卡池 | 丹道阵法叠段，双系/三双系辅助 | [详情](/entities/units/sp-limuwan.md) |
-| **修罗·唐三** | `sp-xiuluo-tangsanh` | SP | 强攻系 | 极速服/修罗诏令 | 新服/极速服赠送保底主 C | [详情](/entities/units/sp-xiuluo-tangsanh.md) |
-| **宁荣荣** | `ssr-ningrongrong` | SSR | 辅助系 | 招募/自选卡池 | 经典七怪拉条基石 | [详情](/entities/units/ssr-ningrongrong.md) |
-| **奥斯卡** | `ssr-oscar` | SSR | 辅助系 | 招募/自选卡池 | 经典七怪开局打火基石 | [详情](/entities/units/ssr-oscar.md) |
+| **统御神王·唐三** | `sp-plus-tongyu-shenwang-tangsan` | SP+ | 统御系 (奉献/裁决双形态) | 2026国庆限定卡池「统御初临」 | 国庆大版本绝对核心，双神归一双形态切换、士气值机制与全队统御链接 | [详情](sp-plus-tongyu-shenwang-tangsan.md) |
+| **千面幻影·妖魅** | `sp-plus-qianmian-huanying-yaomei` | SP+ | 敏攻系 | 2026.8.29限定卡池 / 新服第3天卡池 | 首位 SP+ 敏攻系，幻面天成四形态切换 | [详情](sp-plus-qianmian-huanying-yaomei.md) |
+| **金鳄斗罗** | `ssr-plus-jin-e-douluo` | SSR+ | 防辅系 | 2026.9.13金鳄镇渊豪华版 / 金鳄之遇 | 竞技场核心防守反击防辅，黄金命运生命削减 | [详情](ssr-plus-jin-e-douluo.md) |
+| **神王·霍雨浩** | `sp-shenwang-huoyuhao` | SP | 强攻系 | 灵眸耀世卡池 / 限时卡池复刻 / 灵眸诏令 | 情绪爆发/崩坏双形态切换，出离六道词条极致输出 | [详情](sp-shenwang-huoyuhao.md) |
+| **双神·唐三** | `shuangshen-tangsan` | SP+ / 神祇 | 神祇 (第7人) | 双神降临卡池 / 10月1日卡池返场复刻 | 百级成神核心，首位独立第7人神祇 | [详情](shuangshen-tangsan.md) |
+| **月神·小舞** | `sp-plus-yueshen-xiaowu` | SP+ | 控制/辅助系 | 月舞九天卡池 | 望舒领域增伤，月落丹青专属国风水墨皮肤 | [详情](sp-plus-yueshen-xiaowu.md) |
+| **太初食神·奥斯卡** | `sp-plus-taichu-shishen-oscar` | SP+ | 辅助系 | 五周年限时卡池 | 五周年核心商化锚点，顶阶打火/做菜增伤 | [详情](sp-plus-taichu-shishen-oscar.md) |
+| **极致剑道·尘心** | `sp-plus-zhizhi-jiandao-chenxin` | SP+ | 强攻系 | 限定卡池复刻 | 强攻爆发主 C，剑意纵横预设 | [详情](sp-plus-zhizhi-jiandao-chenxin.md) |
+| **十方琉璃·宁荣荣** | `sp-plus-shifang-liuli-ningrongrong` | SP+ | 辅助系 | 神塔流光卡池 | 顶阶拉条/神塔诏令核心辅助 | [详情](sp-plus-shifang-liuli-ningrongrong.md) |
+| **罗刹神·比比东** | `sp-plus-luosha-bibidong` | SP+ | 控制系 | 限时卡池 | PVP/PVE 顶级控制与扣能量 | [详情](sp-plus-luosha-bibidong.md) |
+| **王林** | `sp-wanglin` | SP | 强攻系 | 《仙逆》联动卡池 / 2026.9.24真身返场 | IP 跨界联动主 C，古神外观与单桩长图真身爆发 | [详情](sp-wanglin.md) |
+| **李慕婉** | `sp-limuwan` | SP | 辅助系 | 《仙逆》联动卡池 | 丹道阵法叠段，双系/三双系辅助 | [详情](sp-limuwan.md) |
+| **修罗·唐三** | `sp-xiuluo-tangsanh` | SP | 强攻系 | 极速服/修罗诏令 | 新服/极速服赠送保底主 C | [详情](sp-xiuluo-tangsanh.md) |
+| **宁荣荣** | `ssr-ningrongrong` | SSR | 辅助系 | 招募/自选卡池 | 经典七怪拉条基石 | [详情](ssr-ningrongrong.md) |
+| **奥斯卡** | `ssr-oscar` | SSR | 辅助系 | 招募/自选卡池 | 经典七怪开局打火基石 | [详情](ssr-oscar.md) |

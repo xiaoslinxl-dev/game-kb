@@ -20,4 +20,4 @@ confidence: high
 
 ## 相关链接
 
-- 返回魂师列表请参阅 [entities/units/_index.md](/entities/units/_index.md)。
+- 返回魂师列表请参阅 [entities/units/_index.md](_index.md)。

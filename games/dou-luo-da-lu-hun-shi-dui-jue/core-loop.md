@@ -3,8 +3,9 @@ type: CoreLoop
 title: 核心循环
 description: 《斗罗大陆：魂师对决》玩法闭环与日常/周常动力机制
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: 2026-09-24T11:00:00Z
+timestamp: "2026-10-01T20:25:00Z"
 confidence: high
+research_schema_version: 1
 ---
 
 # 核心循环
@@ -30,7 +31,21 @@ confidence: high
    └── 限时诏令卡池（SP+ / SP 魂师抽卡与源魂养成）
 ```
 
-## 1. 玩法闭环详解
+## 1. 核心循环关系表
+
+| relation_id | 起点 ID | 关系类型 | 终点 ID | 条件 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|
+| `rel-core-001` | `sys-hunt-forest` | 产出 | `res-soul-ring` | 消耗体力挑战落日/猎魂森林 | src-0008@r001/ev-01 | confirmed |
+| `rel-core-002` | `res-vitality` | 消耗 | `sys-hunt-forest` | 每日自然恢复与体力购买 | src-0008@r001/ev-01 | confirmed |
+| `rel-core-003` | `res-free-diamond` | 转换 | `res-wuhun-ticket` | 商城与限时兑换 | src-0008@r001/ev-01 | confirmed |
+| `rel-core-004` | `res-wuhun-ticket` | 消耗 | `sys-gacha` | 武魂觉醒与限时卡池抽卡 | src-0001@r001/ev-01 | confirmed |
+| `rel-core-005` | `sys-gacha` | 产出 | `prog-unit-star` | 抽取魂师本体与碎片 | src-0001@r001/ev-01 | confirmed |
+| `rel-core-006` | `prog-unit-star` | 强化 | `prog-unit-link` | 8位支柱魂师属性继承 | src-0008@r001/ev-01 | confirmed |
+| `rel-core-007` | `prog-unit-link` | 解锁 | `sys-arena` | 达到等级与战力门槛 | src-0008@r001/ev-02 | confirmed |
+| `rel-core-008` | `sys-arena` | 产出 | `res-free-diamond` | 竞技天梯日常与赛季结算 | src-0008@r001/ev-02 | confirmed |
+| `rel-core-009` | `sys-godhood` | 产出 | `prog-title-reconstruct` | 登神长阶与成神排行 | src-0005@r001/ev-01 | confirmed |
+
+## 2. 玩法闭环详解
 
 ### (1) 资源积累阶段
 - **体力管理**：每天通过自然恢复、购买体力（月卡/尊享特权）及托管系统获取体力。
@@ -52,6 +67,6 @@ confidence: high
 
 ## 相关模块
 
-- 详细养成路径请参阅 [progression.md](/progression.md)。
-- 战斗场景与机制请参阅 [systems/session-combat.md](/systems/session-combat.md)。
-- 玩法模式分布请参阅 [systems/content-modes.md](/systems/content-modes.md)。
+- 详细养成路径请参阅 [progression.md](progression.md)。
+- 战斗场景与机制请参阅 [systems/session-combat.md](systems/session-combat.md)。
+- 玩法模式分布请参阅 [systems/content-modes.md](systems/content-modes.md)。

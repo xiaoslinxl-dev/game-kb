@@ -5,6 +5,7 @@ description: 点点互动在全球冰雪末日SLG赛道的破局之路，对比�
 game_id: han-shuang-qi-shi-lu
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 寒霜启示录 市场定位与竞品分析

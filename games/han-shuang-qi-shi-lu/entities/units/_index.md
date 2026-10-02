@@ -5,6 +5,7 @@ description: 寒霜启示录精选代表性英雄列表，涵盖核心SSR/SR英�
 game_id: han-shuang-qi-shi-lu
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 寒霜启示录 英雄列表 (Units Roster)

@@ -9,6 +9,7 @@ acquire: 晨曦学堂 / 冰原历险 (Tundra Trek) 专属解锁 (预计2026年10
 pay_relevance: high
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 贾斯图斯 (Justus)
@@ -42,5 +43,4 @@ timestamp: "2026-10-01T11:00:00Z"
 - [系统概览](../../overview.md)
 - [长线养成](../../progression.md)
 - [风险与未知项](../../risks-unknowns.md)
-- [实体索引](../index.md)
-- [英雄与专家列表](index.md)
+- [英雄与专家列表](_index.md)

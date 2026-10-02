@@ -9,6 +9,7 @@ acquire: 第二世代幸运轮盘 / 心愿小筑
 pay_relevance: high
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 阿隆索 (Alonso)
@@ -35,6 +36,6 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 关联页面
 
-- [英雄与专家列表](index.md)
+- [英雄与专家列表](_index.md)
 - [数值与长线养成](../../progression.md)
 - [战斗系统与战术摆位](../../systems/session-combat.md)

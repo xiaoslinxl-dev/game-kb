@@ -1,5 +1,6 @@
 ---
 okf_version: "0.1"
+research_schema_version: 1
 ---
 
 # Concepts
@@ -12,14 +13,13 @@ okf_version: "0.1"
 * [寒霜启示录 (Whiteout Survival) 概览](overview.md) - 点点互动（Century Games）冰雪末日SLG《寒霜启示录》的产品定位、核心玩法特色与长线留存逻辑。
 * [寒霜启示录 数值与长线养成系统](progression.md) - 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火晶纪元）、领主装备/宝符、18代英雄与晨曦学堂专家长线养成结构。
 * [寒霜启示录 风险与未知项](risks-unknowns.md) - 寒霜启示录在世代数值膨胀、大氪玩家对快速提升付费上限的反馈、混合变现平衡与长线买量成本方面的风险评估与未知缺口台账。
-* [寒霜启示录 社交与 LiveOps 运营体系](social-liveops.md) - 寒霜启示录的联盟社交结构、跨服王战 (SvS)、霜龙霸主跨赛区争霸、2026年10月1日国服无尽冬日国庆黄金周正式开跑与国庆专属兑换码【国庆快乐】上线、巴哈姆特30周年双重合作第16日下半程试炼与论坛最新兑换码【4zd7qMQKd】、韩籍啦啦队第二波全家便利商店跨界联动第2天发票虚宝火热兑换、诚品熊先生书屋昨日圆满闭展收官、官方中秋码26FullMoon正式失效、合服第3天战备、转服整编第12日（剩余13天冷却；Group 21定档10月11日）、成长专家Justus定档10月及2026万圣节前瞻。
+* [寒霜启示录 社交与 LiveOps 运营体系](social-liveops.md) - 寒霜启示录的联盟社交结构、跨服王战 (SvS)、霜龙霸主跨赛区争霸、2026年10月最新运营与合服整编动态。
 * [寒霜启示录 参考资料与来源索引](sources.md) - 寒霜启示录知识库引用的公开官方公告、应用商店版本记录、深度研报与社区权威数据来源总索引。
 * [寒霜启示录 版本总索引](versions.md) - 寒霜启示录（Whiteout Survival）美国区与全球主流版本历史、更新清单与规则变更总索引。
-
-# Subdirectories
-
-* [entities](entities/)
-* [revisions](revisions/)
-* [sources](sources/)
-* [systems](systems/)
-* [versions](versions/)
+* [基地建造与模拟经营 (Base Building)](systems/base-build.md) - 大熔炉供暖、民宅与猎人小屋建设、幸存者健康度/满意度管理、火晶时代心愿驿站与破晓岛扩展机制。
+* [寒霜启示录 多常驻玩法模式与系统 (Content Modes)](systems/content-modes.md) - 寒霜启示录的探险推关、竞技场、地心探险、无尽试炼、燃霜矿区、霜龙霸主、冰火战歌联赛、凛冬围城与日常整合分页。
+* [寒霜启示录 野外探索与苔原商路 (Exploration)](systems/exploration.md) - 寒霜启示录的冰原迷雾、野外资源采矿、苔原商路 (Frost Wind Track)、灯塔情报与野兽猎杀机制。
+* [匹配与跨服机制 (Matchmaking)](systems/matchmaking.md) - 解析竞技场积分匹配、燃霜矿区/战歌联赛匹配、王国转移、合服浪潮、跨服战与霜龙霸主匹配规则。
+* [寒霜启示录 战斗系统与战术摆位 (Session Combat)](systems/session-combat.md) - 寒霜启示录的小队回合/放置 RPG 战斗与 4X 大地图 SLG 行军/集结战斗双重模式解构。
+* [联盟领地战与王城跨服争夺 (Territory War & State Battle)](systems/territory-war.md) - 《寒霜启示录》的联盟领地扩张、合服浪潮领地重置与抢地战术、王城争霸、跨服战、堡垒要塞争夺与霜龙霸主。
+* [寒霜启示录 英雄列表 (Units Roster)](entities/units/_index.md) - 寒霜启示录精选代表性英雄列表，涵盖核心SSR/SR英雄、世代英雄与晨曦学堂专家。

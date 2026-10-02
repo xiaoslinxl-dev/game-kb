@@ -8,19 +8,14 @@ language: zh-CN
 timestamp: "2026-10-01T11:00:00Z"
 confidence: high
 research_schema_version: 1
-modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
-modules_systems: [base-build, content-modes, exploration, matchmaking, session-combat, territory-war]
-modules_entities: [units]
+modules: [core, systems, entities]
 unit_policy: representative
 ---
 
 # 寒霜启示录 知识库 Manifest
 
 ```yaml
-modules:
-  core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
-  systems: [base-build, content-modes, exploration, matchmaking, session-combat, territory-war]
-  entities: [units]
+modules: [core, systems, entities]
 unit_policy: representative
 ```
 

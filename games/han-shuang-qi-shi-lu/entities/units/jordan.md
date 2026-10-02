@@ -9,6 +9,7 @@ acquire: 幸运大转盘 (Lucky Wheel) / 最强领主 (Hall of Chiefs)
 pay_relevance: high
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 约顿 (Jordan)

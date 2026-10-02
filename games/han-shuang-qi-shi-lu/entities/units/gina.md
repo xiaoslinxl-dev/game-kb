@@ -9,6 +9,7 @@ acquire: 吉娜的复仇（Gina's Revenge）活动
 pay_relevance: low
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 吉娜 (Gina)

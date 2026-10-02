@@ -5,6 +5,7 @@ description: 寒霜启示录的联盟社交结构、跨服王战 (SvS)、霜龙�
 game_id: han-shuang-qi-shi-lu
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 寒霜启示录 社交与 LiveOps 运营体系

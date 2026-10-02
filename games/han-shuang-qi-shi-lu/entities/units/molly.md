@@ -9,6 +9,7 @@ acquire: 七日签到免费赠送 / 幸运大转盘 / 英雄大厅招募
 pay_relevance: low
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 茉莉 (Molly)

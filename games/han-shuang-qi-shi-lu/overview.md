@@ -5,6 +5,7 @@ description: 点点互动（Century Games）冰雪末日SLG《寒霜启示录》
 game_id: han-shuang-qi-shi-lu
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 寒霜启示录 概览

@@ -1,17 +1,30 @@
 ---
 type: Risks
 title: 寒霜启示录 风险与未知项
-description: 寒霜启示录在世代数值膨胀、大氪玩家对快速提升付费上限的反馈、混合变现平衡与长线买量成本方面的风险评估。
+description: 寒霜启示录在世代数值膨胀、大氪玩家对快速提升付费上限的反馈、混合变现平衡与长线买量成本方面的风险评估与未知缺口台账。
 game_id: han-shuang-qi-shi-lu
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
 # 寒霜启示录 风险与未知项
 
+本模块遵循 `research_schema_version: 1` 规范，建立结构化未知项与机制缺口台账，并对游戏长线运营风险进行系统性评估。
+
+## 未知项与机制缺口台账
+
+| gap_id | 关联对象 | 待验证问题 | 已查资料 | 缺失原因 | 下一步 |
+|---|---|---|---|---|---|
+| gap-gen19-schedule | prog-hero-star | 第19代英雄发布周期与兵种定位是否延续盾矛弓循环？ | 官方前瞻、先锋服更新公告 (src-0001) | 官方保持约80天一更新，目前第18代上线未满一个月，测试服尚未实装第19代 | 持续跟踪10月下旬先锋服解包与领主管家预告 |
+| gap-justus-exact-cost | prog-dawn-expert | 晨曦学堂专家贾斯图斯（Justus）升至满级所需精通书与金币精确数值 | 官方8月6日调整公告、WoS Tools专家计算器 (src-0003, src-0010) | 官方因大氪反弹将上线时间由8月推迟至10月，数值在测试服仍在微调 | 待10月正式服版本实装后抓取技能树与升级消耗数值 |
+| gap-state-merger-next | sys-matchmaking | 下一批次合服名单、触发条件与涵盖的王国范围 | 官方客服FAQ、9月29日首批50组归并记录 (src-0005) | 官方按各王国活跃度动态评估，未提前公布后续批次白名单 | 追踪10月中旬官方Discord与客服中心合服公告 |
+| gap-halloween-drop-rate | evt-2026-halloween-preview | 2026万圣节活动南瓜突袭各档位掉率与保底机制 | 社区爆料、历史万圣节活动规则 (src-0001) | 官方目前仅发布活动概念前瞻，未公布确切数值概率表 | 待10月下旬万圣节活动正式公告后补充核验 |
+| gap-fc11-expansion | prog-fc-age | FC10之后更高阶火晶建筑数值开放节点 | 游戏内科技树、社区拆包分析 (src-0010) | 官方尚未确认是否于2026年内开放FC11及以上等级 | 监测官方大版本更新预告与开发团队Q&A |
+
 ## 1. 世代英雄数值膨胀与老英雄贬值风险 (Power Creep)
 
-- **风险描述**：游戏以大约每 **80 天** 更新一代新英雄的节奏推进（截至 2026 年 9 月已正式推进至第 18 代）。新世代英雄的初始面板属性与技能系数显著高于早期英雄（如从 Gen 11 盾兵[埃莱奥诺拉](/entities/units/eleonora.md)、Gen 17 盾兵[艾登](/entities/units/aiden.md)再到 Gen 18 盾兵[约顿](/entities/units/jordan.md)）。
+- **风险描述**：游戏以大约每 **80 天** 更新一代新英雄的节奏推进（截至 2026 年 9 月已正式推进至第 18 代）。新世代英雄的初始面板属性与技能系数显著高于早期英雄（如从 Gen 11 盾兵[埃莱奥诺拉](entities/units/eleonora.md)、Gen 17 盾兵[艾登](entities/units/aiden.md)再到 Gen 18 盾兵[约顿](entities/units/jordan.md)）。
 - **潜在影响**：
   - 中氪与微氪玩家若在早期世代过度投入资源至非人权卡，可能在服务器进入中后期（Day 500+）后遭遇阵容迅速脱节的挫败感。
   - 官方虽通过“苔原贸易站 (Tundra Trading Station)”开放溢出碎片与专武零件回收置换，但仍需持续平衡老服务器玩家对资产保值性的诉求。
@@ -19,7 +32,7 @@ timestamp: "2026-10-01T11:00:00Z"
 ## 2. 大氪玩家对快速解锁付费上限的反弹与官方调优机制 (Spender Backlash & Pacing)
 
 - **风险事件复盘（2026年8月“霜龙霸主”停氪风波）**：
-  - **背景**：2026年8月初，官方“执政官前瞻”（Chief Concierge Sneak Peek）一口气披露了三大高额付费天花板：传奇 T6 三星领主装备（Legendary T6 3-Star Chief Gear）、18级领主宝符（Chief Charm Lv. 18）以及全新成长专家[贾斯图斯](/entities/units/justus.md)。
+  - **背景**：2026年8月初，官方“执政官前瞻”（Chief Concierge Sneak Peek）一口气披露了三大高额付费天花板：传奇 T6 三星领主装备（Legendary T6 3-Star Chief Gear）、18级领主宝符（Chief Charm Lv. 18）以及全新成长专家[贾斯图斯](entities/units/justus.md)。
   - **社区反弹**：数小时内，大氪玩家群体中流传“霜龙霸主宣言 (Frostdragon Tyrant Declaration)”，呼吁各大王国头部车头领主暂停购买限时活动礼包（spending strike），抗议养成线与付费上限推移过快导致的养车成本失控。
   - **官方应对与妥协（2026年8月6日官方调整公告）**：
     - 开发团队迅速做出让步并调整排期：

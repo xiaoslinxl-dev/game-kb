@@ -1,56 +1,31 @@
 ---
 type: Sources
-title: 寒霜启示录 参考资料与来源
-description: 收集自 Century Games 官方公告、领主管家前瞻、TapTap 官方论坛国庆公告、巴哈姆特 30 週年合作公告、全家便利商店联动公告、国服无尽冬日国庆庆典、AppMagic、Sensor Tower、BlueStacks、BuffBuff、Eldorado.gg、WSCO Blog、GNN 新闻、Treabar、GamsGo、TOPUPlive、WoS Tools、WOS Wiki、Reddit 与巴哈姆特社区的参考资料清单。
+title: 寒霜启示录 参考资料与来源索引
+description: 寒霜启示录知识库引用的公开官方公告、应用商店版本记录、深度研报与社区权威数据来源总索引。
 game_id: han-shuang-qi-shi-lu
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
 ---
 
-# 寒霜启示录 参考资料与来源
+# 寒霜启示录 参考资料与来源索引
 
-本知识库基于以下公开资料、官方公告、深度研报以及玩家社区攻略整理撰写：
+本知识库所引用的所有数据、规则变更与运营事实均遵循 `research_schema_version: 1` 证据追踪规范，每条机制或活动记录均可通过稳定引用语法 `source_id@source_revision/evidence_id` 追溯到以下来源详情中的具体证据：
 
-1. **Century Games 官方网站、Wiki、应用商店与更新公告 (2026年8-10月最新)**：
-   - 链接：[Century Games Official Site](https://www.centurygames.com/whiteout-survival-wos-update/) | [Century Games Official Facebook Update (Aug 2026)](https://www.facebook.com/WhiteoutSurvival.tw/photos/122377455110003923/) | [Apple App Store & Google Play 寒霜启示录 9月版本公告与4亿玩家里程碑](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN) | [Google Play 寒霜启示录 官方页面](https://play.google.com/store/apps/details?id=com.gof.global&hl=zh_TW) | [Google Play 登上霜龙霸主的王座专题](https://play.google.com/store/apps/editorial?id=mc_games_editorialmd_whiteout_survival_grand_conquest_fcp&hl=zh) | [Century Games Chief Concierge Sneak Peek — Mid-Autumn Festival 明月盛典 (09/19/2026)](https://www.whiteoutsurvival.wiki/tw/sneak-peek/091968387tw/) | [TapTap 无尽冬日 官方公告：内含兑换码 | 国庆假期已加载，冰原模式启动！ (2026-10-01)](https://www.taptap.cn/app/521534/topic) | [Century Games Chief Concierge Sneak Peek (Aug 2026)](https://www.whiteoutsurvival.wiki/sneak-peek/080366853en/) | [Century Games Official Adjustment Notice (08/06/2026)](https://www.whiteoutsurvival.wiki/sneak-peek/08068537en/) | [WSCO In-Game Update · 3 Sep 2026 — Icefire Warhymn League](https://www.whiteoutsurvival-community.com/tools/blog.html) | [Apple App Store & Google Play Gen 18 Heroes Special Event (Sep 2026)](https://apps.apple.com/ch/app/whiteout-survival/id6443575749?l=en-GB)\
-   - 贡献内容：2026年10月1日官方社区公告全服派发国庆专属兑换码【国庆快乐】（需熔炉等级达标，含节日专属养成与加速资源）；官方中秋专属特辑礼包码 `26FullMoon` 确认正式到期失效闭合移入失效列表；官方 Facebook「Supreme Chief Party」专属社区活动截标审核发奖；官方中秋节「明月盛典」核心任务与兑换商店【望月商舖】全面收官闭环，系统邮件下发未消耗资产折算；秋分特辑礼包码 `FallEquinox26`（9月26日到期）、日本白银周特辑码 `JPsilverweek26`（9月24日到期）、国内预热码 `中秋节活动预告`（9月22日到期）、官方特辑码 `WOS0919`（9月21日到期）等持续标红列入失效列表；2026年9月官方特别活动正式推出第18代英雄（Gen 18 Heroes：约顿 Jordan、艾西娅 Aisha、尼古拉 Nikola）；官方版本公告：霜龙霸主活动规则与优化（霜龙王城与四座神秘石塔争夺、加冕霸主尊享30天专属霜龙行军特效皮肤与霸主宴会、战前竞猜开打前支持无损随时修改答案）；执政官/至高执政官新发布的宣言支持全服点赞互动；2026年9月3日全服维护公告：冰火战歌联赛（Icefire Warhymn League）三大阵型规则（预选赛阵型锁定、3名英雄与满编带兵量强制要求、实时战力变动同步提醒）；2026年8月最新“执政官前瞻”及8月6日官方调整公告：火晶时代资料片（Fire Crystal Age / Version 1.33.9）、传奇T6三星领主装备（需Gen 6解锁）、领主宝符17-18级（细分9个子阶段，需Gen 8解锁）、英雄装备精通4级起细分子阶段进度条；成长专家贾斯图斯（推迟至10月Gen 6+王国上线，确认作为2026年度最后一位新专家）；心愿驿站（Wish Station）与9座免费娱乐设施、无尽试炼（风吼者·乌尔夫加 Wulfgar）、地心探险【大地之心】新增50层、12小时防护罩上线；7月全新联盟大型PVP凛冬围城（Winter Siege）据点争夺玩法、铁棘领主军事专家加雷斯 Gareth、第15/16/17代世代英雄（Hank, Aiden, Bertha, Eleanor）、T12炽炎科技 Flame Tech 与煌耀兵种；官方更新将王国转移冷却周期由 30 天缩短至 25 天。
+| source_id | 标题 | 来源类型 | 发布主体 | 记录链接 |
+|---|---|---|---|---|
+| src-0001 | Century Games 官方网站与更新公告 | official_announcement | Century Games | [src-0001.md](sources/src-0001.md) |
+| src-0002 | Apple App Store & Google Play Store US 寒霜启示录版本历史 | store_note | Apple / Google / Century Games | [src-0002.md](sources/src-0002.md) |
+| src-0003 | Century Games 官方调整公告与领主管家前瞻 | official_announcement | Century Games | [src-0003.md](sources/src-0003.md) |
+| src-0004 | WSCO 游戏内更新与维护日志 (2026年9月3日) | official_announcement | Whiteout Survival Community / Century Games | [src-0004.md](sources/src-0004.md) |
+| src-0005 | Century Games 官方客服中心：合服与转服规则指南 | official_announcement | Century Games Support | [src-0005.md](sources/src-0005.md) |
+| src-0006 | TapTap与官方社区：国庆黄金周与中秋闭环公告 | official_announcement | Century Games / 官方社区运营 | [src-0006.md](sources/src-0006.md) |
+| src-0007 | 巴哈姆特 30 週年《寒霜啟示錄》線上雙重合作官方公告 | official_announcement | 杰游有限公司 / 巴哈姆特电玩疯 | [src-0007.md](sources/src-0007.md) |
+| src-0008 | 全家便利商店 x 韩籍啦啦队女神跨界应援公告 | official_announcement | 杰游有限公司 / 全家便利商店 | [src-0008.md](sources/src-0008.md) |
+| src-0009 | AppMagic & Sensor Tower 2026年8月全球手游收入研报 | media_report | Sensor Tower / AppMagic | [src-0009.md](sources/src-0009.md) |
+| src-0010 | WoS Tools & BlueStacks 数值与系统指南 | community_guide | WoS Tools / BlueStacks | [src-0010.md](sources/src-0010.md) |
 
-2. **巴哈姆特 30 週年《寒霜啟示錄》線上合作活動官方公告 (2026年9月16日-10月1日)**：
-   - 链接：[巴哈姆特 寒霜啟示錄線上問答挑戰賽，30 題達人試煉等你來闖關！ (2026-09-16)](https://forum.gamer.com.tw/C.php?bsn=76999&snA=819&tnum=1) | [巴哈姆特 寒霜啟示錄虛寶贈送/交換集中討論串 (2026-10-01)](https://forum.gamer.com.tw/C.php?bsn=76999&snA=518) | [巴哈姆特 寒霜啟示錄哈啦區精華組](https://forum.gamer.com.tw/B.php?bsn=76999)\
-   - 贡献内容：2026 年 9 月 16 日 10:00 至 10 月 15 日 23:59 (UTC+8)，官方台湾代理商杰游有限公司联合巴哈姆特 30 週年庆典推出线上双重合作活动：30 题每日达人问答挑战赛（今日 10 月 1 日迎来第 16 题试炼）与每日九宫格转盘抽奖。活动采“双重保底机制”，无论答题对错或转到何种宫格皆送【每日保底金币】，累积金币可参加巴哈姆特“勇者嘉年华”实体大抽奖；自 9 月 16 日起每日坚持参与答题的领主已达成累计 15 次问答大奖，全面解锁抽取寒霜酷娃包、白熊抱抱毯、寒霜小熊先生、寒霜英雄别册+序号卡等珍稀实体周边的抽奖资格；玩家在哈啦区讨论串中热烈分享今日 10 月 1 日最新问答达成礼包序号 `4zd7qMQKd`（**1小时通用加速x8、1,000钻石x1、领主体力x5**，有效期至 2026/11/30 23:59），连同昨日分享的 `K9WQ8EB4y`（1,000钻石、100点强化经验零件x2、传说通用英雄碎片x1）与此前晒出的兑换码（如 `4jxG5XyKb`、`wm6GMPv4w`、`4zd7pgAKd`、`wQYm5nWw5`、`K5apdBzK5` 等）；每日九宫格转盘抽奖机会每日重置。
+## 引用规范说明
 
-3. **WSCO Community、Heaven Guardian、U7BUY & 官方帮助中心 合服浪潮与转服追踪 (2026年10月1日最新)**：
-   - 链接：[WSCO Blog — September Update: Moonlight Festival live, State Merger on Sep 29 & next Transfer window (2026-09-27)](https://www.whiteoutsurvival-community.com/tools/blog.html) | [Heaven Guardian: Whiteout Survival State Merger Guide 2026: Rules, Alliance Reset & Rewards](https://heaven-guardian.com/whiteout-survival-state-merger-guide/) | [U7BUY: Whiteout Survival State Merge Rules & Frozen Frontier Update](https://www.u7buy.com/blog/whiteout-survival-state-merge-rules-frozen-frontier-update/) | [Century Games Support: State Merger FAQ](https://centurygames.helpshift.com/hc/en/64-whiteout-survival/faq/8089-how-frequently-will-the-states-undergo-state-merger/) | [TOPUPlive Whiteout Survival State Transfer Complete Guide](https://www.topuplive.com/news/whiteout-survival-state-transfer-august-2026.html) | [WoS Tools State Transfer Groups](https://wostools.net/blog/state-transfer-september-2026)\
-   - 贡献内容：2026 年 9 月 29 日（UTC）官方正式针对约 50 组成熟服务器执行大规模合服浪潮（State Merger Wave）后，今日（10 月 1 日）进入第 3 天深度战备与黑土区插旗圈地布局；合服规则与生态追踪：组内源服务器统一并入最高编号目标王国，主城随机迁移，联盟大本营与旗帜清空重置但建材 100% 全额原路返还，各大联盟新大本营全面落成并积极备战首届王城争霸；专属活动【全新起点（A New Beginning）】与【拓荒赞歌（Pioneering Praises）】持续火热进行；跨服王国转移（State Transfer Group 20）战后整编进入第 12 日与 25 天冷却期（剩余 13 天冷却）；下一轮转服窗口（Group 21，覆盖 States 4–4326+）已定档于 **2026 年 10 月 11 日至 10 月 17 日（UTC）**如期启动。
-
-4. **AppMagic、点点数据 & Sensor Tower 市场与流水研报 (2026年8-9月最新)**：
-   - 链接：[Sensor Tower Top 10 Worldwide Mobile Games - August 2026](https://sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-august-2026) | [Sensor Tower：8月中国手游发行商全球收入TOP30榜单 (2026-09-18)](https://finance.sina.com.cn/stock/estate/integration/2026-09-10/doc-inirihnu8572571.shtml) | [游戏大观：点点互动《Tasty Travels》收入突破4600万美元创历史新高 (2026-09-10)](http://www.gamelook.com.cn/2026/09/601851/) | [白鲸出海 2026年8月全球移动游戏Top20榜单](https://www.baijing.cn/article/56639) | [新浪财经 世纪华通2026年中期报告深度解析](https://finance.sina.com.cn/stock/observe/2026-09-08/doc-inirayqy4665170.shtml) | [AppMagic: Top Mobile Games by Revenue and Downloads in August 2026 (2026-09-07)](https://gamedevreports.substack.com/p/appmagic-top-mobile-games-by-revenue-980) | [Sensor Tower: Mobile Market H1 2026 Gaming Digital Market Index](https://www.pocketgamer.biz/mobile-gaming-iap-dipped-2-as-ad-spend-climbed-in-h1-2026/)\
-   - 贡献内容：2026年8月中国手游发行商全球收入TOP30榜单最新出炉，腾讯、点点互动、柠檬微趣位居前三甲；2026年8月全球手游总收入榜单（《寒霜启示录》单月预估流水近1亿美元，稳坐全球总收入榜第3位，仅次于《王者荣耀》与《和平精英》）；AppMagic 统计8月全球应用内净收入《Whiteout Survival》为9,690万美元（全球第6位），竞品《Last War: Survival》跌至5,670万美元（连续5个月下滑）；点点互动旗下《Kingshot》8月净收入7,810万美元（全球第9位），《Tasty Travels》8月突破4,600万美元创历史新高；世纪华通2026年8月27日半年度报告披露（上半年境外收入143.08亿元，同比增长59.71%，净利润45.03亿元，同比增长69.51%）；Sensor Tower H1报告显示2026上半年海外内购流水达9.18亿美元，全生态总流水逼近50亿美元；Century Games位列全球手游发行商内购收入榜第2。
-
-5. **MMO Culture 专题报道 (2026年9月11日)**：
-   - 链接：[MMO Culture: Whiteout Survival “Fire Crystal Age” Expansion and New Updates](https://mmoculture.com/news/whiteout-survival-fire-crystal-age-expansion-and-new-updates/) | [MMO Culture: 10 Top-Grossing Mobile Games That Are Surprisingly Free-to-Play](https://mmoculture.com/featured/top-grossing-mobile-games/)\
-   - 贡献内容：详尽解构 Version 1.33.9 与火晶时代资料片在各王国逐步解锁的实装机制：心愿驿站（Wish Station）替代民意意见箱并产出心愿印记（Wish Sigils）、心愿商店、9座免费娱乐设施每日随机掉落领主装备/宝符/英雄装备/宠物及专家材料；无尽试炼每日 00:30 UTC 开放挑战蛮族首领乌尔夫加（最高30次单人出征、禁止集结、取单次最高输出上榜）；英雄升星集训（Hero Ascension Training）与专属装备锻造（Exclusive Gear Forge）活动；大地之心新增50层高难关卡、幻境记忆极速模式（Express Mode）；成长专家贾斯图斯确认推迟至2026年10月作为年度收官专家发布。
-
-6. **WoS Tools & WSCO 社区攻略与数据分析 (2026年8-10月)**：
-   - 链接：[WoS Tools State Transfer Confirmed September 13–19, 2026](https://wostools.net/blog) | [WoS Tools Chief Concierge Sneak Peek & Backlash](https://wostools.net/blog/chief-concierge-sneak-peek-august-2026) | [WoS Tools Experts Calculator](https://wostools.net/wiki/experts) | [WoS Heroes Generation 17 & 18 Guide](https://wosheroes.com/heroes/generation-17-heroes/) | [April 15, 2026 Update — Patch Notes & T12 FAQ](https://wostools.net/blog/april-15-2026-update)\
-   - 贡献内容：2026年8月大氪玩家对快速提升付费上限的反馈与反响分析（Frostdragon Tyrant 宣言与官方妥协排期）；晨曦学堂全部 10 位专家技能与升级消耗（Agnes, Cyrille, Holger, Romulus, Baldur, Fabian, Valeria, Ronne, Kathy, Gareth, Justus）；第17/18代英雄技能与兵种定位（Jordan - 盾兵, Aisha - 矛兵, Nikola - 弓兵, Aiden - 盾兵）；2026年9月13–19日跨服移民（State Transfer）第20组官方确认规则（覆盖 States 4–4326，领航王国配额与领航荣耀 Leading Glory 体系，第三阶段 Phase III 自由转服圆满收官）；T12兵种解锁科技树与防守站位。
-
-7. **Eldorado.gg, GamesRadar, BlueStacks, BuffBuff, JISU, GameBoost, Treabar, PapaZot, TopUpLive, UrGameTips & GamsGo 礼包与转服追踪 (2026年10月1日最新)**：
-   - 链接：[GamesRadar Whiteout Survival codes (October 2026)](https://www.gamesradar.com/games/survival/whiteout-survival-codes-gift/) | [UrGameTips Whiteout Survival Codes October 2026](https://urgametips.com/whiteout-survival-codes/) | [Eldorado.gg Whiteout Survival Newest Codes (October 2026)](https://www.eldorado.gg/blog/whiteout-survival-en/whiteout-survival-newest-codes/) | [JISU 2026最新寒霜啟示錄兌換碼大全](https://jisu.tw/%E5%AF%92%E9%9C%9C%E5%95%9F%E7%A4%BA%E9%8C%84-%E5%85%8C%E6%8F%9B%E7%A2%BC/) | [BlueStacks 寒霜启示录2026年10月兑换码大全](https://www.bluestacks.com/tw/blog/redeem-codes/whiteout-survival-redeem-codes-tw.html) | [BuffBuff 最新寒霜启示录可用兌換碼 (2026年10月1日)](https://buffbuff.com/zh-tw/blog/whiteout-survival-gift-codes) | [GameBoost All Whiteout Survival Codes (October 2026)](https://gameboost.com/blog/whiteout-survival-codes) | [GamsGo Whiteout Survival Active Codes October 2026](https://www.gamsgo.com/blog/whiteout-survival-gift-codes) | [PapaZot Whiteout Survival Gift Codes (October 2026)](https://www.papazot.com/giftcodes)\
-   - 贡献内容：2026年10月1日最新核实兑换码（新增国服国庆专属兑换码【国庆快乐】；新增今日巴哈姆特 30 週年第 16 日问答玩家最新分享礼包序号 `4zd7qMQKd`，含 1 小时通用加速 x 8、1,000 钻石、领主体力 x 5，有效期至 2026/11/30 23:59；昨日分享序号 `K9WQ8EB4y`，含 1,000 钻石、100点强化经验零件 x 2、传说通用英雄碎片 x 1；此前分享序号 `4jxG5XyKb`、`wm6GMPv4w`、`4zd7pgAKd`、`wQYm5nWw5`、`K5apdBzK5` 等有效至 2026/11/30 23:59；全家便利商店 FamiPort 联名明信片发票专属兑换码 A 组 9/30~10/13、B 组 10/14~10/27，有效至 2026/12/31；国服国庆活动预热码 `国庆节活动预告`；`26FullMoon` 官方中秋礼包码确认正式到期失效闭环，移入失效列表；`FallEquinox26` 已于9月26日到期失效；`JPsilverweek26` 已于9月24日到期失效；国内版主发布的 `中秋节活动预告` 已于 9月22日到期失效；`WOS0919` 已于9月21日到期失效；`K5aM8vzKq` 确认已于9月21日到期失效；常驻与社区活跃码 `GuDokYTKOR`, `2ndYoutubeKR`, `1stYoutubeKR`, `gogoWOS`, `wm6B7MM4u`, `K6ZbjAXK6`, `OFFICIALSTORE` 等持续有效；`WOS0909` 已失效；`4dp5ZGM4c` 确认失效）；iOS网页中心与Android内嵌双端兑换机制；2026年9月13–19日王国转移第20组战后重整跟踪。
-
-8. **巴哈姆特电玩疯与 GNN 新闻社群报道 (2026年7-10月)**：
-   - 链接：[巴哈姆特 寒霜啟示錄霜龍霸主戰後心得與石塔指揮攻略](https://forum.gamer.com.tw/C.php?bsn=76999&snA=571) | [巴哈姆特 霜龍霸主活動前瞻簡易介紹](https://forum.gamer.com.tw/C.php?bsn=76999&snA=612) | [GNN新聞 2026-07-23 熊先生書屋限時開張帶來全球首發漫畫](https://gnn.gamer.com.tw/detail.php?sn=308622) | [迷誠品 熊先生書屋開張活動公告 (2026-08-01 ~ 09-30)](https://meet.eslite.com/tw/tc/news/202607170001)\
-   - 贡献内容：巴哈姆特资深指挥官（855王国Momiji/柑柑）关于霜龙霸主实战复盘与攻略（生命/庇护/龙息/锋刃四大石塔战术价值、护卫水晶技能运用、大氪车头3000+高级行军加速与数百万钻石秒医战损模型、车身补兵协同至关重要性）；台北诚品生活动漫祭线下快闪店“熊先生书屋”（8月松烟店，9月西门店，全台9大分馆联合展示）活动已于昨日（2026 年 9 月 30 日 22:00）迎来最后一天正式圆满闭展收官，全彩漫画《寒霜英雄别册－茉莉篇》（限量 18,000 册）与寒霜酷娃包周边绝版入库；台服最新社区礼包与版本更新回馈活动。
-
-9. **Reddit 与 YouTube 社区 2026 万圣节活动爆料与前瞻 (Halloween 2026 Leaks)**：
-   - 链接：[Reddit: Halloween 2026 Event Details - Coming October 26](https://www.reddit.com/r/whiteoutsurvival/comments/1wmoe7f/halloween_2026_event_details_coming_october_26/) | [YouTube: Whiteout Survival Halloween Event 2026 LEAK | Pumpkin Strike](https://www.youtube.com/shorts/0enIU_v-MbI)\
-   - 贡献内容：海外玩家社区根据最新客户端数据包挖掘披露，2026 年万圣节主题活动预计将于 2026 年 10 月 26 日开启，将推出全新“南瓜突击（Pumpkin Strike）”机制、新角色/英雄 Cassia、破晓岛防御型专属建筑（Defensive Island Building）及万圣节限定主题城堡装扮。
-
-10. **巴哈姆特哈啦板 寒霜啟示錄韓籍啦啦隊第二波全家便利商店跨界聯動公告 (2026年9月30日-10月1日)**：
-    - 链接：[巴哈姆特 【情報】寒霜啟示錄韓籍啦啦隊第二波全家聯動 (2026-09-30)](https://forum.gamer.com.tw/C.php?bsn=76999&snA=822) | [全家 FamiPort 雲端列印授權圖像專區](https://print.famiport.com.tw/self-products)\
-    - 贡献内容：2026 年 9 月 30 日至 10 月 27 日，杰游有限公司携手全家便利商店与 2026 TGS 展会中登场的三大人气韩援啦啦队女神（全恩菲、郑熙静、刘世彬）推出第二波「寒霜就是你家！女神专属应援」联动：推出 6 款 4x6 吋联名专属明信片供全台 FamiPort 打印，列印发票附赠两阶段专属虚宝码（A 组 9/30–10/13，B 组 10/14–10/27，有效期至 2026/12/31），拍照上传官方粉专贴文留言抽限量“寒霜小白熊”（共 3 只）。
-
-11. **TapTap 与冬日工具箱 国服《无尽冬日》【辉煌盛世庆典】系列活动与攻略 (2026年9月30日-10月1日)**：
-    - 链接：[TapTap 无尽冬日 官方论坛：内含兑换码 | 国庆假期已加载，冰原模式启动！ (2026-10-01)](https://www.taptap.cn/app/521534/topic) | [TapTap 无尽冬日 官方论坛：活动预告｜绣球对碰赢奇珍，辉煌盛世庆典即将开启！ (2026-09-30)](https://www.taptap.cn/app/521534/topic) | [冬日工具箱 2026国庆活动攻略与练兵计算 (2026-09-29)](https://wjgl.store/)\
-    - 贡献内容：国服北京时间 2026 年 9 月 30 日 00:00:00 至 10 月 6 日 23:59:59 全面开启国庆【辉煌盛世庆典】，上线消除小游戏「绣球对碰赢奇珍」，通过彩券对碰消除积攒奇珍积分换取火晶与秘银；官方于 10 月 1 日正式发布全服国庆专属兑换码【国庆快乐】及前日预热码【国庆节活动预告】。
+1. **版本与证据绑定**：正文引用格式如 `src-0001@r001/ev-01`，精准对应各来源的特定修订版本与编号证据。
+2. **多端与跨区核验**：涉及 US 地区与全球运营（Century Games）及繁体/台服（杰游有限公司）与国服（无尽冬日）的差异化活动均在单来源证据表中明确区分适用范围。

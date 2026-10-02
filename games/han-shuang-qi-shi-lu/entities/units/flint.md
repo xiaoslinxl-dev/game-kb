@@ -31,10 +31,10 @@ timestamp: "2026-10-01T11:00:00Z"
 ## 培养与使用建议
 
 - **转盘必抽英雄**：平民玩家在进入二代后，应将轮盘抽奖机会全数投入弗林特，将其升至 4 星或 5 星，可完全替换一代免费盾兵并稳居竞技场一号位。
-- **阵容搭配**：配合二代输出[阿隆索](/entities/units/alonso.md)或一代[茉莉](/entities/units/molly.md)，形成极其稳固的“一坦双控双输出”经典阵容。
+- **阵容搭配**：配合二代输出[阿隆索](alonso.md)或一代[茉莉](molly.md)，形成极其稳固的“一坦双控双输出”经典阵容。
 
 ## 关联页面
 
-- [英雄与专家列表](/entities/units/index.md)
-- [数值与长线养成](/progression.md)
-- [战斗系统](/systems/session-combat.md)
+- [英雄与专家列表](index.md)
+- [数值与长线养成](../../progression.md)
+- [战斗系统](../../systems/session-combat.md)

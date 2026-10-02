@@ -35,7 +35,7 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 关联页面
 
-- [英雄与专家列表](/entities/units/index.md)
-- [数值与长线养成](/progression.md)
-- [多常驻玩法模式](/systems/content-modes.md)
-- [战斗系统](/systems/session-combat.md)
+- [英雄与专家列表](index.md)
+- [数值与长线养成](../../progression.md)
+- [多常驻玩法模式](../../systems/content-modes.md)
+- [战斗系统](../../systems/session-combat.md)

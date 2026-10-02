@@ -35,7 +35,7 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 关联页面
 
-- [系统概览](/overview.md)
-- [集结与战斗系统](/systems/session-combat.md)
-- [实体索引](/entities/index.md)
-- [英雄与专家列表](/entities/units/index.md)
+- [系统概览](../../overview.md)
+- [集结与战斗系统](../../systems/session-combat.md)
+- [实体索引](../index.md)
+- [英雄与专家列表](index.md)

@@ -5,11 +5,28 @@ description: 极高ARPU的4X SLG商业化策略，涵盖永久功能礼包、VIP
 game_id: han-shuang-qi-shi-lu
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
+applies_to: all
 ---
 
 # 寒霜启示录 商业化设计
 
-《寒霜启示录》实现了极高的商业化效率（月流水数亿人民币），其商业化结构既保留了传统4X SLG的大氪高ARPU池，又通过高性价比的基建礼包大幅提升了首充与中氪转化率。
+《寒霜启示录》实现了极高的商业化变现效率，其商业化结构既保留了传统 4X SLG 的大氪高 ARPU 池，又通过高性价比的基建礼包大幅提升了首充与中氪转化率。
+
+## 商业化产品与权益台账
+
+| product_id | 产品/权益 | 价格与币种 | 地区/平台 | 适用条件 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|
+| prod-sprint-pack | 新手冲刺礼包 (永久第二建造队列+初始资源) | 4.99 USD | US / iOS & Android | 账号创建前7天内限购1次 | src-0001@r001/ev-01 | confirmed |
+| prod-march-queue | 第二行军队列礼包 (永久增加大地图行军队伍) | 9.99 USD | US / iOS & Android | 大熔炉Lv 7以上常驻限购1次 | src-0001@r001/ev-01 | confirmed |
+| prod-first-recharge | 首充礼包 (SSR步兵英雄娜塔莉亚+专属武器) | 0.99 USD | US / iOS & Android | 首次任意金额现金内购 | src-0001@r001/ev-01 | confirmed |
+| prod-monthly-pass | 极地月卡 (每日领取1,000钻石+体力药水+行军增益) | 9.99 USD | US / iOS & Android | 常驻可续期购买，有效期30天 | src-0001@r001/ev-01 | confirmed |
+| prod-weekly-pass | 至尊周卡 (每日高额通用加速+基础建材) | 4.99 USD | US / iOS & Android | 常驻可按周循环购买，有效期7天 | src-0001@r001/ev-01 | confirmed |
+| prod-survivor-pass | 幸存者通行证 (Battle Pass 赛季高级战令) | 19.99 USD | US / iOS & Android | 赛季战令开放期间（每期约28天） | src-0001@r001/ev-01 | confirmed |
+| prod-lucky-wheel | 幸运轮盘代币礼包 (世代SSR英雄碎片与专武原石) | 4.99 ~ 99.99 USD | US / iOS & Android | 当期世代轮盘活动开放期间 | src-0001@r001/ev-04 | confirmed |
+| prod-fire-crystal | 火晶强化专属礼包 (火晶+精炼火晶+加速) | 4.99 ~ 99.99 USD | US / iOS & Android | 大熔炉达到Lv 30火晶时代开启后 | src-0001@r001/ev-01 | confirmed |
+| prod-chief-gear | 领主装备图纸与抛光液礼包 (高阶装备图纸) | 19.99 ~ 99.99 USD | US / iOS & Android | 王国进入Gen 6以上解锁传奇T6前置 | src-0003@r001/ev-01 | confirmed |
+| prod-12h-barrier | 12小时领地防护罩 (免受敌方侦察与攻击掠夺) | 500 钻石 或 0.99 USD | US / iOS & Android | 全阶段常驻（城市增益与联盟商店） | src-0001@r001/ev-03 | confirmed |
 
 ## 1. 入门与必买核心礼包（低门槛变现）
 
@@ -17,9 +34,9 @@ timestamp: "2026-10-01T11:00:00Z"
    - 永久解锁第二个建造队列（500 霜星/钻石档位），并附赠大量初始发展资源与加速。由于建筑升级时间随等级指数增长，该礼包为付费玩家的核心必买项。
 2. **第二行军队列礼包（Marching Queue Pack）**：
    - 永久增加一个大地图行军队列，极大地提升野外采集与打怪清情报效率。
-3. **首充礼包与VIP礼包**：
-   - 首充任意金额送SSR步兵英雄[娜塔莉亚](/entities/units/natalia.md)。
-   - 购买专属VIP礼包获得核心SSR步兵英雄[杰罗尼莫](/entities/units/jeronimo.md)。
+3. **首充礼包与 VIP 礼包**：
+   - 首充任意金额送 SSR 步兵英雄[娜塔莉亚](entities/units/natalia.md)。
+   - 购买专属 VIP 礼包获得核心 SSR 步兵英雄[杰罗尼莫](entities/units/jeronimo.md)。
 
 ## 2. 订阅与常驻收益（中氪留存）
 
@@ -33,24 +50,13 @@ timestamp: "2026-10-01T11:00:00Z"
 ## 3. 核心抽卡与大额付费点（长线高ARPU）
 
 1. **幸运大转盘 (Lucky Wheel)**：
-   - 游戏内性价比最高的世代英雄获取途径。每代新英雄轮盘上线时，中大氪玩家通过消耗钻石或购买轮盘币直接将当期核心英雄（如[弗林特](/entities/units/flint.md)、[米娅](/entities/units/mia.md)、[艾登](/entities/units/aiden.md)）拉满星级。
+   - 游戏内性价比最高的世代英雄获取途径。每代新英雄轮盘上线时，中大氪玩家通过消耗钻石或购买轮盘币直接将当期核心英雄（如[弗林特](entities/units/flint.md)、[米娅](entities/units/mia.md)、[艾登](entities/units/aiden.md)）拉满星级。
 2. **火晶礼包与精炼火晶 (Fire Crystals)**：
    - 熔炉 Lv 30 之后的核心付费卡点。火晶用于 FC1 至 FC10 大熔炉与核心建筑突破，属于跨服战车头玩家的硬性数值门槛。
 3. **领主装备、宝符与晨曦学堂专家**：
    - 传奇 T6 装备图纸、抛光液与 17-18 级宝符设计图属于顶氪长线池。VIP 商店已下调部分兑换门槛并增补抛光液与图纸兑换。
-4. **跨服顶层战争（霜龙霸主/SvS）的秒医与加速高频消耗**：
-   - 顶级战争如[霜龙霸主](/systems/territory-war.md)持续达数小时，激烈交火不仅依赖基础战力，更强力拉动大氪车头消耗数百万钻石用于“秒兵/秒医”与数千张高级行军加速，形成持续且极具弹性的大额消耗池。
-5. **累充与大额充值回馈**：
-   - **寒霜之辉回礼**：基于单笔最高储值积分判定，赠送动态表情[送花]、永久名片[霜星闪耀名片]与聊天气泡[寒夜远征]。
-   - **寒霜至尊好礼**：基于单日累计储值积分判定，赠送永久迁城外观[霜芒起舞]。
-   - **充值里程碑与霜星转化节奏**：霜星（Frost Stars）本身不直接计入部分限时活动积分，领主需在“权力之州”或“冰火战歌”等赛事期间将霜星兑换为游戏内礼包，方可触发里程碑双重收益。
 
-## 4. 商业化闭环总结
+## 4. 商业化效果与留存表现推论
 
-游戏构建了由“功能队列买断 → 月卡战令留存 → 转盘世代更迭 → 火晶与领主装备冲顶 → 跨服战争爆发性消耗”的多级付费阶梯，辅以官方商城（Century Games Web Store）的直充折扣（寒霜之星 Frost Star 直购），有效降低了应用商店抽成损耗并维持了长青的营收表现。
-
-## 关联页面
-
-- [经济系统](/economy.md)
-- [数值与长线养成系统](/progression.md)
-- [英雄列表](/entities/units/index.md)
+<!-- statement_kind: inference -->
+根据 Sensor Tower 与 AppMagic 的历史收入走势研判，《寒霜启示录》通过前期 0.99 美元首充、4.99 美元二建队列以及 9.99 美元月卡构筑了极宽的泛用户付费转化漏斗，使得早期转化率明显高于同类重度 4X SLG。随着服务器进入火晶时代与跨服最强王国阶段，中长线付费向高 ARPU 的火晶礼包、轮盘抽卡与领主装备集中，形成长尾收入极其稳定的高变现模型。

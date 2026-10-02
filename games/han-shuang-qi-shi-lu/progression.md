@@ -5,17 +5,35 @@ description: 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火�
 game_id: han-shuang-qi-shi-lu
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
+applies_to: all
 ---
 
 # 寒霜启示录 数值与长线养成系统
 
+《寒霜启示录》的数值成长体系由内城熔炉、兵种科技、英雄世代、领主外显装备以及晨曦专家构筑起深度交织的养成网络。
+
+## 养成系统台账
+
+| progression_id | 成长对象 | 前置条件 | 消耗资源 | 收益 | 关键节点 | 重置/返还 | 关联系统 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|---|---|---|
+| prog-furnace | 大熔炉等级 (Lv 1-30) | 完成前置建筑升级要求 | res-meat, res-wood, res-coal, res-iron | 提升抗寒等级、解锁全城建筑上限与兵种阶级 | Lv 10(野怪情报), Lv 20(集结提升), Lv 30(T10顶级兵种) | not_applicable（核心城建永久生效不可重置） | sys-base-build | src-0001@r001/ev-01 | confirmed |
+| prog-fc-age | 火晶时代进阶 (FC1-FC10) | 大熔炉达到Lv 30且王国开放火晶纪元 | res-fire-crystal, res-refined-fc, res-iron | 解锁心愿驿站、9大娱乐设施、部队三维百分比增幅 | FC1(心愿驿站), FC5(火晶科技拓展), FC8(T12前置) | not_applicable（不可降级或重置） | sys-base-build | src-0001@r001/ev-01 | confirmed |
+| prog-troop-tier | 兵种阶级进阶 (T1-T10) | 对应兵营等级与科技前置 | res-meat, res-wood, res-iron | 解锁更高单兵攻击、防御与生命值属性 | T8(常规中坚), T9(高战门槛), T10(熔炉30满阶常规兵) | not_applicable（低阶兵种可补差价无损晋级） | sys-session-combat | src-0001@r001/ev-01 | confirmed |
+| prog-troop-t12 | T12 煌耀兵种 (Exalted Troops) | 熔炉FC8、解锁日耀T11兵种与炽炎科技 | res-refined-fc, 钢铁, 火晶碎屑 | 解锁煌耀特性（坚盾力场、战矛贯通、神射暴击） | 炽炎科技满级解锁各兵种专属战场被动 | not_applicable（永久强化研发不可退回） | sys-session-combat | src-0002@r001/ev-03; src-0010@r001/ev-01 | confirmed |
+| prog-hero-star | 英雄星级与技能 (Gen 1-18) | 英雄招募/轮盘获取本体碎片 | 对应英雄专属碎片或通用传奇碎片 | 提升技能系数、带兵容量与大地图集结加成 | 4星(解锁全部4个技能), 5星满阶(解锁专属武器极效) | not_applicable（英雄星级不可重置；老碎片可置换） | sys-session-combat | src-0001@r001/ev-04 | confirmed |
+| prog-hero-gear | 英雄装备与精通等级 | 英雄穿戴专属或通用橙色装备 | 强化经验零件、精通石、精炼原石 | 提供英雄个人属性与对应带兵属性巨额百分比 | 精通4级起细分子阶段进度条，平滑升级收益 | 可消耗少量钻石全额拆解返还经验零件 | sys-session-combat | src-0003@r001/ev-02 | confirmed |
+| prog-chief-gear | 领主装备 (至传奇T6三星) | 王国世代开放进度（Gen 6+开放T6三星） | 领主装备图纸、合金、抛光液 | 全军攻击、防御与生命全局百分比属性 | 传奇T6三星为顶级车头绝对分水岭 | not_applicable（领主装备不可降解，永久累积） | sys-territory-war | src-0003@r001/ev-01 | confirmed |
+| prog-chief-charm | 领主宝符 (至Lv 18) | 王国开放Gen 8进度，细分为9个子阶段 | 宝符手册、精密零件、指南针 | 强化部队暴击率、穿透抗性与致命一击率 | 17-18级宝符细分9阶，每小阶提供阶梯战力增益 | not_applicable（宝符永久绑定领主账号） | sys-territory-war | src-0003@r001/ev-02 | confirmed |
+| prog-dawn-expert | 晨曦学堂专家 (10位专家技能) | 晨曦学堂建筑解锁与对应世代开启 | 精通书卷、金币、专家专属信物 | 赋予城市建造、野外打怪、集结减损等全局常驻特权 | 加雷斯(反伤与减损)、凯西(燃霜矿区加成)、贾斯图斯(迷宫收益) | not_applicable（专家技能点不可洗点返还） | sys-base-build | src-0003@r001/ev-03; src-0010@r001/ev-01 | confirmed |
+
 ## 1. 城建与大熔炉 (Furnace Progression)
 
-[大熔炉](/systems/base-build.md)是领主城池的核心。大熔炉等级直接决定了其他建筑的等级上限、可训练士兵的阶级（T1 至 T10）以及可解锁的玩法模块：
+[大熔炉](systems/base-build.md)是领主城池的核心。大熔炉等级直接决定了其他建筑的等级上限、可训练士兵的阶级（T1 至 T10）以及可解锁的玩法模块：
 
 - **基础熔炉（Lv 1 - 30）**：
   - Lv 1 - 10：完成前90分钟模拟经营留存，解锁幸存者宿舍、厨房、木材厂与肉铺。
-  - Lv 10 - 20：解锁[吉娜](/entities/units/gina.md)野怪猎杀、灯塔情报与初步联盟集结。
+  - Lv 10 - 20：解锁[吉娜](entities/units/gina.md)野怪猎杀、灯塔情报与初步联盟集结。
   - Lv 30：解锁 T10 顶级兵种，城建进入“火晶时代”（Fire Crystal Age）。
 - **火晶时代（FC1 - FC10）**：
   - 大熔炉达到 30 级后，后续升级不再仅消耗常规资源（肉、木、煤、铁），而是需要大量**火晶（Fire Crystals）**与**精炼火晶**。
@@ -38,43 +56,5 @@ timestamp: "2026-10-01T11:00:00Z"
 ## 3. 领主装备、宝符与精通系统 (Chief Gear & Charms)
 
 领主装备与宝符直接为全军提供百分比攻击、防御、穿透与抗性加成，是拉开战力差距的大氪核心池：
-
-- **领主装备（Chief Gear）**：
-  - 共 6 个部位（头盔、护胸、武器、靴子、腰带、戒指），通过精炼合金与抛光剂升级。
-  - **传奇 T6 装备**：自 Generation 6 英雄世代王国起，开放 3 星传奇 T6 领主装备，极大拓宽了属性上限。
-- **领主宝符（Chief Charms）**：
-  - 镶嵌于装备中，提供强力百分比杀伤率与减伤率。
-  - **17-18 级宝符**：在 Generation 8 英雄世代王国解锁，每级精细划分为 9 个子阶段（Substages），提供平滑递进的属性提升体验。
-- **英雄装备精通（Hero Gear Mastery）**：
-  - 英雄专属装备精通等级达到 4 级后，全面细分为 9 个子阶段进度条，保留原定精通总消耗不变，大幅提升养成正向反馈。
-
-## 4. 世代英雄轮换体系 (Hero Generations)
-
-《寒霜启示录》的英雄体系以“世代（Gen）”为单位，每个世代包含 3 名核心传奇英雄（盾兵、枪兵、射手各一）：
-
-| 世代 | 代表英雄 | 标志性机制 / 定位 |
-| :--- | :--- | :--- |
-| **Gen 1** | [杰罗尼莫](/entities/units/jeronimo.md) (盾), [茉莉](/entities/units/molly.md) (枪), [津曼](/entities/units/zinman.md) (弓), [娜塔莉亚](/entities/units/natalia.md) (盾) | 开荒与引导期，杰罗尼莫为大氪集结车头核心，茉莉为平民首选 |
-| **Gen 2** | [弗林特](/entities/units/flint.md) (盾), [菲利](/entities/units/philly.md) (枪), [阿隆索](/entities/units/alonso.md) (弓) | 阿隆索竞技场封神，弗林特范围眩晕主坦，菲利提供首个团队群奶 |
-| **Gen 3** | [米娅](/entities/units/mia.md) (枪), 格雷格 (弓), 洛根 (盾) | 米娅成为猎熊行动永远的输出神卡，高暴击连击 |
-| **Gen 4 - 10** | 林恩 (Lynn), 赫克托 (Hector), 韦恩 (Wayne), 布拉德利 (Bradley) 等 | 引入破盾、眩晕抗性与百分比灼烧机制 |
-| **Gen 11 - 14** | [埃莱奥诺拉](/entities/units/eleonora.md) (盾), 玛格努斯 (弓), 弗雷德 (枪) | 烈焰护盾、真实伤害与队伍协同减伤机制全面成型 |
-| **Gen 15 - 17** | [汉克](/entities/units/hank.md) (盾), 伯莎 (枪), [艾登](/entities/units/aiden.md) (盾) | 绝对防御领域、护盾转化与超长蓄力斩杀 |
-| **Gen 18** | [约顿](/entities/units/jordan.md) (盾), 艾西娅 (枪), 尼古拉 (弓) | 2026年9月最新登场，狂涛破阵、远古怒火主宰与雷暴科技战术核心 |
-
-## 5. 晨曦学堂与专家系统 (Dawn Academy & Experts)
-
-晨曦学堂为领主提供常驻内政与军事专家养成：
-
-- **专家矩阵**：
-  - 经济/内政专家：艾格尼丝（Agnes）、西里尔（Cyrille）、霍尔格（Holger）等，提供造兵速度、采集加速与科研减免。
-  - 军事专家：罗穆卢斯（Romulus）、巴尔德（Baldur）、法比安（Fabian）、瓦莱里亚（Valeria）与[加雷斯](/entities/units/gareth.md)（铁棘领主，大幅降低集结死亡率并附加反伤）。
-  - 成长专家：[贾斯图斯](/entities/units/justus.md)（专精于王朝荣誉宝箱产出与迷宫/宠物探险收益强化，官方排期定于 2026 年 10 月面向 Gen 6+ 王国上线，计划作为 2026 年度收官专家）。
-
-## 关联页面
-
-- [核心循环](/core-loop.md)
-- [基地建造与模拟经营](/systems/base-build.md)
-- [战斗系统与战术摆位](/systems/session-combat.md)
-- [英雄列表](/entities/units/_index.md)
-- [商业化模型](/monetization.md)
+- **装备强化梯度**：由绿、蓝、紫、橙直至红装、传奇 T6 三星。
+- **宝符 9 阶段细分**：17-18 级高阶宝符被官方切分为 9 个渐进子阶段，平滑升级阻力。

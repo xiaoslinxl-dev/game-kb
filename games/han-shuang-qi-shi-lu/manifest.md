@@ -7,18 +7,26 @@ genre_tags: [4X SLG, 冰雪末日生存, 模拟经营, 放置挂机, 策略RPG]
 language: zh-CN
 timestamp: "2026-10-01T11:00:00Z"
 confidence: high
-modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
+research_schema_version: 1
+modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
 modules_systems: [base-build, content-modes, exploration, matchmaking, session-combat, territory-war]
 modules_entities: [units]
-modules: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources, base-build, content-modes, exploration, matchmaking, session-combat, territory-war, units]
 unit_policy: representative
 ---
 
 # 寒霜启示录 知识库 Manifest
 
+```yaml
+modules:
+  core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
+  systems: [base-build, content-modes, exploration, matchmaking, session-combat, territory-war]
+  entities: [units]
+unit_policy: representative
+```
+
 ## 模块启用说明
 
-1. **核心模块（Core Modules）**：包含概览 ([overview.md](/overview.md))、核心循环 ([core-loop.md](/core-loop.md))、数值与长线养成 ([progression.md](/progression.md))、商业化模型 ([monetization.md](/monetization.md))、双轨经济模型 ([economy.md](/economy.md))、社交与LiveOps运营 ([social-liveops.md](/social-liveops.md))、市场定位与竞品对比 ([market-position.md](/market-position.md))、风险与未知项 ([risks-unknowns.md](/risks-unknowns.md))，以及参考文献 ([sources.md](/sources.md))。
+1. **核心模块（Core Modules）**：包含概览 ([overview.md](overview.md))、核心循环 ([core-loop.md](core-loop.md))、数值与长线养成 ([progression.md](progression.md))、商业化模型 ([monetization.md](monetization.md))、双轨经济模型 ([economy.md](economy.md))、社交与LiveOps运营 ([social-liveops.md](social-liveops.md))、版本总索引 ([versions.md](versions.md))、活动台账 ([live-events.md](live-events.md))、市场定位与竞品对比 ([market-position.md](market-position.md))、风险与未知项 ([risks-unknowns.md](risks-unknowns.md))，以及参考文献与证据台账 ([sources.md](sources.md))。
 2. **系统模块（Systems Modules）**：
    - `base-build`：大熔炉供暖机制、火晶时代（FC1-FC10及火晶纪元/Fire Crystal Age）、心愿驿站、9座免费娱乐设施、破晓岛生态拓展、幸存者满意度与居民宿舍/猎人小屋等模拟经营建设。
    - `content-modes`：包含探险挂机副本、竞技场、日常整合分页、无尽试炼（Endless Trial - 蛮族首领风吼者·乌尔夫加 Wulfgar）、地心探险（大地之心新增50层）、燃霜矿区、霜龙霸主（跨王国巅峰王座争夺与随时竞猜修改）、王城争霸、冰火战歌联赛（Icefire Warhymn League，预选赛阵型锁定新规）、联盟凛冬围城（Winter Siege）、合服专属活动【全新起点（A New Beginning）】与【拓荒赞歌（Pioneering Praises）】第3天持续推进、韩籍啦啦队第二波全家便利商店跨界联动「寒霜就是你家！女神专属应援」第2天、国服《无尽冬日》国庆黄金周【辉煌盛世庆典】（含「绣球对碰赢奇珍」对对碰消除玩法与国庆专属兑换码【国庆快乐】）、中秋明月盛典全量闭环与中秋码26FullMoon正式失效、巴哈姆特30周年线上问答第16日达人试炼（全勤领主已解锁周边大抽奖资格，今日最新分享码4zd7qMQKd上线）、Facebook专属Supreme Chief Party审核发奖、诚品生活快闪店“熊先生书屋”（昨日22:00正式圆满闭展谢幕）与2026万圣节活动前瞻「Pumpkin Strike」。
@@ -56,6 +64,6 @@ unit_policy: representative
 - **跨服王国转移（State Transfer Group 20）战后整编第 12 日推进（剩余 13 天冷却；Group 21 定档 10 月 11–17 日）**：
   第 20 组（涵盖 States 4–4326）跨服移民已圆满闭幕。今日（10 月 1 日），全服处于战后整编第 12 日，迁移领主处于 25 天转服冷却期第 12 日（剩余 13 天冷却）；下一轮转服窗口（Group 21）定档将于 **2026 年 10 月 11 日至 10 月 17 日（UTC）**如期启动。
 - **黎明学院收官成长专家贾斯图斯（Justus）定档 10 月正式列装**：
-  官方确认根据此前玩家反馈，成长专家[贾斯图斯 (Justus)](/entities/units/justus.md)定档于 2026 年 10 月在已解锁 Gen 6 英雄的合格王国中陆续推出，作为 2026 年度最后一位新专家上线；其主打王朝荣耀宝箱、宠物冒险次数与双倍掉落、地心迷宫荧光石收益加成。
+  官方确认根据此前玩家反馈，成长专家[贾斯图斯 (Justus)](entities/units/justus.md)定档于 2026 年 10 月在已解锁 Gen 6 英雄的合格王国中陆续推出，作为 2026 年度最后一位新专家上线；其主打王朝荣耀宝箱、宠物冒险次数与双倍掉落、地心迷宫荧光石收益加成。
 - **2026年万圣节活动前瞻与数据爆料「Pumpkin Strike」定档 10 月 26 日**：
   海外玩家社区与客户端数据挖掘披露，2026 年万圣节主题活动预计将于 10 月 26 日开启，将推出全新“南瓜突击（Pumpkin Strike）”机制、新角色/英雄 Cassia、破晓岛防御型专属建筑（Defensive Island Building）及万圣节限定主题城堡装扮。

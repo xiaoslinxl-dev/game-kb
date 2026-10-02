@@ -1,15 +1,28 @@
 ---
-type: SessionCombat
+type: System
+system_id: sys-session-combat
+objective: 提供5人小队回合战斗推关与4X大地图兵种集结对抗的双重战斗战术体系
 title: 寒霜启示录 战斗系统与战术摆位 (Session Combat)
 description: 寒霜启示录的小队回合/放置 RPG 战斗与 4X 大地图 SLG 行军/集结战斗双重模式解构。
 game_id: han-shuang-qi-shi-lu
 confidence: high
 timestamp: "2026-10-01T11:00:00Z"
+research_schema_version: 1
+applies_to: all
 ---
 
 # 寒霜启示录 战斗系统与战术摆位 (Session Combat)
 
 《寒霜启示录》采用了**双重战斗系统**架构：轻度的小队放置 RPG 战斗（探险/竞技场）与重度的 4X 大地图 SLG 行军集结战斗。
+
+## 系统规则台账
+
+| rule_id | 名称 | 入口与解锁 | 输入 | 操作与限制 | 输出 | 胜败条件 / 不适用理由 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|---|---|
+| rule-session-001 | 5人小队阵型摆位 | 探险推关与竞技场编队界面 | 5名上阵英雄 | 前排1-2号位（吸收伤害/控制），后排3-5号位（输出/辅助/治疗）；普攻受击积攒怒气释放大招 | 关卡推进、探险挂机收益解锁、竞技场胜场 | 全歼敌方5名英雄为胜；己方全灭或战斗超时为负 | src-0002@r001/ev-01 | confirmed |
+| rule-session-002 | 兵种克制循环与集结 | 大地图出征与集结发起界面 | 士兵部队与出征领队英雄 | 盾兵克弓兵、弓兵克矛兵、矛兵克盾兵；集结由车头领主发起，全军共享车头加成 | 大地图战斗胜利、据点占领、杀敌积分 | 防守方部队溃败或被击退为胜；进攻方全灭或撤退为负 | src-0001@r001/ev-01 | confirmed |
+| rule-session-003 | 炽炎科技T12煌耀兵种 | 战争学院炽炎科技所，熔炉FC8 | 精炼火晶、火晶碎屑与钢铁 | 研究对应兵种分支科技，解锁T12煌耀坚盾、战矛与神射兵种 | 赋予部队战场主动特性（坚盾力场、穿甲刺击、神射暴击） | not_applicable（兵种解锁与强化机制） | src-0002@r001/ev-03; src-0010@r001/ev-01 | confirmed |
+| rule-session-004 | 冰火战歌联赛阵型锁定 | 冰火战歌联赛赛事界面 | 3名英雄与满编带兵量 | 预选赛阶段保存阵型后全赛程强制锁定不可换阵；必须配满3名英雄 | 联赛胜负排位、冰火荣誉勋章 | 积分高者晋级，积分落后者淘汰降级 | src-0004@r001/ev-01 | confirmed |
 
 ## 1. 小队 RPG 放置战斗 (Hero Squad Battle)
 
@@ -17,8 +30,8 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ### 1.1 站位与队伍构成
 - 队伍由 **5 名英雄** 组成，阵型分为前排（1、2 号位）与后排（3、4、5 号位）：
-  - **前排**：推荐放置盾兵/步兵英雄（如[杰罗尼莫](/entities/units/jeronimo.md)、[娜塔莉亚](/entities/units/natalia.md)、[弗林特](/entities/units/flint.md)、[埃莱奥诺拉](/entities/units/eleonora.md)、[汉克](/entities/units/hank.md)、[艾登](/entities/units/aiden.md)、[约顿](/entities/units/jordan.md)），吸收伤害并提供控制与护盾。
-  - **后排**：放置射手/枪兵与辅助英雄（如[茉莉](/entities/units/molly.md)、[菲利](/entities/units/philly.md)、[阿隆索](/entities/units/alonso.md)、[米娅](/entities/units/mia.md)），进行主力输出、点杀与治疗续航。
+  - **前排**：推荐放置盾兵/步兵英雄（如[杰罗尼莫](../entities/units/jeronimo.md)、[娜塔莉亚](../entities/units/natalia.md)、[弗林特](../entities/units/flint.md)、[埃莱奥诺拉](../entities/units/eleonora.md)、[汉克](../entities/units/hank.md)、[艾登](../entities/units/aiden.md)、[约顿](../entities/units/jordan.md)），吸收伤害并提供控制与护盾。
+  - **后排**：放置射手/枪兵与辅助英雄（如[茉莉](../entities/units/molly.md)、[菲利](../entities/units/philly.md)、[阿隆索](../entities/units/alonso.md)、[米娅](../entities/units/mia.md)），进行主力输出、点杀与治疗续航。
 
 ### 1.2 战斗机制
 - **普攻与怒气大招**：英雄普攻与受击积攒怒气，怒气满后自动释放大招（如茉莉的冰晶风暴控制、阿隆索的强力后排单点狙杀）。
@@ -30,23 +43,13 @@ timestamp: "2026-10-01T11:00:00Z"
 
 ## 2. 大地图 SLG 行军与集结战斗 (Map SLG Combat)
 
-适用于**野外采矿/击杀野兽**、**城邦攻防战**、**联盟集结 (Rally)**、**燃霜矿区**、[太阳城争霸](/systems/territory-war.md)与[霜龙霸主](/systems/territory-war.md)。
+适用于**野外采矿/击杀野兽**、**城邦攻防战**、**联盟集结 (Rally)**、**燃霜矿区**、[太阳城争霸](territory-war.md)与[霜龙霸主](territory-war.md)。
 
 ### 2.1 行军与部队构成
-- 领主派遣队伍由 **1 名主将（队长）+ 2 名副将** 带领，携带一定数量的三大兵种（盾兵、矛兵、弓兵）。在[冰火战歌联赛](/systems/content-modes.md)中，出战阵容强制要求配置满 3 名英雄。
-- 部队行军速度受领主科技、英雄远征技能与领主装备加成。
-- **高阶兵种统治力**：研发炽炎科技后解锁的 **T12 煌耀兵种（Exalted Troops）** 在攻防三维上具有压倒性优势，成为高世代服务器中集结与驻防胜负的核心胜负手。
+- 领主率领大军出征，行军容量由大熔炉等级、出征英雄技能及科技决定。
+- 参与战斗的部队包含步兵、矛兵与弓兵三种基础兵种，高阶士兵通过火晶与炽炎科技进阶为日耀（T11）与煌耀（T12）部队。
 
-### 2.2 远征技能 (Expedition Skills) 与集结车头机制
-- **远征技能（Expedition Skills）**：在SLG战斗中，英雄不释放小队大招，而是触发其“远征技能”，为随行部队提供全局百分比攻击、防御、减伤或集结伤害加成。
-- **集结车头 (Rally Captain)**：集结战斗中，集结部队优先享受发起人（车头）的英雄远征技能加成，如[杰罗尼莫](/entities/units/jeronimo.md)的全局伤害提升、第18代前排[约顿](/entities/units/jordan.md)的惊涛破阵或军事专家[加雷斯](/entities/units/gareth.md)的死伤减免。
-- **顶级战役集结与补兵机制**：在[霜龙霸主](/systems/territory-war.md)等多服对抗中，防守与进攻建筑均依赖多路车头轮番集结及庞大“车身”盟友的高频快速补兵，战损由全队共同分担，高度考验联盟执行力。
-
----
-
-## 关联页面
-
-- [多常驻玩法模式](/systems/content-modes.md)
-- [联盟领地战与王城争霸](/systems/territory-war.md)
-- [数值与长线养成](/progression.md)
-- [代表性英雄列表](/entities/units/index.md)
+### 2.2 集结机制（Rally Mechanics）
+- 联盟成员可对野外巨熊、蛮族营地或敌对玩家城市发起集结。
+- 集结上限受发起者（车头）的大使馆等级与领主装备加成影响。
+- 集结战斗胜负取决于车头的英雄三维与加成系数，加入集结的盟友主要贡献兵量与辅助Buff。

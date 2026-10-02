@@ -8,6 +8,7 @@ rarity: SP+
 acquire: 限时卡池「月舞九天」/ 月神诏令
 pay_relevance: high
 confidence: high
+research_schema_version: 1
 ---
 
 # 月神·小舞

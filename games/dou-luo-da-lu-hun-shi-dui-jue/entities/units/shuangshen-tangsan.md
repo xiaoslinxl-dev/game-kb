@@ -8,6 +8,7 @@ rarity: SP+ / 神祇
 acquire: 限定召唤「双神降临」/ 百级成神活动
 pay_relevance: high
 confidence: high
+research_schema_version: 1
 ---
 
 # 双神·唐三

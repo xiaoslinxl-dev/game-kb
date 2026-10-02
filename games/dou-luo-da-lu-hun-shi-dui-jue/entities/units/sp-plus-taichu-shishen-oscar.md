@@ -8,6 +8,7 @@ rarity: SP+
 acquire: 五周年限时卡池 / 极速服活动
 pay_relevance: high
 confidence: high
+research_schema_version: 1
 ---
 
 # 太初食神·奥斯卡

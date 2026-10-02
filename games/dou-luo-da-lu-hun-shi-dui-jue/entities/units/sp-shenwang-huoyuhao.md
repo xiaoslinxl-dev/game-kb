@@ -8,6 +8,7 @@ rarity: SP
 acquire: 灵眸耀世卡池 / 限时卡池复刻 / 灵眸诏令
 pay_relevance: high
 confidence: high
+research_schema_version: 1
 ---
 
 # 神王·霍雨浩

@@ -9,6 +9,7 @@ acquire: 2026年9月13日首发专属诏令「金鳄镇渊」豪华版 / 奇遇�
 pay_relevance: high
 confidence: high
 timestamp: 2026-09-16T11:00:00Z
+research_schema_version: 1
 ---
 
 # 金鳄斗罗

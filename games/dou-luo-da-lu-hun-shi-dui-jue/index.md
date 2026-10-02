@@ -1,5 +1,6 @@
 ---
 okf_version: "0.1"
+research_schema_version: 1
 ---
 
 # 斗罗大陆：魂师对决 知识库

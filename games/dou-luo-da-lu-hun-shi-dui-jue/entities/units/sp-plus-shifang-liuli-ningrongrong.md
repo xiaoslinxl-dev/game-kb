@@ -8,6 +8,7 @@ rarity: SP+
 acquire: 限时卡池 / 神塔流光复刻
 pay_relevance: high
 confidence: high
+research_schema_version: 1
 ---
 
 # 十方琉璃·宁荣荣

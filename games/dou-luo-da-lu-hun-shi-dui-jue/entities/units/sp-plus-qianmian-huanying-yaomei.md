@@ -9,6 +9,7 @@ acquire: 2026年8月29日首发限定卡池「千面幻影」 / 2026年8月29日
 pay_relevance: high
 confidence: high
 timestamp: 2026-08-28T00:00:00Z
+research_schema_version: 1
 ---
 
 # 千面幻影·妖魅

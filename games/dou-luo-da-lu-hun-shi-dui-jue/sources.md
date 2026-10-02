@@ -14,14 +14,14 @@ research_schema_version: 1
 
 | source_id | 标题 | 来源类型 | 发布主体 | 记录链接 |
 |---|---|---|---|---|
-| `src-0001` | TapTap 官方公告 - 统御初临卡池-神王·唐三&神王诏令&权御诏令&神王竞逐 | official_announcement | 官方 | [sources/src-0001.md](sources/src-0001.md) |
-| `src-0002` | TapTap 官方公告 - 星月奇运&神祇好礼&神祇试炼&月曜通行证&神界庆典&荣耀之冕 | official_announcement | 官方 | [sources/src-0002.md](sources/src-0002.md) |
-| `src-0003` | TapTap 官方公告 - 即将上线 \| 深海礼遇 | official_announcement | 官方 | [sources/src-0003.md](sources/src-0003.md) |
-| `src-0004` | 小米游戏中心 / 腾讯应用宝 - 2.43.2整包更新与官方更新日志 | store_note | 官方发行 | [sources/src-0004.md](sources/src-0004.md) |
-| `src-0005` | TapTap 官方公告 - 2026年9月22日全服停服维护更新公告【称号重构】 | official_announcement | 官方 | [sources/src-0005.md](sources/src-0005.md) |
-| `src-0006` | TapTap 官方公告 - 玉兔寻宝&神环好礼中秋节庆公告 | official_announcement | 官方 | [sources/src-0006.md](sources/src-0006.md) |
-| `src-0007` | TapTap 社区创作者评测 - 第564期王三伤害测试与第565期星月奇运S33评测 | community_guide | 社区核心创作者 | [sources/src-0007.md](sources/src-0007.md) |
-| `src-0008` | 37手游官方平台 - 魂师对决基础规则与系统说明 | official_announcement | 37手游官方平台 | [sources/src-0008.md](sources/src-0008.md) |
+| src-0001 | TapTap 官方公告 - 统御初临卡池-神王·唐三&神王诏令&权御诏令&神王竞逐 | official_announcement | 官方 | [src-0001](sources/src-0001.md) |
+| src-0002 | TapTap 官方公告 - 星月奇运&神祇好礼&神祇试炼&月曜通行证&神界庆典&荣耀之冕 | official_announcement | 官方 | [src-0002](sources/src-0002.md) |
+| src-0003 | TapTap 官方公告 - 即将上线 \| 深海礼遇 | official_announcement | 官方 | [src-0003](sources/src-0003.md) |
+| src-0004 | 小米游戏中心 / 腾讯应用宝 - 2.43.2整包更新与官方更新日志 | store_note | 官方发行 | [src-0004](sources/src-0004.md) |
+| src-0005 | TapTap 官方公告 - 2026年9月22日全服停服维护更新公告【称号重构】 | official_announcement | 官方 | [src-0005](sources/src-0005.md) |
+| src-0006 | TapTap 官方公告 - 玉兔寻宝&神环好礼中秋节庆公告 | official_announcement | 官方 | [src-0006](sources/src-0006.md) |
+| src-0007 | TapTap 社区创作者评测 - 第564期王三伤害测试与第565期星月奇运S33评测 | community_guide | 社区核心创作者 | [src-0007](sources/src-0007.md) |
+| src-0008 | 37手游官方平台 - 魂师对决基础规则与系统说明 | official_announcement | 37手游官方平台 | [src-0008](sources/src-0008.md) |
 
 ## 2. 外部信源归档与拓展索引
 

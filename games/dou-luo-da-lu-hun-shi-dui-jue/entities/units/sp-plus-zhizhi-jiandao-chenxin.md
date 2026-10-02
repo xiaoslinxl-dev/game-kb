@@ -8,6 +8,7 @@ rarity: SP+
 acquire: 限时卡池 / 心剑无垢复刻
 pay_relevance: high
 confidence: high
+research_schema_version: 1
 ---
 
 # 极致剑道·尘心

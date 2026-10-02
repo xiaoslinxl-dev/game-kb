@@ -12,6 +12,7 @@ modules_systems: [session-combat, content-modes]
 modules_entities: [units]
 modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, session-combat, content-modes, units]
 unit_policy: representative
+research_schema_version: 1
 ---
 
 # 模块启用说明

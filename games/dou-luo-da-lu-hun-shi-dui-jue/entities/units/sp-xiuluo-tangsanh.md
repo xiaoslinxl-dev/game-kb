@@ -8,6 +8,7 @@ rarity: SP
 acquire: 极速服活动 / 修罗诏令 / 限时抽卡
 pay_relevance: medium
 confidence: high
+research_schema_version: 1
 ---
 
 # SP 修罗·唐三

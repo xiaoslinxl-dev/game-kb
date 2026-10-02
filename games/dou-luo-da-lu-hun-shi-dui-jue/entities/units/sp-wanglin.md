@@ -8,6 +8,7 @@ rarity: SP
 acquire: 《仙逆》联动限定卡池
 pay_relevance: high
 confidence: high
+research_schema_version: 1
 ---
 
 # SP 王林

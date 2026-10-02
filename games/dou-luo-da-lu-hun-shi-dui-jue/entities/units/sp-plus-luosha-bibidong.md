@@ -8,6 +8,7 @@ rarity: SP+
 acquire: 限时卡池
 pay_relevance: high
 confidence: high
+research_schema_version: 1
 ---
 
 # 罗刹神·比比东

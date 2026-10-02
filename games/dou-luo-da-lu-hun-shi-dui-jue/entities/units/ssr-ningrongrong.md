@@ -8,6 +8,7 @@ rarity: SSR
 acquire: 常规招募 / 自选 SSR 礼包
 pay_relevance: low
 confidence: high
+research_schema_version: 1
 ---
 
 # SSR 宁荣荣

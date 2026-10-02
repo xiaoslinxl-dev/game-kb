@@ -5,6 +5,7 @@ description: 《斗罗大陆：魂师对决》基本信息、品类定位与核�
 game_id: dou-luo-da-lu-hun-shi-dui-jue
 timestamp: 2026-10-01T12:00:00Z
 confidence: high
+research_schema_version: 1
 ---
 
 # 游戏概述

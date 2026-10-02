@@ -8,6 +8,7 @@ rarity: SP+
 acquire: 2026国庆限定卡池「统御初临」（2026-09-30开启）
 pay_relevance: high
 confidence: high
+research_schema_version: 1
 ---
 
 # SP+ 统御神王·唐三

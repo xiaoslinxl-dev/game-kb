@@ -4,7 +4,7 @@ title: 神庙逃亡2 资料来源与参考文献
 description: 《神庙逃亡2》知识库 Bundle 涉及的官方公告、媒体报道、玩家攻略与行业报告汇编。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-10-02T11:00:00Z"
+timestamp: "2026-10-03T11:00:00Z"
 ---
 
 # 资料来源与参考文献
@@ -31,10 +31,12 @@ timestamp: "2026-10-02T11:00:00Z"
    - 链接：[应用宝 - 神庙逃亡2 官方正版](https://sj.qq.com/appdetail/com.imangi.templerun2)  
    - 链接：[App Store - 神庙逃亡2 官方版](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673)
 4. **Imangi Studios 官方网站及 Google Play / App Store 页面**  
-   - Temple Run 2 官方全球版核心介绍、v1.134.0~v1.137.0 版本更新（包含 2026 年 9 月奥林匹斯山 Mount Olympus 地图全新上线、通往奥林匹斯之路 Temple Pass、新传奇英雄赫拉克勒斯 Hercules、云端之上 Beyond the Clouds 全球金币挑战赛、暮光之殿 Twilight Palace 返场、限时挑战新英雄卢西恩·克罗斯 Lucien Cross、月神塞勒涅 Selene Celeste 与哪吒返场）与触控优化特性。  
+   - Temple Run 2 官方全球版核心介绍、v1.134.0~v1.137.0 版本更新（包含 2026 年 9 月至 10 月奥林匹斯山 Mount Olympus 地图全新上线、通往奥林匹斯之路 Temple Pass、新传奇英雄赫拉克勒斯 Hercules、金色之路 The Golden Path 及最新全球挑战“赫拉克勒斯的试炼”Trial of Hercules、暮光之殿 Twilight Palace 返场、限时挑战新英雄卢西恩·克罗斯 Lucien Cross、月神塞勒涅 Selene Celeste 与哪吒返场）与触控优化特性。  
    - 链接：[Imangi Studios 官方网站](https://imangistudios.com/thegames/temple-run-2/)  
    - 链接：[Google Play - Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2)  
    - 链接：[App Store - Temple Run 2 (English Global)](https://apps.apple.com/na/app/temple-run-2/id572395608)  
+   - 链接：[App Store Event - Trial of Hercules](https://apps.apple.com/us/app/temple-run-2/id572395608?eventid=6813154833)  
+   - 链接：[App Store Event - The Golden Path](https://apps.apple.com/us/app/temple-run-2/id572395608?eventid=6813145988)  
    - 链接：[Temple Run 2 Mt. Olympus 2026 Full Gameplay - YouTube](https://m.youtube.com/shorts/u2VjFGBEtM8)  
    - 链接：[Mount Olympus - Temple Run 2 - YouTube](https://m.youtube.com/shorts/1PxaBSmbbhE)  
    - 链接：[iGameMix - TEMPLE RUN 2 MOUNT OLYMPUS MAP Gameplay - YouTube](https://www.youtube.com/watch?v=HVvAFFcUBYs)  
@@ -67,7 +69,7 @@ timestamp: "2026-10-02T11:00:00Z"
 ## 3. 玩家社区与攻略资料
 
 1. **233乐园 - 《神庙逃亡2跑酷游戏免费安装与高分实战技巧》与《2026热门小游戏合集兑换码汇总》**  
-   - 跟踪《神庙逃亡2》（畅游玩具王国）关卡随机机制、靠墙减速与半空转向高分技巧、最新可用福利礼包码与 CDKEY 兑换全攻略（2026 年 10 月 2 日最新核验可用）。  
+   - 跟踪《神庙逃亡2》（畅游玩具王国）关卡随机机制、靠墙减速与半空转向高分技巧、最新可用福利礼包码与 CDKEY 兑换全攻略（2026 年 10 月 3 日最新核验可用）。  
    - 链接：[233乐园 神庙逃亡2专题](https://www.233leyuan.com/s/18636691598)  
    - 链接：[233乐园 高分实战技巧](https://www.233leyuan.com/post-detail/2019616678920482602)  
    - 链接：[233乐园 2026热门小游戏合集兑换码汇总](https://www.233leyuan.com/a/13779076921)

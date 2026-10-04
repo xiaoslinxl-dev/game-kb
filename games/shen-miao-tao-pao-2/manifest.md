@@ -5,7 +5,7 @@ description: 《神庙逃亡2》（神庙逃跑2 / Temple Run 2 中文版）知�
 game_id: shen-miao-tao-pao-2
 genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
-timestamp: "2026-10-03T11:00:00Z"
+timestamp: "2026-10-04T11:00:00Z"
 confidence: high
 modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
 modules_systems: [session-combat, content-modes]
@@ -26,12 +26,12 @@ unit_policy: representative
   - `content-modes`：涵盖经典无尽模式、竞技场/排位赛（1v1/2v2）、主题地图副本（如玩具王国、丝路奇遇、赛博神庙、百花戈壁、全民假日、月夜穹顶等）、黄金矿山挂机及限时收集赛等多重玩法。
 - **Entities (实体模块)**：采用 `representative`（代表性实体）策略，挑选了 12 个具有代表性的角色、坐骑、宠物与羽翼配饰（如危险盖伊、莉莉丝、赵云、比奥斯博士、安妮、沃利纳特、雅丹天女、年兽、傲狠、仙灵鹤、小香猪、花蝶梦翅膀），覆盖新手入门、长线留存福利、版本付费锚点、传统文化联动与竞技 PvP Meta。
 
-## 2026 年 10 月 3 日最新运营动态与知识库同步要点
+## 2026 年 10 月 4 日最新运营动态与知识库同步要点
 
-1. **十一国庆长假第三天（Day 3）迎来首个周末与大盘活跃峰值**：截至 2026 年 10 月 3 日（周六），中国国庆黄金周进入第三天。适逢长假首个周末，聚会休闲与碎片化娱乐场景深度叠加，创梦天地《神庙逃亡2》单日活跃用户数（DAU）与局内跑酷总局数冲上黄金周新高，服务器弹性扩容平稳顺畅；
-2. **“七天乐连登豪华签到”Day 3 福利解锁与全明星盛典持续火热**：全服七天乐签到迎来第 3 天解锁，玩家今日登录可领取第三天专属进阶礼包（包含高阶角色碎片自选盒、钻石礼袋、暴走冲刺加速道具及专属限定神兽坐骑/角色体验卡等），有力拉动假期“次留”与“三留”核心留存指标；全明星国风特惠商铺现货火爆热销，全明星国风限定角色（[赵云](/entities/units/zhao-yun.md)、[雅丹天女](/entities/units/yadan-tian-nu.md)）及中国传统神兽坐骑（[年兽](/entities/units/nian-beast.md)、[傲狠](/entities/units/ao-hen.md)）与羽翼（[花蝶梦](/entities/units/hua-die-meng.md)）的限时折扣组合保持强劲变现动能；
-3. **全赛道双倍金币掉落狂欢与排位赛黄金周冲榜高潮**：全赛道持续激活国庆长假“双倍金币掉落”狂欢，配合 [小香猪](/entities/units/xiao-xiang-zhu.md) 等宠物金币加成大幅提升玩家刷金效率；排位赛国庆黄金周冲榜季（1v1/2v2）迎来首个组队对抗小高潮，段位保护卡加速玩家冲击王者/钻石高段位；
+1. **十一国庆长假第四天（Day 4）长假过半与首周周日大盘平稳高位**：截至 2026 年 10 月 4 日（周日），中国国庆黄金周进入第四天，正逢 7 天长假的过半中程与黄金周首个周日。创梦天地《神庙逃亡2》单日活跃用户数（DAU）与局内跑酷总局数维持在长假峰值高位平台期，聚会开黑与旅途碎片跑酷双重叠加，服务器弹性扩容平稳顺畅；
+2. **“七天乐连登豪华签到”Day 4 福利解锁与国风盛典中段冲刺**：全服七天乐签到迎来第 4 天解锁（过半关键节点），玩家今日登录可领取第四天专属豪华礼包（包含高阶坐骑进阶碎片自选盒、钻石大礼袋、暴走冲刺道具及高阶金币宝珠等），长假连续留存黏性持续走高；全明星国风特惠商铺现货火爆热销，全明星国风限定角色（[赵云](/entities/units/zhao-yun.md)、[雅丹天女](/entities/units/yadan-tian-nu.md)）及中国传统神兽坐骑（[年兽](/entities/units/nian-beast.md)、[傲狠](/entities/units/ao-hen.md)）与羽翼（[花蝶梦](/entities/units/hua-die-meng.md)）的长假特惠组合保持强劲变现动能，特惠商铺推出长假中段限时“黄金福袋/充值加赠”翻倍热卖；
+3. **全赛道双倍金币掉落狂欢与排位赛首周周日冲榜结算高峰**：全赛道持续激活国庆长假“双倍金币掉落”狂欢，配合 [小香猪](/entities/units/xiao-xiang-zhu.md) 等宠物金币加成大幅提升玩家刷金效率；排位赛国庆黄金周冲榜季（1v1/2v2）迎来首周周日积分冲刺结算高潮，段位保护卡加速玩家冲击王者/钻石高段位；
 4. **九月开学季与中秋活动平稳完成归档结算，长线备战万圣狂欢**：“玩转九月开学季”活动代币与中秋代币已在此前全量折算为金币发放至玩家邮箱，兑换商城平稳归档。项目组精力全面转向国庆黄金周长假护航与 10 月中下旬万圣节（Haunted Harvest / Spooky Summit）前瞻筹备；
-5. **海外原厂（Imangi Studios）国际版保持高热运行（v1.136.0 / v1.137.0）**：希腊神话全新主题赛道“奥林匹斯山”（Mount Olympus）持续火爆，专属神庙通行证“通往奥林匹斯之路”（Road to Olympus Temple Pass，持续至 10 月 11 日 - 10 月 12 日）处于决胜冲刺阶段，终极大奖传奇新英雄“赫拉克勒斯”（Hercules）受全球跑者追捧；继“云端之上”（Beyond the Clouds）与“金色之路”（The Golden Path）后，全新全球挑战“赫拉克勒斯的试炼”（Trial of Hercules）全面打响（“Put your skills to the test in a Global Challenge! Rack up your score and prove yourself worthy of Olympus”），持续释放丰厚奖励与时光胡子西古尔（Sigur Chronos Time Beard）；海外商城轮换返场经典中国风英雄 [赵云](/entities/units/zhao-yun.md) 与哪吒（Nezha），并开启神秘赛道“暮光之殿”（Twilight Palace）新跑者“卢西恩·克罗斯”（Lucien Cross）的限时挑战；国际版同时开启了 10 月万圣节特别季（Haunted Harvest）的前瞻预告与 10 月 13 日 Google Play Fest 特惠预告；
-6. **社区礼包码（CDKEY）体系最新核验（2026 年 10 月 3 日最新有效代码）**：全面核验 2026 年 10 月 3 日可用的通用与专属礼包码（通用码 `smtw666`、`smtw888`、`smtw999`、`smtm520`，专属及VIP码 `SVIP666`、`SVIP777`、`SVIP888`，秋季与国庆码 `FALL2026`、`RUN2026`、`GQ2026`、`CHINA2026` 等），通过游戏内设置兑换入口为玩家提供开局金币、钻石与实用加速道具；
+5. **海外原厂（Imangi Studios）国际版保持高热运行（v1.136.0 / v1.137.0）**：希腊神话全新主题赛道“奥林匹斯山”（Mount Olympus）持续火爆，专属神庙通行证“通往奥林匹斯之路”（Road to Olympus Temple Pass，持续至 10 月 11 日 - 10 月 12 日）进入倒计时（仅余最后 7 天冲刺期），全球跑者加速积累“赫拉克勒斯的卷轴”（Hercules' Scrolls）兑换终极大奖传奇新英雄“赫拉克勒斯”（Hercules）与赫拉克勒斯英雄礼包（Hercules Hero Pack Bundle）；全新全球挑战“赫拉克勒斯的试炼”（Trial of Hercules）全面进入后半程，全球玩家总积分突破新阶段，全服金币与时光胡子西古尔（Sigur Chronos Time Beard）奖励持续解锁下发；海外商城轮换返场经典中国风英雄 [赵云](/entities/units/zhao-yun.md) 与哪吒（Nezha），并开启神秘赛道“暮光之殿”（Twilight Palace）新跑者“卢西恩·克罗斯”（Lucien Cross）的限时挑战；国际版同时开启了 10 月万圣节特别季（Haunted Harvest）的前瞻预告与 10 月 13 日 Google Play Fest 特惠预告；
+6. **社区礼包码（CDKEY）体系最新核验（2026 年 10 月 4 日最新有效代码）**：全面核验 2026 年 10 月 4 日可用的通用与专属礼包码（通用码 `smtw666`、`smtw888`、`smtw999`、`smtm520`，专属及VIP码 `SVIP666`、`SVIP777`、`SVIP888`，秋季与国庆码 `FALL2026`、`RUN2026`、`GQ2026`、`CHINA2026` 等），通过游戏内设置兑换入口为玩家提供开局金币、钻石与实用加速道具；
 7. **版本运行态势、减负体系与防作弊公平竞技**：中文稳定版持续维持在 v7.3.2 体系，实物周边收集赛与排位榜单严格执行“3km 赛道道具刷新保护”防脚本机制，配合“黄金矿山”挂机资源产出与订阅特权机制（12元免插页广告、15元免费重生双倍金币、18元荣耀勋章），稳固大盘留存与良性生态。

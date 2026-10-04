@@ -3,7 +3,7 @@ type: Sources
 title: 信息来源与参考文献
 description: 《斗罗大陆：魂师对决》官方公告、商店日志与核心社区信源总索引
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: "2026-10-03T11:00:00Z"
+timestamp: "2026-10-04T18:00:00Z"
 confidence: high
 research_schema_version: 1
 ---
@@ -49,7 +49,7 @@ research_schema_version: 1
 11. [光环助手 / 官方公告 - 双神降临卡池与队伍独立第七人神祇双神·唐三](https://www.ghzs666.com/bbs/thread-352117) — 2026年7月神祇职业独立第七人与双神降临卡池规则。
 12. [TapTap 官方公告 - 《仙逆》跨界联动SP王林武魂真身专属返场卡池(9月24日)](https://www.taptap.cn/moment/851203984572910384) — 2026年9月24日SP王林真身返场卡池公告。
 13. [TapTap 社区评测 - 统御神王唐三长图测试与荒兽踏墟词条(10月2日)](https://www.taptap.cn/moment/855012489028919296) — 2026年10月2日高玩实测报告与荒兽踏墟专属词条。
-14. [TapTap 官方公告 - 即将上线 | 神王之路(10月2日)](https://www.taptap.cn/app/211270/topic?type=official) — 2026年10月2日官方发布的十一黄金周重点任务与神祇秘藏抽奖公告。
+14. [TapTap 官方公告 - 即将上线 | 神王之路(10月2日)](https://www.taptap.cn/moment/855207810009402736) — 2026年10月2日官方发布的十一黄金周重点任务与神祇秘藏抽奖公告。
 15. [TapTap 社区评测 - 第567期神王秘藏S31评测与十一平民2100钻攻略(10月3日)](https://www.taptap.cn/user/671953101) — 2026年10月3日社区创作者花逝与风与天空针对神王之路、神祇秘藏S31与平民收益评测。
 16. [《斗罗大陆：魂师对决》官方网站](https://hsdj.37.com.cn/) — 官方资讯、游戏介绍、适龄提示及最新活动预告。
 17. [TapTap 官方社区 - 斗罗大陆：魂师对决](https://www.taptap.cn/app/211270) — 官方版本更新公告、版本日志与停服维护通知。

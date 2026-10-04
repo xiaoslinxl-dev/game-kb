@@ -3,7 +3,7 @@ type: Risks
 title: 风险与未知项
 description: 《斗罗大陆：魂师对决》面临的数值膨胀风险、玩家流失与系统复杂度未知数
 game_id: dou-luo-da-lu-hun-shi-dui-jue
-timestamp: "2026-10-03T11:00:00Z"
+timestamp: "2026-10-04T18:00:00Z"
 confidence: high
 research_schema_version: 1
 ---
@@ -14,7 +14,7 @@ research_schema_version: 1
 
 | gap_id | 关联对象 | 待验证问题 | 已查资料 | 缺失原因 | 下一步 |
 |---|---|---|---|---|---|
-| gap-sp-powercreep | SP+/神祇品质魂师 | SP+多形态与神祇快速更迭是否会导致早期SSR/SP魂师在Meta中彻底边缘化及SP+升星门槛 | 经tools/submit_evidence.py工具核验（vid=ver-87b5147785f810d2/ver-43f4b6007fc6fc32/ver-814d35afdc1dbf72/ver-800332e5ffee95ac），卡池确认为3%SSR率、12.5%SP+率、60幸运值、400硬保底；SP+初始黄5星最高彩5星，高级万能信物2:1换碎片；奉献/裁决双形态自适应切换 | 官方未公开长期老魂师基础数值整体重构方案 | 跟踪官方是否开放SP魂师二次觉醒或成批真身加强（见 [progression.md](progression.md#2-魂师自身养成详解) 与 [systems/session-combat.md](systems/session-combat.md#5-技能流派与联动机制)） |
+| gap-sp-powercreep | SP+/神祇品质魂师 | SP+多形态与神祇快速更迭是否会导致早期SSR/SP魂师在Meta中彻底边缘化及SP+升星门槛 | 经tools/submit_evidence.py工具核验（vid=ver-87b5147785f810d2/ver-43f4b6007fc6fc32/ver-814d35afdc1dbf72/ver-800332e5ffee95ac/ver-da9d0c602b4ef919），卡池确认为3%SSR率、12.5%SP+率、60幸运值、400硬保底；SP+初始黄5星最高彩5星，高级万能信物2:1换碎片；奉献/裁决双形态自适应切换 | 官方未公开长期老魂师基础数值整体重构方案 | 跟踪官方是否开放SP魂师二次觉醒或成批真身加强（见 [progression.md](progression.md#2-魂师自身养成详解) 与 [systems/session-combat.md](systems/session-combat.md#5-技能流派与联动机制)） |
 | gap-pass-cadence | 诏令通行证体系 | 高频7-14天微通行证与月卡双轨并行对微氪与平民留存的吸附极限 | 经tools/submit_evidence.py工具核验（vid=ver-bd27cb8d0d7ead56/ver-1aab5876eb171c21），神王诏令福利版每日免费领30钻，豪华版立得统御神念+1980钻且后续每日领魂髓+158钻，总计核心*18+四肢*12+统御神念*1+钻石*3326；神界秘藏三级转盘跳转返还罗盘 | 缺乏大盘各档位玩家流失与付费渗透率数据 | 观测官方双节后续是否放宽免费版奖励常态化投放（见 [monetization.md](monetization.md#31-双轨通行证节奏与吸附机制应对留存与付费平衡) 与 [economy.md](economy.md#3-宏观经济调控与双轨通行证资源循环)） |
 | gap-pvp-attr-stack | 称号重构与竞技增益2.0 | 称号永久全队被动属性叠加是否会进一步拉大平民与重氪的竞技鸿沟 | 9月22日称号重构维护公告与10月天榜巅峰战况 | 玩家称号库积累深度差异需时间沉淀显现 | 跟踪巅峰联赛淘汰赛与全服争霸胜率分布（见 [progression.md](progression.md#5-称号重构全队永久被动属性) 与 [systems/session-combat.md](systems/session-combat.md#6-pvp-竞技增益-20-与称号重构属性生态)） |
 | gap-account-heritage | 神界传承机制 | 老区资产继承机制能否有效扭转滚服生态并保持新服生态健康平衡 | 7月神界传承公告与9月30日新服内置卡池排期（src-0004） | 新服跨月生态数据处于动态演进中 | 持续跟踪新服开服满月后的生态与跨服合战情况（见 [systems/content-modes.md](systems/content-modes.md#5-神界传承服与新服生态体系)） |

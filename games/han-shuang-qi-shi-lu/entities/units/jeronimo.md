@@ -8,7 +8,7 @@ rarity: SSR (Generation 1)
 acquire: VIP特权礼包购买 / VIP专属商店
 pay_relevance: high
 confidence: high
-timestamp: "2026-10-01T11:00:00Z"
+timestamp: "2026-10-04T11:00:00Z"
 research_schema_version: 1
 ---
 

@@ -4,7 +4,7 @@ title: 寒霜启示录 核心循环
 description: 解析《寒霜启示录》从前期模拟经营到中后期4X大地图战争的双核循环机制，涵盖资源生产、大熔炉供暖、小队探险与跨服王战。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-10-01T11:00:00Z"
+timestamp: "2026-10-04T11:00:00Z"
 research_schema_version: 1
 applies_to: all
 ---

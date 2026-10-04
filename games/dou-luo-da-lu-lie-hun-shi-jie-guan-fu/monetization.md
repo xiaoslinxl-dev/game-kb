@@ -19,13 +19,13 @@ research_schema_version: 1
 
 | product_id | 产品/权益 | 价格与币种 | 地区/平台 | 适用条件 | 来源 | 核验状态 |
 |---|---|---|---|---|---|---|
-| prod-monthly-card | 海神月卡 (30天订阅) | 30 CNY | CN / 全平台 | 无门槛，每日登录领60体力与100钻石 | src-0002@r001/ev-03 | unverified |
+| prod-monthly-card | 月卡 (30天订阅) | 68 CNY | CN / 全平台 | 开放商城后可购，30天周期立得680钻，每日领180钻、尊享随机礼盒x1、玉液瓶x5 | src-0003@r002/ev-02 | confirmed |
 | prod-battlepass-tiandou-adv | 天斗皇礼·高级皇礼通行证 | 68 CNY | CN / 全平台 | 开服≥8天且魂师等级≥30级 | src-0001@r001/ev-03 | unverified |
 | prod-battlepass-tiandou-elite | 天斗皇礼·精英高级皇礼通行证 | 128 CNY | CN / 全平台 | 开服≥8天且魂师等级≥30级（直升20级赠专属头像框） | src-0001@r001/ev-03 | unverified |
 | prod-battlepass-wuhun-adv | 武魂宝典·金曜破霄龙高级档位 | 68 CNY | CN / 全平台 | 开服≥4天且魂师等级≥30级 | src-0001@r001/ev-03 | unverified |
 | prod-battlepass-wuhun-elite | 武魂宝典·金曜破霄龙精英档位 | 128 CNY | CN / 全平台 | 开服≥4天且等级≥30级（赠王秋儿命轨与龙系幻形） | src-0001@r001/ev-03 | unverified |
 | prod-battlepass-yuanyan | 武魂宝典·雨燕凌霄高级/精英档位 | 25/163 CNY | CN / 全平台 | 开服≥4天且魂师等级≥30级（送尖尾雨燕本体与专属动态表情） | src-0001@r001/ev-09 | unverified |
-| prod-gacha-xiuluo | 限定觉醒·修罗降世单抽/十连 | 160/1600 钻石 (或限定券) | CN / 全平台 | 开服≥4天且等级≥30级（80抽小保底/160抽命定大保底，新服承接修罗天降） | src-0001@r001/ev-10 | unverified |
+| prod-gacha-xiuluo | 限定觉醒·修罗降世单抽/十连 | 160/1600 钻石 (或限定券) | CN / 全平台 | 开服≥4天且等级≥30级（SSR率1.8%，80抽保底，抽中SSR时50%为修罗剑，160抽命定大保底，附赠唐晨，新服顺延至第8天开启修罗天降） | src-0006@r006/ev-06 | confirmed |
 | prod-gacha-baihong | 限定觉醒·白虹裁月单抽/十连 | 160/1600 钻石 (或限定券) | CN / 全平台 | 开服≥4天且等级≥30级（80抽小保底/160抽命定大保底） | src-0001@r001/ev-01 | unverified |
 | prod-gacha-xincheng | 新程甄选限定自选UP卡池 | 160/1600 钻石 (或限定券) | CN / 全平台 | 角色创建第2天且等级≥27级（掉落启程玉） | src-0002@r001/ev-01 | unverified |
 | prod-gacha-rerun | 经典限定武魂返场池（圣龙/灵眸） | 160/1600 钻石 (或限定券) | CN / 全平台 | 开服≥4天且等级≥30级（共享80抽/160抽保底与星神玉） | src-0004@r001/ev-02 | unverified |

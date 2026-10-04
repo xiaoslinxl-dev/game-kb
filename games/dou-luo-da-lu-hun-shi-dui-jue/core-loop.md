@@ -35,16 +35,16 @@ research_schema_version: 1
 
 | relation_id | 起点 ID | 关系类型 | 终点 ID | 条件 | 来源 | 核验状态 |
 |---|---|---|---|---|---|---|
-| rel-core-001 | rule-mode-002 | 产出 | res-soul-ring | 消耗体力挑战落日/猎魂森林 | src-0008@r001/ev-03 | confirmed |
-| rel-core-002 | res-vitality | 消耗 | rule-mode-002 | 每日自然恢复与体力购买 | src-0008@r001/ev-03 | confirmed |
-| rel-core-003 | res-free-diamond | 转换 | res-wuhun-ticket | 商城与限时兑换 | src-0008@r001/ev-01 | confirmed |
-| rel-core-004 | res-wuhun-ticket | 消耗 | prog-unit-star | 武魂觉醒与限时卡池抽取魂师升星 | src-0001@r001/ev-01 | confirmed |
-| rel-core-005 | prog-unit-star | 强化 | prog-unit-link | 8位支柱魂师属性继承 | src-0008@r001/ev-01 | confirmed |
-| rel-core-006 | res-soul-ring | 强化 | prog-soul-ring | 吸收魂环解锁技能与神化突破 | src-0008@r001/ev-03 | confirmed |
-| rel-core-007 | prog-unit-link | 解锁 | rule-mode-005 | 达到等级与战力门槛 | src-0008@r001/ev-02 | confirmed |
-| rel-core-008 | rule-mode-005 | 产出 | res-free-diamond | 竞技天梯日常与赛季结算 | src-0008@r001/ev-02 | confirmed |
-| rel-core-009 | rule-mode-004 | 产出 | prog-godhood-level | 登神长阶与成神排行获取神格与铭值 | src-0002@r001/ev-02 | confirmed |
-| rel-core-010 | rule-mode-004 | 产出 | prog-title-reconstruct | 登神长阶与成神排行解锁专属封号 | src-0005@r001/ev-01 | confirmed |
+| rel-core-001 | rule-mode-002 | 产出 | res-soul-ring | 消耗体力挑战落日/猎魂森林 | src-0008@r001/ev-03 | unverified |
+| rel-core-002 | res-vitality | 消耗 | rule-mode-002 | 每日自然恢复与体力购买 | src-0008@r001/ev-03 | unverified |
+| rel-core-003 | res-free-diamond | 转换 | res-wuhun-ticket | 商城与限时兑换 | src-0008@r001/ev-01 | unverified |
+| rel-core-004 | res-wuhun-ticket | 消耗 | prog-unit-star | 武魂觉醒与限时卡池抽取魂师升星 | src-0001@r001/ev-01 | unverified |
+| rel-core-005 | prog-unit-star | 强化 | prog-unit-link | 8位支柱魂师属性继承 | src-0008@r001/ev-01 | unverified |
+| rel-core-006 | res-soul-ring | 强化 | prog-soul-ring | 吸收魂环解锁技能与神化突破 | src-0008@r001/ev-03 | unverified |
+| rel-core-007 | prog-unit-link | 解锁 | rule-mode-005 | 达到等级与战力门槛 | src-0008@r001/ev-02 | unverified |
+| rel-core-008 | rule-mode-005 | 产出 | res-free-diamond | 竞技天梯日常与赛季结算 | src-0008@r001/ev-02 | unverified |
+| rel-core-009 | rule-mode-004 | 产出 | prog-godhood-level | 登神长阶与成神排行获取神格与铭值 | src-0002@r001/ev-02 | unverified |
+| rel-core-010 | rule-mode-004 | 产出 | prog-title-reconstruct | 登神长阶与成神排行解锁专属封号 | src-0005@r001/ev-01 | unverified |
 
 ## 2. 玩法闭环详解
 

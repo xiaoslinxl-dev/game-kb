@@ -16,20 +16,20 @@ research_schema_version: 1
 
 | resource_id | 名称 | 产出系统 | 消耗用途 | 获取/存储限制 | 刷新周期 | 转换 | 有效期与跨期保留 | 来源 | 核验状态 |
 |---|---|---|---|---|---|---|---|---|---|
-| res-paid-diamond | 付费钻石（金钻） | sys-content-modes | 购买顶级礼包、直购限时代币、拍卖行出价 | 存储无上限 | not_applicable（充值实时） | 1:1对应人民币充值 | 永久有效 | src-0008@r001/ev-01 | confirmed |
-| res-free-diamond | 免费钻石 | sys-content-modes | 购买觉醒券、体力、商店魂涡、日常刷新 | 获取受日常任务与成就额度限制 | 每日05:00刷新 | 可在商城直接兑换道具 | 永久有效 | src-0008@r001/ev-01 | confirmed |
-| res-soul-coin | 金币 / 魂币 | sys-content-modes | 魂环强化、魂骨升星、魂核培养 | 存储无上限 | not_applicable（常驻产出） | 消耗转化为数值属性 | 永久有效 | src-0008@r001/ev-01 | confirmed |
-| res-wuhun-ticket | 武魂觉醒券 | sys-content-modes | 常规/SSR/SP 卡池武魂抽卡 | 钻石每日兑换受限 | 每日05:00刷新 | 抽卡转换为魂师本体与碎片 | 永久有效 | src-0001@r001/ev-01 | confirmed |
-| res-vitality | 体力（萝卜/体力药） | sys-content-modes | 挑战猎魂森林、落日森林、剧情副本 | 上限随等级提升（有溢出衰减） | 每日05:00/12:00/18:00自然恢复 | 消耗进入关卡获取掉落 | 永久有效 | src-0008@r001/ev-01 | confirmed |
-| res-soul-ring | 魂兽魂环与神化原石 | sys-content-modes | 魂师吸收解锁魂技与神化突破 | 猎魂森林体力与每日挑战限制 | 每日05:00刷新 | 吸收装备为魂师技能 | 永久有效 | src-0008@r001/ev-03 | confirmed |
-| res-juling-ticket | 聚灵宝券 | sys-content-modes | 参与聚灵宝池抽奖、瓜分战区钻石大奖池 | 活跃任务免费获取有上限 | 活动周期刷新 | 抽奖转化为奖池道具与分钻 | 活动结束后按比例回收 | src-0002@r001/ev-01 | confirmed |
-| res-fame-crystal | 举世扬名结晶 | sys-content-modes | 激活与升级「竞技增益2.0」特权战场词条 | 充值返利与礼包限购 | 活动周期刷新 | 注入词条树转化为PVP特权 | 永久有效 | src-0008@r001/ev-02 | confirmed |
-| res-compass | 寻宝罗盘 | sys-content-modes | 驱动「神界秘藏」三级转盘探宝 | 限时活动商城购买 | 活动周期刷新 | 逐层抽取转化为神界稀品与源魂 | 活动结束后清空 | src-0002@r001/ev-01 | confirmed |
-| res-cheer-token | 剑鞘/剑身应援令 | sys-content-modes | 参与修罗应援打气抽奖 | 每日进阶任务上限 | 每日05:00刷新 | 抽取转化为修罗魔剑专属器源 | 活动结束后清空 | src-0002@r001/ev-01 | confirmed |
-| res-moon-rabbit-coin | 月兔纪念币 | sys-content-modes | 玉兔礼品屋兑换李慕婉双系魂环与铠甲魂髓 | 平民活跃捡拾3~7.5万上限 | 节日周期刷新 | 在礼品屋兑换专属高阶道具 | 节日活动后按比例回收 | src-0006@r001/ev-01 | confirmed |
-| res-huanhun-coin | 幻魂币 | sys-content-modes | 兑换妖魅/月神小舞四肢不朽源骨与SP真身 | 抽奖次数受付费影响 | 活动周期刷新 | 商店兑换指定核心道具 | 跨期永久保留不清空 | src-0002@r001/ev-01 | confirmed |
-| res-godking-token | 星月奇运令牌 | sys-content-modes | 参与星月奇运求签翻牌抽取核心法相与源魂 | 前10轮前3抽免费 | 每日05:00刷新 | 翻牌转化为大奖与积分 | 活动结束后清空 | src-0002@r001/ev-01 | confirmed |
-| res-destiny-summon | 定向源魂召谕 | sys-content-modes | 抽取SP+统御神王·唐三专属定向源魂卡池 | 活跃赠送有限，商城直购 | 活动周期刷新 | 抽取转化为神王源魂与经验 | 永久有效 | src-0001@r001/ev-02 | confirmed |
+| res-paid-diamond | 付费钻石（金钻） | sys-content-modes | 购买顶级礼包、直购限时代币、拍卖行出价 | 存储无上限 | not_applicable（充值实时） | 1:1对应人民币充值 | 永久有效 | src-0008@r001/ev-01 | unverified |
+| res-free-diamond | 免费钻石 | sys-content-modes | 购买觉醒券、体力、商店魂涡、日常刷新 | 获取受日常任务与成就额度限制 | 每日05:00刷新 | 可在商城直接兑换道具 | 永久有效 | src-0008@r001/ev-01 | unverified |
+| res-soul-coin | 金币 / 魂币 | sys-content-modes | 魂环强化、魂骨升星、魂核培养 | 存储无上限 | not_applicable（常驻产出） | 消耗转化为数值属性 | 永久有效 | src-0008@r001/ev-01 | unverified |
+| res-wuhun-ticket | 武魂觉醒券 | sys-content-modes | 常规/SSR/SP 卡池武魂抽卡 | 钻石每日兑换受限 | 每日05:00刷新 | 抽卡转换为魂师本体与碎片 | 永久有效 | src-0001@r001/ev-01 | unverified |
+| res-vitality | 体力（萝卜/体力药） | sys-content-modes | 挑战猎魂森林、落日森林、剧情副本 | 上限随等级提升（有溢出衰减） | 每日05:00/12:00/18:00自然恢复 | 消耗进入关卡获取掉落 | 永久有效 | src-0008@r001/ev-01 | unverified |
+| res-soul-ring | 魂兽魂环与神化原石 | sys-content-modes | 魂师吸收解锁魂技与神化突破 | 猎魂森林体力与每日挑战限制 | 每日05:00刷新 | 吸收装备为魂师技能 | 永久有效 | src-0008@r001/ev-03 | unverified |
+| res-juling-ticket | 聚灵宝券 | sys-content-modes | 参与聚灵宝池抽奖、瓜分战区钻石大奖池 | 活跃任务免费获取有上限 | 活动周期刷新 | 抽奖转化为奖池道具与分钻 | 活动结束后按比例回收 | src-0002@r001/ev-01 | unverified |
+| res-fame-crystal | 举世扬名结晶 | sys-content-modes | 激活与升级「竞技增益2.0」特权战场词条 | 充值返利与礼包限购 | 活动周期刷新 | 注入词条树转化为PVP特权 | 永久有效 | src-0008@r001/ev-02 | unverified |
+| res-compass | 寻宝罗盘 | sys-content-modes | 驱动「神界秘藏」三级转盘探宝 | 限时活动商城购买 | 活动周期刷新 | 逐层抽取转化为神界稀品与源魂 | 活动结束后清空 | src-0013@r002/ev-02 | confirmed |
+| res-cheer-token | 剑鞘/剑身应援令 | sys-content-modes | 参与修罗应援打气抽奖 | 每日进阶任务上限 | 每日05:00刷新 | 抽取转化为修罗魔剑专属器源 | 活动结束后清空 | src-0002@r001/ev-01 | unverified |
+| res-moon-rabbit-coin | 月兔纪念币 | sys-content-modes | 玉兔礼品屋兑换李慕婉双系魂环与铠甲魂髓 | 平民活跃捡拾3~7.5万上限 | 节日周期刷新 | 在礼品屋兑换专属高阶道具 | 节日活动后按比例回收 | src-0006@r001/ev-01 | unverified |
+| res-huanhun-coin | 幻魂币 | sys-content-modes | 兑换妖魅/月神小舞四肢不朽源骨与SP真身 | 抽奖次数受付费影响 | 活动周期刷新 | 商店兑换指定核心道具 | 跨期永久保留不清空 | src-0002@r001/ev-01 | unverified |
+| res-godking-token | 星月奇运令牌 | sys-content-modes | 参与星月奇运求签翻牌抽取核心法相与源魂 | 前10轮前3抽免费 | 每日05:00刷新 | 翻牌转化为大奖与积分 | 活动结束后清空 | src-0002@r001/ev-01 | unverified |
+| res-destiny-summon | 定向源魂召谕 | sys-content-modes | 抽取SP+统御神王·唐三专属定向源魂卡池 | 活跃赠送有限，商城直购 | 活动周期刷新 | 抽取转化为神王源魂与经验 | 永久有效 | src-0001@r001/ev-02 | unverified |
 
 ## 2. 商店与代币分类
 

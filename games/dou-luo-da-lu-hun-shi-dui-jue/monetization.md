@@ -16,14 +16,14 @@ research_schema_version: 1
 
 | product_id | 产品/权益 | 价格与币种 | 地区/平台 | 适用条件 | 来源 | 核验状态 |
 |---|---|---|---|---|---|---|
-| prod-pass-luxury | 限时主题诏令通行证豪华版 | 68 - 128 CNY | CN / 全平台 | 角色等级达到对应活动门槛 | src-0001@r001/ev-03 | confirmed |
-| prod-godking-order | 神王诏令豪华版（赠专属魂骨统御神念+1980钻石） | 68 CNY | CN / 全平台 | 统御初临卡池开启期间 | src-0001@r001/ev-03 | confirmed |
-| prod-monthly-pass | 豪华月卡（每日领体力/钻石/培养资源） | 30 CNY | CN / 全平台 | 全体玩家常驻可用 | src-0004@r001/ev-02 | confirmed |
-| prod-destiny-gacha | 权御朝拜定向源魂召唤券礼包 | 6 - 648 CNY | CN / 全平台 | 拥有神王唐三或提前抽卡备用 | src-0001@r001/ev-02 | confirmed |
-| prod-daily-deal-6 | 每日特惠礼包（武魂觉醒券+体力） | 6 CNY | CN / 全平台 | 每日限购 1 次 | src-0008@r001/ev-01 | confirmed |
-| prod-daily-deal-30 | 进阶特惠礼包（觉醒券+钻石+魂骨玉） | 30 CNY | CN / 全平台 | 每日限购 1 次 | src-0008@r001/ev-01 | confirmed |
-| prod-first-recharge | 首充双倍钻石各档位 | 6 - 648 CNY | CN / 全平台 | 各充值档位首次充值触发 | src-0008@r001/ev-01 | confirmed |
-| prod-skin-package | 典藏/限定皮肤礼盒（月落丹青/戮天古神） | 128 - 328 CNY | CN / 全平台 | 专属皮肤探宝与运营活动期间 | src-0002@r001/ev-01 | confirmed |
+| prod-pass-luxury | 限时主题诏令通行证豪华版 | 68 - 128 CNY | CN / 全平台 | 角色等级达到对应活动门槛 | src-0001@r001/ev-03 | unverified |
+| prod-godking-order | 神王诏令豪华版（赠专属魂骨统御神念+1980钻石） | 68 CNY | CN / 全平台 | 统御初临卡池开启期间 | src-0001@r003/ev-03 | confirmed |
+| prod-monthly-pass | 豪华月卡（每日领体力/钻石/培养资源） | 30 CNY | CN / 全平台 | 全体玩家常驻可用 | src-0004@r001/ev-02 | unverified |
+| prod-destiny-gacha | 权御朝拜定向源魂召唤券礼包 | 6 - 648 CNY | CN / 全平台 | 拥有神王唐三或提前抽卡备用 | src-0001@r001/ev-02 | unverified |
+| prod-daily-deal-6 | 每日特惠礼包（武魂觉醒券+体力） | 6 CNY | CN / 全平台 | 每日限购 1 次 | src-0008@r001/ev-01 | unverified |
+| prod-daily-deal-30 | 进阶特惠礼包（觉醒券+钻石+魂骨玉） | 30 CNY | CN / 全平台 | 每日限购 1 次 | src-0008@r001/ev-01 | unverified |
+| prod-first-recharge | 首充双倍钻石各档位 | 6 - 648 CNY | CN / 全平台 | 各充值档位首次充值触发 | src-0008@r001/ev-01 | unverified |
+| prod-skin-package | 典藏/限定皮肤礼盒（月落丹青/戮天古神） | 128 - 328 CNY | CN / 全平台 | 专属皮肤探宝与运营活动期间 | src-0002@r001/ev-01 | unverified |
 
 ## 2. 抽卡卡池（Gacha）
 

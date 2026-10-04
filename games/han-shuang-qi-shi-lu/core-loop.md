@@ -17,20 +17,20 @@ applies_to: all
 
 | relation_id | 起点 ID | 关系类型 | 终点 ID | 条件 | 来源 | 核验状态 |
 |---|---|---|---|---|---|---|
-| rel-001 | sys-base-build | 产出 | res-meat | 建造并指派幸存者进驻猎人小屋 | src-0001@r001/ev-01 | confirmed |
-| rel-002 | sys-base-build | 产出 | res-coal | 建造并指派幸存者进驻煤矿场 | src-0001@r001/ev-01 | confirmed |
-| rel-003 | res-coal | 消耗 | prog-furnace | 开启大熔炉过载供暖及熔炉升温维护 | src-0001@r001/ev-01 | confirmed |
-| rel-004 | prog-furnace | 解锁 | prog-fc-age | 大熔炉达到Lv 30且满足王国开服天数 | src-0001@r001/ev-01 | confirmed |
-| rel-005 | prog-fc-age | 解锁 | res-wish-mark | 熔炉达到FC1开启心愿驿站完成居民心愿 | src-0001@r001/ev-01 | confirmed |
-| rel-006 | res-wish-mark | 转换 | prog-chief-gear | 在心愿商店兑换娱乐设施建材，设施产出装备图纸与材料 | src-0001@r001/ev-01 | confirmed |
-| rel-007 | sys-exploration | 产出 | res-iron | 5人小队推关与挂机探险宝箱 | src-0002@r001/ev-01 | confirmed |
-| rel-008 | res-iron | 消耗 | prog-troop-tier | 兵营训练与升级士兵（T1-T10） | src-0001@r001/ev-01 | confirmed |
-| rel-009 | sys-content-modes | 产出 | res-arena-coin | 参与每日竞技场挑战防守镜像 | src-0002@r001/ev-02 | confirmed |
-| rel-010 | res-arena-coin | 转换 | prog-hero-star | 在竞技场商店兑换特定英雄碎片提升星级 | src-0002@r001/ev-02 | confirmed |
-| rel-011 | res-fire-crystal | 强化 | prog-troop-t12 | 熔炉FC8后在炽炎科技所进阶T12煌耀兵种 | src-0002@r001/ev-03 | confirmed |
-| rel-012 | prog-troop-t12 | 强化 | sys-territory-war | 提升太阳城王战争夺与SvS跨服集结战斗力 | src-0002@r001/ev-03 | confirmed |
-| rel-013 | sys-territory-war | 产出 | res-gems | 赢得堡垒要塞争夺战与最强王国跨服战排名奖励 | src-0005@r001/ev-02 | confirmed |
-| rel-014 | res-gems | 消耗 | prog-hero-star | 幸运大转盘消耗宝石抽取世代核心英雄碎片 | src-0001@r001/ev-04 | confirmed |
+| rel-001 | sys-base-build | 产出 | res-meat | 建造并指派幸存者进驻猎人小屋 | src-0001@r001/ev-01 | unverified |
+| rel-002 | sys-base-build | 产出 | res-coal | 建造并指派幸存者进驻煤矿场 | src-0001@r001/ev-01 | unverified |
+| rel-003 | res-coal | 消耗 | prog-furnace | 开启大熔炉过载供暖及熔炉升温维护 | src-0001@r001/ev-01 | unverified |
+| rel-004 | prog-furnace | 解锁 | prog-fc-age | 大熔炉达到Lv 30且满足王国开服天数 | src-0001@r001/ev-01 | unverified |
+| rel-005 | prog-fc-age | 解锁 | res-wish-mark | 熔炉达到FC1开启心愿驿站完成居民心愿 | src-0001@r001/ev-01 | unverified |
+| rel-006 | res-wish-mark | 转换 | prog-chief-gear | 在心愿商店兑换娱乐设施建材，设施产出装备图纸与材料 | src-0001@r001/ev-01 | unverified |
+| rel-007 | sys-exploration | 产出 | res-iron | 5人小队推关与挂机探险宝箱 | src-0002@r001/ev-01 | unverified |
+| rel-008 | res-iron | 消耗 | prog-troop-tier | 兵营训练与升级士兵（T1-T10） | src-0001@r001/ev-01 | unverified |
+| rel-009 | sys-content-modes | 产出 | res-arena-coin | 参与每日竞技场挑战防守镜像 | src-0002@r001/ev-02 | unverified |
+| rel-010 | res-arena-coin | 转换 | prog-hero-star | 在竞技场商店兑换特定英雄碎片提升星级 | src-0002@r001/ev-02 | unverified |
+| rel-011 | res-fire-crystal | 强化 | prog-troop-t12 | 熔炉FC8后在炽炎科技所进阶T12煌耀兵种 | src-0002@r001/ev-03 | unverified |
+| rel-012 | prog-troop-t12 | 强化 | sys-territory-war | 提升太阳城王战争夺与SvS跨服集结战斗力 | src-0002@r001/ev-03 | unverified |
+| rel-013 | sys-territory-war | 产出 | res-gems | 赢得堡垒要塞争夺战与最强王国跨服战排名奖励 | src-0005@r001/ev-02 | unverified |
+| rel-014 | res-gems | 消耗 | prog-hero-star | 幸运大转盘消耗宝石抽取世代核心英雄碎片 | src-0001@r001/ev-04 | unverified |
 
 ## 1. 基础内城模拟经营循环
 

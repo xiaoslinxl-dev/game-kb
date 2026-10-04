@@ -17,18 +17,18 @@ applies_to: all
 
 | resource_id | 名称 | 产出系统 | 消耗用途 | 获取/存储限制 | 刷新周期 | 转换 | 有效期与跨期保留 | 来源 | 核验状态 |
 |---|---|---|---|---|---|---|---|---|---|
-| res-meat | 生肉 (Meat) | sys-base-build, sys-exploration | 建筑升级、暴风雪幸存者口粮、训练士兵 | 仓库保护容量受仓库等级限制 | 即时持续产出 | not_applicable（基础物资不可直转外币） | not_applicable（永久保留无过期限制） | src-0001@r001/ev-01 | confirmed |
-| res-wood | 木材 (Wood) | sys-base-build, sys-exploration | 建筑升级、科技研发、兵种训练 | 仓库保护容量受仓库等级限制 | 即时持续产出 | not_applicable（基础物资不可直转外币） | not_applicable（永久保留无过期限制） | src-0001@r001/ev-01 | confirmed |
-| res-coal | 煤炭 (Coal) | sys-base-build, sys-exploration | 大熔炉日常供暖、暴风雪过载升温、高级城建 | 仓库保护容量受仓库等级限制 | 即时持续产出 | not_applicable（基础物资不可直转外币） | not_applicable（永久保留无过期限制） | src-0001@r001/ev-01 | confirmed |
-| res-iron | 铁矿 (Iron) | sys-base-build, sys-exploration | 高阶兵种训练、火晶建筑前置、高等科技 | 仓库保护容量受仓库等级限制 | 即时持续产出 | not_applicable（基础物资不可直转外币） | not_applicable（永久保留无过期限制） | src-0001@r001/ev-01 | confirmed |
-| res-gems | 宝石 (Gems) | sys-content-modes, sys-territory-war | 幸运轮盘抽卡、VIP商店购买加速、应急资源补足 | not_applicable（无获取与存储上限） | 活动结算与每日任务刷新 | 可1:1抵扣多种日常代币缺口 | not_applicable（永久保留可跨赛季跨期使用） | src-0001@r001/ev-04 | confirmed |
-| res-frost-star | 霜星 (Frost Stars) | Web Store直充购买 | 网页商城购买游戏内同等价值礼包与周月卡 | not_applicable（充值代币无存储上限） | not_applicable（即时充值获得） | 1:1等额替代游戏内现金内购计费 | not_applicable（永久保留跨期不过期） | src-0009@r001/ev-01 | confirmed |
-| res-fire-crystal | 火晶 (Fire Crystals) | sys-content-modes, sys-territory-war | 大熔炉FC1-FC10突破、核心火晶建筑升级 | 每日获取受活动与礼包配额限制 | 每日00:00 UTC刷新 | 苔原贸易站溢出兑换 | not_applicable（永久保留随王国世代推进） | src-0001@r001/ev-01 | confirmed |
-| res-refined-fc | 精炼火晶 (Refined FC) | sys-content-modes, sys-base-build | 大熔炉高阶突破、战争学院炽炎科技研究 | 产出受限于地心探险层数与高难活动 | 每周/活动周期刷新 | 在精炼工坊由基础火晶合成 | not_applicable（永久保留不过期） | src-0001@r001/ev-01 | confirmed |
-| res-wish-mark | 心愿印记 (Wish Marks) | sys-base-build | 在心愿商店兑换9座娱乐设施专属建筑材料 | 每日居民心愿数量上限为固定配额 | 每日00:00 UTC刷新 | 心愿商店兑换专属建材 | not_applicable（火晶时代内永久保留） | src-0001@r001/ev-01 | confirmed |
-| res-arena-coin | 竞技场代币 (Arena Coins) | sys-content-modes | 竞技场商店兑换特定SSR英雄碎片与专武材料 | 每日免费挑战5次，购买次数有每日上限 | 每日00:00 UTC刷新 | 商店定向兑换英雄碎片 | not_applicable（永久保留随赛季跨期） | src-0002@r001/ev-02 | confirmed |
-| res-stamina | 领主体力 (Stamina) | 自然恢复, 任务礼包 | 野外猎杀野兽、巨熊集结、情报任务 | 上限120点（可溢出存储通过药水获得） | 每5分钟恢复1点 | not_applicable（不可逆向转换代币） | 自然恢复部分满120即止，背包药水永久有效 | src-0007@r001/ev-01 | confirmed |
-| res-speedup | 通用加速 (Speedup) | sys-base-build, sys-content-modes | 建筑建造加速、科研加速、练兵与治疗加速 | not_applicable（背包无限堆叠存储） | not_applicable（即时消耗型资产） | 联盟帮助每次减少1%或固定分钟 | not_applicable（永久保留随时可使用） | src-0007@r001/ev-01 | confirmed |
+| res-meat | 生肉 (Meat) | sys-base-build, sys-exploration | 建筑升级、暴风雪幸存者口粮、训练士兵 | 仓库保护容量受仓库等级限制 | 即时持续产出 | not_applicable（基础物资不可直转外币） | not_applicable（永久保留无过期限制） | src-0001@r001/ev-01 | unverified |
+| res-wood | 木材 (Wood) | sys-base-build, sys-exploration | 建筑升级、科技研发、兵种训练 | 仓库保护容量受仓库等级限制 | 即时持续产出 | not_applicable（基础物资不可直转外币） | not_applicable（永久保留无过期限制） | src-0001@r001/ev-01 | unverified |
+| res-coal | 煤炭 (Coal) | sys-base-build, sys-exploration | 大熔炉日常供暖、暴风雪过载升温、高级城建 | 仓库保护容量受仓库等级限制 | 即时持续产出 | not_applicable（基础物资不可直转外币） | not_applicable（永久保留无过期限制） | src-0001@r001/ev-01 | unverified |
+| res-iron | 铁矿 (Iron) | sys-base-build, sys-exploration | 高阶兵种训练、火晶建筑前置、高等科技 | 仓库保护容量受仓库等级限制 | 即时持续产出 | not_applicable（基础物资不可直转外币） | not_applicable（永久保留无过期限制） | src-0001@r001/ev-01 | unverified |
+| res-gems | 宝石 (Gems) | sys-content-modes, sys-territory-war | 幸运轮盘抽卡、VIP商店购买加速、应急资源补足 | not_applicable（无获取与存储上限） | 活动结算与每日任务刷新 | 可1:1抵扣多种日常代币缺口 | not_applicable（永久保留可跨赛季跨期使用） | src-0001@r001/ev-04 | unverified |
+| res-frost-star | 霜星 (Frost Stars) | Web Store直充购买 | 网页商城购买游戏内同等价值礼包与周月卡 | not_applicable（充值代币无存储上限） | not_applicable（即时充值获得） | 1:1等额替代游戏内现金内购计费 | not_applicable（永久保留跨期不过期） | src-0009@r001/ev-01 | unverified |
+| res-fire-crystal | 火晶 (Fire Crystals) | sys-content-modes, sys-territory-war | 大熔炉FC1-FC10突破、核心火晶建筑升级 | 每日获取受活动与礼包配额限制 | 每日00:00 UTC刷新 | 苔原贸易站溢出兑换 | not_applicable（永久保留随王国世代推进） | src-0001@r001/ev-01 | unverified |
+| res-refined-fc | 精炼火晶 (Refined FC) | sys-content-modes, sys-base-build | 大熔炉高阶突破、战争学院炽炎科技研究 | 产出受限于地心探险层数与高难活动 | 每周/活动周期刷新 | 在精炼工坊由基础火晶合成 | not_applicable（永久保留不过期） | src-0001@r001/ev-01 | unverified |
+| res-wish-mark | 心愿印记 (Wish Marks) | sys-base-build | 在心愿商店兑换9座娱乐设施专属建筑材料 | 每日居民心愿数量上限为固定配额 | 每日00:00 UTC刷新 | 心愿商店兑换专属建材 | not_applicable（火晶时代内永久保留） | src-0001@r001/ev-01 | unverified |
+| res-arena-coin | 竞技场代币 (Arena Coins) | sys-content-modes | 竞技场商店兑换特定SSR英雄碎片与专武材料 | 每日免费挑战5次，购买次数有每日上限 | 每日00:00 UTC刷新 | 商店定向兑换英雄碎片 | not_applicable（永久保留随赛季跨期） | src-0002@r001/ev-02 | unverified |
+| res-stamina | 领主体力 (Stamina) | 自然恢复, 任务礼包 | 野外猎杀野兽、巨熊集结、情报任务 | 上限120点（可溢出存储通过药水获得） | 每5分钟恢复1点 | not_applicable（不可逆向转换代币） | 自然恢复部分满120即止，背包药水永久有效 | src-0007@r001/ev-01 | unverified |
+| res-speedup | 通用加速 (Speedup) | sys-base-build, sys-content-modes | 建筑建造加速、科研加速、练兵与治疗加速 | not_applicable（背包无限堆叠存储） | not_applicable（即时消耗型资产） | 联盟帮助每次减少1%或固定分钟 | not_applicable（永久保留随时可使用） | src-0007@r001/ev-01 | unverified |
 
 ## 1. 基础生产资源（内城与采集）
 

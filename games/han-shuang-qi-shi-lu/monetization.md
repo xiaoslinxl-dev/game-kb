@@ -17,16 +17,16 @@ applies_to: all
 
 | product_id | 产品/权益 | 价格与币种 | 地区/平台 | 适用条件 | 来源 | 核验状态 |
 |---|---|---|---|---|---|---|
-| prod-sprint-pack | 新手冲刺礼包 (永久第二建造队列+初始资源) | 4.99 USD | US / iOS & Android | 账号创建前7天内限购1次 | src-0001@r001/ev-01 | confirmed |
-| prod-march-queue | 第二行军队列礼包 (永久增加大地图行军队伍) | 9.99 USD | US / iOS & Android | 大熔炉Lv 7以上常驻限购1次 | src-0001@r001/ev-01 | confirmed |
-| prod-first-recharge | 首充礼包 (SSR步兵英雄娜塔莉亚+专属武器) | 0.99 USD | US / iOS & Android | 首次任意金额现金内购 | src-0001@r001/ev-01 | confirmed |
-| prod-monthly-pass | 极地月卡 (每日领取1,000钻石+体力药水+行军增益) | 9.99 USD | US / iOS & Android | 常驻可续期购买，有效期30天 | src-0001@r001/ev-01 | confirmed |
-| prod-weekly-pass | 至尊周卡 (每日高额通用加速+基础建材) | 4.99 USD | US / iOS & Android | 常驻可按周循环购买，有效期7天 | src-0001@r001/ev-01 | confirmed |
-| prod-survivor-pass | 幸存者通行证 (Battle Pass 赛季高级战令) | 19.99 USD | US / iOS & Android | 赛季战令开放期间（每期约28天） | src-0001@r001/ev-01 | confirmed |
-| prod-lucky-wheel | 幸运轮盘代币礼包 (世代SSR英雄碎片与专武原石) | 4.99 ~ 99.99 USD | US / iOS & Android | 当期世代轮盘活动开放期间 | src-0001@r001/ev-04 | confirmed |
-| prod-fire-crystal | 火晶强化专属礼包 (火晶+精炼火晶+加速) | 4.99 ~ 99.99 USD | US / iOS & Android | 大熔炉达到Lv 30火晶时代开启后 | src-0001@r001/ev-01 | confirmed |
-| prod-chief-gear | 领主装备图纸与抛光液礼包 (高阶装备图纸) | 19.99 ~ 99.99 USD | US / iOS & Android | 王国进入Gen 6以上解锁传奇T6前置 | src-0003@r001/ev-01 | confirmed |
-| prod-12h-barrier | 12小时领地防护罩 (免受敌方侦察与攻击掠夺) | 500 钻石 或 0.99 USD | US / iOS & Android | 全阶段常驻（城市增益与联盟商店） | src-0001@r001/ev-03 | confirmed |
+| prod-sprint-pack | 新手冲刺礼包 (永久第二建造队列+初始资源) | 4.99 USD | US / iOS & Android | 账号创建前7天内限购1次 | src-0001@r001/ev-01 | unverified |
+| prod-march-queue | 第二行军队列礼包 (永久增加大地图行军队伍) | 9.99 USD | US / iOS & Android | 大熔炉Lv 7以上常驻限购1次 | src-0001@r001/ev-01 | unverified |
+| prod-first-recharge | 首充礼包 (SSR步兵英雄娜塔莉亚+专属武器) | 0.99 USD | US / iOS & Android | 首次任意金额现金内购 | src-0001@r001/ev-01 | unverified |
+| prod-monthly-pass | 极地月卡 (每日领取1,000钻石+体力药水+行军增益) | 9.99 USD | US / iOS & Android | 常驻可续期购买，有效期30天 | src-0001@r001/ev-01 | unverified |
+| prod-weekly-pass | 至尊周卡 (每日高额通用加速+基础建材) | 4.99 USD | US / iOS & Android | 常驻可按周循环购买，有效期7天 | src-0001@r001/ev-01 | unverified |
+| prod-survivor-pass | 幸存者通行证 (Battle Pass 赛季高级战令) | 19.99 USD | US / iOS & Android | 赛季战令开放期间（每期约28天） | src-0001@r001/ev-01 | unverified |
+| prod-lucky-wheel | 幸运轮盘代币礼包 (世代SSR英雄碎片与专武原石) | 4.99 ~ 99.99 USD | US / iOS & Android | 当期世代轮盘活动开放期间 | src-0001@r001/ev-04 | unverified |
+| prod-fire-crystal | 火晶强化专属礼包 (火晶+精炼火晶+加速) | 4.99 ~ 99.99 USD | US / iOS & Android | 大熔炉达到Lv 30火晶时代开启后 | src-0001@r001/ev-01 | unverified |
+| prod-chief-gear | 领主装备图纸与抛光液礼包 (高阶装备图纸) | 19.99 ~ 99.99 USD | US / iOS & Android | 王国进入Gen 6以上解锁传奇T6前置 | src-0003@r001/ev-01 | unverified |
+| prod-12h-barrier | 12小时领地防护罩 (免受敌方侦察与攻击掠夺) | 500 钻石 或 0.99 USD | US / iOS & Android | 全阶段常驻（城市增益与联盟商店） | src-0001@r001/ev-03 | unverified |
 
 ## 1. 入门与必买核心礼包（低门槛变现）
 

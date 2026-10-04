@@ -19,7 +19,7 @@ research_schema_version: 1
 | src-0001 | Century Games 官方网站与更新公告 | official_announcement | Century Games | [src-0001.md](sources/src-0001.md) |
 | src-0002 | Apple App Store & Google Play Store US 寒霜启示录版本历史 | store_note | Apple / Google / Century Games | [src-0002.md](sources/src-0002.md) |
 | src-0003 | Century Games 官方调整公告与领主管家前瞻 | official_announcement | Century Games | [src-0003.md](sources/src-0003.md) |
-| src-0004 | WSCO 游戏内更新与维护日志 (2026年9月3日) | official_announcement | Whiteout Survival Community / Century Games | [src-0004.md](sources/src-0004.md) |
+| src-0004 | 《寒霜啟示錄》冰火戰歌聯賽與熾炎科技改版公告 | official_announcement | Century Games / 杰遊有限公司 | [src-0004.md](sources/src-0004.md) |
 | src-0005 | Century Games 官方客服中心：合服与转服规则指南 | official_announcement | Century Games Support | [src-0005.md](sources/src-0005.md) |
 | src-0006 | TapTap与官方社区：国庆黄金周与中秋闭环公告 | official_announcement | Century Games / 官方社区运营 | [src-0006.md](sources/src-0006.md) |
 | src-0007 | 巴哈姆特 30 週年《寒霜啟示錄》線上雙重合作官方公告 | official_announcement | 杰游有限公司 / 巴哈姆特电玩疯 | [src-0007.md](sources/src-0007.md) |

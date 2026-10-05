@@ -8,7 +8,7 @@ rarity: SSR (Generation 1)
 acquire: 每日特惠礼包 / 心愿小筑 / 英雄大厅招募
 pay_relevance: medium
 confidence: high
-timestamp: "2026-10-04T11:00:00Z"
+timestamp: "2026-10-05T11:00:00Z"
 research_schema_version: 1
 ---
 

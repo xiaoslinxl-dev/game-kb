@@ -4,7 +4,7 @@ title: 寒霜启示录 核心循环
 description: 解析《寒霜启示录》从前期模拟经营到中后期4X大地图战争的双核循环机制，涵盖资源生产、大熔炉供暖、小队探险与跨服王战。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-10-04T11:00:00Z"
+timestamp: "2026-10-05T11:00:00Z"
 research_schema_version: 1
 applies_to: all
 ---
@@ -21,13 +21,13 @@ applies_to: all
 | rel-002 | sys-base-build | 产出 | res-coal | 建造并指派幸存者进驻煤矿场 | src-0001@r001/ev-01 | unverified |
 | rel-003 | res-coal | 消耗 | prog-furnace | 开启大熔炉过载供暖及熔炉升温维护 | src-0001@r001/ev-01 | unverified |
 | rel-004 | prog-furnace | 解锁 | prog-fc-age | 大熔炉达到Lv 30且满足王国开服天数 | src-0001@r001/ev-01 | unverified |
-| rel-005 | prog-fc-age | 解锁 | res-wish-mark | 熔炉达到FC1开启心愿驿站完成居民心愿 | src-0001@r001/ev-01 | unverified |
-| rel-006 | res-wish-mark | 转换 | prog-chief-gear | 在心愿商店兑换娱乐设施建材，设施产出装备图纸与材料 | src-0001@r001/ev-01 | unverified |
+| rel-005 | prog-fc-age | 解锁 | res-wish-mark | 熔炉达到FC1开启心愿驿站完成居民心愿 | src-0001@r002/ev-02 | confirmed |
+| rel-006 | res-wish-mark | 转换 | prog-chief-gear | 在心愿商店兑换娱乐设施建材，设施产出装备图纸与材料 | src-0001@r003/ev-03 | confirmed |
 | rel-007 | sys-exploration | 产出 | res-iron | 5人小队推关与挂机探险宝箱 | src-0002@r001/ev-01 | unverified |
 | rel-008 | res-iron | 消耗 | prog-troop-tier | 兵营训练与升级士兵（T1-T10） | src-0001@r001/ev-01 | unverified |
 | rel-009 | sys-content-modes | 产出 | res-arena-coin | 参与每日竞技场挑战防守镜像 | src-0002@r001/ev-02 | unverified |
 | rel-010 | res-arena-coin | 转换 | prog-hero-star | 在竞技场商店兑换特定英雄碎片提升星级 | src-0002@r001/ev-02 | unverified |
-| rel-011 | res-fire-crystal | 强化 | prog-troop-t12 | 熔炉FC8后在炽炎科技所进阶T12煌耀兵种 | src-0002@r001/ev-03 | unverified |
+| rel-011 | res-fire-crystal | 强化 | prog-troop-t12 | 熔炉FC8后在战争学院通过炽炎科技升阶烈日战士 | src-0004@r003/ev-03 | confirmed |
 | rel-012 | prog-troop-t12 | 强化 | sys-territory-war | 提升太阳城王战争夺与SvS跨服集结战斗力 | src-0002@r001/ev-03 | unverified |
 | rel-013 | sys-territory-war | 产出 | res-gems | 赢得堡垒要塞争夺战与最强王国跨服战排名奖励 | src-0005@r001/ev-02 | unverified |
 | rel-014 | res-gems | 消耗 | prog-hero-star | 幸运大转盘消耗宝石抽取世代核心英雄碎片 | src-0001@r001/ev-04 | unverified |

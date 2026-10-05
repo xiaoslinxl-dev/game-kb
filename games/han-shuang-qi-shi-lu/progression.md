@@ -4,7 +4,7 @@ title: 寒霜启示录 数值与长线养成系统
 description: 寒霜启示录的大熔炉等级、火晶时代（FC1-FC10及火晶纪元）、领主装备/宝符、18代英雄与晨曦学堂专家长线养成结构。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-10-04T11:00:00Z"
+timestamp: "2026-10-05T11:00:00Z"
 research_schema_version: 1
 applies_to: all
 ---
@@ -21,11 +21,11 @@ applies_to: all
 | prog-fc-age | 火晶时代进阶 (FC1-FC10) | 大熔炉达到Lv 30且王国开放火晶纪元 | res-fire-crystal, res-refined-fc, res-iron | 解锁心愿驿站、9大娱乐设施、部队三维百分比增幅 | FC1(心愿驿站), FC5(火晶科技拓展), FC8(T12前置) | not_applicable（不可降级或重置） | sys-base-build | src-0001@r002/ev-02 | confirmed |
 | prog-troop-tier | 兵种阶级进阶 (T1-T10) | 对应兵营等级与科技前置 | res-meat, res-wood, res-iron | 解锁更高单兵攻击、防御与生命值属性 | T8(常规中坚), T9(高战门槛), T10(熔炉30满阶常规兵) | not_applicable（低阶兵种可补差价无损晋级） | sys-session-combat | src-0001@r001/ev-01 | unverified |
 | prog-troop-t12 | T12 煌耀兵种 (Exalted Troops) | 熔炉FC8、解锁日耀T11兵种与炽炎科技 | res-refined-fc, 钢铁, 火晶碎屑 | 解锁煌耀特性（坚盾力场、战矛贯通、神射暴击） | 炽炎科技满级解锁各兵种专属战场被动 | not_applicable（永久强化研发不可退回） | sys-session-combat | src-0004@r003/ev-03 | confirmed |
-| prog-hero-star | 英雄星级与技能 (Gen 1-18) | 英雄招募/轮盘获取本体碎片 | 对应英雄专属碎片或通用传奇碎片 | 提升技能系数、带兵容量与大地图集结加成 | 4星(解锁全部4个技能), 5星满阶(解锁专属武器极效) | not_applicable（英雄星级不可重置；老碎片可置换） | sys-session-combat | src-0001@r001/ev-04 | unverified |
+| prog-hero-star | 英雄星级与技能 (Gen 1-18) | 英雄招募/轮盘获取本体碎片 | 对应英雄专属碎片或通用传奇碎片 | 提升技能系数、带兵容量与大地图集结加成 | 4星(解锁全部4个技能), 5星满阶(解锁专属武器极效) | not_applicable（英雄星级不可重置；老碎片可置换） | sys-session-combat | src-0001@r005/ev-05 | confirmed |
 | prog-hero-gear | 英雄装备与精通等级 | 英雄穿戴专属或通用橙色装备 | 强化经验零件、精通石、精炼原石 | 提供英雄个人属性与对应带兵属性巨额百分比 | 精通4级起细分子阶段进度条，平滑升级收益 | 可消耗少量钻石全额拆解返还经验零件 | sys-session-combat | src-0003@r001/ev-02 | unverified |
 | prog-chief-gear | 领主装备 (至传奇T6三星) | 王国世代开放进度（Gen 6+开放T6三星） | 领主装备图纸、合金、抛光液 | 全军攻击、防御与生命全局百分比属性 | 传奇T6三星为顶级车头绝对分水岭 | not_applicable（领主装备不可降解，永久累积） | sys-territory-war | src-0003@r001/ev-01 | unverified |
 | prog-chief-charm | 领主宝符 (至Lv 18) | 王国开放Gen 8进度，细分为9个子阶段 | 宝符手册、精密零件、指南针 | 强化部队暴击率、穿透抗性与致命一击率 | 17-18级宝符细分9阶，每小阶提供阶梯战力增益 | not_applicable（宝符永久绑定领主账号） | sys-territory-war | src-0003@r001/ev-02 | unverified |
-| prog-dawn-expert | 晨曦学堂专家 (10位专家技能) | 晨曦学堂建筑解锁与对应世代开启 | 精通书卷、金币、专家专属信物 | 赋予城市建造、野外打怪、集结减损等全局常驻特权 | 加雷斯(反伤与减损)、凯西(燃霜矿区加成)、贾斯图斯(迷宫收益) | not_applicable（专家技能点不可洗点返还） | sys-base-build | src-0003@r001/ev-03; src-0010@r001/ev-01 | unverified |
+| prog-dawn-expert | 晨曦学堂专家 (10位专家技能) | 晨曦学堂建筑解锁与对应世代开启 | 精通书卷、金币、专家专属信物 | 赋予城市建造、野外打怪、集结减损等全局常驻特权 | 加雷斯(反伤与减损)、凯西(燃霜矿区加成)、贾斯图斯(迷宫收益) | not_applicable（专家技能点不可洗点返还） | sys-base-build | src-0004@r005/ev-05 | confirmed |
 
 ## 1. 城建与大熔炉 (Furnace Progression)
 

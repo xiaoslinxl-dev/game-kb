@@ -4,7 +4,7 @@ title: 寒霜启示录 参考资料与来源索引
 description: 寒霜启示录知识库引用的公开官方公告、应用商店版本记录、深度研报与社区权威数据来源总索引。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-10-04T11:00:00Z"
+timestamp: "2026-10-05T11:00:00Z"
 research_schema_version: 1
 ---
 

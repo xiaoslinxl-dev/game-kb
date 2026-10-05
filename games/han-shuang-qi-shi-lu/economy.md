@@ -4,7 +4,7 @@ title: 寒霜启示录 经济系统
 description: 基础生产资源（肉/木/煤/铁）、高级货币（宝石/霜星）与特殊代币的双轨经济模型分析。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-10-04T11:00:00Z"
+timestamp: "2026-10-05T11:00:00Z"
 research_schema_version: 1
 applies_to: all
 ---
@@ -25,7 +25,7 @@ applies_to: all
 | res-frost-star | 霜星 (Frost Stars) | Web Store直充购买 | 网页商城购买游戏内同等价值礼包与周月卡 | not_applicable（充值代币无存储上限） | not_applicable（即时充值获得） | 1:1等额替代游戏内现金内购计费 | not_applicable（永久保留跨期不过期） | src-0009@r001/ev-01 | unverified |
 | res-fire-crystal | 火晶 (Fire Crystals) | sys-content-modes, sys-territory-war | 大熔炉FC1-FC10突破、核心火晶建筑升级 | 每日获取受活动与礼包配额限制 | 每日00:00 UTC刷新 | 苔原贸易站溢出兑换 | not_applicable（永久保留随王国世代推进） | src-0001@r001/ev-01 | unverified |
 | res-refined-fc | 精炼火晶 (Refined FC) | sys-content-modes, sys-base-build | 大熔炉高阶突破、战争学院炽炎科技研究 | 产出受限于地心探险层数与高难活动 | 每周/活动周期刷新 | 在精炼工坊由基础火晶合成 | not_applicable（永久保留不过期） | src-0001@r001/ev-01 | unverified |
-| res-wish-mark | 心愿印记 (Wish Marks) | sys-base-build | 在心愿商店兑换9座娱乐设施专属建筑材料 | 每日居民心愿数量上限为固定配额 | 每日00:00 UTC刷新 | 心愿商店兑换专属建材 | not_applicable（火晶时代内永久保留） | src-0001@r001/ev-01 | unverified |
+| res-wish-mark | 心愿印记 (Wish Marks) | sys-base-build | 在心愿商店兑换9座娱乐设施专属建筑材料 | 每日居民心愿数量上限为固定配额 | 每日00:00 UTC刷新 | 心愿商店兑换专属建材 | not_applicable（火晶时代内永久保留） | src-0001@r002/ev-02 | confirmed |
 | res-arena-coin | 竞技场代币 (Arena Coins) | sys-content-modes | 竞技场商店兑换特定SSR英雄碎片与专武材料 | 每日免费挑战5次，购买次数有每日上限 | 每日00:00 UTC刷新 | 商店定向兑换英雄碎片 | not_applicable（永久保留随赛季跨期） | src-0002@r001/ev-02 | unverified |
 | res-stamina | 领主体力 (Stamina) | 自然恢复, 任务礼包 | 野外猎杀野兽、巨熊集结、情报任务 | 上限120点（可溢出存储通过药水获得） | 每5分钟恢复1点 | not_applicable（不可逆向转换代币） | 自然恢复部分满120即止，背包药水永久有效 | src-0007@r001/ev-01 | unverified |
 | res-speedup | 通用加速 (Speedup) | sys-base-build, sys-content-modes | 建筑建造加速、科研加速、练兵与治疗加速 | not_applicable（背包无限堆叠存储） | not_applicable（即时消耗型资产） | 联盟帮助每次减少1%或固定分钟 | not_applicable（永久保留随时可使用） | src-0007@r001/ev-01 | unverified |
@@ -55,6 +55,8 @@ applies_to: all
 ## 3. 专属代币与多元循环体系
 
 - **心愿印记 (Wish Marks)**：
-  - 熔炉 FC1 后通过[心愿驿站](systems/base-build.md)完成幸存者诉求获得，用于兑换 9 大娱乐建筑专属建材。
+  - 熔炉 FC1 后通过[心愿驿站](systems/base-build.md)完成幸存者诉求获得，用于兑换 9 大娱乐建筑专属建材（来源：[src-0001](sources/src-0001.md)，证据：r002/ev-02，状态：confirmed）。
+- **雪原贸易站 (Tundra Trading Station)**：
+  - 王国进程达到指定天数后解锁，领主可一键售出溢出的英雄碎片与专属装备零件，实现溢出资产向实用养成资源的平滑回收置换（来源：[src-0004](sources/src-0004.md)，证据：r004/ev-04，状态：confirmed）。
 - **复苏之印 (Revitalization Seals)**：
   - 跨服最强王国（SvS）阶段战损阵亡士兵的复活代币，保障大战争损可控回收。

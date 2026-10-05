@@ -4,7 +4,7 @@ title: "寒霜启示录 v1.33.9 (火晶时代资料片) 版本清单"
 description: "火晶时代资料片正式实装，上线心愿驿站、9大娱乐设施、无尽试炼蛮族首领乌尔夫加与日常整合分页。"
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-10-04T11:00:00Z"
+timestamp: "2026-10-05T11:00:00Z"
 research_schema_version: 1
 version_id: ver-1-33-9-us
 version: v1.33.9

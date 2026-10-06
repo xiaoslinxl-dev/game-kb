@@ -4,7 +4,7 @@ title: 神庙逃亡2 资料来源与参考文献
 description: 《神庙逃亡2》知识库 Bundle 涉及的官方公告、媒体报道、玩家攻略与行业报告汇编。
 game_id: shen-miao-tao-pao-2
 confidence: high
-timestamp: "2026-10-05T11:00:00Z"
+timestamp: "2026-10-06T11:00:00Z"
 ---
 
 # 资料来源与参考文献
@@ -37,6 +37,8 @@ timestamp: "2026-10-05T11:00:00Z"
    - 链接：[App Store - Temple Run 2 (English Global)](https://apps.apple.com/na/app/temple-run-2/id572395608)  
    - 链接：[App Store Event - Trial of Hercules](https://apps.apple.com/us/app/temple-run-2/id572395608?eventid=6813154833)  
    - 链接：[App Store Event - The Golden Path](https://apps.apple.com/us/app/temple-run-2/id572395608?eventid=6813145988)  
+   - 链接：[Temple Run 2 Facebook 官方预告片 - Mount Olympus & Hercules](https://www.facebook.com/TempleRun/videos/-youve-waited-long-enoughsomething-powerful-has-awakenedthe-rift-is-open-reveali/4712379995656903/)  
+   - 链接：[Temple Run 2 - Mount Olympus | Hercules Hero Pack Bundle - YouTube](https://www.youtube.com/watch?v=WwKt2I3bRsk)  
    - 链接：[Temple Run 2 Mt. Olympus 2026 Full Gameplay - YouTube](https://m.youtube.com/shorts/u2VjFGBEtM8)  
    - 链接：[Mount Olympus - Temple Run 2 - YouTube](https://m.youtube.com/shorts/1PxaBSmbbhE)  
    - 链接：[iGameMix - TEMPLE RUN 2 MOUNT OLYMPUS MAP Gameplay - YouTube](https://www.youtube.com/watch?v=HVvAFFcUBYs)  
@@ -69,7 +71,7 @@ timestamp: "2026-10-05T11:00:00Z"
 ## 3. 玩家社区与攻略资料
 
 1. **233乐园 - 《神庙逃亡2跑酷游戏免费安装与高分实战技巧》与《2026热门小游戏合集兑换码汇总》**  
-   - 跟踪《神庙逃亡2》（畅游玩具王国）关卡随机机制、靠墙减速与半空转向高分技巧、最新可用福利礼包码与 CDKEY 兑换全攻略（2026 年 10 月 5 日最新核验可用）。  
+   - 跟踪《神庙逃亡2》（畅游玩具王国）关卡随机机制、靠墙减速与半空转向高分技巧、最新可用福利礼包码与 CDKEY 兑换全攻略（2026 年 10 月 6 日最新核验可用）。  
    - 链接：[233乐园 神庙逃亡2专题](https://www.233leyuan.com/s/18636691598)  
    - 链接：[233乐园 高分实战技巧](https://www.233leyuan.com/post-detail/2019616678920482602)  
    - 链接：[233乐园 2026热门小游戏合集兑换码汇总](https://www.233leyuan.com/a/13779076921)

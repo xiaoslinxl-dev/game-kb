@@ -8,7 +8,7 @@ rarity: SSR (Generation 17)
 acquire: 幸运大转盘 (Lucky Wheel) / 兵工厂商店 (Foundry Shop)
 pay_relevance: high
 confidence: high
-timestamp: "2026-10-05T11:00:00Z"
+timestamp: "2026-10-06T11:00:00Z"
 research_schema_version: 1
 ---
 

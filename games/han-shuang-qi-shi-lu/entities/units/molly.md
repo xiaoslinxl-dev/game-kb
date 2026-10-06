@@ -8,7 +8,7 @@ rarity: SSR (Generation 1)
 acquire: 七日签到免费赠送 / 幸运大转盘 / 英雄大厅招募
 pay_relevance: low
 confidence: high
-timestamp: "2026-10-05T11:00:00Z"
+timestamp: "2026-10-06T11:00:00Z"
 research_schema_version: 1
 ---
 

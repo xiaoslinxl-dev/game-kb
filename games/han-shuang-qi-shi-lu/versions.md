@@ -4,7 +4,7 @@ title: 寒霜启示录 版本总索引
 description: 寒霜启示录（Whiteout Survival）美国区与全球主流版本历史、更新清单与规则变更总索引。
 game_id: han-shuang-qi-shi-lu
 confidence: high
-timestamp: "2026-10-05T11:00:00Z"
+timestamp: "2026-10-06T11:00:00Z"
 research_schema_version: 1
 ---
 

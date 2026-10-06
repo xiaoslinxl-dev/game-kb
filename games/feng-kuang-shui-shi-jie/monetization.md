@@ -14,6 +14,14 @@ research_schema_version: 1
 
 | product_id | 产品/权益 | 价格与币种 | 地区/平台 | 适用条件 | 来源 | 核验状态 |
 |---|---|---|---|---|---|---|
+| prd-auto-produce | 自动生产永久特权 | ¥12.00 CNY | 全平台 | 开荒期新手必备，彻底释放双手免受红点打断 | src-0001@r001/ev-01 | unverified |
+| prd-first-recharge | 6元首充一龙超值礼包 | ¥6.00 CNY | 全平台 | 首充即送超凡物理前排一龙、钻石与全套开荒神装 | src-0001@r001/ev-01 | unverified |
+| prd-monthly-pass-small | 进阶小月卡（每日钻石+体能） | ¥25.00 CNY | 全平台 | 购买立得300钻，连续30天每日领100钻与体能药水 | src-0001@r001/ev-01 | unverified |
+| prd-monthly-pass-large | 至尊大月卡（黄海兽碎片+挂机收益） | ¥68.00 CNY | 全平台 | 购买立得680钻，挂机金币与经验收益永久+15%，送海兽碎片 | src-0001@r001/ev-01 | unverified |
+| prd-battlepass-card | 国庆水世界牌专属战令 | ¥98.00 CNY | 全平台 | 7天限时活动期内有效，解锁高级牌套与戴安娜直通心动值 | src-0002@r001/ev-01 | unverified |
+| prd-growth-fund | 指挥官等级成长基金 | ¥98.00 CNY | 全平台 | 达成对应等级阶梯累计返还十倍钻石收益 | src-0001@r001/ev-01 | unverified |
+| prd-membership-weekly | 水姆商店每周尊享特权卡 | ¥30.00 CNY | 全平台 | 周卡订阅，水姆商店全场兑换享受8折优惠 | src-0001@r001/ev-01 | unverified |
+| prd-flip-card-daily | 翻牌卡池每日特惠抽奖包 | ¥6.00~¥648.00 CNY | 全平台 | 翻牌卡池开放期间，每日限购10张定投抽卡券 | src-0003@r001/ev-02 | unverified |
 
 ---
 

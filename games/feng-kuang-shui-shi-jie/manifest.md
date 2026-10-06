@@ -8,10 +8,10 @@ language: zh-CN
 timestamp: "2026-10-06T13:15:09Z"
 confidence: high
 research_schema_version: 1
-modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, pending-claims]
+modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
 modules_systems: [base-build, content-modes, exploration, session-combat, territory-war]
 modules_entities: [units]
-modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, pending-claims, base-build, content-modes, exploration, session-combat, territory-war, units]
+modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, base-build, content-modes, exploration, session-combat, territory-war, units]
 unit_policy: representative
 ---
 

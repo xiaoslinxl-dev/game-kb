@@ -14,19 +14,6 @@ research_schema_version: 1
 
 | relation_id | 起点 ID | 关系类型 | 终点 ID | 条件 | 来源 | 核验状态 |
 |---|---|---|---|---|---|---|
-| rel-001 | sys-exploration | 产出 | res-raw-wood | 拾荒船打捞或海面漂浮收集 | src-0001@r001/ev-01 | unverified |
-| rel-002 | res-raw-wood | 消耗 | prog-base-city | 木筏网格拼贴与工厂建造升级 | src-0001@r001/ev-01 | unverified |
-| rel-003 | prog-base-city | 解锁 | sys-content-modes | 随主城与木筏提升解锁各模式关卡 | src-0001@r001/ev-01 | unverified |
-| rel-004 | sys-content-modes | 产出 | res-coin | 关卡挂机推图与副本掉落 | src-0001@r001/ev-01 | unverified |
-| rel-005 | res-coin | 消耗 | prog-unit-level | 英雄升级消耗金币与经验 | src-0001@r001/ev-01 | unverified |
-| rel-006 | prog-unit-level | 强化 | sys-session-combat | 提升小队基础战力推图推关 | src-0001@r001/ev-01 | unverified |
-| rel-007 | sys-session-combat | 产出 | res-diamond | 通关阶段关卡与天梯段位结算 | src-0001@r001/ev-01 | unverified |
-| rel-008 | res-diamond | 消耗 | prog-unit-star | 翻牌卡池定投与抽卡获取本体碎片 | src-0003@r001/ev-02 | unverified |
-| rel-009 | prog-base-city | 解锁 | prog-armory-tier | 指挥中心达到51级解锁兵工厂 | src-0001@r001/ev-01 | unverified |
-| rel-010 | prog-armory-tier | 产出 | res-gasoline | 兵工厂加工产出城战维修燃油 | src-0003@r001/ev-01 | unverified |
-| rel-011 | res-gasoline | 消耗 | sys-territory-war | 大地图长途奔袭与水之都攻城维修 | src-0003@r001/ev-01 | unverified |
-| rel-012 | sys-territory-war | 产出 | res-silicon | 占领沙盘高阶矿点与整点货轮打捞 | src-0003@r001/ev-01 | unverified |
-| rel-013 | res-fortune-knot | 转换 | res-heartbeat-point | 国庆佳节1福运结按1:10比例转化 | src-0002@r001/ev-01 | unverified |
 
 ---
 

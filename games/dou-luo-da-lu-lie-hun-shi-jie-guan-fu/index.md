@@ -1,8 +1,8 @@
 # 斗罗大陆：猎魂世界 知识库索引
 
-《斗罗大陆：猎魂世界》是斗罗IP首款3D写实大世界MMORPG，公测震撼开启，支持多端互联与猎魂无界。[@证据](sources/evidence.md#ev-72b89fd8e0f1b2ec33671a333ec10640)
+《斗罗大陆：猎魂世界》是一款3D写实大世界MMORPG，支持多端互联。[@证据](sources/evidence.md#ev-72b89fd8e0f1b2ec33671a333ec10640)
 
-## 专题文档目录
+## 文档目录
 
 - [游戏概览](overview.md)
 - [核心循环](core-loop.md)

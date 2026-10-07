@@ -1,35 +1,15 @@
 # game-kb
 
-Per-game competitive LLM wiki (OKF-style). One game = one directory. Git is the source of truth for history (no `log.md`).
+游戏竞品分析 LLM-Wiki 知识库。一游戏一目录，Git 提交历史为变更权威源。
 
-## Layout
+## 目录结构
 
-```text
-games/
-  _template/           # scaffold for a new game
-  <game_id>/           # one OKF bundle root per game
-    index.md
-    overview.md
-    core-loop.md
-    combat.md
-    progression.md
-    monetization.md
-    social-liveops.md
-    market-position.md
-    risks-unknowns.md
-    sources.md
-AGENTS.md              # how Antigravity should read a game wiki
-```
 
-## Consume (Antigravity)
 
-Mount this repo into the sandbox, pass `game_id`, and follow `AGENTS.md`.
+## 知识准入与受控写入
 
-```text
-repository: https://github.com/xiaoslinxl-dev/game-kb.git
-target:     /workspace/game-kb
-```
+知识库严禁直接手动修改正式文档或伪造核验状态。正式知识必须通过沙箱受控工具核验发布：
 
-## Generate
+{"decision": "error", "written": false, "reason_codes": ["INPUT_ERROR: 请求文件不可读或不是合法JSON"], "next_action": "核对输入或执行环境后重新提交"}
 
-Use the GameplayGraph `okf-poc` tooling (`run_generate.py`) with okf-skill to write `games/<game_id>/`, then commit + push here.
+每次提交通过 Firecrawl 独立抓取和 JEV 双问判断（引用忠实性 + 正文完整支持）后，自动写入正文、证据台账及审计记录并发布至 GitHub main 分支。

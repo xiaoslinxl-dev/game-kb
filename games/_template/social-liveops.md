@@ -1,15 +1,4 @@
----
-type: SocialLiveOps
-title: "{{game_title}} · Social & live ops"
-description: "TODO for {{game_id}}"
-tags: []
-timestamp: "1970-01-01T00:00:00Z"
-game_id: "{{game_id}}"
-project_id: ""
-confidence: low
-research_schema_version: 1
----
+# 社交与长线运营
 
-# Social & live ops
-
-TODO — replace during generate.
+<!-- 主题提示：研究公会/联盟体系、组队互助、常态化社交活动与长线运营机制。 -->
+<!-- 正文自由 Markdown 组织，每项游戏事实末尾标注真实核验的证据链接 [证据](sources/evidence.md#ev-<MD5>)。 -->

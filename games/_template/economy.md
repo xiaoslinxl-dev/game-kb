@@ -1,20 +1,4 @@
----
-type: Economy
-title: "{{game_title}} · Economy"
-description: "TODO for {{game_id}}"
-tags: []
-timestamp: "1970-01-01T00:00:00Z"
-game_id: "{{game_id}}"
-project_id: ""
-confidence: low
-research_schema_version: 1
-applies_to: all
----
+# 经济系统
 
-# Economy
-
-## 资源
-
-| resource_id | 名称 | 产出系统 | 消耗用途 | 获取/存储限制 | 刷新周期 | 转换 | 有效期与跨期保留 | 来源 | 核验状态 |
-|---|---|---|---|---|---|---|---|---|---|
-| res-xxx | TODO | sys-xxx | TODO | unknown（原因） | TODO | not_applicable（原因） | not_applicable（原因） | src-0001@r001/ev-01 | unverified |
+<!-- 主题提示：研究基础生产资源、代币、货币流转、获取途径、消耗用途与兑换规则。 -->
+<!-- 正文自由 Markdown 组织，每项游戏事实末尾标注真实核验的证据链接 [证据](sources/evidence.md#ev-<MD5>)。 -->

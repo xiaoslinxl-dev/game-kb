@@ -1,21 +1,3 @@
----
-type: Risks
-title: "{{game_title}} · Risks & unknowns"
-description: "TODO for {{game_id}}"
-tags: []
-timestamp: "1970-01-01T00:00:00Z"
-game_id: "{{game_id}}"
-project_id: ""
-confidence: low
-research_schema_version: 1
----
+# 风险与待验证问题
 
-# Risks & unknowns
-
-TODO — replace during generate.
-
-## 缺口
-
-| gap_id | 关联对象 | 待验证问题 | 已查资料 | 缺失原因 | 下一步 |
-|---|---|---|---|---|---|
-|gap-todo-001|TODO|TODO|TODO|TODO|TODO|
+<!-- 主题提示：历史遗留过程记录。新规不强制新增过程文档，未核验或存在冲突的内容在研究日志中记录，不得写入正式正文。 -->

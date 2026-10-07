@@ -1,16 +1,13 @@
----
-okf_version: "0.1"
-research_schema_version: 1
----
+# 游戏知识库索引
 
-# {{game_title}}
-
-* [Overview](overview.md) - positioning, publisher, platforms
-* [Core loop](core-loop.md) - daily/weekly session loop
-* [Combat](systems/session-combat.md) - combat or match rules
-* [Progression](progression.md) - growth, energy, power curve
-* [Monetization](monetization.md) - IAP / gacha / pass
-* [Social & live ops](social-liveops.md) - social and version ops
-* [Market position](market-position.md) - differentiation and competitor narrative
-* [Risks & unknowns](risks-unknowns.md) - low-confidence and open questions
-* [Sources](sources.md) - citations and source quality
+<!-- 主题提示：本游戏知识库各主题文档导航索引。 -->
+- [游戏概述](overview.md)
+- [核心循环](core-loop.md)
+- [经济系统](economy.md)
+- [数值与长线养成系统](progression.md)
+- [商业化与变现设计](monetization.md)
+- [社交与长线运营](social-liveops.md)
+- [市场定位与竞品分析](market-position.md)
+- [版本总览](versions.md)
+- [限时活动](live-events.md)
+- [证据台账](sources/evidence.md)

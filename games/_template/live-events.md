@@ -1,29 +1,4 @@
----
-type: LiveEvents
-title: "{{game_title}} · Live events"
-description: "TODO for {{game_id}}"
-tags: []
-timestamp: "1970-01-01T00:00:00Z"
-game_id: "{{game_id}}"
-project_id: ""
-confidence: low
-research_schema_version: 1
----
+# 限时活动
 
-# Live events
-
-## 活动
-
-| event_id | 名称 | 类型 | 时间窗 | 适用范围 | 参与条件 | 资源与奖励 | 兑换/回收 | 来源 | 核验状态 |
-|---|---|---|---|---|---|---|---|---|---|
-
-无活动资料时：保留空表 + `## not_found 记录`（检查日期、已查信源、检索范围、未取得原因、下一步），并在 risks-unknowns.md 建缺口，不编造行。
-
-## not_found 记录
-
-（生成时删除本示例块或替换为真实记录）
-
-- 检查日期：TODO
-- 已查信源：TODO
-- 检索范围：TODO
-- 未取得原因：TODO
+<!-- 主题提示：研究限时活动开启条件、周期、玩法规则、奖励与代币回收机制。 -->
+<!-- 正文自由 Markdown 组织，每项游戏事实末尾标注真实核验的证据链接 [证据](sources/evidence.md#ev-<MD5>)。 -->

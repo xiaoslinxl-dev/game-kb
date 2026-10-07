@@ -1,59 +1,14 @@
----
-type: Progression
-title: "Genshin Impact Progression Systems"
-description: "Detailed overview of account, character, weapon, talent, and artifact progression mechanics and RNG systems in Genshin Impact."
-tags:
-  - progression
-  - artifacts
-  - adventure-rank
-  - ascension
-timestamp: "2026-07-22T09:39:06Z"
-game_id: "genshin-impact"
-confidence: high
----
+# 《原神》数值与长线养成系统：7.1新角色特性与五星角色获取规则
 
-# Genshin Impact — Progression
+在《原神》7.1版本「往冥府的安魂歌」中，新五星角色机制与五星角色邀请养成规则如下：
 
-## Account Progression: Adventure Rank & World Level
+## 1. 7.1版本新五星角色定位与元素特性
 
-Account advancement is governed by **Adventure Rank (AR)**, gained by collecting Adventure EXP from quests, chest opening, and spending Original Resin. 
+- **薇斯纳（风）**：「雪宴之锋 · 薇斯纳(风)」，「冬契军」司令官，使用单手剑的五星风元素角色，具备使队伍触发星扩散反应的能力 [证据](sources/evidence.md#ev-acb53a69cb678dfff7a102d6595477aa)。
+- **沃雅妮莎（水）**：「幽歌萦渊 · 沃雅妮莎(水)」，科洛列夫茨基剧团首席女高音，使用法器的五星水元素角色 [证据](sources/evidence.md#ev-acb53a69cb678dfff7a102d6595477aa)。
 
-- **World Level (WL):** Higher AR tiers automatically or manually trigger World Level Ascensions, increasing enemy health/damage while boosting drop rates and domain difficulty tiers.
-- **Max Level Cap:** Character level caps at 90, with milestone Ascensions at levels 20, 40, 50, 60, 70, and 80.
+## 2. 五星角色邀请与抽卡资源福利
 
-## Character & Weapon Vectors
-
-Progression for individual units spans four intertwined systems:
-
-```
-                      +-----------------------------+
-                      |    CHARACTER LEVEL (1-90)   |
-                      +--------------+--------------+
-                                     |
-    +--------------------------------+--------------------------------+
-    |                                |                                |
-    v                                v                                v
-+---+--------------------+  +--------+-----------+  +-----------------+---+
-| WEAPON LEVEL & REFINE  |  | TALENT ASCENSION   |  | ARTIFACT SYSTEM    |
-| Base ATK, Substat, R1-5|  | Normal, Skill,     |  | 5 Slots, Main/   |
-| (Billets / Gacha)      |  | Burst (Levels 1-10)|  | Substat RNG Sinks|
-+------------------------+  +--------------------+  +--------------------+
-```
-
-1. **Character Level & Ascension:** Requires Character EXP books (Hero's Wit), regional boss drops, elemental gems, local specialties, and mob drops.
-2. **Weapons:** Weapon level caps at 90 and uses Enhancement Ore and Domain materials. Duplicate weapons refine skills up to Refinement 5 (R5).
-3. **Talent Levels:** Talent ascension directly scales skill percentage multipliers. Requires domain books, mob drops, and weekly boss drops (plus Crown of Insight for Level 10).
-4. **Constellations (C0–C6):** Unlocked through pulling duplicate copies in the gacha system, unlocking game-changing passive modifiers or skill upgrades.
-
-## Artifact System (The Primary Endgame Sink)
-
-Artifacts represent the primary repeatable endgame progression sink. Characters equip 5 artifacts (Flower, Plume, Sands, Goblet, Circlet).
-
-- **Set Bonuses:** Equipping 2 or 4 items from the same set grants powerful passive triggers (e.g., *Emblem of Severed Fate*, *Deepwood Memories*).
-- **RNG Layers:**
-  1. **Slot Drop RNG:** 1 of 5 pieces.
-  2. **Main Stat RNG:** Sands (ATK%/HP%/DEF%/EM/ER%), Goblet (Elemental DMG%/ATK%/HP%/DEF%/EM), Circlet (CRIT Rate/CRIT DMG/Healing Bonus/EM/ATK%/HP%).
-  3. **Initial Substat RNG:** 3 or 4 initial sub-lines.
-  4. **Substat Upgrade RNG:** Every 4 levels (up to +20), a random substat upgrades.
-
-For how progression powers team combat output, see [Combat](/combat.md). For how gacha yields character duplicate Constellations, see [Monetization](/monetization.md).
+- **限定五星角色邀请**：「桌上剧团 · 冒险的前夜会」活动期间，完成相应任务，可邀请当期活动内的一名限定五星角色加入队伍 [证据](sources/evidence.md#ev-acb53a69cb678dfff7a102d6595477aa)。
+- **常驻五星角色邀请**：「巡历雪境，凝铸锋锐」活动开启，登录即可邀请任意一位常驻五星角色加入队伍 [证据](sources/evidence.md#ev-acb53a69cb678dfff7a102d6595477aa)。
+- **签到与邮件资源**：「虹旅藏金 · 耀星烁熠」活动期间，累计签到七天即可获得纠缠之缘*10、启圣之尘等奖励，「佳礼来信」将分为四封邮件累计发放1600原石及更多好礼 [证据](sources/evidence.md#ev-acb53a69cb678dfff7a102d6595477aa)。

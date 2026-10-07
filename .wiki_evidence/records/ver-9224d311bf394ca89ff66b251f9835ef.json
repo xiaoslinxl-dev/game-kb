@@ -1,0 +1,61 @@
+{
+  "verification_id": "ver-9224d311bf394ca89ff66b251f9835ef",
+  "created_at": "2026-10-07T17:21:19.578671+00:00",
+  "full_request": {
+    "game_id": "han-shuang-qi-shi-lu",
+    "file": "social-liveops.md",
+    "markdown": "# 寒霜启示录 社交与运营活动\n\n在《寒霜启示录》的社交互动体系中，游戏支持与全球玩家组队互助，加速成长并共同闯荡雪原。[@证据](sources/evidence.md#ev-2dd67ab1c80fdba9a30ecbe4b8e7a1b7)\n\n在常态趣味活动层面，游戏提供「冰钓」活动收集珍稀鱼类，以及「除雪」活动发掘隐藏奖励。[@证据](sources/evidence.md#ev-76a9160e7377ef397724b91de3af0c9b)\n",
+    "expected_sha256": "1567f1af445d2aed7ec34bac397928d3ab2126ae63f42aeecf35c7b0a4563b43",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+        "reference": "◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~"
+      },
+      {
+        "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+        "reference": "◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！"
+      }
+    ],
+    "scope": {
+      "game_id": "han-shuang-qi-shi-lu",
+      "title": "寒霜启示录"
+    }
+  },
+  "markdown_sha256": "009f29e5570cab263d3e660e1b0f1784b1d82d199659db36548e477cce7e530e",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.96,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.78,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 寒霜启示录\n\n4亿人都在玩的原创冰雪手游\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [47万个评分\\\\\n\\\\\n4.6](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [排行榜\\\\\n\\\\\n#1\\\\\n\\\\\n模拟](https://apps.apple.com/us/iphone/charts/7015?l=zh-Hans-CN&chart=top-free)\n\n- [开发者\\\\\n\\\\\nCentury Games Pte. Ltd.](https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?l=zh-Hans-CN&platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 15 种语言](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [大小\\\\\n\\\\\n1\\\\\n\\\\\nGB](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n全球原创冰雪手游！4亿人都在玩！\n\n暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！\n\n【游戏特色】\n◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！\n\n◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~\n\n◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！\n\n◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！\n\n◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~\n\n准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！\n\n【关注我们】\n游戏官网: https://whiteoutsurvival.centurygames.com/zh\\_cn\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS\\_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival\n\n[**评分及评论**](https://apps.apple.com/us/app/6443575749?l=zh-Hans-CN&see-all=reviews&platform=iphone)\n\n- 4.6\n\n满分 5 分\n\n47万 个评分\n\n- I rated this five stars, because the gameplay is really good! I really love the mechanics and art style of this game. But it kind of rubs me the wrong way that the only two high-level girl heroes you can have are both children, and it's way more difficult to level up the female characters? I've been trying to level up the girlies so I can have an all-girls team because I think that would be so cute, but it's proving difficult even using all my general shards to upgrade Ling Xue, Jessie, and Gina, because the game automatically gives you like way more shards for Charlie and Smith. The only girl who's in my top five, even after using all my upgrades on the girl characters, is Cloris, and it only feels like she's there because she's Bahiti's friend. Every archer girl is the same too, they're all \"cold\" and \"the best most fearless hero\". And it's really weird that there's not one character that's even a little tan. They're all stark white, except for two characters who are east asian with super light skin. It doesn't hurt the gameplay experience, but I feel like my efforts to make the hero team I want to play with completely don't matter. After you build most of the stuff in the game, it really comes down to exploration and going out into the world and fighting with your heroes. I really hope the developers do some balancing between the heroes so it gives players more of a choice, and maybe design some interesting new ones that don't mostly look the same!",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 寒霜启示录\n\n4亿人都在玩的原创冰雪手游\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [47万个评分\\\\\n\\\\\n4.6](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [排行榜\\\\\n\\\\\n#1\\\\\n\\\\\n模拟](https://apps.apple.com/us/iphone/charts/7015?l=zh-Hans-CN&chart=top-free)\n\n- [开发者\\\\\n\\\\\nCentury Games Pte. Ltd.](https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?l=zh-Hans-CN&platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 15 种语言](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [大小\\\\\n\\\\\n1\\\\\n\\\\\nGB](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n全球原创冰雪手游！4亿人都在玩！\n\n暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！\n\n【游戏特色】\n◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！\n\n◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~\n\n◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！\n\n◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！\n\n◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~\n\n准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！\n\n【关注我们】\n游戏官网: https://whiteoutsurvival.centurygames.com/zh\\_cn\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS\\_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival\n\n[**评分及评论**](https://apps.apple.com/us/app/6443575749?l=zh-Hans-CN&see-all=reviews&platform=iphone)\n\n- 4.6\n\n满分 5 分\n\n47万 个评分\n\n- I rated this five stars, because the gameplay is really good! I really love the mechanics and art style of this game. But it kind of rubs me the wrong way that the only two high-level girl heroes you can have are both children, and it's way more difficult to level up the female characters? I've been trying to level up the girlies so I can have an all-girls team because I think that would be so cute, but it's proving difficult even using all my general shards to upgrade Ling Xue, Jessie, and Gina, because the game automatically gives you like way more shards for Charlie and Smith. The only girl who's in my top five, even after using all my upgrades on the girl characters, is Cloris, and it only feels like she's there because she's Bahiti's friend. Every archer girl is the same too, they're all \"cold\" and \"the best most fearless hero\". And it's really weird that there's not one character that's even a little tan. They're all stark white, except for two characters who are east asian with super light skin. It doesn't hurt the gameplay experience, but I feel like my efforts to make the hero team I want to play with completely don't matter. After you build most of the stuff in the game, it really comes down to exploration and going out into the world and fighting with your heroes. I really hope the developers do some balancing between the heroes so it gives players more of a choice, and maybe design some interesting new ones that don't mostly look the same!"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+      "reference": "◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~",
+      "evidence_id": "2dd67ab1c80fdba9a30ecbe4b8e7a1b7"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+      "reference": "◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！",
+      "evidence_id": "76a9160e7377ef397724b91de3af0c9b"
+    }
+  ],
+  "markdown": "# 寒霜启示录 社交与运营活动\n\n在《寒霜启示录》的社交互动体系中，游戏支持与全球玩家组队互助，加速成长并共同闯荡雪原。[@证据](sources/evidence.md#ev-2dd67ab1c80fdba9a30ecbe4b8e7a1b7)\n\n在常态趣味活动层面，游戏提供「冰钓」活动收集珍稀鱼类，以及「除雪」活动发掘隐藏奖励。[@证据](sources/evidence.md#ev-76a9160e7377ef397724b91de3af0c9b)\n",
+  "record_path": "/tmp/game-kb-fresh/.wiki_evidence/records/ver-9224d311bf394ca89ff66b251f9835ef.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

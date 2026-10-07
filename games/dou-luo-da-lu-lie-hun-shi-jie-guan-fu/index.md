@@ -19,8 +19,7 @@ research_schema_version: 1
 - [Versions 版本历史](versions.md) — 公测至 2.10.1 版本发布总索引与清单
 - [Live Events 限时活动记录](live-events.md) — 限定卡池与重大活动台账
 - [Market Position 市场定位](market-position.md) — 用户画像与竞品对比
-- [Risks & Unknowns 风险与未知项](risks-unknowns.md) — 数值膨胀、大保底压力与社区关注点
-- [Sources 引用来源](sources.md) — 官方与社区资料来源与证据总索引
+- [证据台账](sources/evidence.md) — 引用原文与工具核验记录。
 
 ## 2. 系统模块 (Systems)
 

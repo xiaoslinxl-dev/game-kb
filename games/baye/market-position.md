@@ -39,4 +39,4 @@ confidence: high
 关联模块：
 - 返回 [游戏概述](/overview.md)。
 - 查看变现模式与买量逻辑，参见 [变现模式](/monetization.md)。
-- 查看玩法痛点与未知风险，参见 [风险与未知](/risks-unknowns.md)。
+- 查看玩法痛点与未知风险，参见 [历史问题线索（未经本轮核验）](../../.wiki_evidence/legacy/baye/process-documents-911250c3.json)。

@@ -7,10 +7,10 @@ genre_tags: [turn-based-rpg, card-battle, ip-adaptation]
 language: zh-CN
 timestamp: "2026-10-04T18:00:00Z"
 confidence: high
-modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
+modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position]
 modules_systems: [session-combat, content-modes]
 modules_entities: [units]
-modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, session-combat, content-modes, units]
+modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, session-combat, content-modes, units]
 unit_policy: representative
 research_schema_version: 1
 ---

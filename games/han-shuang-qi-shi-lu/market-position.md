@@ -52,4 +52,4 @@ research_schema_version: 1
 - [核心循环](core-loop.md)
 - [商业化设计](monetization.md)
 - [社交与LiveOps运营](social-liveops.md)
-- [参考资料与来源](sources.md)
+- [证据台账](sources/evidence.md)

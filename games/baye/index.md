@@ -15,5 +15,4 @@ okf_version: "0.1"
 - [变现模式](/monetization.md) — 商业化内购结构、Gacha抽卡、皮肤与VIP特权矩阵。
 - [社交与长线运营](/social-liveops.md) — 魏蜀吴阵营对抗、军团集结、版本迭代与LiveOps活动。
 - [市场定位](/market-position.md) — 目标受众画像、三国SLG竞品对比与买量发行竞争策略。
-- [风险与未知](/risks-unknowns.md) — 滚服模式生态风险、高氪深度隐忧与赛道竞争挑战。
-- [信息来源](/sources.md) — 本知识库引用的官方网站、TapTap 页面、App Store 及媒体报道。
+- [证据台账](sources/evidence.md) — 引用原文与工具核验记录。

@@ -38,4 +38,4 @@ Genshin Impact established the "AAA Open-World Gacha" sub-genre, inspiring compe
 | **Wuthering Waves** | Kuro Games | Direct open-world ARPG rival emphasizing high-mobility combat and boss parry mechanics. |
 | **Tower of Fantasy** | Hotta Studio / Level Infinite | Open-world sci-fi MMO gacha attempt. |
 
-To examine potential strategic challenges facing this market position, refer to [Risks & Unknowns](/risks-unknowns.md).
+To examine potential strategic challenges facing this market position, refer to [历史问题线索（未经本轮核验）](../../.wiki_evidence/legacy/genshin-impact/process-documents-911250c3.json).

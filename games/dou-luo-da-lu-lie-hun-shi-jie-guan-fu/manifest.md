@@ -8,10 +8,10 @@ language: zh-CN
 timestamp: "2026-10-04T07:30:00Z"
 confidence: high
 research_schema_version: 1
-modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources]
+modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position]
 modules_systems: [session-combat, exploration, content-modes, matchmaking]
 modules_entities: [units]
-modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources, session-combat, exploration, content-modes, matchmaking, units]
+modules: [overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, session-combat, exploration, content-modes, matchmaking, units]
 unit_policy: representative
 ---
 
@@ -19,7 +19,7 @@ unit_policy: representative
 
 本知识库采用三层架构设计，全面遵循 `research_schema_version: 1` 最小字段契约与稳定 ID 规范：
 
-1. **核心模块（Core Modules）**：包含 overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, risks-unknowns, sources，全面覆盖游戏基本信息、核心循环、长线养成、商业化架构、经济模型、社交与LiveOps运营、版本演进历史、活动台账、市场定位、风险未知项及信息来源与编号证据。
+1. **核心模块（Core Modules）**：包含 overview, core-loop, progression, monetization, economy, social-liveops, versions, live-events, market-position, sources，全面覆盖游戏基本信息、核心循环、长线养成、商业化架构、经济模型、社交与LiveOps运营、版本演进历史、活动台账、市场定位、风险未知项及信息来源与编号证据。
 2. **系统模块（Systems Modules）**：
    - `systems/session-combat.md`：覆盖 4 武魂实时轮切、无锁定动作战斗、魂技连携、六大流派协同与双形易势机制。
    - `systems/exploration.md`：覆盖圣魂村、诺丁城、星斗大森林、天斗城、杀戮之都、七宝山脉、庚辛城、星罗城等大世界地图探索、宝箱与奇遇采集。

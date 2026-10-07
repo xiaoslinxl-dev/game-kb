@@ -38,5 +38,5 @@ confidence: high
 - 关于商业化与付费点设计，参见 [变现模式](/monetization.md)。
 - 关于阵营协同与活动，参见 [社交与长线运营](/social-liveops.md)。
 - 关于市场竞争格局与用户画像，参见 [市场定位](/market-position.md)。
-- 关于潜在风险与运营隐忧，参见 [风险与未知](/risks-unknowns.md)。
-- 关于参考资料与信息来源，参见 [信息来源](/sources.md)。
+- 关于潜在风险与运营隐忧，参见 [历史问题线索（未经本轮核验）](../../.wiki_evidence/legacy/baye/process-documents-911250c3.json)。
+- 关于参考资料与信息来源，参见 [证据台账](sources/evidence.md)。

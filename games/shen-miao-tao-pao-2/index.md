@@ -16,8 +16,7 @@ okf_version: "0.1"
 - [经济系统与代币循环 (economy.md)](/economy.md) — 金币、钻石、幸运宝珠与活动代币的产销流转与防通胀机制
 - [社交与长线运营 (social-liveops.md)](/social-liveops.md) — 跨界文化/品牌联动、2v2 组队排位、好友排行榜、高频主题版本、收集赛与黄金矿山挂机
 - [市场定位与竞品分析 (market-position.md)](/market-position.md) — 跑酷品类头部地位、创梦天地发行护城河与主流竞品差异化对比
-- [风险与不确定性 (risks-unknowns.md)](/risks-unknowns.md) — 玩法机制老化、数值膨胀对冲、排位外挂防治与合规防沉迷挑战
-- [资料来源与参考文献 (sources.md)](/sources.md) — 官方公告、应用商店、行业媒体深度报道与社区攻略汇编
+- [证据台账](sources/evidence.md) — 引用原文与工具核验记录。
 
 ## 2. 玩法与系统模块 (Systems)
 

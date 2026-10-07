@@ -15,5 +15,4 @@ Welcome to the OKF Knowledge Base for **Genshin Impact** (`genshin-impact`), an 
 - [Monetization](/monetization.md) — Gacha mechanics (Wish system, pity thresholds, 50/50 system), Battle Pass (Gnostic Hymn), Blessing of the Welkin Moon, and cosmetics.
 - [Social & LiveOps](/social-liveops.md) — Co-op mechanics, version update cadence (6-week cycle), limited-time flagship events, and community ecosystem.
 - [Market Position](/market-position.md) — Commercial success, target demographics, competitive landscape, and influence on the cross-platform action RPG market.
-- [Risks & Unknowns](/risks-unknowns.md) — LiveOps content pipeline strain, power creep, regulatory considerations, and endgame design challenges.
-- [Sources](/sources.md) — Key citations, developer notes, market intelligence reports, and research reference links.
+- [证据台账](sources/evidence.md) — 引用原文与工具核验记录。

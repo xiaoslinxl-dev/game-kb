@@ -7,10 +7,10 @@ genre_tags: [endless-runner, casual, pvp-runner, action]
 language: zh-CN
 timestamp: "2026-10-06T11:00:00Z"
 confidence: high
-modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources]
+modules_core: [overview, core-loop, progression, monetization, economy, social-liveops, market-position]
 modules_systems: [session-combat, content-modes]
 modules_entities: [units]
-modules: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, risks-unknowns, sources, session-combat, content-modes, units]
+modules: [overview, core-loop, progression, monetization, economy, social-liveops, market-position, session-combat, content-modes, units]
 unit_policy: representative
 ---
 

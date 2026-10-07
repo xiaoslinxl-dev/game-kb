@@ -19,8 +19,7 @@ research_schema_version: 1
 - [版本时间线](versions.md) — 历史大版本更新与停服维护台账
 - [活动台账](live-events.md) — 限时活动、卡池与运营事件实例记录
 - [市场定位与竞争分析](market-position.md) — IP 优势、同类竞品对比与市场表现
-- [风险与未知项](risks-unknowns.md) — 数值膨胀、IP 限期与运营风险评估
-- [信息来源与参考文献](sources.md) — 官方公告、社区与媒体数据来源汇总
+- [证据台账](sources/evidence.md) — 引用原文与工具核验记录。
 
 ## 玩法与系统模块 (Systems)
 

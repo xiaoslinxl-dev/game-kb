@@ -26,5 +26,5 @@ research_schema_version: 1
 
 ## 相关模块
 
-- 风险分析请参阅 [risks-unknowns.md](risks-unknowns.md)。
+- 风险分析请参阅 [历史问题线索（未经本轮核验）](../../.wiki_evidence/legacy/dou-luo-da-lu-hun-shi-dui-jue/process-documents-911250c3.json)。
 - 商业化机制请参阅 [monetization.md](monetization.md)。

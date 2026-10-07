@@ -21,7 +21,7 @@ unit_policy: representative
 
 ## 模块启用说明
 
-1. **核心模块（Core Modules）**：包含概览 ([overview.md](overview.md))、核心循环 ([core-loop.md](core-loop.md))、数值与长线养成 ([progression.md](progression.md))、商业化模型 ([monetization.md](monetization.md))、双轨经济模型 ([economy.md](economy.md))、社交与LiveOps运营 ([social-liveops.md](social-liveops.md))、版本总索引 ([versions.md](versions.md))、活动台账 ([live-events.md](live-events.md))、市场定位与竞品对比 ([market-position.md](market-position.md))、风险与未知项 ([risks-unknowns.md](risks-unknowns.md))，以及参考文献与证据台账 ([sources.md](sources.md))。
+1. **核心模块（Core Modules）**：包含概览 ([overview.md](overview.md))、核心循环 ([core-loop.md](core-loop.md))、数值与长线养成 ([progression.md](progression.md))、商业化模型 ([monetization.md](monetization.md))、双轨经济模型 ([economy.md](economy.md))、社交与LiveOps运营 ([social-liveops.md](social-liveops.md))、版本总索引 ([versions.md](versions.md))、活动台账 ([live-events.md](live-events.md))、市场定位与竞品对比 ([market-position.md](market-position.md))、风险与未知项 ([历史问题线索（未经本轮核验）](../../.wiki_evidence/legacy/han-shuang-qi-shi-lu/process-documents-911250c3.json))，以及参考文献与证据台账 ([证据台账](sources/evidence.md))。
 2. **系统模块（Systems Modules）**：
    - `base-build`：大熔炉供暖机制、火晶时代（FC1-FC10及火晶纪元/Fire Crystal Age）、心愿驿站、9座免费娱乐设施、破晓岛生态拓展、幻艺展馆（永久装扮收藏展示与等级奖励）、幸存者满意度与居民宿舍/猎人小屋等模拟经营建设，以及银行宝石存储周期与领主法令23小时/47小时平滑调整机制。
    - `content-modes`：包含探险挂机副本、竞技场、日常整合分页、无尽试炼（Endless Trial - 蛮族首领风吼者·乌尔夫加 Wulfgar）、地心探险（大地之心新增50层）、燃霜矿区、霜龙霸主（跨王国巅峰王座争夺与随时竞猜修改）、王城争霸、冰火战歌联赛（Icefire Warhymn League，预选赛阵型锁定新规）、联盟凛冬围城（Winter Siege）、合服专属活动【全新起点（A New Beginning）】与【拓荒赞歌（Pioneering Praises）】第8天圆满收官结算、韩籍啦啦队第二波全家便利商店跨界联动「寒霜就是你家！女神专属应援」第7天、国服《无尽冬日》国庆黄金周【辉煌盛世庆典】第6天（含「绣球对碰赢奇珍」对对碰消除玩法与国庆专属兑换码【国庆快乐】）、中秋明月盛典全量闭环、巴哈姆特30周年线上问答第21日达人试炼（今日论坛最新分享兑换码矩阵VAXAN8R4g/wQYmd3Qw3）、Facebook专属Supreme Chief Party审核发奖、诚品生活快闪店“熊先生书屋”（圆满闭展谢幕）与2026万圣节活动前瞻「Pumpkin Strike」。

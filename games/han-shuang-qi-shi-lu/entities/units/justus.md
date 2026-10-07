@@ -47,5 +47,5 @@ research_schema_version: 1
 
 - [系统概览](../../overview.md)
 - [长线养成](../../progression.md)
-- [风险与未知项](../../risks-unknowns.md)
+- [历史问题线索（未经本轮核验）](../../../../.wiki_evidence/legacy/han-shuang-qi-shi-lu/process-documents-911250c3.json)
 - [英雄与专家列表](_index.md)

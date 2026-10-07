@@ -1,14 +1,39 @@
-# 《斗罗大陆：猎魂世界》核心循环：限定卡池与同行任务机制
+---
+type: CoreLoop
+title: 斗罗大陆：猎魂世界(官服) 核心循环
+description: "游戏的核心玩法循环、日常/周常玩法路径与战力成长反馈（research_schema_version: 1）"
+game_id: dou-luo-da-lu-lie-hun-shi-jie-guan-fu
+confidence: high
+timestamp: "2026-10-01T20:45:00Z"
+applies_to: all
+research_schema_version: 1
+---
 
-在《斗罗大陆：猎魂世界》（官服）中，限定卡池抽取与同行任务循环规则如下：
+# 斗罗大陆：猎魂世界(官服) 核心循环
 
-## 1. 限定卡池开启与抽取规则
+《斗罗大陆：猎魂世界》的核心循环建立在“开放世界探索/副本挑战 → 资源获取（魂环/魂核/觉醒券/材料） → 武魂抽卡与魂环/魂核/魂骨养成 → 战力提升 → 挑战高阶副本/跨服 PvP”的经典 MMORPG + Gacha 循环链上。
 
-- **开启门槛**：开服天数达到第4天并且魂师等级≥30级开启 [证据](sources/evidence.md#ev-b5d99a29186b662bd136014999c41807)。
-- **抽取消耗与概率**：消耗限定觉醒券抽取；SSR武魂获取的基础概率为1.8%，幸运值达到80时该次抽取必出SSR武魂 [证据](sources/evidence.md#ev-b5d99a29186b662bd136014999c41807)。
-- **保底与限定附赠**：限定武魂只能通过限定卡池觉醒获取，获取该武魂后附赠拟态·唐晨；抽中SSR武魂时50%概率为「修罗剑」，若上次抽取获得的SSR非当期卡池限定武魂，则本次必出本期卡池限定武魂 [证据](sources/evidence.md#ev-b5d99a29186b662bd136014999c41807)。
+---
 
-## 2. 修罗同行任务闭环
+## 核心循环流转关系表
 
-- **开启条件**：在限定卡池中获取限定武魂「修罗剑」后自动开启【修罗同行】通行证 [证据](sources/evidence.md#ev-b5d99a29186b662bd136014999c41807)。
-- **任务与等级奖励**：完成同行任务提升同行等级可获得奖励；同行等级1/3/5/7/9级的奖励为动态奖励，具体奖励内容根据积分计算所得出的碎片总量拆分 [证据](sources/evidence.md#ev-b5d99a29186b662bd136014999c41807)。
+| relation_id | 起点 ID | 关系类型 | 终点 ID | 条件 | 来源 | 核验状态 |
+|---|---|---|---|---|---|---|
+| rel-001 | sys-exploration | 产出 | res-diamond | 大世界开宝箱、达成区域探索度与成就 | src-0002@r001/ev-03 | unverified |
+| rel-002 | sys-exploration | 产出 | res-xiancao | 野外仙草采集与奇遇任务奖励 | src-0002@r001/ev-03 | unverified |
+| rel-003 | res-diamond | 消耗 | res-wuhun-ticket | 以160钻石:1张比例兑换限定觉醒券 | src-0001@r001/ev-01 | unverified |
+| rel-004 | res-diamond | 消耗 | res-stamina | 每日限次购买体力用于副本推进 | src-0005@r001/ev-01 | unverified |
+| rel-005 | res-stamina | 消耗 | sys-content-modes | 消耗体力进行拟态训练与猎魂魂兽 | src-0005@r001/ev-01 | unverified |
+| rel-006 | sys-content-modes | 产出 | res-gold | 拟态关卡通关与日常副本结算 | src-0005@r001/ev-01 | unverified |
+| rel-007 | sys-content-modes | 产出 | prog-hunhuan-slot | 猎杀魂兽掉落各年份专属魂环 | src-0005@r001/ev-01 | unverified |
+| rel-008 | res-wuhun-ticket | 消耗 | prog-wuhun-star | 限定卡池抽取获得武魂本体与碎片觉醒升星 | src-0001@r001/ev-01 | unverified |
+| rel-009 | res-wuhun-ticket | 转换 | res-xingshen-yu | 限定卡池每抽附赠随机数量星神玉代币 | src-0001@r001/ev-01 | unverified |
+| rel-010 | res-xingshen-yu | 消耗 | prog-hunhe-center | 星神玉商店兑换专属魂技/奥义与十万年灵核 | src-0001@r001/ev-01 | unverified |
+| rel-011 | prog-wuhun-star | 强化 | sys-session-combat | 提升武魂四维面板、解锁新机制与登场技 | src-0002@r001/ev-03 | unverified |
+| rel-012 | prog-waifu-hungu | 强化 | sys-session-combat | 外附魂骨三维年份星级提供全时段全局免伤与属性 | src-0005@r001/ev-01 | unverified |
+| rel-013 | sys-session-combat | 解锁 | sys-matchmaking | 战力达标进入斗魂对决跨服天梯排位 | src-0001@r001/ev-05 | unverified |
+| rel-014 | sys-matchmaking | 产出 | res-honor-coin | 斗魂对决获胜、段位晋阶与赛季结算 | src-0001@r001/ev-05 | unverified |
+| rel-015 | sys-content-modes | 产出 | res-yuanzheng-coin | 远征计划单队通关与双队讨伐伤害排行结算 | src-0005@r001/ev-02 | unverified |
+| rel-016 | res-yuanzheng-coin | 消耗 | prog-waifu-hungu | 远征商店兑换骨华凝晶用于外附魂骨升星 | src-0005@r001/ev-02 | unverified |
+| rel-017 | sys-content-modes | 产出 | res-moon-coins | 参与秋宵同欢双节日常与谲影牌对战 | src-0004@r001/ev-01 | unverified |
+| rel-018 | res-moon-coins | 转换 | res-play-value | 参与斗罗谲影牌4人博弈赢取名次与玩心值 | src-0001@r001/ev-02 | unverified |

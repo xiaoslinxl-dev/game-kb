@@ -1,0 +1,51 @@
+{
+  "verification_id": "ver-cdc410a463cf46518d6e0b1a9ec2222b",
+  "created_at": "2026-10-07T17:27:05.079169+00:00",
+  "full_request": {
+    "game_id": "shen-miao-tao-pao-2",
+    "file": "index.md",
+    "markdown": "# 神庙逃亡2 知识库索引\n\n《神庙逃亡2》是一款3D建模写实风格的跑酷类休闲手游，由Imangi Studios、LLC制作、乐逗游戏代理发行。玩家在神庙场景中躲避恶魔守卫追赶并夺取神像。[@证据](sources/evidence.md#ev-7bf8b8c25f036a3e60a55f1b7c1a2857)\n\n## 文档目录\n\n- [游戏概览](overview.md)\n- [核心循环](core-loop.md)\n- [经济系统](economy.md)\n- [养成系统](progression.md)\n- [商业化](monetization.md)\n- [社交与运营活动](social-liveops.md)\n- [市场表现与定位](market-position.md)\n",
+    "expected_sha256": null,
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673",
+        "reference": "《神庙逃亡2》是一款3D建模写实风格的跑酷类休闲手游。《神庙逃亡2》游戏背景设定在神庙里，玩家要逃脱恶魔守卫的追赶，穿越神庙夺取神像。是由Imangi Studios、LLC制作，由乐逗游戏代理发行的角色扮演运动类冒险游戏。全球海量玩家都在玩， 这是一条怎么跑都跑不完的路程，但是却也给人一种希望，也许出口，也许胜利就在前方，只要我们坚持不懈，终会到达希望的港口，胜利的彼岸！所以你还在等待什么呢？如果你够胆的话就拿起手机跟我踏上逃亡之旅吧！"
+      }
+    ],
+    "scope": {
+      "game_id": "shen-miao-tao-pao-2",
+      "title": "神庙逃亡2"
+    }
+  },
+  "markdown_sha256": "387773878db3f604c4d8c03b1c06c760a2338ccbbdce04cc7e680f7a5ba06102",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.85,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.73,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 神庙逃亡2\n\n全球经典跑酷游戏\n\n免费 · App 内购买\n\n- [119万个评分\\\\\n\\\\\n4.5](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\n岁](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673#information)\n\n- [排行榜\\\\\n\\\\\n#8\\\\\n\\\\\n休闲](https://apps.apple.com/cn/iphone/charts/7003?chart=top-free)\n\n- [开发者\\\\\n\\\\\niDreamSky Technology Limited](https://apps.apple.com/cn/developer/idreamsky-technology-limited/id358371036?platform=iphone)\n\n- [语言\\\\\n\\\\\nEN\\\\\n\\\\\n英语](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673#information)\n\n- [大小\\\\\n\\\\\n454.7\\\\\n\\\\\nMB](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n《神庙逃亡2》是一款3D建模写实风格的跑酷类休闲手游。《神庙逃亡2》游戏背景设定在神庙里，玩家要逃脱恶魔守卫的追赶，穿越神庙夺取神像。是由Imangi Studios、LLC制作，由乐逗游戏代理发行的角色扮演运动类冒险游戏。全球海量玩家都在玩， 这是一条怎么跑都跑不完的路程，但是却也给人一种希望，也许出口，也许胜利就在前方，只要我们坚持不懈，终会到达希望的港口，胜利的彼岸！所以你还在等待什么呢？如果你够胆的话就拿起手机跟我踏上逃亡之旅吧！\n\n【注意事项】\n《神庙逃亡2》订阅说明与 Apple官方订阅功能\n1．订阅价格与周期\n您可在游戏內订阅特权礼包（订阅价格为12元订阅周期为30天）\n2．关于订阅内容\n订阋特权礼包的用户，可以在订阋期內立即获得免除游戏内插页广告展示的特权，特权在游戏中立即生效；\n3．订阅价格与周期\n您可在游戏内订阅至尊特权（订阅价格为15元订阅周期为30天）\n4．关于订阅内容\n订阅至尊特权的用户，可以在订阋期內立即获得每次游戏重生一次的特权以及金币双倍的特权，特权在游戏中立即生效；\n5．关于自动续订\n苹果 App Store官方订阅功能为自动续费订阅。用户需手动在 iTunes／ Apple ID设置管理中关闭自动续订功能，如果订阅期结束前的一天内未关闭自动续订功能，订阅周期会自动延续；\n6．隐私政策及用户协议\n隐私声明：https://www.idreamsky.com/3472.html?type=privacy\n用户协议：https://www.idreamsky.com/3472.html?type=agreement\n\n【联系我们】\n如果你喜欢我们游戏，欢迎随时给我们评价留言。\n也可以加入我们的官方QQ群，与众多跑酷达人交流心得！\n神庙逃亡2官方公众号：shenmiao2\n神庙逃亡2官方QQ群：904472600\n神庙逃亡2官方微博：神庙逃亡2手游\n\n[**评分及评论**](https://apps.apple.com/cn/app/1014227673?see-all=reviews&platform=iphone)\n\n- 4.5\n\n满分 5 分\n\n119万 个评分\n\n- 一开始还挺喜欢玩的，送免费英雄很良心，本来好感度很高。但竞技模式太不公平，充钱买装备直接数值碾压，跑得快、伤害高，我们休闲玩家根本追不上、打不过，玩竞技必输，纯被虐。还经常出bug，我明明跑第一，结果被算成最后一名，还是跟我一样的英雄，真的无语。另外建议加个聊天功能，加好友不能聊天，只能领宝箱，那加好友有什么意义？社交体验太差了。希望官方能平衡氪金、修bug、加聊天，不然真的玩不下去。"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673",
+      "reference": "《神庙逃亡2》是一款3D建模写实风格的跑酷类休闲手游。《神庙逃亡2》游戏背景设定在神庙里，玩家要逃脱恶魔守卫的追赶，穿越神庙夺取神像。是由Imangi Studios、LLC制作，由乐逗游戏代理发行的角色扮演运动类冒险游戏。全球海量玩家都在玩， 这是一条怎么跑都跑不完的路程，但是却也给人一种希望，也许出口，也许胜利就在前方，只要我们坚持不懈，终会到达希望的港口，胜利的彼岸！所以你还在等待什么呢？如果你够胆的话就拿起手机跟我踏上逃亡之旅吧！",
+      "evidence_id": "7bf8b8c25f036a3e60a55f1b7c1a2857"
+    }
+  ],
+  "markdown": "# 神庙逃亡2 知识库索引\n\n《神庙逃亡2》是一款3D建模写实风格的跑酷类休闲手游，由Imangi Studios、LLC制作、乐逗游戏代理发行。玩家在神庙场景中躲避恶魔守卫追赶并夺取神像。[@证据](sources/evidence.md#ev-7bf8b8c25f036a3e60a55f1b7c1a2857)\n\n## 文档目录\n\n- [游戏概览](overview.md)\n- [核心循环](core-loop.md)\n- [经济系统](economy.md)\n- [养成系统](progression.md)\n- [商业化](monetization.md)\n- [社交与运营活动](social-liveops.md)\n- [市场表现与定位](market-position.md)\n",
+  "record_path": "/tmp/game-kb-fresh/.wiki_evidence/records/ver-cdc410a463cf46518d6e0b1a9ec2222b.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

@@ -1,0 +1,51 @@
+{
+  "verification_id": "ver-a4418fd9c7e04e29a712a3247429cfdb",
+  "created_at": "2026-10-07T16:27:19.519234+00:00",
+  "full_request": {
+    "game_id": "han-shuang-qi-shi-lu",
+    "file": "monetization.md",
+    "markdown": "# 寒霜启示录 商业化\n\n在《寒霜启示录》的付费设计中，游戏采用免费下载结合App内购买的商业化模式。内购包含标准礼包（STANDARD PACK）与周期性通行证及特惠项目。[@证据](sources/evidence.md#ev-a9ede395e35eb2d0e27bc17f06e427cb)\n\n在具体定价档位上，标准礼包涵盖STANDARD PACK 1（0.99美元）、STANDARD PACK 3（2.99美元）、STANDARD PACK 5（4.99美元）、STANDARD PACK 7（9.99美元）、STANDARD PACK 10（19.99美元）、STANDARD PACK 14（49.99美元）与STANDARD PACK 16（99.99美元）；周期与通行证项目包括Daily Worship（4.99美元）、Regular Pass（4.99美元）与7天特惠Daily Deal (7d)（4.99美元）。[@证据](sources/evidence.md#ev-a9ede395e35eb2d0e27bc17f06e427cb)\n",
+    "expected_sha256": null,
+    "sources": [
+      {
+        "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+        "reference": "App内购买是\n\n- STANDARD PACK 5US$4.99\n\n- STANDARD PACK 7US$9.99\n\n- STANDARD PACK 10US$19.99\n\n- STANDARD PACK 1US$0.99\n\n- Daily WorshipUS$4.99\n\n- STANDARD PACK 16US$99.99\n\n- STANDARD PACK 3US$2.99\n\n- STANDARD PACK 14US$49.99\n\n- Regular PassUS$4.99\n\n- Daily Deal (7d)US$4.99"
+      }
+    ],
+    "scope": {
+      "game_id": "han-shuang-qi-shi-lu",
+      "title": "寒霜启示录"
+    }
+  },
+  "markdown_sha256": "5904432abf5ea0ce98ce3eb289a6ab55fbc74ef87b399216a8bca003706848e3",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.94,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.86,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 寒霜启示录\n\n4亿人都在玩的原创冰雪手游\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [47万个评分\\\\\n\\\\\n4.6](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [排行榜\\\\\n\\\\\n#1\\\\\n\\\\\n模拟](https://apps.apple.com/us/iphone/charts/7015?l=zh-Hans-CN&chart=top-free)\n\n- [开发者\\\\\n\\\\\nCentury Games Pte. Ltd.](https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?l=zh-Hans-CN&platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 15 种语言](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [大小\\\\\n\\\\\n1\\\\\n\\\\\nGB](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n全球原创冰雪手游！4亿人都在玩！\n\n暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！\n\n【游戏特色】\n◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！\n\n◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~\n\n◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！\n\n◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！\n\n◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~\n\n准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！\n\n【关注我们】\n游戏官网: https://whiteoutsurvival.centurygames.com/zh\\_cn\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS\\_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival\n\n[**评分及评论**](https://apps.apple.com/us/app/6443575749?l=zh-Hans-CN&see-all=reviews&platform=iphone)\n\n- 4.6\n\n满分 5 分\n\n47万 个评分\n\n- I rated this five stars, because the gameplay is really good! I really love the mechanics and art style of this game. But it kind of rubs me the wrong way that the only two high-level girl heroes you can have are both children, and it's way more difficult to level up the female characters? I've been trying to level up the girlies so I can have an all-girls team because I think that would be so cute, but it's proving difficult even using all my general shards to upgrade Ling Xue, Jessie, and Gina, because the game automatically gives you like way more shards for Charlie and Smith. The only girl who's in my top five, even after using all my upgrades on the girl characters, is Cloris, and it only feels like she's there because she's Bahiti's friend. Every archer girl is the same too, they're all \"cold\" and \"the best most fearless hero\". And it's really weird that there's not one character that's even a little tan. They're all stark white, except for two characters who are east asian with super light skin. It doesn't hurt the gameplay experience, but I feel like my efforts to make the hero team I want to play with completely don't matter. After you build most of the stuff in the game, it really comes down to exploration and going out into the world and fighting with your heroes. I really hope the developers do some balancing between the heroes so it gives players more of a choice, and maybe design some interesting new ones that don't mostly look the same!\n\n# App 隐私\n\n开发者“ **Century Games Pte. Ltd.**”已表明该 App 的隐私规范可能包括下述数据处理方式。此信息未经 Apple 验证。更多相关信息，请参阅 [开发者隐私政策](https://www.centurygame.com/privacy-policy/)。\n\n为帮助你进一步理解开发者的回应，请参阅 [隐私定义和示例](https://apps.apple.com/us/iphone/story/id1539235847?l=zh-Hans-CN)。\n\n隐私规范可能因你使用的功能或你的年龄等因素而异。 [进一步了解](https://apps.apple.com/us/iphone/story/id1538632801?l=zh-Hans-CN)\n\n## 信息\n\n销售商Century Games Pte. Ltd.\n\n大小1 GB\n\n类别策略\n\n兼容性设备需装有 iOS 13.0 或更高版本。\n\n- **iPhone**\n\n设备需装有 iOS 13.0 或更高版本。\n\n- **iPad**\n\n设备需装有 iPadOS 13.0 或更高版本。\n\n- **iPod touch**\n\n设备需装有 iOS 13.0 或更高版本。\n\n- **Mac**\n\n需要 macOS 11.0 或更高版本以及装有 Apple M1 或更高版本芯片的 Mac。\n\n- **Apple Vision**\n\n设备需装有 visionOS 1.0 或更高版本。\n\n语言简体中文和另外15种\n\n- 简体中文、俄文、印度尼西亚文、土耳其文、德文、意大利文、日文、法语、波兰文、泰文、繁体中文、英语、葡萄牙文、西班牙文、阿拉伯文、韩文\n\n年龄分级9+\n\n- 9+\n\n- 此 App 分级为 9+，并设有内容限制。\n\n部分内容可能有更高的年龄分级，因此可能受到限制，并由开发者通过 App 内控件管理。\n- [了解更多](https://apps.apple.com/us/iphone/story/id1825160725?l=zh-Hans-CN)\n\n- **App 内控件**\n\n年龄验证\n\n**偶尔**\n\n卡通或幻想暴力\n\n**包含**\n\n抽奖箱\n\n信息和聊天\n\nApp内购买是\n\n- STANDARD PACK 5US$4.99\n\n- STANDARD PACK 7US$9.99\n\n- STANDARD PACK 10US$19.99\n\n- STANDARD PACK 1US$0.99\n\n- Daily WorshipUS$4.99\n\n- STANDARD PACK 16US$99.99\n\n- STANDARD PACK 3US$2.99\n\n- STANDARD PACK 14US$49.99\n\n- Regular PassUS$4.99\n\n- Daily Deal (7d)US$4.99\n\n- [进一步了解](https://apps.apple.com/us/iphone/story/id1436214772?l=zh-Hans-CN)"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+      "reference": "App内购买是\n\n- STANDARD PACK 5US$4.99\n\n- STANDARD PACK 7US$9.99\n\n- STANDARD PACK 10US$19.99\n\n- STANDARD PACK 1US$0.99\n\n- Daily WorshipUS$4.99\n\n- STANDARD PACK 16US$99.99\n\n- STANDARD PACK 3US$2.99\n\n- STANDARD PACK 14US$49.99\n\n- Regular PassUS$4.99\n\n- Daily Deal (7d)US$4.99",
+      "evidence_id": "a9ede395e35eb2d0e27bc17f06e427cb"
+    }
+  ],
+  "markdown": "# 寒霜启示录 商业化\n\n在《寒霜启示录》的付费设计中，游戏采用免费下载结合App内购买的商业化模式。内购包含标准礼包（STANDARD PACK）与周期性通行证及特惠项目。[@证据](sources/evidence.md#ev-a9ede395e35eb2d0e27bc17f06e427cb)\n\n在具体定价档位上，标准礼包涵盖STANDARD PACK 1（0.99美元）、STANDARD PACK 3（2.99美元）、STANDARD PACK 5（4.99美元）、STANDARD PACK 7（9.99美元）、STANDARD PACK 10（19.99美元）、STANDARD PACK 14（49.99美元）与STANDARD PACK 16（99.99美元）；周期与通行证项目包括Daily Worship（4.99美元）、Regular Pass（4.99美元）与7天特惠Daily Deal (7d)（4.99美元）。[@证据](sources/evidence.md#ev-a9ede395e35eb2d0e27bc17f06e427cb)\n",
+  "record_path": "/tmp/game-kb-fresh/.wiki_evidence/records/ver-a4418fd9c7e04e29a712a3247429cfdb.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

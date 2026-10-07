@@ -1,19 +1,4 @@
----
-type: Versions
-title: "{{game_title}} · Versions"
-description: "TODO for {{game_id}}"
-tags: []
-timestamp: "1970-01-01T00:00:00Z"
-game_id: "{{game_id}}"
-project_id: ""
-confidence: low
-research_schema_version: 1
----
+# 版本与更新索引
 
-# Versions
-
-## 版本
-
-| version_id | 版本号 | 地区/平台 | 上线状态 | 清单链接 |
-|---|---|---|---|---|
-| v1-0 | TODO | TODO | live | [v1-0.md](versions/v1-0.md) |
+<!-- 主题提示：研究游戏版本变化、上线与公告时间、平台地区范围与更新清单。 -->
+<!-- 正文自由 Markdown 组织，每项游戏事实末尾标注真实核验的证据链接 [证据](sources/evidence.md#ev-<MD5>)。 -->

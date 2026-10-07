@@ -1,0 +1,51 @@
+{
+  "verification_id": "ver-e2fef7f23403467680be2dc14d6c69ef",
+  "created_at": "2026-10-07T17:21:30.058627+00:00",
+  "full_request": {
+    "game_id": "shen-miao-tao-pao-2",
+    "file": "social-liveops.md",
+    "markdown": "# 神庙逃亡2 社交与运营活动\n\n在《神庙逃亡2》的运营活动中，游戏包含排位赛等竞技对抗玩法。在夏日西瓜收集等经典返场活动中，玩家通过完成每日任务和参与排位赛获得活动道具西瓜，可在兑换商店兑换宝珠、金币与钻石等奖励。[@证据](sources/evidence.md#ev-f5cd6c0a3afbbd4ebefe9787ffbb4e03)\n",
+    "expected_sha256": "5f195b33a471cecb25ac7301a7a397b442ddc32d3f542485f9e8b3df82c4b2bc",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673",
+        "reference": "【经典活动返场】\n1、夏日西瓜收集：完成每日任务和参与排位赛即可获得活动道具-西瓜，在兑换商店兑换宝珠、金币、钻石好礼！"
+      }
+    ],
+    "scope": {
+      "game_id": "shen-miao-tao-pao-2",
+      "title": "神庙逃亡2"
+    }
+  },
+  "markdown_sha256": "32a00321c405b6c0f83968abddf274fc43f94fad196f51e81e22679b25c673a5",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.89,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.71,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 神庙逃亡2\n\n全球经典跑酷游戏\n\n免费 · App 内购买\n\n- [119万个评分\\\\\n\\\\\n4.5](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\n岁](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673#information)\n\n- [排行榜\\\\\n\\\\\n#8\\\\\n\\\\\n休闲](https://apps.apple.com/cn/iphone/charts/7003?chart=top-free)\n\n- [开发者\\\\\n\\\\\niDreamSky Technology Limited](https://apps.apple.com/cn/developer/idreamsky-technology-limited/id358371036?platform=iphone)\n\n- [语言\\\\\n\\\\\nEN\\\\\n\\\\\n英语](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673#information)\n\n- [大小\\\\\n\\\\\n454.7\\\\\n\\\\\nMB](https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n《神庙逃亡2》是一款3D建模写实风格的跑酷类休闲手游。《神庙逃亡2》游戏背景设定在神庙里，玩家要逃脱恶魔守卫的追赶，穿越神庙夺取神像。是由Imangi Studios、LLC制作，由乐逗游戏代理发行的角色扮演运动类冒险游戏。全球海量玩家都在玩， 这是一条怎么跑都跑不完的路程，但是却也给人一种希望，也许出口，也许胜利就在前方，只要我们坚持不懈，终会到达希望的港口，胜利的彼岸！所以你还在等待什么呢？如果你够胆的话就拿起手机跟我踏上逃亡之旅吧！\n\n【注意事项】\n《神庙逃亡2》订阅说明与 Apple官方订阅功能\n1．订阅价格与周期\n您可在游戏內订阅特权礼包（订阅价格为12元订阅周期为30天）\n2．关于订阅内容\n订阋特权礼包的用户，可以在订阋期內立即获得免除游戏内插页广告展示的特权，特权在游戏中立即生效；\n3．订阅价格与周期\n您可在游戏内订阅至尊特权（订阅价格为15元订阅周期为30天）\n4．关于订阅内容\n订阅至尊特权的用户，可以在订阋期內立即获得每次游戏重生一次的特权以及金币双倍的特权，特权在游戏中立即生效；\n5．关于自动续订\n苹果 App Store官方订阅功能为自动续费订阅。用户需手动在 iTunes／ Apple ID设置管理中关闭自动续订功能，如果订阅期结束前的一天内未关闭自动续订功能，订阅周期会自动延续；\n6．隐私政策及用户协议\n隐私声明：https://www.idreamsky.com/3472.html?type=privacy\n用户协议：https://www.idreamsky.com/3472.html?type=agreement\n\n【联系我们】\n如果你喜欢我们游戏，欢迎随时给我们评价留言。\n也可以加入我们的官方QQ群，与众多跑酷达人交流心得！\n神庙逃亡2官方公众号：shenmiao2\n神庙逃亡2官方QQ群：904472600\n神庙逃亡2官方微博：神庙逃亡2手游\n\n[**评分及评论**](https://apps.apple.com/cn/app/1014227673?see-all=reviews&platform=iphone)\n\n- 4.5\n\n满分 5 分\n\n119万 个评分\n\n- 一开始还挺喜欢玩的，送免费英雄很良心，本来好感度很高。但竞技模式太不公平，充钱买装备直接数值碾压，跑得快、伤害高，我们休闲玩家根本追不上、打不过，玩竞技必输，纯被虐。还经常出bug，我明明跑第一，结果被算成最后一名，还是跟我一样的英雄，真的无语。另外建议加个聊天功能，加好友不能聊天，只能领宝箱，那加好友有什么意义？社交体验太差了。希望官方能平衡氪金、修bug、加聊天，不然真的玩不下去。\n\n# 版本历史记录\n\n- 《神庙逃亡2》邀您一同品鉴全新版本！\n【新角色】7日签到免费领取 新角色比奥斯博士。更有全新角色 沃利纳特（玩具士兵）、卡尼菲克、迪帕克达姆 在新版本中等待各位探险者收集。\n【探索玩具王国】惊险刺激的玩具火车机关、深不见底的巧克力瀑布、体型庞大的姜饼人悉数登场，等待探险者的到来！除此之外，更有百花戈壁、全民假日等地图崭新推出。\n【挂机减负福利】黄金矿山免费爆金币，挂机即得金币，更有免费抽取稀有角色、宠物、翅膀福利。\n【绝版经典角色返场】 游戏中将周期推出经典角色返场，机不可失不要错过！\n【其他体验优化】优化了游戏内部分功能。\n\n7.3.22025/10/27\n\n- 《神庙逃亡2》邀您一同品鉴全新版本！\n【新角色】7日签到免费领取 新角色比奥斯博士。更有全新角色 沃利纳特（玩具士兵）、卡尼菲克、迪帕克达姆 在新版本中等待各位探险者收集。\n【探索玩具王国】惊险刺激的玩具火车机关、深不见底的巧克力瀑布、体型庞大的姜饼人悉数登场，等待探险者的到来！除此之外，更有百花戈壁、全民假日等地图崭新推出。\n【挂机减负福利】黄金矿山免费爆金币，挂机即得金币，更有免费抽取稀有角色、宠物、翅膀福利。\n【绝版经典角色返场】 游戏中将周期推出经典角色返场，机不可失不要错过！\n【其他体验优化】优化了游戏内部分功能。\n\n7.3.12025/09/25\n\n- 修复部分bug。\n\n7.3.02025/09/14\n\n- 神庙逃亡2》纵情夏日暑期版本焕新登场！\n\n【新角色】7日签到免费领取 新角色比奥斯博士。更有全新角色 沃利纳特（玩具士兵）、卡尼菲克、迪帕克达姆 在新版本中等待各位探险者收集。\n\n【新地图】探寻全新主题地图——玩具王国！惊险刺激的玩具火车机关、深不见底的巧克力瀑布、体型庞大的姜饼人悉数登场，等待探险者的到来！除此之外，更有百花戈壁、全民假日等地图崭新推出。\n\n【新金币皮肤】排队蜡烛、环保沙滩、情人节等全新金币皮肤现已推出。\n\n【经典活动返场】\n1、夏日西瓜收集：完成每日任务和参与排位赛即可获得活动道具-西瓜，在兑换商店兑换宝珠、金币、钻石好礼！\n2、黄金矿山：将拥有的角色、神像、坐骑放入矿池中，神秘古老的矿山将会回应你给于金币馈赠！\n\n【商店礼包更新】玩具士兵 携经典绝版角色 重返商店热卖与您见面，机不可失不要错过！"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E7%A5%9E%E5%BA%99%E9%80%83%E4%BA%A12/id1014227673",
+      "reference": "【经典活动返场】\n1、夏日西瓜收集：完成每日任务和参与排位赛即可获得活动道具-西瓜，在兑换商店兑换宝珠、金币、钻石好礼！",
+      "evidence_id": "f5cd6c0a3afbbd4ebefe9787ffbb4e03"
+    }
+  ],
+  "markdown": "# 神庙逃亡2 社交与运营活动\n\n在《神庙逃亡2》的运营活动中，游戏包含排位赛等竞技对抗玩法。在夏日西瓜收集等经典返场活动中，玩家通过完成每日任务和参与排位赛获得活动道具西瓜，可在兑换商店兑换宝珠、金币与钻石等奖励。[@证据](sources/evidence.md#ev-f5cd6c0a3afbbd4ebefe9787ffbb4e03)\n",
+  "record_path": "/tmp/game-kb-fresh/.wiki_evidence/records/ver-e2fef7f23403467680be2dc14d6c69ef.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

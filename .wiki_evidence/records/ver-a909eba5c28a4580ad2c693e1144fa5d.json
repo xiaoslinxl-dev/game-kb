@@ -1,0 +1,51 @@
+{
+  "verification_id": "ver-a909eba5c28a4580ad2c693e1144fa5d",
+  "created_at": "2026-10-07T16:12:09.134299+00:00",
+  "full_request": {
+    "game_id": "feng-kuang-shui-shi-jie",
+    "file": "economy.md",
+    "markdown": "# 疯狂水世界 经济系统\n\n在《疯狂水世界》的基础生存经济中，木材、金属与食物为维持基地运转和居民生活的核心生存必需品。[@证据](sources/evidence.md#ev-ae8fd60847d767a87e4b324d3270533e)\n\n这些资源散落在海洋的各个角落，玩家需要驾驶潜水艇或使用其他工具在海上进行搜集，以维系居民生存并保障基地应对恶劣天气与危机运转。[@证据](sources/evidence.md#ev-ae8fd60847d767a87e4b324d3270533e)\n",
+    "expected_sha256": null,
+    "sources": [
+      {
+        "url": "https://a.4399.cn/mobile/375171.html",
+        "reference": "《疯狂水世界》是一个非常有趣的海上生存游戏，主角幸存者在海上漂流，海上充满危机，玩家需要收集木材、金属、食物等生存必需品，以维持基地的运转和居民的生活。这些资源可能散落在海洋的各个角落，需要玩家驾驶潜水艇或使用其他工具进行收集。此外玩家还需要应对各种恶劣的天气条件，如暴风雨、海啸等，以确保基地的安全和居民的生存！"
+      }
+    ],
+    "scope": {
+      "game_id": "feng-kuang-shui-shi-jie",
+      "title": "疯狂水世界"
+    }
+  },
+  "markdown_sha256": "a9ab3420387c2ac4a361d5db542aa2d2fb157616bf3518ea8bf0c9476d9beffc",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.91,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.86,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "- [4399小游戏](http://www.4399.com/index_pc.htm)\n- [保存到桌面](https://www.4399.cn/desktop.html?site=web/android)\n- 网站导航\n\n手游平台\n\n  - [安卓游戏](http://a.4399.cn/)\n  - [云游戏](https://app.4399.cn/cloudGame.html)\n  - [手游论坛](http://bbs.4399.cn/)\n  - [手游礼包](http://fahao.4399.cn/)\n\n热门频道\n\n  - [安卓专题](http://a.4399.cn/special.html)\n  - [4399在线玩](https://h.4399.com/)\n  - [手游专区](http://www.4399.cn/zhuanqu/)\n  - [战术射击游戏合辑](http://a.4399.cn/special-detail-1166.html)\n  - [游戏工具](https://a.4399.cn/tools.html)\n  - [活动中心](https://a.4399.cn/huodong/)\n\n热门游戏\n\n  - [王者荣耀](http://news.4399.com/wzlm/)\n  - [火线精英](http://news.4399.com/huoxianjy/)\n  - [CF手游](http://news.4399.com/cfsy/)\n  - [造梦西游OL](http://news.4399.com/zmxyol/)\n  - [奇迹暖暖](http://news.4399.com/qjnn/)\n  - [我的世界手机版](http://news.4399.com/wdshijie/)\n\n4399游戏盒下载\n\n![](https://f1.img4399.com/ma/9a015dba8fb2bb67911af477504f62db)\n\n  - [手机版下载](https://app.4399.cn/)\n  - [iPad版下载](https://app.4399.cn/app-ipad.html)\n\n- [4399手机游戏网](http://www.4399.cn/)\n- [安卓游戏](http://a.4399.cn/)\n- [活动中心](https://a.4399.cn/huodong/)\n- [手游论坛](http://bbs.4399.cn/)\n- [H5游戏](http://h.4399.com/)\n\n**[下载4399游戏盒玩好游戏](https://app.4399.cn/ \"4399游戏盒\")**\n\n- [首页](https://a.4399.cn/)\n- [PC游戏](https://www.4399.com/pcgame/)\n- [动作游戏](https://a.4399.cn/game-kid-2.html)\n- [体育竞技](https://a.4399.cn/game-kid-3.html)\n- [角色扮演](https://a.4399.cn/game-kid-12.html)\n- [休闲娱乐](https://a.4399.cn/game-kid-10.html)\n- [射击游戏](https://a.4399.cn/game-kid-5.html)\n- [敏捷游戏](https://a.4399.cn/game-kid-9.html)\n- [策略游戏](https://a.4399.cn/game-kid-8.html)\n- [冒险游戏](https://a.4399.cn/game-kid-6.html)\n- [益智游戏](https://a.4399.cn/game-kid-4.html)\n- [儿童教育](https://a.4399.cn/game-kid-11.html)\n\n当前位置： [4399手机游戏网](http://www.4399.cn/) > [安卓游戏](https://a.4399.cn/) > [冒险游戏](https://a.4399.cn/game-kid-6.html) >疯狂水世界\n\n![疯狂水世界](https://f01.img4399.com/ma/375171_logo2_30dc.jpg?1790662208)\n\n# 疯狂水世界\n\n已有 _1.5万_ 人安装该游戏\n\n- [冒险](https://a.4399.cn/game-tid-243.html)\n- [生存](https://a.4399.cn/game-tid-139.html)\n- [挑战](https://a.4399.cn/game-tid-42.html)\n- [养成](https://a.4399.cn/game-tid-33.html)\n\n在海上努力生存吧！\n\n立即下载\n\n![](<Base64-Image-Removed>)\n\n![疯狂水世界](https://f01.img4399.com/ma/375171_logo2_30dc.jpg?1790662208)\n\n扫描二维码下载游戏\n\n[游戏视频](https://a.4399.cn/game-id-375171.html#j-picthumb \"游戏视频\")\n\n- [![](https://f1.img4399.com/sj~375171_screenshot_6911a78968e18.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a78968e18.jpeg) [![](https://f1.img4399.com/sj~375171_screenshot_6911a789ecfab.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a789ecfab.jpeg) [![](https://f1.img4399.com/sj~375171_screenshot_6911a78a86b7f.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a78a86b7f.jpeg)\n- [![](https://f1.img4399.com/sj~375171_screenshot_6911a78b0a8f3.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a78b0a8f3.jpeg) [![](https://f1.img4399.com/sj~375171_screenshot_6911a78b99566.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a78b99566.jpeg)\n\n基本信息评论攻略\n\n- 大事件01月08日10:00正式上线全部\n\n## 游戏简介\n\n《疯狂水世界》是一个非常有趣的海上生存游戏，主角幸存者在海上漂流，海上充满危机，玩家需要收集木材、金属、食物等生存必需品，以维持基地的运转和居民的生活。这些资源可能散落在海洋的各个角落，需要玩家驾驶潜水艇或使用其他工具进行收集。此外玩家还需要应对各种恶劣的天气条件，如暴风雨、海啸等，以确保基地的安全和居民的生存！\n\n展开"
+  ],
+  "sources": [
+    {
+      "url": "https://a.4399.cn/mobile/375171.html",
+      "reference": "《疯狂水世界》是一个非常有趣的海上生存游戏，主角幸存者在海上漂流，海上充满危机，玩家需要收集木材、金属、食物等生存必需品，以维持基地的运转和居民的生活。这些资源可能散落在海洋的各个角落，需要玩家驾驶潜水艇或使用其他工具进行收集。此外玩家还需要应对各种恶劣的天气条件，如暴风雨、海啸等，以确保基地的安全和居民的生存！",
+      "evidence_id": "ae8fd60847d767a87e4b324d3270533e"
+    }
+  ],
+  "markdown": "# 疯狂水世界 经济系统\n\n在《疯狂水世界》的基础生存经济中，木材、金属与食物为维持基地运转和居民生活的核心生存必需品。[@证据](sources/evidence.md#ev-ae8fd60847d767a87e4b324d3270533e)\n\n这些资源散落在海洋的各个角落，玩家需要驾驶潜水艇或使用其他工具在海上进行搜集，以维系居民生存并保障基地应对恶劣天气与危机运转。[@证据](sources/evidence.md#ev-ae8fd60847d767a87e4b324d3270533e)\n",
+  "record_path": "/tmp/game-kb-fresh/.wiki_evidence/records/ver-a909eba5c28a4580ad2c693e1144fa5d.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

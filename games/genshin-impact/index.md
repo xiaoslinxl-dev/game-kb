@@ -1,19 +1,13 @@
----
-okf_version: "0.1"
----
+# 原神 知识库索引
 
-# Genshin Impact — Knowledge Base Index
+《原神》是由米哈游自研的开放世界冒险RPG。玩家在名为「提瓦特」的幻想世界中探索，踏遍七国并结识能力各异的同伴，共同对抗强敌并寻回血亲。[@证据](sources/evidence.md#ev-dae8f618f7cd06481292819466c07705)
 
-Welcome to the OKF Knowledge Base for **Genshin Impact** (`genshin-impact`), an open-world action RPG developed and published by miHoYo / HoYoverse.
+## 文档目录
 
-## Navigation
-
-- [Overview](/overview.md) — High-level game summary, genre definition, platform ecosystem, and core proposition.
-- [Core Loop](/core-loop.md) — Primary, secondary, and tertiary gameplay loops, session structure, and retention drivers.
-- [Combat](/combat.md) — Elemental reaction combat system, party composition dynamics, movement mechanics, and encounter design.
-- [Progression](/progression.md) — Character and weapon leveling, Artifact farming RNG, Adventure Rank, World Levels, and Talent ascension.
-- [Monetization](/monetization.md) — Gacha mechanics (Wish system, pity thresholds, 50/50 system), Battle Pass (Gnostic Hymn), Blessing of the Welkin Moon, and cosmetics.
-- [Social & LiveOps](/social-liveops.md) — Co-op mechanics, version update cadence (6-week cycle), limited-time flagship events, and community ecosystem.
-- [Market Position](/market-position.md) — Commercial success, target demographics, competitive landscape, and influence on the cross-platform action RPG market.
-- [Risks & Unknowns](/risks-unknowns.md) — LiveOps content pipeline strain, power creep, regulatory considerations, and endgame design challenges.
-- [Sources](/sources.md) — Key citations, developer notes, market intelligence reports, and research reference links.
+- [游戏概览](overview.md)
+- [核心循环](core-loop.md)
+- [经济系统](economy.md)
+- [养成系统](progression.md)
+- [商业化](monetization.md)
+- [社交与运营活动](social-liveops.md)
+- [市场表现与定位](market-position.md)

@@ -1,22 +1,4 @@
----
-type: System
-title: "{{game_title}} · Session combat"
-description: "TODO for {{game_id}}"
-tags: []
-timestamp: "1970-01-01T00:00:00Z"
-game_id: "{{game_id}}"
-project_id: ""
-confidence: low
-research_schema_version: 1
-system_id: sys-xxx
-objective: "TODO（一句话说明该系统的目标）"
-applies_to: all
----
+# 局内战斗系统
 
-# Session combat
-
-## 规则
-
-| rule_id | 名称 | 入口与解锁 | 输入 | 操作与限制 | 输出 | 胜败条件 / 不适用理由 | 来源 | 核验状态 |
-|---|---|---|---|---|---|---|---|---|
-| rule-xxx-001 | TODO | unknown（原因） | TODO | TODO | TODO | TODO | src-0001@r001/ev-01 | unverified |
+<!-- 主题提示：研究单局战斗规则、操作机制、技能系统、战斗数值与克制关系。 -->
+<!-- 正文自由 Markdown 组织，每项游戏事实末尾标注真实核验的证据链接 [证据](sources/evidence.md#ev-<MD5>)。 -->

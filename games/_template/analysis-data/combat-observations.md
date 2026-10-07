@@ -1,20 +1,4 @@
----
-type: CombatObservations
-title: "{{game_title}} · Combat observations"
-description: "TODO for {{game_id}}"
-tags: []
-timestamp: "1970-01-01T00:00:00Z"
-game_id: "{{game_id}}"
-project_id: ""
-confidence: low
-research_schema_version: 1
-applies_to: TODO（阶段/范围）
----
+# 战斗观察与实测数据
 
-# Combat observations
-
-## 挑战观察
-
-| fact_id | 观察对象 | 时长/间隔 | 判定规则 | 失败代价 | 难度节点 | 观测样本与条件 | 来源 | 核验状态 |
-|---|---|---|---|---|---|---|---|---|
-|obs-todo-001|TODO|TODO|TODO|TODO|TODO|TODO|src-0001@r001/ev-01|unverified|
+<!-- 主题提示：实测战斗样本、技能循环表现与观测记录。 -->
+<!-- 正文自由 Markdown 组织，每项游戏事实末尾标注真实核验的证据链接 [证据](sources/evidence.md#ev-<MD5>)。 -->

@@ -1,15 +1,4 @@
----
-type: Overview
-title: "{{game_title}} · Overview"
-description: "TODO for {{game_id}}"
-tags: []
-timestamp: "1970-01-01T00:00:00Z"
-game_id: "{{game_id}}"
-project_id: ""
-confidence: low
-research_schema_version: 1
----
+# 游戏概述
 
-# Overview
-
-TODO — replace during generate.
+<!-- 主题提示：研究游戏基本信息、研发发行背景、世界观设定与核心玩法特色。 -->
+<!-- 正文自由 Markdown 组织，每项游戏事实末尾标注真实核验的证据链接 [证据](sources/evidence.md#ev-<MD5>)。 -->

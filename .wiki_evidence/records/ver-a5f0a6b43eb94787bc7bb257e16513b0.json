@@ -1,0 +1,51 @@
+{
+  "verification_id": "ver-a5f0a6b43eb94787bc7bb257e16513b0",
+  "created_at": "2026-10-07T05:01:34.272872+00:00",
+  "full_request": {
+    "game_id": "dou-luo-da-lu-hun-shi-dui-jue",
+    "file": "economy.md",
+    "markdown": "# 《斗罗大陆：魂师对决》神界秘藏活动转盘规则\n\n在「神界秘藏」限时活动中，转盘抽取与寻宝罗盘消耗规则如下：\n- **寻宝罗盘与秘藏商店**：活动期间，消耗寻宝罗盘可以在活动转盘中抽取各类稀有道具奖励，寻宝罗盘可于秘藏商店中进行购买 [证据](sources/evidence.md#ev-dc71559dad5281751bde7f23e6de0bb3)。\n- **三级转盘流转机制**：活动中存在3个转盘，分别为宗门稀品、大陆珍宝和神界秘藏。活动开启时玩家处于宗门稀品转盘，当抽中大陆珍宝入口与神界秘藏入口道具时，将跳转至对应的转盘，并返还1个寻宝罗盘；当玩家在宗门稀品或大陆珍宝转盘中抽取时，可进行多次抽取，直到抽中入口道具进行跳转；但在神界秘藏转盘中，仅可进行单次抽取，且获得1次奖励后，由于秘宝现世的神界动荡，将落回宗门稀品转盘 [证据](sources/evidence.md#ev-dc71559dad5281751bde7f23e6de0bb3)。\n",
+    "expected_sha256": "a4de484e8d22e33fc819881c02a346a64e24130d3ea88f06db14fa6114de5230",
+    "sources": [
+      {
+        "url": "https://www.taptap.cn/moment/850095434431988783",
+        "reference": "活动简介：活动期间，消耗寻宝罗盘可以在活动转盘中抽取各类稀有道具奖励，寻宝罗盘可于秘藏商店中进行购买。\n\n1、活动中存在3个转盘，分别为宗门稀品、大陆珍宝和神界秘藏。不同的转盘中有不同的奖励可供抽取。\n\n2、活动开启时玩家处于宗门稀品转盘，当抽中大陆珍宝入口与神界秘藏入口道具时，将跳转至对应的转盘，并返还1个寻宝罗盘。\n\n3、当玩家在宗门稀品或大陆珍宝转盘中抽取时，可进行多次抽取，直到抽中入口道具进行跳转。但在神界秘藏转盘中，仅可进行单次抽取，且获得1次奖励后，由于秘宝现世的神界动荡，将落回宗门稀品转盘。"
+      }
+    ],
+    "scope": {
+      "game_id": "dou-luo-da-lu-hun-shi-dui-jue",
+      "region": "cn"
+    }
+  },
+  "markdown_sha256": "d5c76e1cdd2dd69cfae549e0bb87aa1da2fd40d1a9908e0c4ca4039c54c81e84",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.9,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.79,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://tap-client-logs-bj.cn-beijing.dualstack.log.aliyuncs.com/logstores/web_apm/track_ua.gif?t_log_id=428593e7-c163-4d5f-ab7e-04b6e104b276&APIVersion=0.6.0&XUA=V%3D1%26PN%3DWeb%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC%26DS%3DAndroid%26UID%3D15c5ceed-8775-4826-a70f-204a04505034%26OS%3DLinux%26OSV%3Dx86_64%26DT%3DPC&UID=15c5ceed-8775-4826-a70f-204a04505034&browser_name=Chrome&action=startup&ts=1791349297832&request_path=%2Fmoment%2F850095434431988783)\n\n即将上线 \\| 神界秘藏 \\- 斗罗大陆：魂师对决综合讨论 \\- TapTap 斗罗大陆：魂师对决论坛\n\n[![斗罗大陆：魂师对决icon](https://img-tc.tapimg.com/market/images/c76db29bded0381291b0bcf4e99e90f4.jpg/_tap_appicon_m.jpg)\\\\\n\\\\\n斗罗大陆：魂师对决](https://www.taptap.cn/app/211270)\n\n# 即将上线 \\| 神界秘藏\n\n[最可爱的小起](https://www.taptap.cn/user/346082531 \"最可爱的小起\")\n\n09/18366 浏览综合\n\n![TapTap](https://img2-tc.tapimg.com/moment/etag/FkY03XoKF8wlpSFJQ8A8fh7WcTxr_20260918193337.png/_tap_ugc.jpg)\n\n活动时间：2026年9月19日05:00——2026年9月20日04:59\n\n开启条件：2026年9月6日04:59前开启的区服，玩家等级≥30级。\n\n活动简介：活动期间，消耗寻宝罗盘可以在活动转盘中抽取各类稀有道具奖励，寻宝罗盘可于秘藏商店中进行购买。\n\n活动规则：\n\n1、活动中存在3个转盘，分别为宗门稀品、大陆珍宝和神界秘藏。不同的转盘中有不同的奖励可供抽取。\n\n2、活动开启时玩家处于宗门稀品转盘，当抽中大陆珍宝入口与神界秘藏入口道具时，将跳转至对应的转盘，并返还1个寻宝罗盘。\n\n3、当玩家在宗门稀品或大陆珍宝转盘中抽取时，可进行多次抽取，直到抽中入口道具进行跳转。但在神界秘藏转盘中，仅可进行单次抽取，且获得1次奖励后，由于秘宝现世的神界动荡，将落回宗门稀品转盘。\n\n4、进行若干次单抽后可解锁连续抽取功能，在宗门稀品、大陆珍宝转盘中进行自动抽取，抽中入口道具后停止自动抽取。\n\n5、幸运值及保底说明：不同的转盘将分开记录幸运值，且特殊大奖设有保底。\n\n6、活动奖励预览：\n\n1）达标奖励：包含敏攻魂涡多代自选礼、SP魂灵自选礼、4星铠甲魂骨自选礼、SSR+魂灵自选礼、超·赤羽焚天鸾、包罗万象肠、自选职业随机灵锻魂涡·锥\\*3、高级万能信物\\*10、武魂觉醒券\\*5等\n\n2）宗门稀品奖池：神界秘藏入口、大陆珍宝入口、魂灵金宝石、魂灵自选礼、百年·始源之魂、随机百锻魂涡、橙魂骨玉、赤晶兽魂等\n\n3）大陆珍宝奖池：神界秘藏入口、专属魂灵自选礼、专属四肢骨自选礼、源魂材料自选礼、凶兽养成材料自选、神化精粹等\n\n4）神界秘藏奖池：王道长·源心自选礼、妖魅不朽源骨自选礼（可选择魇狐幻颅不朽源骨或绯雾噬心不朽源骨）、蜕变四肢骨自选礼、凶兽魂环自选礼等\n\n上述部分奖励道具有获取次数限制，且活动奖池会随开服时间进行变化，以实际游戏内展示为准。\n\n![icon](https://img-tc.tapimg.com/market/images/6fa8eeabce96920c955f643b434dec51.png/_tap_icon.jpg)\n\n猜你想搜\n\n斗罗大陆 魂师对决 神界秘藏活动\n\n[![斗罗大陆：魂师对决icon](https://img-tc.tapimg.com/market/images/c76db29bded0381291b0bcf4e99e90f4.jpg/_tap_appicon_m.jpg)](https://www.taptap.cn/app/211270)\n\n[斗罗大陆：魂师对决](https://www.taptap.cn/app/211270)\n\n7.6\n\n[卡牌](https://www.taptap.cn/tag/%E5%8D%A1%E7%89%8C) [回合制](https://www.taptap.cn/tag/%E5%9B%9E%E5%90%88%E5%88%B6) [多人联机](https://www.taptap.cn/tag/%E5%A4%9A%E4%BA%BA%E8%81%94%E6%9C%BA)\n\n[前往论坛](https://www.taptap.cn/app/211270/topic)\n\n[查看](https://www.taptap.cn/app/211270)\n\n评论4\n\n只看作者\n\n最热\n\n[![](https://img.tapimg.com/market/images/d20ff71e1f1e1961755e6e4ffc6e2c3f.png)](https://www.taptap.cn/moment/850095434431988783)\n\n登录 后发表回复并参与互动\n\n加载中\n\n取消发送\n\n[![斗罗大陆：魂师对决 封面](https://img-tc.tapimg.com/market/images/0efa5914dadeb3ba73ba41788ccba0a0.jpg/_tap_banner.jpg)](https://www.taptap.cn/app/211270)\n\n[斗罗大陆：魂师对决](https://www.taptap.cn/app/211270)\n\n7.6\n\n[卡牌](https://www.taptap.cn/tag/%E5%8D%A1%E7%89%8C) [回合制](https://www.taptap.cn/tag/%E5%9B%9E%E5%90%88%E5%88%B6) [多人联机](https://www.taptap.cn/tag/%E5%A4%9A%E4%BA%BA%E8%81%94%E6%9C%BA)\n\n[去论坛](https://www.taptap.cn/app/211270/topic) [查看游戏](https://www.taptap.cn/app/211270)\n\n[![全部神兽免费送！难得良心一回截图](https://img2-tc.tapimg.com/moment/etag/Frdh68rw7FhQo9T-3kkgfQ_t8wvH_20261006135419.jpg/_tap_ugc.jpg)\\\\\n\\\\\n全部神兽免费送！难得良心一回\\\\\n\\\\\n我宣布魂师对决策划恢复一天人籍！祝大家国庆快乐！#斗罗大陆魂师对决造梦计划 #斗罗大陆魂师对决 #魂师对决 #发现好游戏\\\\\n\\\\\n@风与天空\\\\\n\\\\\n2 赞\\\\\n\\\\\n2 回复](https://www.taptap.cn/moment/856532505702959328) [00:14\\\\\n\\\\\n![斗罗大陆魂师对决：心愿觉醒补偿两个神王霍雨浩！截图](https://img-tc.tapimg.com/video-picture/tid-6ab62beef524264b3e6a25d3/first.jpg/_tap_ugc.jpg)\\\\\n\\\\\n斗罗大陆魂师对决：心愿觉醒补偿两个神王霍雨浩！\\\\\n\\\\\n#斗罗大陆魂师对决 #斗罗大陆\\\\\n\\\\\n@冷冉然\\\\\n\\\\\n1 赞\\\\\n\\\\\n3 回复](https://www.taptap.cn/moment/852579912597373989) [![换卡换卡，有换的吗截图](https://img2-tc.tapimg.com/moment/etag/FqtKjcmeJ3RyI_CHWJDdkWOSFTAY_20261007065350.png/_tap_ugc.jpg)\\\\\n\\\\\n换卡换卡，有换的吗\\\\\n\\\\\n@User345203537\\\\\n\\\\\n6 回复](https://www.taptap.cn/moment/856789243102497331) [![[表情_开心]月神小舞上线我替换谁呀？我想着把sp拓跋下了，上月神小舞，，，但好像小舞技能机制和太初奥斯卡冲突啊，那咋搞？？不养奥斯卡了？ [表情_开心]还有魂师大赛的这个积分碎片还有必要养十方蓉蓉吗？ 还是等小舞上线，换小舞碎片啊？ [表情_开心] 这个万能碎片还能换王林吗？以为是个敏攻结果出辅助，看来王林还不能退休啊，截图](https://img2-tc.tapimg.com/moment/etag/Fq27bMOhD_Vf_zPvLbZKg7xAI9wz_20260723214140.jpg/_tap_ugc.jpg)\\\\\n\\[表情\\_开心\\]月神小舞上线我替换谁呀？我想着把sp拓跋下了，上月神小舞，，，但好像小舞技能机制和太初奥斯卡冲突啊，那咋搞？？不养奥斯卡了？\\\\\n\\[表情\\_开心\\]还有魂师大赛的这个积分碎片还有必要养十方蓉蓉吗？ 还是等小舞上线，换小舞碎片啊？\\\\\n\\[表情\\_开心\\] 这个万能碎片还能换王林吗？以为是个敏攻结果出辅助，看来王林还不能退休啊，\\\\\n\\\\\n@琪\\\\\n\\\\\n2 赞\\\\\n\\\\\n24 回复](https://www.taptap.cn/moment/829471118246019209) [![这个要买吗截图](https://img2-tc.tapimg.com/moment/etag/FpBzwv1aZXW0RRBSsLfyAE_CslY1_20261007100312.jpg/_tap_ugc.jpg)\\\\\n\\\\\n这个要买吗\\\\\n\\\\\n@l\\\\\n\\\\\n1 回复](https://www.taptap.cn/moment/856836720350463164) [![灵眸耀世卡池复刻-神王·霍雨浩截图](https://img2-tc.tapimg.com/moment/etag/Fr9J5dmx0ft8ibSCMNtdi-3qzljo_20260919220314.png/_tap_ugc.jpg)\\\\\n\\\\\n灵眸耀世卡池复刻-神王·霍雨浩\\\\\n\\\\\n〓神王·霍雨浩介绍〓\\\\\n神王·霍雨浩是一名强攻系魂师，其拥有以下独特的核心机制：\\\\\n【1】神王·霍雨浩可以通过控制自身的\\[情绪值\\]，使自身进入\\[情绪爆发\\]、\\[情绪崩坏\\]状态，并于两种状态中切换，在\\[情绪爆发\\]中对敌方进行高频爆发输出，在\\[情绪崩坏\\]中保护自身，蛰伏至后期反攻；\\\\\n\\[情绪爆发\\]、\\[情绪崩坏\\]期间，将同时改变霍雨浩第一、第四魂技的主被动形态，在不同的时期发挥不同的作用。 \\\\\n【2】神王·霍雨\\\\\n\\\\\n官方\\\\\n@最可爱的小起\\\\\n\\\\\n1 赞](https://www.taptap.cn/moment/850494984556643001) [00:56\\\\\n\\\\\n![中秋活动开启，魂导器史上最低价截图](https://img-tc.tapimg.com/video-picture/tid-6ab5d8cbf524264b3e6a1c4f/first.jpg/_tap_ugc.jpg)\\\\\n\\\\\n中秋活动开启，魂导器史上最低价\\\\\n\\\\\n中秋活动开启，魂导器史上最低价#发现好游戏 #斗罗大陆魂师对决 #游戏日常 #斗罗大陆\\\\\n\\\\\n@石头游戏解说\\\\\n\\\\\n1 赞](https://www.taptap.cn/moment/852490646760457296) [![即将上线｜修罗应援截图](https://img2-tc.tapimg.com/moment/etag/FjQCbBY-Pa7mor2Hg2pJFBUWvxQd_20260919220708.png/_tap_ugc.jpg)\\\\\n\\\\\n即将上线｜修罗应援\\\\\n\\\\\n1、活动时间：2026年9月20日 05:00 - 9月23日 04:59\\\\\n2、开启条件：2026年9月7日 04:59前开启的区服，玩家等级达到30级\\\\\n3、活动期间，玩家可通过完成任务、礼包商城购买等途径获得应援道具，为修罗·唐三、修罗·小舞应援打气。应援方式分为剑鞘应援令和剑身应援令两种，不同的应援方式消耗不同的应援道具，掉落不同的周边礼品。\\\\\n4、全服奖励：玩家参与任意应援可以增加全服应援次数\\\\\n\\\\\n官方\\\\\n@最可爱的小起\\\\\n\\\\\n2 赞](https://www.taptap.cn/moment/850496095912986400) [00:31\\\\\n\\\\\n![双神归一，统御万象！SP+统御神王即将携至高神威降临斗罗大陆！截图](https://img-tc.tapimg.com/video-picture/tid-6ab481e4f524264b3e69f39f/first.jpg/_tap_ugc.jpg)\\\\\n\\\\\n双神归一，统御万象！SP+统御神王即将携至高神威降临斗罗大陆！\\\\\n\\\\\n双神归一，神王临世\\\\\n他曾以凡人之身踏上斗罗大陆\\\\\n历经离别、杀戮与神考\\\\\n终在生死之间打破桎梏\\\\\n瀚海无垠，修罗有刃\\\\\n当两大至高权柄融于一身\\\\\n他登临神界巅峰，执掌秩序，统御众生\\\\\n全新魂师SP+统御神王·唐三\\\\\n即将携至高神威，降临斗罗大陆！\\\\\n\\\\\n官方\\\\\n@最可爱的小起\\\\\n\\\\\n5 赞\\\\\n\\\\\n2 回复](https://www.taptap.cn/moment/852122539428678287) [![玉兔寻宝&神环好礼截图](https://img2-tc.tapimg.com/moment/etag/FhrnIDvyWK2MHFtFaGsmxIi3P5qE_20260920194255.png/_tap_ugc.jpg)\\\\\n\\\\\n玉兔寻宝&神环好礼\\\\\n\\\\\n==玉兔寻宝==\\\\\n1、活动时间：2026年9月21日 05:00 - 9月28日 04:59\\\\\n2、开启条件：魂师等级大于等于30级，2026年9月21日 04:59前开启的区服\\\\\n3、活动介绍：活动期间，玩家通过参加游戏达到一定活跃值可获得莲蓉月饼、五仁月饼、豆沙月饼、丹桂月饼。活动期间每日13:00-14:59、21:00-23:59开启寻宝场景，消耗对应道具用于单人召唤或组队召唤玉兔宝宝寻找莲年\\\\\n\\\\\n官方\\\\\n@最可爱的小起\\\\\n\\\\\n6 赞\\\\\n\\\\\n4 回复](https://www.taptap.cn/moment/850824026795279105)\n\n3\n\n1\n\n4"
+  ],
+  "sources": [
+    {
+      "url": "https://www.taptap.cn/moment/850095434431988783",
+      "reference": "活动简介：活动期间，消耗寻宝罗盘可以在活动转盘中抽取各类稀有道具奖励，寻宝罗盘可于秘藏商店中进行购买。\n\n1、活动中存在3个转盘，分别为宗门稀品、大陆珍宝和神界秘藏。不同的转盘中有不同的奖励可供抽取。\n\n2、活动开启时玩家处于宗门稀品转盘，当抽中大陆珍宝入口与神界秘藏入口道具时，将跳转至对应的转盘，并返还1个寻宝罗盘。\n\n3、当玩家在宗门稀品或大陆珍宝转盘中抽取时，可进行多次抽取，直到抽中入口道具进行跳转。但在神界秘藏转盘中，仅可进行单次抽取，且获得1次奖励后，由于秘宝现世的神界动荡，将落回宗门稀品转盘。",
+      "evidence_id": "dc71559dad5281751bde7f23e6de0bb3"
+    }
+  ],
+  "markdown": "# 《斗罗大陆：魂师对决》神界秘藏活动转盘规则\n\n在「神界秘藏」限时活动中，转盘抽取与寻宝罗盘消耗规则如下：\n- **寻宝罗盘与秘藏商店**：活动期间，消耗寻宝罗盘可以在活动转盘中抽取各类稀有道具奖励，寻宝罗盘可于秘藏商店中进行购买 [证据](sources/evidence.md#ev-dc71559dad5281751bde7f23e6de0bb3)。\n- **三级转盘流转机制**：活动中存在3个转盘，分别为宗门稀品、大陆珍宝和神界秘藏。活动开启时玩家处于宗门稀品转盘，当抽中大陆珍宝入口与神界秘藏入口道具时，将跳转至对应的转盘，并返还1个寻宝罗盘；当玩家在宗门稀品或大陆珍宝转盘中抽取时，可进行多次抽取，直到抽中入口道具进行跳转；但在神界秘藏转盘中，仅可进行单次抽取，且获得1次奖励后，由于秘宝现世的神界动荡，将落回宗门稀品转盘 [证据](sources/evidence.md#ev-dc71559dad5281751bde7f23e6de0bb3)。\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-a5f0a6b43eb94787bc7bb257e16513b0.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

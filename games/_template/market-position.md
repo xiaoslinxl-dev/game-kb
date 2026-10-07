@@ -1,15 +1,4 @@
----
-type: MarketPosition
-title: "{{game_title}} · Market position"
-description: "TODO for {{game_id}}"
-tags: []
-timestamp: "1970-01-01T00:00:00Z"
-game_id: "{{game_id}}"
-project_id: ""
-confidence: low
-research_schema_version: 1
----
+# 市场定位与竞品分析
 
-# Market position
-
-TODO — replace during generate.
+<!-- 主题提示：研究游戏受众、品类定位、核心差异化与竞品对比。 -->
+<!-- 正文自由 Markdown 组织，每项游戏事实末尾标注真实核验的证据链接 [证据](sources/evidence.md#ev-<MD5>)。 -->

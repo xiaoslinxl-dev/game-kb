@@ -1,5 +1,5 @@
 # 斗罗大陆：猎魂世界 市场表现与定位
 
-在品类创新与市场定位方面，《斗罗大陆：猎魂世界》定位为斗罗IP首款3D写实大世界MMORPG，具备多端互联特性以实现跨平台无界体验。[@证据](sources/evidence.md#ev-72b89fd8e0f1b2ec33671a333ec10640)
+在App Store平台中，《斗罗大陆：猎魂世界》由Anhui 37 Network Technology Co., Ltd.开发，年龄分级为16+并包含App内控制。[@证据](sources/evidence.md#ev-eaada8fa4bea4addc3151032d391752c)
 
-在受众目标与MMO赛道竞争层面，该作主打真正意义上的斗罗MMO，构筑触手可及的宏大世界，定位为真正能打的斗罗大陆与1亿魂师的新选择，通过高自由度大世界与原著角色沉浸体验塑造赛道差异。[@证据](sources/evidence.md#ev-08f97a4b5ef1464b8a0825dff5665252)
+在评价与榜单定位方面，该作累计拥有2.5万个评分，评分为4.4分，在角色扮演排行榜位列#51。[@证据](sources/evidence.md#ev-eaada8fa4bea4addc3151032d391752c)

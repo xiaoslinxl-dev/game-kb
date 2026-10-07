@@ -76,4 +76,4 @@ research_schema_version: 1
 - 游戏玩法洋葱架构详见 [核心循环 (core-loop.md)](core-loop.md)。
 - 商业化礼包与买断特权对比见 [商业化与付费变现 (monetization.md)](monetization.md)。
 - 征服赛季大沙盘攻城规则见 [联盟领地战与世界城战 (systems/territory-war.md)](systems/territory-war.md)。
-- 行业参考报道见 [资料来源与参考文献 (sources.md)](sources.md)。
+- 历史行业参考报道见 [历史来源资料归档](../../.wiki_evidence/legacy/feng-kuang-shui-shi-jie/process-documents-95bf3739.json)；已核验材料见 [证据台账](sources/evidence.md)。

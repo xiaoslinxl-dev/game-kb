@@ -136,5 +136,4 @@ research_schema_version: 1
 - **代币体系与资源流转产销链**：参考 [经济系统 (economy.md)](economy.md)；
 - **长线运营、城战赛季与礼包码**：参考 [社交与长线运营 (social-liveops.md)](social-liveops.md)；
 - **品类竞品演进与市场定位**：参考 [市场定位与竞品分析 (market-position.md)](market-position.md)；
-- **已知争议、不确定性与潜在隐患**：参考 [风险与不确定性 (risks-unknowns.md)](risks-unknowns.md)；
-- **所有参考资料与权威出处**：详见 [资料来源与参考文献 (sources.md)](sources.md)。
+- **来源资料**：已核验材料见 [证据台账](sources/evidence.md)；旧来源详目见 [历史资料归档](../../.wiki_evidence/legacy/feng-kuang-shui-shi-jie/process-documents-95bf3739.json)。

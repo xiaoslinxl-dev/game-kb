@@ -1,0 +1,70 @@
+{
+  "verification_id": "ver-ab490f062c5f45028b89f60cecb8b847",
+  "created_at": "2026-10-08T11:30:21.112837+00:00",
+  "full_request": {
+    "game_id": "shen-miao-tao-pao-2",
+    "file": "systems/session-combat.md",
+    "markdown": "---\ntype: Combat Session System\ntitle: 神庙逃亡2 单局操作与技能道具系统\n---\n\n# 神庙逃亡2 单局操作与技能道具系统\n\n根据2018年7月新手攻略资料，《神庙逃亡2》在跑酷玩法中，通过局内道具效果强化、技能充能释放与失败复活机制构成单局操作体系：\n\n## 1. 跑酷基础道具与增益升级\n\n攻略所记录的基础技能与升级效果如下：\n- **护盾持续时间（Shield duration）**：升级该技能可以延长护盾的持续时间；注意护盾只对路上的障碍有效果，如果掉下了悬崖护盾就无效了。\n- **磁铁延时（Coin Magnet）**：升级这个技能后可以延长磁铁的持续时间。\n- **加速距离（Boost Distance）**：升级这个技能可以延长加速道具的奔跑距离。\n- **道具生成率（pickup spawn）**：可以让道具出现的几率加大（具体加大多少攻略记录暂时未知）。[@来源](../sources/evidence.md#ev-e2052bdaf212b5c7749473ca4bc8ad98)\n\n## 2. 能量充能、复活与计分强化\n\n- **能量条增益（power meter）**：升级这个技能后，左上角的能量条填补的能量会增多。\n- **失败复活（save me）**：游戏失败后可以使用宝石来复活。\n- **开局冲刺减免（head start）**：升级这个技能后可以减少一开始加速时所耗费的金钱数量。\n- **分数乘数（Score Multiplier）**：可以对分数进行加成，获得更高的分数。[@来源](../sources/evidence.md#ev-6364bcc8aeabaa5e03809af6a1d6c3bf)\n\n## 3. 局内能量释放、角色技能与作者经验提示\n\n在攻略记录的机制与操作经验中，购买新的游戏人物即可学习新的技能：\n- **技能选择与双击触发**：在进行游戏时，如果能量条满了之后，只需要双击两下屏幕就可以触发技能；每一个人物只需要点击旁边的“use”按钮就可以选择技能，也可以选择使用宝石延长技能的持续时间。\n- **地形情境作者提示**：攻略作者提示游戏中的悬崖基本都是岔路口，往左转或往右转即可，不要跳；在矿洞里面左右摇晃手机即可。该提示属于相应岔路口情境下的作者经验分享。[@来源](../sources/evidence.md#ev-bdb1278cce364d91a2790967ed945cb2)\n",
+    "expected_sha256": "06d184c06b75d6070593e1a412928ffb3339250cc97a05c7910edca4bfe4546e",
+    "sources": [
+      {
+        "url": "https://game.xiaomi.com/viewpoint/1040699030_1531448384278_13",
+        "reference": "Shield duration：升级该技能可以延长护盾的持续时间，注意护盾只对路上的障碍有效果，如果你掉下了悬崖护盾就无效了。\n\nCoin Magnet：升级这个技能后可以延长磁铁的持续时间。\n\nBoost Distance：升级这个技能可以延长加速道具的奔跑距离。\n\npickup spawn：可以让道具出现的几率加大，具体加大多少暂时还不知道。"
+      },
+      {
+        "url": "https://game.xiaomi.com/viewpoint/1040699030_1531448384278_13",
+        "reference": "power meter：升级这个技能后，左上角的能量条填补的能量会增多。\n\nsave me：游戏失败后可以使用宝石来复活。\n\nhead start：升级这个技能后可以减少一开始加速时所耗费的金钱数量。\n\nScore Multiplier：可以对分数进行加成，获得更高的分数。"
+      },
+      {
+        "url": "https://game.xiaomi.com/viewpoint/1040699030_1531448384278_13",
+        "reference": "注意只要购买新的游戏人物就可以学习新的技能了。\n\n在进行游戏时，如果能量条满了之后，只需要双击两下屏幕就可以触发技能，每一个人物只需要点击旁边的“use”按钮就可以选择技能了，你也可以选择使用宝石延长技能的持续时间。\n\n另外有个小提示：游戏中的悬崖不要跳，基本上都是岔路口，往左边转或者往右边转就可以了。此外在矿洞里面只需要左右摇晃手机即可。"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "fa8f2bd5d75496bbdd9d1224668c16dfbe44dacfe4bf12ce8aa1f30c7d4333cb",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.95,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.69,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "# 《神庙逃亡2》道具说明及新手提示\n\n![](https://pic.kts.g.mi.com/1040699030_1528709920@base@tag=imgScale&q=80&F=webp&w=100)\n\n想家的孩儿2018年07月12日未知归属地\n\n作者：佚名　来源：互联网\n\n神庙逃亡2道具介绍：\n\n![](https://video.kts.g.mi.com/ktv_1040699030_a3RkQVYxYXZQakYwcEQ2WXZWbjBIQT09_1531448358351.jpeg)Coin Value：可以改变硬币的颜色。\n\nShield duration：升级该技能可以延长护盾的持续时间，注意护盾只对路上的障碍有效果，如果你掉下了悬崖护盾就无效了。\n\nCoin Magnet：升级这个技能后可以延长磁铁的持续时间。\n\nBoost Distance：升级这个技能可以延长加速道具的奔跑距离。\n\npickup spawn：可以让道具出现的几率加大，具体加大多少暂时还不知道。\n\npower meter：升级这个技能后，左上角的能量条填补的能量会增多。\n\nsave me：游戏失败后可以使用宝石来复活。\n\nhead start：升级这个技能后可以减少一开始加速时所耗费的金钱数量。\n\nScore Multiplier：可以对分数进行加成，获得更高的分数。\n\n![](https://video.kts.g.mi.com/ktv_1040699030_RFZTQlMvOUVDRnIycnpMY0VNWXJjZz09_1531448374463.jpeg)以上就是《神庙逃亡2》（神庙逃亡2）道具的一些介绍了。注意只要购买新的游戏人物就可以学习新的技能了。\n\n在进行游戏时，如果能量条满了之后，只需要双击两下屏幕就可以触发技能，每一个人物只需要点击旁边的“use”按钮就可以选择技能了，你也可以选择使用宝石延长技能的持续时间。\n\n另外有个小提示：游戏中的悬崖不要跳，基本上都是岔路口，往左边转或者往右边转就可以了。此外在矿洞里面只需要左右摇晃手机即可。\n\n11612次浏览63\n\n相关推荐\n\n[神庙逃亡2：这次是真红了！\\\\\n\\\\\n乐逗游戏4\\\\\n\\\\\n![神庙逃亡2：这次是真红了！](https://pic.kts.g.mi.com/f4e604f99d8b89aa8b895b268b877ca83554104440429639922.jpg)](https://game.xiaomi.com/viewpoint/1107738110_1664349739834_16)\n\n发布",
+    "# 《神庙逃亡2》道具说明及新手提示\n\n![](https://pic.kts.g.mi.com/1040699030_1528709920@base@tag=imgScale&q=80&F=webp&w=100)\n\n想家的孩儿2018年07月12日未知归属地\n\n作者：佚名　来源：互联网\n\n神庙逃亡2道具介绍：\n\n![](https://video.kts.g.mi.com/ktv_1040699030_a3RkQVYxYXZQakYwcEQ2WXZWbjBIQT09_1531448358351.jpeg)Coin Value：可以改变硬币的颜色。\n\nShield duration：升级该技能可以延长护盾的持续时间，注意护盾只对路上的障碍有效果，如果你掉下了悬崖护盾就无效了。\n\nCoin Magnet：升级这个技能后可以延长磁铁的持续时间。\n\nBoost Distance：升级这个技能可以延长加速道具的奔跑距离。\n\npickup spawn：可以让道具出现的几率加大，具体加大多少暂时还不知道。\n\npower meter：升级这个技能后，左上角的能量条填补的能量会增多。\n\nsave me：游戏失败后可以使用宝石来复活。\n\nhead start：升级这个技能后可以减少一开始加速时所耗费的金钱数量。\n\nScore Multiplier：可以对分数进行加成，获得更高的分数。\n\n![](https://video.kts.g.mi.com/ktv_1040699030_RFZTQlMvOUVDRnIycnpMY0VNWXJjZz09_1531448374463.jpeg)以上就是《神庙逃亡2》（神庙逃亡2）道具的一些介绍了。注意只要购买新的游戏人物就可以学习新的技能了。\n\n在进行游戏时，如果能量条满了之后，只需要双击两下屏幕就可以触发技能，每一个人物只需要点击旁边的“use”按钮就可以选择技能了，你也可以选择使用宝石延长技能的持续时间。\n\n另外有个小提示：游戏中的悬崖不要跳，基本上都是岔路口，往左边转或者往右边转就可以了。此外在矿洞里面只需要左右摇晃手机即可。\n\n11612次浏览63\n\n相关推荐\n\n[神庙逃亡2：这次是真红了！\\\\\n\\\\\n乐逗游戏4\\\\\n\\\\\n![神庙逃亡2：这次是真红了！](https://pic.kts.g.mi.com/f4e604f99d8b89aa8b895b268b877ca83554104440429639922.jpg)](https://game.xiaomi.com/viewpoint/1107738110_1664349739834_16)\n\n发布",
+    "# 《神庙逃亡2》道具说明及新手提示\n\n![](https://pic.kts.g.mi.com/1040699030_1528709920@base@tag=imgScale&q=80&F=webp&w=100)\n\n想家的孩儿2018年07月12日未知归属地\n\n作者：佚名　来源：互联网\n\n神庙逃亡2道具介绍：\n\n![](https://video.kts.g.mi.com/ktv_1040699030_a3RkQVYxYXZQakYwcEQ2WXZWbjBIQT09_1531448358351.jpeg)Coin Value：可以改变硬币的颜色。\n\nShield duration：升级该技能可以延长护盾的持续时间，注意护盾只对路上的障碍有效果，如果你掉下了悬崖护盾就无效了。\n\nCoin Magnet：升级这个技能后可以延长磁铁的持续时间。\n\nBoost Distance：升级这个技能可以延长加速道具的奔跑距离。\n\npickup spawn：可以让道具出现的几率加大，具体加大多少暂时还不知道。\n\npower meter：升级这个技能后，左上角的能量条填补的能量会增多。\n\nsave me：游戏失败后可以使用宝石来复活。\n\nhead start：升级这个技能后可以减少一开始加速时所耗费的金钱数量。\n\nScore Multiplier：可以对分数进行加成，获得更高的分数。\n\n![](https://video.kts.g.mi.com/ktv_1040699030_RFZTQlMvOUVDRnIycnpMY0VNWXJjZz09_1531448374463.jpeg)以上就是《神庙逃亡2》（神庙逃亡2）道具的一些介绍了。注意只要购买新的游戏人物就可以学习新的技能了。\n\n在进行游戏时，如果能量条满了之后，只需要双击两下屏幕就可以触发技能，每一个人物只需要点击旁边的“use”按钮就可以选择技能了，你也可以选择使用宝石延长技能的持续时间。\n\n另外有个小提示：游戏中的悬崖不要跳，基本上都是岔路口，往左边转或者往右边转就可以了。此外在矿洞里面只需要左右摇晃手机即可。\n\n11612次浏览63\n\n相关推荐\n\n[神庙逃亡2：这次是真红了！\\\\\n\\\\\n乐逗游戏4\\\\\n\\\\\n![神庙逃亡2：这次是真红了！](https://pic.kts.g.mi.com/f4e604f99d8b89aa8b895b268b877ca83554104440429639922.jpg)](https://game.xiaomi.com/viewpoint/1107738110_1664349739834_16)\n\n发布"
+  ],
+  "sources": [
+    {
+      "url": "https://game.xiaomi.com/viewpoint/1040699030_1531448384278_13",
+      "reference": "Shield duration：升级该技能可以延长护盾的持续时间，注意护盾只对路上的障碍有效果，如果你掉下了悬崖护盾就无效了。\n\nCoin Magnet：升级这个技能后可以延长磁铁的持续时间。\n\nBoost Distance：升级这个技能可以延长加速道具的奔跑距离。\n\npickup spawn：可以让道具出现的几率加大，具体加大多少暂时还不知道。",
+      "evidence_id": "e2052bdaf212b5c7749473ca4bc8ad98"
+    },
+    {
+      "url": "https://game.xiaomi.com/viewpoint/1040699030_1531448384278_13",
+      "reference": "power meter：升级这个技能后，左上角的能量条填补的能量会增多。\n\nsave me：游戏失败后可以使用宝石来复活。\n\nhead start：升级这个技能后可以减少一开始加速时所耗费的金钱数量。\n\nScore Multiplier：可以对分数进行加成，获得更高的分数。",
+      "evidence_id": "6364bcc8aeabaa5e03809af6a1d6c3bf"
+    },
+    {
+      "url": "https://game.xiaomi.com/viewpoint/1040699030_1531448384278_13",
+      "reference": "注意只要购买新的游戏人物就可以学习新的技能了。\n\n在进行游戏时，如果能量条满了之后，只需要双击两下屏幕就可以触发技能，每一个人物只需要点击旁边的“use”按钮就可以选择技能了，你也可以选择使用宝石延长技能的持续时间。\n\n另外有个小提示：游戏中的悬崖不要跳，基本上都是岔路口，往左边转或者往右边转就可以了。此外在矿洞里面只需要左右摇晃手机即可。",
+      "evidence_id": "bdb1278cce364d91a2790967ed945cb2"
+    }
+  ],
+  "markdown": "---\ntype: Combat Session System\ntitle: 神庙逃亡2 单局操作与技能道具系统\n---\n\n# 神庙逃亡2 单局操作与技能道具系统\n\n根据2018年7月新手攻略资料，《神庙逃亡2》在跑酷玩法中，通过局内道具效果强化、技能充能释放与失败复活机制构成单局操作体系：\n\n## 1. 跑酷基础道具与增益升级\n\n攻略所记录的基础技能与升级效果如下：\n- **护盾持续时间（Shield duration）**：升级该技能可以延长护盾的持续时间；注意护盾只对路上的障碍有效果，如果掉下了悬崖护盾就无效了。\n- **磁铁延时（Coin Magnet）**：升级这个技能后可以延长磁铁的持续时间。\n- **加速距离（Boost Distance）**：升级这个技能可以延长加速道具的奔跑距离。\n- **道具生成率（pickup spawn）**：可以让道具出现的几率加大（具体加大多少攻略记录暂时未知）。[@来源](../sources/evidence.md#ev-e2052bdaf212b5c7749473ca4bc8ad98)\n\n## 2. 能量充能、复活与计分强化\n\n- **能量条增益（power meter）**：升级这个技能后，左上角的能量条填补的能量会增多。\n- **失败复活（save me）**：游戏失败后可以使用宝石来复活。\n- **开局冲刺减免（head start）**：升级这个技能后可以减少一开始加速时所耗费的金钱数量。\n- **分数乘数（Score Multiplier）**：可以对分数进行加成，获得更高的分数。[@来源](../sources/evidence.md#ev-6364bcc8aeabaa5e03809af6a1d6c3bf)\n\n## 3. 局内能量释放、角色技能与作者经验提示\n\n在攻略记录的机制与操作经验中，购买新的游戏人物即可学习新的技能：\n- **技能选择与双击触发**：在进行游戏时，如果能量条满了之后，只需要双击两下屏幕就可以触发技能；每一个人物只需要点击旁边的“use”按钮就可以选择技能，也可以选择使用宝石延长技能的持续时间。\n- **地形情境作者提示**：攻略作者提示游戏中的悬崖基本都是岔路口，往左转或往右转即可，不要跳；在矿洞里面左右摇晃手机即可。该提示属于相应岔路口情境下的作者经验分享。[@来源](../sources/evidence.md#ev-bdb1278cce364d91a2790967ed945cb2)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-ab490f062c5f45028b89f60cecb8b847.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

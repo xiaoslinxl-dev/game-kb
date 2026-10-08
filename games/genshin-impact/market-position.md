@@ -1,3 +1,8 @@
+---
+type: Market Position
+title: 原神 市场表现与定位
+---
+
 # 原神 市场表现与定位
 
 在App Store平台展示中，《原神》由miHoYo Games开发，年龄分级为13+并设有App内控制，并入选编辑精选App。[@证据](sources/evidence.md#ev-95eac9fdc548ba67580c181de3e6d4e5)

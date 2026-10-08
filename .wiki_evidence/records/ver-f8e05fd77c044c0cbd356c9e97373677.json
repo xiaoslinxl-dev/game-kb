@@ -1,0 +1,50 @@
+{
+  "verification_id": "ver-f8e05fd77c044c0cbd356c9e97373677",
+  "created_at": "2026-10-08T15:38:16.229255+00:00",
+  "full_request": {
+    "game_id": "feng-kuang-shui-shi-jie",
+    "file": "index.md",
+    "markdown": "# 疯狂水世界 知识库索引\n\n在《疯狂水世界》中，游戏支持挂机自动采集各类资源与自动化加工生产，玩家通过战斗获取图纸并可加入联盟参与活动。[@App Store玩家评价](sources/evidence.md#ev-b45ede113def81292e0789f27d7147f2)\n\n## 文档目录\n\n- [游戏概览](overview.md)\n- [核心循环](core-loop.md)\n- [经济系统](economy.md)\n- [养成系统](progression.md)\n- [商业化](monetization.md)\n- [社交与运营活动](social-liveops.md)\n- [市场表现与定位](market-position.md)\n- [版本与赛季演进](versions.md)\n- [运营活动与限时玩法](live-events.md)\n- [联盟领地战系统](systems/territory-war.md)\n",
+    "expected_sha256": "385bdd45612fbad520c66e3332ca2a5b349217ebc1b14e6b676d93193c03f202",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630",
+        "reference": "# 游戏不错支持一波\n\n\n\n\n\n\n\n\n\n玩过几款木筏求生类游戏，生存压力很大一直要找资源，水世界这个游戏比较好的点就是可以挂机自动采集各类资源，加工生产也很便捷可以自动。适合我慢慢玩。里面也有战斗，才能获得图纸。前面送的卡推图凑合用，简单玩打发时间是足够的。联盟可以获得很多物资，每天打城看自己是否喜欢吧，可以佛系靠大佬，自己挂机参与就行。"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "551eb1a5b14f0ae8f99b619e585d9fb7b1fbb6143ebaf55047178370b7f39db0",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.85,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.73,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 疯狂水世界\n\n全新海上末日模拟生存手游\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [6253个评分\\\\\n\\\\\n4.5](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [排行榜\\\\\n\\\\\n#2\\\\\n\\\\\n角色扮演](https://apps.apple.com/cn/iphone/charts/7014?chart=top-free)\n\n- [开发者\\\\\n\\\\\n益世界网络科技(上海)有限公司](https://apps.apple.com/cn/developer/%E7%9B%8A%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80-%E4%B8%8A%E6%B5%B7-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1679513448?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [大小\\\\\n\\\\\n507.1\\\\\n\\\\\nMB](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n《疯狂水世界》是一款沉浸式海上末日模拟生存手游！在环境崩坏，陆地被淹没的未来，您将作为一位被命运选中的领袖，驾驶孤舟，探索海域，搜集残存物资，接纳四方的接纳者，并亲手在波涛之上建立起繁荣的避难所，带领人类文明在废墟中寻找失落的希望。\n\n[**评分及评论**](https://apps.apple.com/cn/app/6757172630?see-all=reviews&platform=iphone)\n\n- 4.5\n\n满分 5 分\n\n6253 个评分\n\n- 玩了一个多月，基本搞清楚状况了。给新手三条建议，第一，这个游戏只有一个boss，那就是兰博，其他四个队友都是配菜，就一个目的让兰博活到最后。兰博作为射手，堆攻速和吸血。兰博不仅自己是后期无敌，而且四技能也能够作为辅助给所有队友（包括召唤物）叠加攻速。第二这是一个单机游戏，打发时间，但是推图确实有意思，不同站位不同效果，甚至同一阵容反复多打几次就能过（前提是你得有召唤系角色），第三条，所有碎片和技能书不可以重置，尤其是月卡玩家，家底薄，就一个砸兰博，兰博用不上的才砸其他的，当然，主坦克也得有一个，不然前排撑不住也是兵败如山倒，后排被各种切，其他的辅助就是保后排。这游戏不需要所有角色都在战斗结束都活着，只需要你站到最后就行。推图钩子三星必备。最后，不跟主流的就一个结局，系统赛季还没结束，你的赛季就结束了，玩不下去了。\n\n- 玩过几款木筏求生类游戏，生存压力很大一直要找资源，水世界这个游戏比较好的点就是可以挂机自动采集各类资源，加工生产也很便捷可以自动。适合我慢慢玩。里面也有战斗，才能获得图纸。前面送的卡推图凑合用，简单玩打发时间是足够的。联盟可以获得很多物资，每天打城看自己是否喜欢吧，可以佛系靠大佬，自己挂机参与就行。\n\n# 游戏不错支持一波\n\n玩过几款木筏求生类游戏，生存压力很大一直要找资源，水世界这个游戏比较好的点就是可以挂机自动采集各类资源，加工生产也很便捷可以自动。适合我慢慢玩。里面也有战斗，才能获得图纸。前面送的卡推图凑合用，简单玩打发时间是足够的。联盟可以获得很多物资，每天打城看自己是否喜欢吧，可以佛系靠大佬，自己挂机参与就行。\n\n- 手机里满屏的充值界面，点开内容还能各种跳转充值。充值内容与实际价值严重不符且故意设置不充值即无法体验验证游戏完整内容的项目，如一个水厂皮肤128，仅增加其它工厂生产无需淡水的内容，实际体验中却发现，当淡水数量不足时，其它工厂亦无法生产相关物品。诸如此类涉及欺诈消费者权益行为，请严查。"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630",
+      "reference": "# 游戏不错支持一波\n\n\n\n\n\n\n\n\n\n玩过几款木筏求生类游戏，生存压力很大一直要找资源，水世界这个游戏比较好的点就是可以挂机自动采集各类资源，加工生产也很便捷可以自动。适合我慢慢玩。里面也有战斗，才能获得图纸。前面送的卡推图凑合用，简单玩打发时间是足够的。联盟可以获得很多物资，每天打城看自己是否喜欢吧，可以佛系靠大佬，自己挂机参与就行。",
+      "evidence_id": "b45ede113def81292e0789f27d7147f2"
+    }
+  ],
+  "markdown": "# 疯狂水世界 知识库索引\n\n在《疯狂水世界》中，游戏支持挂机自动采集各类资源与自动化加工生产，玩家通过战斗获取图纸并可加入联盟参与活动。[@App Store玩家评价](sources/evidence.md#ev-b45ede113def81292e0789f27d7147f2)\n\n## 文档目录\n\n- [游戏概览](overview.md)\n- [核心循环](core-loop.md)\n- [经济系统](economy.md)\n- [养成系统](progression.md)\n- [商业化](monetization.md)\n- [社交与运营活动](social-liveops.md)\n- [市场表现与定位](market-position.md)\n- [版本与赛季演进](versions.md)\n- [运营活动与限时玩法](live-events.md)\n- [联盟领地战系统](systems/territory-war.md)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-f8e05fd77c044c0cbd356c9e97373677.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

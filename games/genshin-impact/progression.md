@@ -1,3 +1,8 @@
+---
+type: Progression System
+title: 原神 养成系统
+---
+
 # 原神 养成系统
 
 在《原神》中，拥有「神之眼」的角色能够引导风、雷、水、火、冰、草、岩等元素之力用于战斗与探险，针对不同敌人使用技能触发适当的元素效果。[@证据](sources/evidence.md#ev-8bfe6b8027efb8c4fd8e5b6baa5530c0)

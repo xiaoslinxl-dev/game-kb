@@ -1,0 +1,80 @@
+{
+  "verification_id": "ver-ec9c8806422e411f86d7ffe620ec1775",
+  "created_at": "2026-10-08T17:38:46.627751+00:00",
+  "full_request": {
+    "game_id": "genshin-impact",
+    "file": "social-liveops.md",
+    "markdown": "---\ntype: Social and LiveOps\ntitle: 原神 社交与运营活动\n---\n\n# 原神 社交与运营活动\n\n## 多人游戏联机与世界等级约束\n\n冒险等阶达到16级及以上（冒险等阶≥16级）后永久开放多人游戏功能，玩家可以邀请或者被邀请进行多人游戏。多人游戏受到世界等级的约束，仅允许高世界等级的玩家加入相同或低世界等级的玩家世界（5.3版本开始，世界等级8的玩家可以进入世界等级9的玩家的世界）。[@来源](sources/evidence.md#ev-6bff6b662b7743a0a6b6062633af2591)\n\n## 周期性运营纪行与刷新时间\n\n在持续运营的纪行体系中，每期纪行大地纪行默认解锁获取，旅行者还可通过兑换珍珠纪行（花费68元）或珍珠之歌（花费128元，若已购买珍珠纪行后再购买珍珠之歌为花费78元）解锁珍珠纪行，获取更丰厚的奖励。每日任务将在凌晨4点刷新，每周任务将在每周一凌晨4点刷新（GMT+8，东八区）。[@来源](sources/evidence.md#ev-7dbfac14b367b7dd0fb938306aa64a6a)\n\n每周通过周常与日常任务获得的经验最多不能超过10000点，超过后则不能通过日常、周常任务获得经验，但仍可通过本期任务获得经验（本期任务获取的经验不会计入每周10000点上限）。[@来源](sources/evidence.md#ev-af7798d359e55247928ad7e02b8e3d9d)\n\n## 自定义创作与千星奇域\n\n在《原神》中，「千星奇域」是一个由旅行者主导的，集游玩、社交、构筑于一体的玩法模式。玩家将获得两位「奇域人偶」，自由搭配服饰定制穿搭。走进「奇域大厅」结识朋友，选择「奇域关卡」挑战各类冒险，还可以成为「奇匠」利用「千星沙箱」打造独一无二的玩法。[@来源](sources/evidence.md#ev-3cfc7780ea4b8517e0ee815cf553eb1e)\n",
+    "expected_sha256": "8a2ae33c1c005fcd737734746989613f8ce2297d30500a0202fecb561f4a60e4",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251",
+        "reference": "〓悠游千星，共筑奇域〓\n游玩「千星奇域」，这是一个由旅行者主导的，集游玩、社交、构筑于一体的梦幻乐园。你将获得两位「奇域人偶」，自由搭配服饰定制穿搭。走进「奇域大厅」邂逅各种朋友，选择「奇域关卡」挑战各类冒险……还可以成为「奇匠」发挥无限想象，利用「千星沙箱」打造独一无二的玩法。"
+      },
+      {
+        "url": "https://wiki.biligame.com/ys/%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F",
+        "reference": "**冒险等阶≥16级** 后永久开放多人游戏功能，玩家可以邀请或者被邀请进行多人游戏。\n\n多人游戏受到 [世界等级](https://wiki.biligame.com/ys/%E4%B8%96%E7%95%8C%E7%AD%89%E7%BA%A7 \"世界等级\") 的约束，仅允许 **高世界等级** 的玩家加入 **相同或低世界等级** 的玩家世界（5.3版本开始，世界等级8的玩家可以进入世界等级9的玩家的世界）。"
+      },
+      {
+        "url": "https://wiki.biligame.com/ys/%E7%BA%AA%E8%A1%8C",
+        "reference": "每期纪行中，大地纪行默认解锁获取，旅行者还可通过兑换珍珠纪行（花费68元）或珍珠之歌（花费128元），若已购买珍珠纪行后再购买珍珠之歌为花费78元。解锁珍珠纪行，获取更丰厚的奖励。每日任务将在凌晨4点刷新，每周任务将在每周一凌晨4点刷新。（GMT+8，东八区）"
+      },
+      {
+        "url": "https://wiki.biligame.com/ys/%E7%BA%AA%E8%A1%8C",
+        "reference": "每周通过周常，日常任务获得的经验最多不能超过10000点，超过后则不能通过日常、周常任务获得经验，但仍可通过本期任务获得经验。（本期任务获取的经验不会计入每周10000点上限）"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "3742873dfd78ebe4aa709f02dfcf2aeec9de431b33146a107f35a9bbe3b6b480",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.82,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.82,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 原神-6周年\n\n米哈游开放世界冒险RPG\n\n免费 · App 内购买\n\n- [155万个评分\\\\\n\\\\\n4.3](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#productRatings)\n\n- [获奖\\\\\n\\\\\n编辑精选\\\\\n\\\\\nApp](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#productRatings)\n\n- [年龄分级\\\\\n\\\\\n13+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#information)\n\n- [排行榜\\\\\n\\\\\n#8\\\\\n\\\\\n角色扮演](https://apps.apple.com/cn/iphone/charts/7014?chart=top-free)\n\n- [开发者\\\\\n\\\\\nmiHoYo Games](https://apps.apple.com/cn/developer/mihoyo-games/id1467190250?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 14 种语言](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#information)\n\n- [大小\\\\\n\\\\\n3.8\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n\\*目前游戏推荐使用iPhone 12系列或iPad（第9代）及以上的机型。\n无数生灵繁衍聚集的广袤大陆，天地万象蕴含其间。\n这里是七神统治、七种元素交汇的世界……\n\n陌生的天空下，少年少女立于尘沙。\n你们是一对旅行中的双子，从世界之外漂流而来。你的血亲被陌生的神灵带走，而你也被神封印，陷入沉眠。\n再度醒来，天地间风景已变……\n\n《原神》是由米哈游自研的一款全新开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。\n在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……\n\n直到你与分离的血亲重聚，在终点见证一切事物的沉淀。\n\n〓开放世界，自由探索〓\n《原神》是一款开放世界冒险游戏，这意味着从你踏入「提瓦特」的第一刻起，只要合理规划自己的体力，不论翻山越岭、还是横渡江河，总有办法见到新的风景。若见到游荡的仙灵、奇异的装置，不妨上前探究一番，看看迎接你的是意外，还是惊喜？\n\n〓元素交互，策略战斗〓\n在这片元素交汇的土地上，世界由风、雷、水、火、冰、草、岩七大元素构成，拥有「神之眼」的角色能引导元素之力用于战斗和探险。水与火相遇触发「蒸发」，火与雷引起「超载」，雷遇水附加「感电」……针对不同敌人，使用技能触发适当的元素效果，是制胜的关键。\n\n〓美术音乐，品质呈现〓\n《原神》美术风格清新通透，过场动画实时渲染，角色动作经由动捕与细致调整而来，呈现出高品质演出效果。随着24小时昼夜更替，天气与音乐也在动态变化，无论身处何地，总能聆听到由伦敦爱乐乐团、上海交响乐团等世界顶级交响乐团献上的具有地域特色的演奏。\n\n〓众多伙伴，携手冒险〓\n在冒险的旅途中，还可结识能力独特的伙伴，不妨摸索最佳队伍搭配、用旅途中搜集的材料强化角色，最终大陆上的魔物与秘境都将被你征服。立于绝云之巅，阴晴雨雪、云卷云舒似乎尽在眼前。但失散的血亲尚未重聚，「原神」的真相仍未显现……动身吧，旅行者，真正的冒险才刚刚开始呢。\n\n〓悠游千星，共筑奇域〓\n游玩「千星奇域」，这是一个由旅行者主导的，集游玩、社交、构筑于一体的梦幻乐园。你将获得两位「奇域人偶」，自由搭配服饰定制穿搭。走进「奇域大厅」邂逅各种朋友，选择「奇域关卡」挑战各类冒险……还可以成为「奇匠」发挥无限想象，利用「千星沙箱」打造独一无二的玩法。\n\n《原神》官方网站：ys.mihoyo.com\n《原神》官方微信：原神\n《原神》官方微博：@原神\n《原神》官方社区：bbs.mihoyo.com/ys\n《原神》B站动态：space.bilibili.com/401742377\n\n\\*\\*\\*兼容性要求\\*\\*\\*\n推荐系统：\niOS 14.0 或更高版本。\n\n支持设备：\niPhone 8 Plus或iPhone X、iPad mini（第5代）或iPad Air（第3代）或iPad（第8代）及以上机型。",
+    "falsefalseundefined\n\n本WIKI由 [旅行者酒馆](https://space.bilibili.com/489986571) 于2020年03月14日申请开通， **内容按 [CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 提供**，编辑权限开放。\n\n[免责声明](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E \"原神:免责声明\") • [反馈留言](https://wiki.biligame.com/ys/WIKI%E5%BB%BA%E8%AE%BE%E5%8F%8D%E9%A6%88%E5%8C%BA \"WIKI建设反馈区\") • [编辑教程](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9EWIKI%E7%BC%96%E8%BE%91%E6%95%99%E7%A8%8B \"原神WIKI编辑教程\") • [收藏方法](https://wiki.biligame.com/wiki/BWIKI%E6%94%B6%E8%97%8F%E5%88%B0%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%B4%E6%98%8E) • [评论管理规定](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%8E%9F%E7%A5%9EWIKI%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B \"原神:原神WIKI评论区管理条例\") • 交流群：1018709157\n\n感谢 [大猫雷恩](https://space.bilibili.com/784639) 对WIKI设计支持，期待更多能人异士加入原神WIKI。\n\n本WIKI由 [旅行者酒馆](https://space.bilibili.com/489986571) 于2020年03月14日申请开通， **内容按 [CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 提供**，编辑权限开放。\n\n[免责声明](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E \"原神:免责声明\") • [反馈留言](https://wiki.biligame.com/ys/WIKI%E5%BB%BA%E8%AE%BE%E5%8F%8D%E9%A6%88%E5%8C%BA \"WIKI建设反馈区\") • [编辑教程](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9EWIKI%E7%BC%96%E8%BE%91%E6%95%99%E7%A8%8B \"原神WIKI编辑教程\") • [收藏方法](https://wiki.biligame.com/wiki/BWIKI%E6%94%B6%E8%97%8F%E5%88%B0%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%B4%E6%98%8E) • [评论管理规定](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%8E%9F%E7%A5%9EWIKI%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B \"原神:原神WIKI评论区管理条例\") • 交流群：1018709157\n\n感谢 [大猫雷恩](https://space.bilibili.com/784639) 对WIKI设计支持，期待更多能人异士加入原神WIKI。\n\nbugfix250107.1\n\n全站通知：\n\n# 多人游戏\n\n## 加入\n\n**冒险等阶≥16级** 后永久开放多人游戏功能，玩家可以邀请或者被邀请进行多人游戏。\n\n多人游戏受到 [世界等级](https://wiki.biligame.com/ys/%E4%B8%96%E7%95%8C%E7%AD%89%E7%BA%A7 \"世界等级\") 的约束，仅允许 **高世界等级** 的玩家加入 **相同或低世界等级** 的玩家世界（5.3版本开始，世界等级8的玩家可以进入世界等级9的玩家的世界）。\n\n#### 方法一",
+    "falsefalseundefined\n\n本WIKI由 [旅行者酒馆](https://space.bilibili.com/489986571) 于2020年03月14日申请开通， **内容按 [CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 提供**，编辑权限开放。\n\n[免责声明](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E \"原神:免责声明\") • [反馈留言](https://wiki.biligame.com/ys/WIKI%E5%BB%BA%E8%AE%BE%E5%8F%8D%E9%A6%88%E5%8C%BA \"WIKI建设反馈区\") • [编辑教程](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9EWIKI%E7%BC%96%E8%BE%91%E6%95%99%E7%A8%8B \"原神WIKI编辑教程\") • [收藏方法](https://wiki.biligame.com/wiki/BWIKI%E6%94%B6%E8%97%8F%E5%88%B0%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%B4%E6%98%8E) • [评论管理规定](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%8E%9F%E7%A5%9EWIKI%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B \"原神:原神WIKI评论区管理条例\") • 交流群：1018709157\n\n感谢 [大猫雷恩](https://space.bilibili.com/784639) 对WIKI设计支持，期待更多能人异士加入原神WIKI。\n\n本WIKI由 [旅行者酒馆](https://space.bilibili.com/489986571) 于2020年03月14日申请开通， **内容按 [CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 提供**，编辑权限开放。\n\n[免责声明](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E \"原神:免责声明\") • [反馈留言](https://wiki.biligame.com/ys/WIKI%E5%BB%BA%E8%AE%BE%E5%8F%8D%E9%A6%88%E5%8C%BA \"WIKI建设反馈区\") • [编辑教程](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9EWIKI%E7%BC%96%E8%BE%91%E6%95%99%E7%A8%8B \"原神WIKI编辑教程\") • [收藏方法](https://wiki.biligame.com/wiki/BWIKI%E6%94%B6%E8%97%8F%E5%88%B0%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%B4%E6%98%8E) • [评论管理规定](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%8E%9F%E7%A5%9EWIKI%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B \"原神:原神WIKI评论区管理条例\") • 交流群：1018709157\n\n感谢 [大猫雷恩](https://space.bilibili.com/784639) 对WIKI设计支持，期待更多能人异士加入原神WIKI。\n\nbugfix250107.1\n\n全站通知：\n\n# 纪行\n\n## 规则说明\n\n### 【纪行类别】\n\n每期纪行中，大地纪行默认解锁获取，旅行者还可通过兑换珍珠纪行（花费68元）或珍珠之歌（花费128元），若已购买珍珠纪行后再购买珍珠之歌为花费78元。解锁珍珠纪行，获取更丰厚的奖励。每日任务将在凌晨4点刷新，每周任务将在每周一凌晨4点刷新。（GMT+8，东八区）\n\n### 【纪行等级】",
+    "falsefalseundefined\n\n本WIKI由 [旅行者酒馆](https://space.bilibili.com/489986571) 于2020年03月14日申请开通， **内容按 [CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 提供**，编辑权限开放。\n\n[免责声明](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E \"原神:免责声明\") • [反馈留言](https://wiki.biligame.com/ys/WIKI%E5%BB%BA%E8%AE%BE%E5%8F%8D%E9%A6%88%E5%8C%BA \"WIKI建设反馈区\") • [编辑教程](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9EWIKI%E7%BC%96%E8%BE%91%E6%95%99%E7%A8%8B \"原神WIKI编辑教程\") • [收藏方法](https://wiki.biligame.com/wiki/BWIKI%E6%94%B6%E8%97%8F%E5%88%B0%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%B4%E6%98%8E) • [评论管理规定](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%8E%9F%E7%A5%9EWIKI%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B \"原神:原神WIKI评论区管理条例\") • 交流群：1018709157\n\n感谢 [大猫雷恩](https://space.bilibili.com/784639) 对WIKI设计支持，期待更多能人异士加入原神WIKI。\n\n本WIKI由 [旅行者酒馆](https://space.bilibili.com/489986571) 于2020年03月14日申请开通， **内容按 [CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 提供**，编辑权限开放。\n\n[免责声明](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E \"原神:免责声明\") • [反馈留言](https://wiki.biligame.com/ys/WIKI%E5%BB%BA%E8%AE%BE%E5%8F%8D%E9%A6%88%E5%8C%BA \"WIKI建设反馈区\") • [编辑教程](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9EWIKI%E7%BC%96%E8%BE%91%E6%95%99%E7%A8%8B \"原神WIKI编辑教程\") • [收藏方法](https://wiki.biligame.com/wiki/BWIKI%E6%94%B6%E8%97%8F%E5%88%B0%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%B4%E6%98%8E) • [评论管理规定](https://wiki.biligame.com/ys/%E5%8E%9F%E7%A5%9E:%E5%8E%9F%E7%A5%9EWIKI%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B \"原神:原神WIKI评论区管理条例\") • 交流群：1018709157\n\n感谢 [大猫雷恩](https://space.bilibili.com/784639) 对WIKI设计支持，期待更多能人异士加入原神WIKI。\n\nbugfix250107.1\n\n全站通知：\n\n# 纪行\n\n## 规则说明\n\n### 【本周纪行经验上限】\n\n每周通过周常，日常任务获得的经验最多不能超过10000点，超过后则不能通过日常、周常任务获得经验，但仍可通过本期任务获得经验。（本期任务获取的经验不会计入每周10000点上限）\n\n### 【特殊说明】"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251",
+      "reference": "〓悠游千星，共筑奇域〓\n游玩「千星奇域」，这是一个由旅行者主导的，集游玩、社交、构筑于一体的梦幻乐园。你将获得两位「奇域人偶」，自由搭配服饰定制穿搭。走进「奇域大厅」邂逅各种朋友，选择「奇域关卡」挑战各类冒险……还可以成为「奇匠」发挥无限想象，利用「千星沙箱」打造独一无二的玩法。",
+      "evidence_id": "3cfc7780ea4b8517e0ee815cf553eb1e"
+    },
+    {
+      "url": "https://wiki.biligame.com/ys/%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F",
+      "reference": "**冒险等阶≥16级** 后永久开放多人游戏功能，玩家可以邀请或者被邀请进行多人游戏。\n\n多人游戏受到 [世界等级](https://wiki.biligame.com/ys/%E4%B8%96%E7%95%8C%E7%AD%89%E7%BA%A7 \"世界等级\") 的约束，仅允许 **高世界等级** 的玩家加入 **相同或低世界等级** 的玩家世界（5.3版本开始，世界等级8的玩家可以进入世界等级9的玩家的世界）。",
+      "evidence_id": "6bff6b662b7743a0a6b6062633af2591"
+    },
+    {
+      "url": "https://wiki.biligame.com/ys/%E7%BA%AA%E8%A1%8C",
+      "reference": "每期纪行中，大地纪行默认解锁获取，旅行者还可通过兑换珍珠纪行（花费68元）或珍珠之歌（花费128元），若已购买珍珠纪行后再购买珍珠之歌为花费78元。解锁珍珠纪行，获取更丰厚的奖励。每日任务将在凌晨4点刷新，每周任务将在每周一凌晨4点刷新。（GMT+8，东八区）",
+      "evidence_id": "7dbfac14b367b7dd0fb938306aa64a6a"
+    },
+    {
+      "url": "https://wiki.biligame.com/ys/%E7%BA%AA%E8%A1%8C",
+      "reference": "每周通过周常，日常任务获得的经验最多不能超过10000点，超过后则不能通过日常、周常任务获得经验，但仍可通过本期任务获得经验。（本期任务获取的经验不会计入每周10000点上限）",
+      "evidence_id": "af7798d359e55247928ad7e02b8e3d9d"
+    }
+  ],
+  "markdown": "---\ntype: Social and LiveOps\ntitle: 原神 社交与运营活动\n---\n\n# 原神 社交与运营活动\n\n## 多人游戏联机与世界等级约束\n\n冒险等阶达到16级及以上（冒险等阶≥16级）后永久开放多人游戏功能，玩家可以邀请或者被邀请进行多人游戏。多人游戏受到世界等级的约束，仅允许高世界等级的玩家加入相同或低世界等级的玩家世界（5.3版本开始，世界等级8的玩家可以进入世界等级9的玩家的世界）。[@来源](sources/evidence.md#ev-6bff6b662b7743a0a6b6062633af2591)\n\n## 周期性运营纪行与刷新时间\n\n在持续运营的纪行体系中，每期纪行大地纪行默认解锁获取，旅行者还可通过兑换珍珠纪行（花费68元）或珍珠之歌（花费128元，若已购买珍珠纪行后再购买珍珠之歌为花费78元）解锁珍珠纪行，获取更丰厚的奖励。每日任务将在凌晨4点刷新，每周任务将在每周一凌晨4点刷新（GMT+8，东八区）。[@来源](sources/evidence.md#ev-7dbfac14b367b7dd0fb938306aa64a6a)\n\n每周通过周常与日常任务获得的经验最多不能超过10000点，超过后则不能通过日常、周常任务获得经验，但仍可通过本期任务获得经验（本期任务获取的经验不会计入每周10000点上限）。[@来源](sources/evidence.md#ev-af7798d359e55247928ad7e02b8e3d9d)\n\n## 自定义创作与千星奇域\n\n在《原神》中，「千星奇域」是一个由旅行者主导的，集游玩、社交、构筑于一体的玩法模式。玩家将获得两位「奇域人偶」，自由搭配服饰定制穿搭。走进「奇域大厅」结识朋友，选择「奇域关卡」挑战各类冒险，还可以成为「奇匠」利用「千星沙箱」打造独一无二的玩法。[@来源](sources/evidence.md#ev-3cfc7780ea4b8517e0ee815cf553eb1e)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-ec9c8806422e411f86d7ffe620ec1775.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

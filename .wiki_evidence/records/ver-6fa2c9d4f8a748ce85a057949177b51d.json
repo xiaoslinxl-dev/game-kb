@@ -1,0 +1,82 @@
+{
+  "verification_id": "ver-6fa2c9d4f8a748ce85a057949177b51d",
+  "created_at": "2026-10-08T11:59:59.321727+00:00",
+  "full_request": {
+    "game_id": "feng-kuang-shui-shi-jie",
+    "file": "core-loop.md",
+    "markdown": "---\ntype: Core Loop\ntitle: 疯狂水世界 核心循环\n---\n\n# 疯狂水世界 核心循环\n\n《疯狂水世界》构建了从海上打捞求生到联盟城战协作的完整玩法流转闭环：\n\n## 1. 基础资源收集与建设起步\n\n玩家在生存初期以“拾荒奠基”为核心，需要从打捞海上漂浮物开始，将塑料、金属等文明残骸转化为初始资源，完成从求生到建设的第一步。[@来源](sources/evidence.md#ev-658b0425f6a038047c7a0adf7d84d1de)\n\n## 2. 联盟组织运作与资源互助\n\n避难所建立后，玩家融入联盟体系展开协作：\n\n- **领导选举**：开服第三天22点，联盟贡献榜前五自动成为盟主及副盟主；盟主若三日未上线将被接替。[@来源](sources/evidence.md#ev-fd6273194431acbce581a7ba32adbd86)\n- **募兵与集结**：成员在推荐城市募兵可获得额外功勋，盟主及副盟主可负责宣战和集结。[@来源](sources/evidence.md#ev-fd6273194431acbce581a7ba32adbd86)\n- **材料互助**：每日可发起20次材料求助，帮助盟友可获得功勋；求助请求超时24小时自动取消。[@来源](sources/evidence.md#ev-fd6273194431acbce581a7ba32adbd86)\n\n## 3. 功勋产出与成长资源兑换\n\n联盟玩法产出的功勋直接反馈至角色养成：\n\n- **功勋获取途径**：主要通过攻城战、联盟募兵和互助获得。[@来源](sources/evidence.md#ev-7c5211ad16e38b9600cf636eeba609a3)\n- **商店核心兑换**：功勋优先兑换联盟商店中的传说英雄万能碎片（每周限10次）与传说技能书（每周限20次）。[@来源](sources/evidence.md#ev-7c5211ad16e38b9600cf636eeba609a3)\n- **建筑皮肤兑换**：底部两款建筑皮肤需90万/150万功勋兑换，微氪玩家亦可选择直接购买（材料厂皮肤18元、货轮港口30元）。[@来源](sources/evidence.md#ev-7c5211ad16e38b9600cf636eeba609a3)\n\n## 4. 舰队作战状态与战斗限制\n\n在城战对抗与出征作战中，舰队生存状态直接影响战斗结果：当舰队耐久归零时，该0耐久舰队将受到极强战力惩罚，其伤害、护盾与治疗均削减100%（-100%）。[@来源](sources/evidence.md#ev-a959e5a4c93acf6eb34c842c6e7998c4)\n",
+    "expected_sha256": "ffaf22159ffb4e97b46f606db165aaf40245720379b106266048ec3be9ffa0bf",
+    "sources": [
+      {
+        "url": "https://wap.gamersky.com/news/Content-2072535.html",
+        "reference": "拾荒奠基：玩家需要从打捞海上漂浮物开始，将塑料、金属等文明残骸转化为初始资源，完成从“求生”到“建设”的第一步。"
+      },
+      {
+        "url": "https://www.taptap.cn/moment/759751482693127787",
+        "reference": "联盟机制\n\n\\- 领导选举：开服第三天22点，联盟贡献榜前五自动成为盟主及副盟主，盟主三日未上线将被接替。\n\n\\- 募兵系统：成员在推荐城市募兵可获额外功勋，盟主/副盟主可宣战和集结，管理需合理分配防御资源。\n\n\\- 互助功能：每日可发起20次材料求助，帮助盟友可获功勋，请求超时24小时自动取消。"
+      },
+      {
+        "url": "https://www.taptap.cn/moment/759751482693127787",
+        "reference": "资源兑换\n\n\\- 功勋获取：通过攻城战、联盟募兵和互助获得，优先兑换联盟商店的传说英雄万能碎片（10次/周）和传说技能书（20次/周）。\n\n\\- 皮肤兑换：底部两款建筑皮肤需90万/150万功勋，微氪建议直接购买（材料厂皮肤18元、货轮港口30元）。"
+      },
+      {
+        "url": "https://www.taptap.cn/moment/783294407129432753",
+        "reference": "【优化】将0耐久舰队，伤害、护盾、治疗-100%"
+      }
+    ],
+    "scope": {
+      "game_id": "feng-kuang-shui-shi-jie",
+      "title": "疯狂水世界",
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "11826375e3458ccabaad9b7849912961c0bf5f8ecc1e5038b302cf2444ce2dbe",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.84,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.76,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://image.gamersky.com/webimg13/wap/2021/APP-ICON@3x.png)\n\n游民星空\n\n下载游民App，送买游戏无门槛优惠券\n\n下载App\n\n1月8日，益世界旗下新品手游《疯狂水世界》首发上线。这款以“海上末日生存”为题材的模拟生存手游，将玩家置于一个陆地消失、文明沉没的未来海上世界，扮演“老大”带领幸存者在汪洋中重建漂浮家园。\n\nExternal Player - 哔哩哔哩嵌入式外链播放器\n\n益世界《疯狂水世界》今日重磅上线！\n\n![](https://i2.hdslb.com/bfs/face/a91d27de8a1a12a6ef2e875f496a92018f2e665e.jpg@96w.webp)益世界游戏官方关注\n\n3\n\n1\n\n分享\n\n更多\n\n- 稍后再看\n- 问题反馈\n\n正在缓冲...\n\n00:00/01:07\n\n**1** 人正在看\n\n，\n\n已装填 0 条弹幕\n\n请先登录或 [注册](https://passport.bilibili.com/login?register_page=1)\n\n[弹幕礼仪](https://www.bilibili.com/blackboard/help.html#%E5%BC%B9%E5%B9%95%E7%9B%B8%E5%85%B3?id=3ebbac9998474850bfdf42b231477371)\n\n发送\n\n一起去哔哩哔哩发送弹幕吧！\n\n自动\n\n- 1080P 高码率大会员\n- 1080P 高清登录即享\n- 720P 高清登录即享\n- 480P 清晰登录即享\n- 360P 流畅\n- 自动(360P)\n\n倍速\n\n- 2.0x\n- 1.5x\n- 1.25x\n- 1.0x\n- 0.75x\n- 0.5x\n\n100\n\n进入哔哩哔哩，观看更高清\n\n进入哔哩哔哩，观看更高清\n\n关闭弹幕 (d)\n\n反馈\n\n进入全屏 (f)\n\n核心玩法：从拾荒到联盟的生存之道\n\n益世界《疯狂水世界》围绕资源稀缺的末日海洋环境，构建了一套从生存到发展的玩法。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1293_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1293.jpg)\n\n拾荒奠基：玩家需要从打捞海上漂浮物开始，将塑料、金属等文明残骸转化为初始资源，完成从“求生”到“建设”的第一步。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1352_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1352.jpg)\n\n经营扩张：在有限的浮动平台上，玩家需规划并发展渔业、农业及手工业，建立自给自足的生产链条，逐步将简易筏子扩展为功能齐全的漂浮社区。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1420_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1420.jpg)\n\n联盟共治：随着个人基地稳固，游戏引入了联盟合作玩法。玩家可招募特色角色，组建舰队，并与其他玩家结盟，以应对海盗威胁或探索深海遗迹，在协作与对抗中寻求长期生存。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1502_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1502.jpg)\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1504_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1504.jpg)\n\n赛道深化：益世界的“模拟经营+”布局\n\n《疯狂水世界》的重磅上线，可视为益世界在其优势的模拟经营赛道上的一次题材拓荒并推出的一款具备爆款潜力的重磅新品。作为一家集研发孵化、发行运营一体化的专业游戏企业，益世界持续深耕模拟经营赛道，凭借对品类的深刻理解和持续的创新力，已成功打造多款具有行业影响力的标杆产品。基于全产业链的布局优势，公司累计运营产品超2000款，构建了丰富且多元的产品矩阵，业务辐射全球市场，累计服务玩家数量已达亿级，是广州乃至全国游戏产业中兼具规模、实力与行业影响力的企业之一。\n\n从《我是大东家》的古风商贸，到《这城有良田》的城镇经营，再到如今的海上末日生存，益世界持续尝试将模拟经营核心玩法与不同世界观和题材进行融合，探索该品类的多元表达。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1835_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1835.jpg)\n\n据行业观察，在竞争激烈的模拟经营赛道中，能否成功打造具有差异化的题材与新颖玩法，正成为产品突围的关键。益世界《疯狂水世界》选择的全新海上生存视角，正是这一趋势下的具体实践。该作品能否在模拟经营红海中建立起稳固的“浮岛”，仍有待市场的进一步检验。\n\n作者：未知     责任编辑：飘渺鱼\n\n![](https://image.gamersky.com/webimg13/wap/2020/con-mk1-bot.png)展开全文\n\n打开游民App，买游戏全场优惠\n\n#### APP精彩推荐打开游民APP查看更多\n\n- ![《永恒之塔2》捏脸遭萝莉控吐槽:最小都是C罩杯 太大](https://imgs.gamersky.com/upimg/new_preview/2026/10/07/origin_b_202610071007216460.jpg)",
+    "![](https://tap-client-logs-bj.cn-beijing.dualstack.log.aliyuncs.com/logstores/web_apm/track_ua.gif?t_log_id=97f4f0e2-49f0-4116-b4a9-91ea71f5506a&APIVersion=0.6.0&XUA=V%3D1%26PN%3DWeb%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC%26DS%3DAndroid%26UID%3D15c5ceed-8775-4826-a70f-204a04505034%26OS%3DLinux%26OSV%3Dx86_64%26DT%3DPC&UID=15c5ceed-8775-4826-a70f-204a04505034&browser_name=Chrome&action=startup&ts=1791460814154&request_path=%2Fmoment%2F759751482693127787)\n\n疯狂水世界联盟玩法攻略 \\- 疯狂水世界开荒攻略征集 \\- TapTap 疯狂水世界论坛\n\n# 疯狂水世界联盟玩法攻略\n\n01/112249 浏览开荒攻略征集\n\n疯狂水世界联盟玩法以城战策略和资源协作为核心，16级解锁后随机分配至四大联盟之一，无法更换。\n\n联盟机制\n\n\\- 领导选举：开服第三天22点，联盟贡献榜前五自动成为盟主及副盟主，盟主三日未上线将被接替。\n\n\\- 募兵系统：成员在推荐城市募兵可获额外功勋，盟主/副盟主可宣战和集结，管理需合理分配防御资源。\n\n\\- 互助功能：每日可发起20次材料求助，帮助盟友可获功勋，请求超时24小时自动取消。\n\n城战策略",
+    "![](https://tap-client-logs-bj.cn-beijing.dualstack.log.aliyuncs.com/logstores/web_apm/track_ua.gif?t_log_id=97f4f0e2-49f0-4116-b4a9-91ea71f5506a&APIVersion=0.6.0&XUA=V%3D1%26PN%3DWeb%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC%26DS%3DAndroid%26UID%3D15c5ceed-8775-4826-a70f-204a04505034%26OS%3DLinux%26OSV%3Dx86_64%26DT%3DPC&UID=15c5ceed-8775-4826-a70f-204a04505034&browser_name=Chrome&action=startup&ts=1791460814154&request_path=%2Fmoment%2F759751482693127787)\n\n疯狂水世界联盟玩法攻略 \\- 疯狂水世界开荒攻略征集 \\- TapTap 疯狂水世界论坛\n\n# 疯狂水世界联盟玩法攻略\n\n01/112249 浏览开荒攻略征集\n\n疯狂水世界联盟玩法以城战策略和资源协作为核心，16级解锁后随机分配至四大联盟之一，无法更换。\n\n联盟机制\n\n\\- 领导选举：开服第三天22点，联盟贡献榜前五自动成为盟主及副盟主，盟主三日未上线将被接替。\n\n\\- 募兵系统：成员在推荐城市募兵可获额外功勋，盟主/副盟主可宣战和集结，管理需合理分配防御资源。\n\n\\- 互助功能：每日可发起20次材料求助，帮助盟友可获功勋，请求超时24小时自动取消。\n\n城战策略\n\n\\- 时间规则：每日20:00-21:00开放，占领城市需击败所有守军，海盗城市优先级最高（无玩家干预）。\n\n\\- 积分规则：占领1-6级城市得1-6分，7-13级城市得10-40分（逐级+5），14级城市50分，15级山景城200分。\n\n\\- 舰队耐久：原皮舰队耐久2000点，低于1500点触发Debuff，每分钟修复400点耐久，VIP3可解锁自动委任。\n\n资源兑换\n\n\\- 功勋获取：通过攻城战、联盟募兵和互助获得，优先兑换联盟商店的传说英雄万能碎片（10次/周）和传说技能书（20次/周）。\n\n\\- 皮肤兑换：底部两款建筑皮肤需90万/150万功勋，微氪建议直接购买（材料厂皮肤18元、货轮港口30元）。\n\n实战技巧",
+    "![](https://tap-client-logs-bj.cn-beijing.dualstack.log.aliyuncs.com/logstores/web_apm/track_ua.gif?t_log_id=a73903e0-fed8-46f5-95fd-10acb3707e1b&APIVersion=0.6.0&XUA=V%3D1%26PN%3DWeb%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC%26DS%3DAndroid%26UID%3D15c5ceed-8775-4826-a70f-204a04505034%26OS%3DLinux%26OSV%3Dx86_64%26DT%3DPC&UID=15c5ceed-8775-4826-a70f-204a04505034&browser_name=Chrome&action=startup&ts=1791460821796&request_path=%2Fmoment%2F783294407129432753)\n\n《疯狂水世界》更新公告 \\- 疯狂水世界版更/公告 \\- TapTap 疯狂水世界论坛\n\n# 《疯狂水世界》更新公告\n\n[沉迷捡垃圾的阿水](https://www.taptap.cn/user/749085478 \"沉迷捡垃圾的阿水\")\n\n修改于03/201876 浏览版更/公告\n\n亲爱的老大：\n\n为了提供更好的游戏体验，游戏将于【3月19日凌晨】（具体以游戏内邮件&公告通知为准）对游戏进行停服更新，届时将无法登录游戏，具体维护结束时间将视实际更新情况提前或延后，更新福利将在维护结束后统一发放，本次更新主要优化内容如下：\n\n【新增】英雄-芯片系统（镶嵌芯片与核芯可以获得属性加成与新技能效果）\n\n【新增】硅矿争夺玩法（常驻玩法，S3赛季起，玩家等级≥16级）\n\n【新增】芯片技能（核芯特有，一个英雄最多镶嵌1颗核芯）\n\n【新增】兰博皮肤-极地枪兵\n\n【新增】海水提取厂皮肤-超级净水器（效果：自动生产水，不占用队列）\n\n【新增】试炼副本91-120关\n\n【新增】主线闯关2701-3000关\n\n【新增】闯关达标2701-3000关\n\n【新增】阵型\\*3（暴击抵抗、命中、攻速）\n\n【新增】聊天表情第二弹\n\n【新增】高级属性：强攻与强能（无视百分比护甲与抗性）\n\n【优化】暴击抵抗效果调整为降低被暴击的概率和降低受到的暴击伤害\n\n【优化】雾隐千代专武2释放的【烟幕弹】增加短暂延迟时间（主技能释放逻辑调整为：先进入【虚无】，再选定攻击目标造成伤害）\n\n【优化】城站舰队委任优化（S2之后3天内登录过的才会出战，S1保持现有的7天内）\n\n【优化】舰队委任自动加速、自动维修功能优化（玩家等级≥35级）\n\n【优化】战报和战斗里显示敌我双方的舰队耐久值\n\n【优化】远征操作体验优化（一键上阵，下一关）\n\n【优化】点火城0耐久舰队可撤回（防止舰队被卡死）\n\n【优化】将0耐久舰队，伤害、护盾、治疗-100%\n\n【优化】商店购买优化，支付批量购买"
+  ],
+  "sources": [
+    {
+      "url": "https://wap.gamersky.com/news/Content-2072535.html",
+      "reference": "拾荒奠基：玩家需要从打捞海上漂浮物开始，将塑料、金属等文明残骸转化为初始资源，完成从“求生”到“建设”的第一步。",
+      "evidence_id": "658b0425f6a038047c7a0adf7d84d1de"
+    },
+    {
+      "url": "https://www.taptap.cn/moment/759751482693127787",
+      "reference": "联盟机制\n\n\\- 领导选举：开服第三天22点，联盟贡献榜前五自动成为盟主及副盟主，盟主三日未上线将被接替。\n\n\\- 募兵系统：成员在推荐城市募兵可获额外功勋，盟主/副盟主可宣战和集结，管理需合理分配防御资源。\n\n\\- 互助功能：每日可发起20次材料求助，帮助盟友可获功勋，请求超时24小时自动取消。",
+      "evidence_id": "fd6273194431acbce581a7ba32adbd86"
+    },
+    {
+      "url": "https://www.taptap.cn/moment/759751482693127787",
+      "reference": "资源兑换\n\n\\- 功勋获取：通过攻城战、联盟募兵和互助获得，优先兑换联盟商店的传说英雄万能碎片（10次/周）和传说技能书（20次/周）。\n\n\\- 皮肤兑换：底部两款建筑皮肤需90万/150万功勋，微氪建议直接购买（材料厂皮肤18元、货轮港口30元）。",
+      "evidence_id": "7c5211ad16e38b9600cf636eeba609a3"
+    },
+    {
+      "url": "https://www.taptap.cn/moment/783294407129432753",
+      "reference": "【优化】将0耐久舰队，伤害、护盾、治疗-100%",
+      "evidence_id": "a959e5a4c93acf6eb34c842c6e7998c4"
+    }
+  ],
+  "markdown": "---\ntype: Core Loop\ntitle: 疯狂水世界 核心循环\n---\n\n# 疯狂水世界 核心循环\n\n《疯狂水世界》构建了从海上打捞求生到联盟城战协作的完整玩法流转闭环：\n\n## 1. 基础资源收集与建设起步\n\n玩家在生存初期以“拾荒奠基”为核心，需要从打捞海上漂浮物开始，将塑料、金属等文明残骸转化为初始资源，完成从求生到建设的第一步。[@来源](sources/evidence.md#ev-658b0425f6a038047c7a0adf7d84d1de)\n\n## 2. 联盟组织运作与资源互助\n\n避难所建立后，玩家融入联盟体系展开协作：\n\n- **领导选举**：开服第三天22点，联盟贡献榜前五自动成为盟主及副盟主；盟主若三日未上线将被接替。[@来源](sources/evidence.md#ev-fd6273194431acbce581a7ba32adbd86)\n- **募兵与集结**：成员在推荐城市募兵可获得额外功勋，盟主及副盟主可负责宣战和集结。[@来源](sources/evidence.md#ev-fd6273194431acbce581a7ba32adbd86)\n- **材料互助**：每日可发起20次材料求助，帮助盟友可获得功勋；求助请求超时24小时自动取消。[@来源](sources/evidence.md#ev-fd6273194431acbce581a7ba32adbd86)\n\n## 3. 功勋产出与成长资源兑换\n\n联盟玩法产出的功勋直接反馈至角色养成：\n\n- **功勋获取途径**：主要通过攻城战、联盟募兵和互助获得。[@来源](sources/evidence.md#ev-7c5211ad16e38b9600cf636eeba609a3)\n- **商店核心兑换**：功勋优先兑换联盟商店中的传说英雄万能碎片（每周限10次）与传说技能书（每周限20次）。[@来源](sources/evidence.md#ev-7c5211ad16e38b9600cf636eeba609a3)\n- **建筑皮肤兑换**：底部两款建筑皮肤需90万/150万功勋兑换，微氪玩家亦可选择直接购买（材料厂皮肤18元、货轮港口30元）。[@来源](sources/evidence.md#ev-7c5211ad16e38b9600cf636eeba609a3)\n\n## 4. 舰队作战状态与战斗限制\n\n在城战对抗与出征作战中，舰队生存状态直接影响战斗结果：当舰队耐久归零时，该0耐久舰队将受到极强战力惩罚，其伤害、护盾与治疗均削减100%（-100%）。[@来源](sources/evidence.md#ev-a959e5a4c93acf6eb34c842c6e7998c4)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-6fa2c9d4f8a748ce85a057949177b51d.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

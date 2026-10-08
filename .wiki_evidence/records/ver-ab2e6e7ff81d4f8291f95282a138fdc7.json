@@ -1,0 +1,91 @@
+{
+  "verification_id": "ver-ab2e6e7ff81d4f8291f95282a138fdc7",
+  "created_at": "2026-10-08T17:53:26.584903+00:00",
+  "full_request": {
+    "game_id": "han-shuang-qi-shi-lu",
+    "file": "core-loop.md",
+    "markdown": "---\ntype: Core Loop\ntitle: 寒霜启示录 核心循环\n---\n\n# 寒霜启示录 核心循环\n\n《寒霜启示录》的总体玩法闭环由“城镇经营与离线放置积累 → 战力培养与小队搭配 → 探索关卡与世界远征 → 产出回流城镇与扩张”构成。\n\n## 1. 城镇建设与领地扩张循环\n\n玩家以一座熔炉为核心起点，通过融化冰雪与开拓领地推进城镇建设，合理规划人力分配与各类资源投入以建设繁荣小镇。[@证据](sources/evidence.md#ev-e769429dc34475566649d00463e18ec9)\n\n## 2. 放置挂机与日常资源补给\n\n在放置收益机制下，玩家可通过一键派遣英雄自动积累离线资源，保证在离线期间仍能获得持续资源增长，维持稳定的生存与建设节奏。[@证据](sources/evidence.md#ev-0785da21cf96574e071fbeef4d3c2fa7)\n\n## 3. 伙伴战斗与小队策略循环\n\n英雄战队是向外探索和御敌的关键。所有伙伴实行等级共享机制以降低培养成本，玩家通过灵活组合不同英雄的技能打造制胜小队。[@证据](sources/evidence.md#ev-894928b1f0d54e754b3ad24dd527d33d)\n\n## 4. 探索关卡挑战与战力验证\n\n“探索”模式构成了核心战斗体验与实力检验场。玩家带领小队挑战重重关卡，关卡推进程度直接决定所获得的奖励和资源规模，征服的关卡越多，获得的回报越丰厚。[@证据](sources/evidence.md#ev-099042e2152380817ab06ca2b41dd62d)\n\n## 5. 外向探索与世界远征回报\n\n除城镇内探索模式迎战敌方英雄小队外，游戏还设有包含世界地图战斗的“远征”模式。玩家通过持续完成探索关卡与远征任务击败敌军，源源不断地带回外部资源与丰厚奖励，重新投入城镇升级与小队进阶，形成完整的玩法正反馈闭环。[@证据](sources/evidence.md#ev-d492a0373ea8b448e1356071a40ff992)\n",
+    "expected_sha256": "bdb1ae6fd0186d9c8e84d8da82f1d0ecfc80c21a7594ca24b806c813eabe7bbc",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+        "reference": "◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！"
+      },
+      {
+        "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+        "reference": "◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~"
+      },
+      {
+        "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+        "reference": "◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！"
+      },
+      {
+        "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_postinstall_whiteout_survival_resources_now_fcp&hl=zh",
+        "reference": "探索与远征是快速获取奖励的好方法，因为两者都提供简单易玩的任务，完成任务后可获得丰厚奖励。远征模式包含你在世界地图上进行的所有战斗，而探索模式则要求你随着关卡的推进，迎战越来越强大的敌方英雄小队。"
+      },
+      {
+        "url": "https://play.google.com/store/apps/editorial?id=mc_mc_games_editorialevergreen_postinstall_whiteout_survival_combat_now_fcp&hl=zh",
+        "reference": "《寒霜启示录》的核心战斗体验尽在“探索”模式！你将在此挑战重重关卡，这正是对你小队实力的一场终极考验。征服的关卡越多，涌向你的奖励和资源就越丰厚！"
+      }
+    ],
+    "scope": {
+      "region": "CN",
+      "title": "寒霜启示录"
+    }
+  },
+  "markdown_sha256": "d1309edec220158dbbf491922031e59244c26f322ea2f5c4f7c01c5f6a0427b6",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.93,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.69,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 寒霜启示录\n\n4亿人都在玩的原创冰雪手游\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [47万个评分\\\\\n\\\\\n4.6](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [排行榜\\\\\n\\\\\n#1\\\\\n\\\\\n模拟](https://apps.apple.com/us/iphone/charts/7015?l=zh-Hans-CN&chart=top-free)\n\n- [开发者\\\\\n\\\\\nCentury Games Pte. Ltd.](https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?l=zh-Hans-CN&platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 15 种语言](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [大小\\\\\n\\\\\n1\\\\\n\\\\\nGB](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n全球原创冰雪手游！4亿人都在玩！\n\n暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！\n\n【游戏特色】\n◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！\n\n◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~\n\n◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！\n\n◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！\n\n◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~\n\n准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！\n\n【关注我们】\n游戏官网: https://whiteoutsurvival.centurygames.com/zh\\_cn\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS\\_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 寒霜启示录\n\n4亿人都在玩的原创冰雪手游\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [47万个评分\\\\\n\\\\\n4.6](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [排行榜\\\\\n\\\\\n#1\\\\\n\\\\\n模拟](https://apps.apple.com/us/iphone/charts/7015?l=zh-Hans-CN&chart=top-free)\n\n- [开发者\\\\\n\\\\\nCentury Games Pte. Ltd.](https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?l=zh-Hans-CN&platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 15 种语言](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [大小\\\\\n\\\\\n1\\\\\n\\\\\nGB](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n全球原创冰雪手游！4亿人都在玩！\n\n暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！\n\n【游戏特色】\n◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！\n\n◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~\n\n◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！\n\n◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！\n\n◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~\n\n准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！\n\n【关注我们】\n游戏官网: https://whiteoutsurvival.centurygames.com/zh\\_cn\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS\\_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 寒霜启示录\n\n4亿人都在玩的原创冰雪手游\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [47万个评分\\\\\n\\\\\n4.6](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [排行榜\\\\\n\\\\\n#1\\\\\n\\\\\n模拟](https://apps.apple.com/us/iphone/charts/7015?l=zh-Hans-CN&chart=top-free)\n\n- [开发者\\\\\n\\\\\nCentury Games Pte. Ltd.](https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?l=zh-Hans-CN&platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 15 种语言](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [大小\\\\\n\\\\\n1\\\\\n\\\\\nGB](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n全球原创冰雪手游！4亿人都在玩！\n\n暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！\n\n【游戏特色】\n◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！\n\n◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~\n\n◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！\n\n◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！\n\n◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~\n\n准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！\n\n【关注我们】\n游戏官网: https://whiteoutsurvival.centurygames.com/zh\\_cn\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS\\_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival",
+    "![](https://play-lh.googleusercontent.com/6R4GG0ZTl8R35upt1WeoHnigqXpE8XgFTJZ_4H0OfOqZ6qzVWh-h9ZMbmhbW0SNHZ5pnl8Hv7nRn=w1296-h2160-rw)\n\n# 《寒霜启示录》资源获取攻略\n\n分享\n\n在《寒霜启示录》的冰封苔原中建设营地绝非易事。你需要大量幸存者、充足的食物，以及建设和升级生产建筑所需的材料。这些资源至关重要，因此你需要了解如何尽可能多地获取资源。\n\n本攻略将为你详解《寒霜启示录》中生产资源最有效的方法。有些方法围绕营地展开，有些则需要你探索恶劣的环境，寻找丰厚的奖励。只要在玩游戏时善加运用这些方法，你就能收集到足够多的资源，让营地持续运转下去。\n\n![](https://play-lh.googleusercontent.com/wHicHqo6Q8eAFJS1OAwC_Fh808VWWK7s5s-Em2uYDxCypAbQMGOhK2olsI7xhSLWqsNv3NFtzq8=w3840-h2160-rw)\n\n## 探索与远征\n\n探索与远征是快速获取奖励的好方法，因为两者都提供简单易玩的任务，完成任务后可获得丰厚奖励。远征模式包含你在世界地图上进行的所有战斗，而探索模式则要求你随着关卡的推进，迎战越来越强大的敌方英雄小队。\n\n随着游戏进程的推进，请记得升级英雄，让他们保持最佳战斗状态，这将有助于你顺利完成探索关卡和远征任务。持续击败敌军，就会源源不断地获得资源。",
+    "![](https://play-lh.googleusercontent.com/f2UPR-SXaWdcrsv8PG-a2pGQmelaNa8HWK62kTgOit18sWqGc-GEzP2G-KtN7wCj6oglkoQWYA=w1296-h2160-rw)\n\n# 《寒霜启示录》战斗攻略\n\n分享\n\n在《寒霜启示录》中，你的当务之急是建立营地并招募幸存者。你也需要时不时集结一支英雄小队，投入与敌方的战斗。若准备不周，你的英雄们将溃不成军。\n\n这份攻略将为你揭示《寒霜启示录》的战斗奥秘。你将学会如何招募英雄、怎样搭配最强战队，以及在游戏中迎击敌方小队的多种战术。在《寒霜启示录》的冰天雪地中作战，酣畅淋漓，但只有万全的准备才能让你尽享其乐！\n\n![](https://play-lh.googleusercontent.com/dj2gKx4cXChq_scORpPZZ9aS3XMQXDD_Imbeb_EIH8ThLLJbKC0o47TCxpInK18Xl1SW1VdXmpM=w3840-h2160-rw)\n\n## 踏出营地，探索冰原\n\n《寒霜启示录》的核心战斗体验尽在“探索”模式！你将在此挑战重重关卡，这正是对你小队实力的一场终极考验。征服的关卡越多，涌向你的奖励和资源就越丰厚！\n\n卡关了怎么办？先别死磕，去看看其他挑战，或者想办法给你的英雄多刷点碎片吧。碎片带来的数值加成，应该足以让战力的天平向你倾斜，助你反败为胜。"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+      "reference": "◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！",
+      "evidence_id": "e769429dc34475566649d00463e18ec9"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+      "reference": "◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~",
+      "evidence_id": "0785da21cf96574e071fbeef4d3c2fa7"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+      "reference": "◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！",
+      "evidence_id": "894928b1f0d54e754b3ad24dd527d33d"
+    },
+    {
+      "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_postinstall_whiteout_survival_resources_now_fcp&hl=zh",
+      "reference": "探索与远征是快速获取奖励的好方法，因为两者都提供简单易玩的任务，完成任务后可获得丰厚奖励。远征模式包含你在世界地图上进行的所有战斗，而探索模式则要求你随着关卡的推进，迎战越来越强大的敌方英雄小队。",
+      "evidence_id": "d492a0373ea8b448e1356071a40ff992"
+    },
+    {
+      "url": "https://play.google.com/store/apps/editorial?id=mc_mc_games_editorialevergreen_postinstall_whiteout_survival_combat_now_fcp&hl=zh",
+      "reference": "《寒霜启示录》的核心战斗体验尽在“探索”模式！你将在此挑战重重关卡，这正是对你小队实力的一场终极考验。征服的关卡越多，涌向你的奖励和资源就越丰厚！",
+      "evidence_id": "099042e2152380817ab06ca2b41dd62d"
+    }
+  ],
+  "markdown": "---\ntype: Core Loop\ntitle: 寒霜启示录 核心循环\n---\n\n# 寒霜启示录 核心循环\n\n《寒霜启示录》的总体玩法闭环由“城镇经营与离线放置积累 → 战力培养与小队搭配 → 探索关卡与世界远征 → 产出回流城镇与扩张”构成。\n\n## 1. 城镇建设与领地扩张循环\n\n玩家以一座熔炉为核心起点，通过融化冰雪与开拓领地推进城镇建设，合理规划人力分配与各类资源投入以建设繁荣小镇。[@证据](sources/evidence.md#ev-e769429dc34475566649d00463e18ec9)\n\n## 2. 放置挂机与日常资源补给\n\n在放置收益机制下，玩家可通过一键派遣英雄自动积累离线资源，保证在离线期间仍能获得持续资源增长，维持稳定的生存与建设节奏。[@证据](sources/evidence.md#ev-0785da21cf96574e071fbeef4d3c2fa7)\n\n## 3. 伙伴战斗与小队策略循环\n\n英雄战队是向外探索和御敌的关键。所有伙伴实行等级共享机制以降低培养成本，玩家通过灵活组合不同英雄的技能打造制胜小队。[@证据](sources/evidence.md#ev-894928b1f0d54e754b3ad24dd527d33d)\n\n## 4. 探索关卡挑战与战力验证\n\n“探索”模式构成了核心战斗体验与实力检验场。玩家带领小队挑战重重关卡，关卡推进程度直接决定所获得的奖励和资源规模，征服的关卡越多，获得的回报越丰厚。[@证据](sources/evidence.md#ev-099042e2152380817ab06ca2b41dd62d)\n\n## 5. 外向探索与世界远征回报\n\n除城镇内探索模式迎战敌方英雄小队外，游戏还设有包含世界地图战斗的“远征”模式。玩家通过持续完成探索关卡与远征任务击败敌军，源源不断地带回外部资源与丰厚奖励，重新投入城镇升级与小队进阶，形成完整的玩法正反馈闭环。[@证据](sources/evidence.md#ev-d492a0373ea8b448e1356071a40ff992)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-ab2e6e7ff81d4f8291f95282a138fdc7.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

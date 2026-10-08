@@ -1,5 +1,10 @@
+---
+type: Market Position
+title: 疯狂水世界 市场表现与定位
+---
+
 # 疯狂水世界 市场表现与定位
 
-在App Store数据中，《疯狂水世界》由益世界网络科技(上海)有限公司开发，年龄分级为9+并具备App内控制。[@证据](sources/evidence.md#ev-3c48968718e4bb165b9afd374cd6179c)
+在App Store数据中，《疯狂水世界》由益世界网络科技(上海)有限公司开发，年龄分级为9+并具备App内控制。[@证据](sources/evidence.md#ev-fd5e4cc79d66195aaa232079fc5a99f4)
 
-在市场口碑与榜单成绩方面，游戏累计获得6191个评分，综合评分为4.5分，在角色扮演榜单中位列#2。[@证据](sources/evidence.md#ev-3c48968718e4bb165b9afd374cd6179c)
+在市场口碑与榜单成绩方面，游戏累计获得6226个评分，综合评分为4.5分，在角色扮演榜单中位列#2。[@证据](sources/evidence.md#ev-fd5e4cc79d66195aaa232079fc5a99f4)

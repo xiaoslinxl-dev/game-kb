@@ -1,0 +1,80 @@
+{
+  "verification_id": "ver-ea99a315712b4157ad02e88667595ebc",
+  "created_at": "2026-10-08T16:59:35.138668+00:00",
+  "full_request": {
+    "game_id": "baye",
+    "file": "core-loop.md",
+    "markdown": "---\ntype: Core Loop\ntitle: 霸业 核心循环\n---\n\n# 霸业 核心循环\n\n在《霸业》的大地图对抗中，游戏采用创新棋盘连城大地图，战术操作包括全民攻城、突进封路、残兵撤退与密道突袭，支持实时战术布置。[@来源](sources/evidence.md#ev-727104250a6c7af004b69f00e63c6147)\n\n在大地图扩张与收益回馈层面，玩家通过攻城拔寨、扩张版图以及参与国家建设和国战，可免费瓜分海量元宝分红。[@来源](sources/evidence.md#ev-5460dce82854e9202f3604f0dc6b7ee9)\n\n在封地建筑升级与资源运转方面，每次建筑升级都需要一定的材料；根据2024年8月的新手攻略记载，前期若升级建筑次数较多则木头会十分缺少，在建筑升级过程中可同步去攻城做巡城任务，每次巡城都会获得一定量的资源补充。[@来源](sources/evidence.md#ev-44c02d60ff846bf837a0d8850176ec1b)\n\n在日常政务、征战与副本养成环节，2024年7月的攻略指出政务是关键环节，每日政务次数需全部购买，以加速官邸升级、武将提升和血战沙场次数的增加；每日征战中的血战沙场次数也需购买满，以获取大量武将技能碎片和材料；演义之路中的扫荡次数也应尽量达到上限，以获取升级武将和兵种所需的材料、经验书以及升级武将技能所需的大量银币。[@来源](sources/evidence.md#ev-a9095836110f82bb7e77aa19ca4f770e)\n",
+    "expected_sha256": "c4e0d8c698e76a35521ffcaf6bea00a7529041af155e48fe08b57a7ffc04f2ac",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+        "reference": "创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!"
+      },
+      {
+        "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+        "reference": "攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！"
+      },
+      {
+        "url": "https://mumu.163.com/blog/official/20240801/25239_1171405.html",
+        "reference": "每次建筑升级都会需要一定的材料,前期如果升级建筑次数较多,那么木头会十分缺少,所以在建筑升级的过程中,可以同步去攻城做巡城任务,每次巡城都会获得一定量的资源,具体的攻城开荒路线,会在后面去介绍"
+      },
+      {
+        "url": "https://mumu.163.com/blog/official/20240731/25239_1171135.html",
+        "reference": "微氪的关键在于明晰合理的发展路线，确保资源的最大化利用。在游戏中，政务是至关重要的环节，每日政务次数需全部购买，以加速官邸升级、武将提升和血战沙场次数的增加。此外，每日征战中的血战沙场次数也需购买满，以获取大量武将技能碎片和材料。演义之路中的扫荡次数很重要，每天都要尽量达到扫荡上限，这样可以获得升级武将和兵种所需的材料、经验书和银币，因为升级武将技能需要消耗大量银币。"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "bd74d176fdad5f48bb5abc18abc108f6845a77c6bb02ec35e72f862dad25cf0b",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.88,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.72,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 霸业-送自选开荒武将\n\n魏蜀吴之争！因你而不同！\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#155\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [大小\\\\\n\\\\\n1.3\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n齐聚《霸业》为国而战！ 魏蜀吴之争，因你而不同！\n立即加入三国战场即可获取自选传奇英雄和精美皮肤！\n七日庆典，丰富道具奖励、巾帼英雄甄姬限时领取。\n新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！\n\n《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！\n【游戏特色】\n以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！\n\n棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！\n\n[**评分及评论**](https://apps.apple.com/cn/app/6444941591?see-all=reviews&platform=iphone)\n\n- 4.8\n\n满分 5 分\n\n3.9万 个评分\n\n- 看这个画风还是很有兴趣试一下的，非常不错的画风！希望武将阵容可选性多一点，玩SLG就是要玩出自由度才有意思！",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 霸业-送自选开荒武将\n\n魏蜀吴之争！因你而不同！\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#155\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [大小\\\\\n\\\\\n1.3\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n齐聚《霸业》为国而战！ 魏蜀吴之争，因你而不同！\n立即加入三国战场即可获取自选传奇英雄和精美皮肤！\n七日庆典，丰富道具奖励、巾帼英雄甄姬限时领取。\n新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！\n\n《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！\n【游戏特色】\n以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！\n\n棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！\n\n[**评分及评论**](https://apps.apple.com/cn/app/6444941591?see-all=reviews&platform=iphone)\n\n- 4.8\n\n满分 5 分\n\n3.9万 个评分\n\n- 看这个画风还是很有兴趣试一下的，非常不错的画风！希望武将阵容可选性多一点，玩SLG就是要玩出自由度才有意思！",
+    "MuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，自由多开\n\nWindows 下载\n\n![](https://mumu.res.netease.com/pc/gw/20250207163110/img/mr_banner_27ea685d.png)\n\nMuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，智能操作\n\nWindows 下载\n\n![games](https://mumu.res.netease.com/pc/gw/20250207163110/img/news_game_banner_41a8ef3b.png)\n\n[MuMu模拟器](https://mumu.163.com/ \"MuMu模拟器\") [活动资讯](https://mumu.163.com/blog/ \"活动资讯\") [安装教程](https://mumu.163.com/blog/tutorials/ \"安装教程\")《霸业》新手攻略：武将选择与培养干货指南\n\n目录\n\n# 《霸业》新手攻略：武将选择与培养干货指南\n\n2024-08-01\n\n# MuMu模拟器12\n\n![游戏图标](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n### ****建筑升级策略****\n\n军务次数的重要性不言而喁，每天都应尽量购买满额度。\n\n在游戏中，爵位最高可提升至中大夫，府邸等级可达8级，拜将台可升至3级，军营共有4个可升至8级。\n\n此外，还有8个资源建筑可达8级，演义台和群英馆可提升至2级和8级，辎重站和书院可达8级和2级，码头和商肆等级最低分别为1级。\n\n每个建筑等级的提升都将为玩家在游戏中的发展带来重要的帮助，助其在霸业的世界中更上层楼。这里按照个人对游戏理解,给到一个升级顺序：府邸>8个资源建筑>4个军营>书院>演义台、群英馆>辎重站（码头、商肆只有1级）\n\n每次建筑升级都会需要一定的材料,前期如果升级建筑次数较多,那么木头会十分缺少,所以在建筑升级的过程中,可以同步去攻城做巡城任务,每次巡城都会获得一定量的资源,具体的攻城开荒路线,会在后面去介绍\n\n![](http://mumu-apk.fp.ps.netease.com/file/66a9f9ad98373ace29caa98cKERKZvYV05)",
+    "MuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，自由多开\n\nWindows 下载\n\n![](https://mumu.res.netease.com/pc/gw/20250207163110/img/mr_banner_27ea685d.png)\n\nMuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，智能操作\n\nWindows 下载\n\n![games](https://mumu.res.netease.com/pc/gw/20250207163110/img/news_game_banner_41a8ef3b.png)\n\n[MuMu模拟器](https://mumu.163.com/ \"MuMu模拟器\") [活动资讯](https://mumu.163.com/blog/ \"活动资讯\") [安装教程](https://mumu.163.com/blog/tutorials/ \"安装教程\")《霸业》手游微氪攻略：高效提升武将与资源获取技巧\n\n目录\n\n# 《霸业》手游微氪攻略：高效提升武将与资源获取技巧\n\n2024-07-31\n\n****微氪攻略总结****\n\n微氪的关键在于明晰合理的发展路线，确保资源的最大化利用。在游戏中，政务是至关重要的环节，每日政务次数需全部购买，以加速官邸升级、武将提升和血战沙场次数的增加。此外，每日征战中的血战沙场次数也需购买满，以获取大量武将技能碎片和材料。演义之路中的扫荡次数很重要，每天都要尽量达到扫荡上限，这样可以获得升级武将和兵种所需的材料、经验书和银币，因为升级武将技能需要消耗大量银币。另外，首充和装备也很关键，通过首充任意金额就可以获得赤兔马，一般玩家会选择充值6元后领取赤兔马，装备赤兔马后可以激活充值送卧龙扇活动，此外还有第五天的方天画戟、官邸9到12级的四次充值奖励等，充值可以同时满足多重条件。在游戏中，玩家可以通过一些策略来最大化资源的获取效益。首次充值后，不要立即使用赤兔马，而是等待第二天升级官邸4次后再使用，这样可以获得更多奖励。但是升级官邸需要消耗大量资源，如果资源有限，可以分阶段升级并适时充值获取奖励。此外，在游戏中除了永久卡外，其他充值活动通常是共享的，因此玩家可以善用这一点来提升资源的性价比。对于那些不想花太多钱但又想获得更多资源的微氪玩家来说，这些技巧能够帮助他们更有效地提升游戏体验。\n\n![](http://mumu-apk.fp.ps.netease.com/file/66a9f058d76a3f4e8ca307d9HIZo9l2105)![](http://mumu-apk.fp.ps.netease.com/file/66a9f06bdd9670d5f31edac61UitozPL05)![](http://mumu-apk.fp.ps.netease.com/file/66a9f07a2b585fdb15861988jaqQaaqo05)\n\nMuMu模拟器12"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!",
+      "evidence_id": "727104250a6c7af004b69f00e63c6147"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！",
+      "evidence_id": "5460dce82854e9202f3604f0dc6b7ee9"
+    },
+    {
+      "url": "https://mumu.163.com/blog/official/20240801/25239_1171405.html",
+      "reference": "每次建筑升级都会需要一定的材料,前期如果升级建筑次数较多,那么木头会十分缺少,所以在建筑升级的过程中,可以同步去攻城做巡城任务,每次巡城都会获得一定量的资源,具体的攻城开荒路线,会在后面去介绍",
+      "evidence_id": "44c02d60ff846bf837a0d8850176ec1b"
+    },
+    {
+      "url": "https://mumu.163.com/blog/official/20240731/25239_1171135.html",
+      "reference": "微氪的关键在于明晰合理的发展路线，确保资源的最大化利用。在游戏中，政务是至关重要的环节，每日政务次数需全部购买，以加速官邸升级、武将提升和血战沙场次数的增加。此外，每日征战中的血战沙场次数也需购买满，以获取大量武将技能碎片和材料。演义之路中的扫荡次数很重要，每天都要尽量达到扫荡上限，这样可以获得升级武将和兵种所需的材料、经验书和银币，因为升级武将技能需要消耗大量银币。",
+      "evidence_id": "a9095836110f82bb7e77aa19ca4f770e"
+    }
+  ],
+  "markdown": "---\ntype: Core Loop\ntitle: 霸业 核心循环\n---\n\n# 霸业 核心循环\n\n在《霸业》的大地图对抗中，游戏采用创新棋盘连城大地图，战术操作包括全民攻城、突进封路、残兵撤退与密道突袭，支持实时战术布置。[@来源](sources/evidence.md#ev-727104250a6c7af004b69f00e63c6147)\n\n在大地图扩张与收益回馈层面，玩家通过攻城拔寨、扩张版图以及参与国家建设和国战，可免费瓜分海量元宝分红。[@来源](sources/evidence.md#ev-5460dce82854e9202f3604f0dc6b7ee9)\n\n在封地建筑升级与资源运转方面，每次建筑升级都需要一定的材料；根据2024年8月的新手攻略记载，前期若升级建筑次数较多则木头会十分缺少，在建筑升级过程中可同步去攻城做巡城任务，每次巡城都会获得一定量的资源补充。[@来源](sources/evidence.md#ev-44c02d60ff846bf837a0d8850176ec1b)\n\n在日常政务、征战与副本养成环节，2024年7月的攻略指出政务是关键环节，每日政务次数需全部购买，以加速官邸升级、武将提升和血战沙场次数的增加；每日征战中的血战沙场次数也需购买满，以获取大量武将技能碎片和材料；演义之路中的扫荡次数也应尽量达到上限，以获取升级武将和兵种所需的材料、经验书以及升级武将技能所需的大量银币。[@来源](sources/evidence.md#ev-a9095836110f82bb7e77aa19ca4f770e)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-ea99a315712b4157ad02e88667595ebc.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

@@ -1,0 +1,51 @@
+{
+  "verification_id": "ver-2f4d969c2579490c823215098d6f17dd",
+  "created_at": "2026-10-08T06:44:21.619428+00:00",
+  "full_request": {
+    "game_id": "feng-kuang-shui-shi-jie",
+    "file": "monetization.md",
+    "markdown": "---\ntype: Monetization\ntitle: 疯狂水世界 商业化\n---\n\n# 疯狂水世界 商业化\n\n在《疯狂水世界》的商业化结构中，App内购买提供多样化的礼包档位。具体档位包括6元礼包（6.00元）、12元礼包（12.00元）、18元礼包（18.00元）、25元礼包（25.00元）、30元礼包（30.00元）、68元礼包（68.00元）、98元礼包（98.00元）、128元礼包（128.00元）、328元礼包（328.00元）与648元礼包（648.00元）。[@证据](sources/evidence.md#ev-71ca7331ea16816d8d471cce8bdc2634)\n",
+    "expected_sha256": "3a21e2f648777f737059aab368374a09f2b67808886f5a73c1482c222ff5bfe6",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630",
+        "reference": "App内购买是\n\n- 30元礼包¥30.00\n\n- 68元礼包¥68.00\n\n- 6元礼包¥6.00\n\n- 25元礼包¥25.00\n\n- 18元礼包¥18.00\n\n- 12元礼包¥12.00\n\n- 128元礼包¥128.00\n\n- 98元礼包¥98.00\n\n- 648元礼包¥648.00\n\n- 328元礼包¥328.00"
+      }
+    ],
+    "scope": {
+      "region": "CN",
+      "title": "疯狂水世界"
+    }
+  },
+  "markdown_sha256": "0d1a09bec016efb162ab17c99f1792b504aa63f7bc18e65125d9df2510d5eed7",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.94,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.78,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 疯狂水世界\n\n全新海上末日模拟生存手游\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [6226个评分\\\\\n\\\\\n4.5](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [排行榜\\\\\n\\\\\n#2\\\\\n\\\\\n角色扮演](https://apps.apple.com/cn/iphone/charts/7014?chart=top-free)\n\n- [开发者\\\\\n\\\\\n益世界网络科技(上海)有限公司](https://apps.apple.com/cn/developer/%E7%9B%8A%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80-%E4%B8%8A%E6%B5%B7-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1679513448?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [大小\\\\\n\\\\\n507.1\\\\\n\\\\\nMB](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n《疯狂水世界》是一款沉浸式海上末日模拟生存手游！在环境崩坏，陆地被淹没的未来，您将作为一位被命运选中的领袖，驾驶孤舟，探索海域，搜集残存物资，接纳四方的接纳者，并亲手在波涛之上建立起繁荣的避难所，带领人类文明在废墟中寻找失落的希望。\n\n[**评分及评论**](https://apps.apple.com/cn/app/6757172630?see-all=reviews&platform=iphone)\n\n- 4.5\n\n满分 5 分\n\n6226 个评分\n\n- 玩了一个多月，基本搞清楚状况了。给新手三条建议，第一，这个游戏只有一个boss，那就是兰博，其他四个队友都是配菜，就一个目的让兰博活到最后。兰博作为射手，堆攻速和吸血。兰博不仅自己是后期无敌，而且四技能也能够作为辅助给所有队友（包括召唤物）叠加攻速。第二这是一个单机游戏，打发时间，但是推图确实有意思，不同站位不同效果，甚至同一阵容反复多打几次就能过（前提是你得有召唤系角色），第三条，所有碎片和技能书不可以重置，尤其是月卡玩家，家底薄，就一个砸兰博，兰博用不上的才砸其他的，当然，主坦克也得有一个，不然前排撑不住也是兵败如山倒，后排被各种切，其他的辅助就是保后排。这游戏不需要所有角色都在战斗结束都活着，只需要你站到最后就行。推图钩子三星必备。最后，不跟主流的就一个结局，系统赛季还没结束，你的赛季就结束了，玩不下去了。\n\n# App 隐私\n\n开发者“ **益世界网络科技(上海)有限公司**”已表明该 App 的隐私规范可能包括下述数据处理方式。此信息未经 Apple 验证。更多相关信息，请参阅 [开发者隐私政策](https://privacy.1-world.com/privacy31.html)。\n\n为帮助你进一步理解开发者的回应，请参阅 [隐私定义和示例](https://apps.apple.com/cn/iphone/story/id1539235847)。\n\n隐私规范可能因你使用的功能或你的年龄等因素而异。 [进一步了解](https://apps.apple.com/cn/iphone/story/id1538632801)\n\n## 信息\n\n大小507.1 MB\n\n类别角色扮演\n\n兼容性设备需装有 iOS 13.0 或更高版本。\n\n- **iPhone**\n\n设备需装有 iOS 13.0 或更高版本。\n\n- **iPad**\n\n设备需装有 iPadOS 13.0 或更高版本。\n\n- **iPod touch**\n\n设备需装有 iOS 13.0 或更高版本。\n\n- **Mac**\n\n需要 macOS 11.0 或更高版本以及装有 Apple M1 或更高版本芯片的 Mac。\n\n语言简体中文\n\n年龄分级9+\n\n- 9+\n\n- 此 App 分级为 9+，并设有内容限制。\n\n部分内容可能有更高的年龄分级，因此可能受到限制，并由开发者通过 App 内控件管理。\n- [了解更多](https://apps.apple.com/cn/iphone/story/id1825160725)\n\n- **App 内控件**\n\n年龄验证\n\n**偶尔**\n\n卡通或幻想暴力\n\n竞赛\n\n**包含**\n\n抽奖箱\n\n信息和聊天\n\nApp内购买是\n\n- 30元礼包¥30.00\n\n- 68元礼包¥68.00\n\n- 6元礼包¥6.00\n\n- 25元礼包¥25.00\n\n- 18元礼包¥18.00\n\n- 12元礼包¥12.00\n\n- 128元礼包¥128.00\n\n- 98元礼包¥98.00\n\n- 648元礼包¥648.00\n\n- 328元礼包¥328.00\n\n- [进一步了解](https://apps.apple.com/cn/iphone/story/id1436214772)"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630",
+      "reference": "App内购买是\n\n- 30元礼包¥30.00\n\n- 68元礼包¥68.00\n\n- 6元礼包¥6.00\n\n- 25元礼包¥25.00\n\n- 18元礼包¥18.00\n\n- 12元礼包¥12.00\n\n- 128元礼包¥128.00\n\n- 98元礼包¥98.00\n\n- 648元礼包¥648.00\n\n- 328元礼包¥328.00",
+      "evidence_id": "71ca7331ea16816d8d471cce8bdc2634"
+    }
+  ],
+  "markdown": "---\ntype: Monetization\ntitle: 疯狂水世界 商业化\n---\n\n# 疯狂水世界 商业化\n\n在《疯狂水世界》的商业化结构中，App内购买提供多样化的礼包档位。具体档位包括6元礼包（6.00元）、12元礼包（12.00元）、18元礼包（18.00元）、25元礼包（25.00元）、30元礼包（30.00元）、68元礼包（68.00元）、98元礼包（98.00元）、128元礼包（128.00元）、328元礼包（328.00元）与648元礼包（648.00元）。[@证据](sources/evidence.md#ev-71ca7331ea16816d8d471cce8bdc2634)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-2f4d969c2579490c823215098d6f17dd.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

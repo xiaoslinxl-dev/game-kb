@@ -1,3 +1,8 @@
+---
+type: Resource Economy
+title: 霸业 经济系统
+---
+
 # 霸业 经济系统
 
 在《霸业》中，玩家通过攻城拔寨、扩张版图以及参与国家建设和国战，即可免费瓜分海量元宝分红。[@证据](sources/evidence.md#ev-5460dce82854e9202f3604f0dc6b7ee9)

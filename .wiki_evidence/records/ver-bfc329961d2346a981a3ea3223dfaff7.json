@@ -1,0 +1,61 @@
+{
+  "verification_id": "ver-bfc329961d2346a981a3ea3223dfaff7",
+  "created_at": "2026-10-08T11:50:45.839882+00:00",
+  "full_request": {
+    "game_id": "feng-kuang-shui-shi-jie",
+    "file": "market-position.md",
+    "markdown": "---\ntype: Market Position\ntitle: 疯狂水世界 市场表现与定位\n---\n\n# 疯狂水世界 市场表现与定位\n\n## 赛道融合与品类定位\n\n在益世界的产品布局中，《疯狂水世界》尝试将模拟经营核心玩法与海上末日生存世界观进行融合，探索模拟经营品类的多元表达（同厂商此前曾推出《我是大东家》古风商贸、《这城有良田》城镇经营等产品）。[@来源](sources/evidence.md#ev-623b38a9e44dd260ba018af84a9cbf43)\n\n## 应用商店数据与榜单成绩\n\n在苹果 App Store 页面公开信息中，《疯狂水世界》开发者为益世界网络科技(上海)有限公司，年龄分级为 9+ 并具备 App 内控制；在市场成绩与口碑方面，游戏在角色扮演排行榜位列 #2，累计获得 6253 个评分，综合评分为 4.5 分。[@来源](sources/evidence.md#ev-f43408d23b324a77827c81c320238e06)\n",
+    "expected_sha256": "b85639afd7ac01b3594835fc39b53fe42d6c56c6c564b8e3c184988424f957ba",
+    "sources": [
+      {
+        "url": "https://wap.gamersky.com/news/Content-2072535.html",
+        "reference": "从《我是大东家》的古风商贸，到《这城有良田》的城镇经营，再到如今的海上末日生存，益世界持续尝试将模拟经营核心玩法与不同世界观和题材进行融合，探索该品类的多元表达。"
+      },
+      {
+        "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630",
+        "reference": "- [6253个评分\\\\\n\\\\\n4.5](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [排行榜\\\\\n\\\\\n#2\\\\\n\\\\\n角色扮演](https://apps.apple.com/cn/iphone/charts/7014?chart=top-free)\n\n- [开发者\\\\\n\\\\\n益世界网络科技(上海)有限公司](https://apps.apple.com/cn/developer/%E7%9B%8A%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80-%E4%B8%8A%E6%B5%B7-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1679513448?platform=iphone)"
+      }
+    ],
+    "scope": {
+      "region": "CN",
+      "title": "疯狂水世界"
+    }
+  },
+  "markdown_sha256": "2b4df6aeb11797d2b1a297267e872614dff14128a6cd0321cc0ddb396dc0f1b5",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.82,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.72,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://image.gamersky.com/webimg13/wap/2021/APP-ICON@3x.png)\n\n游民星空\n\n下载游民App，送买游戏无门槛优惠券\n\n下载App\n\n1月8日，益世界旗下新品手游《疯狂水世界》首发上线。这款以“海上末日生存”为题材的模拟生存手游，将玩家置于一个陆地消失、文明沉没的未来海上世界，扮演“老大”带领幸存者在汪洋中重建漂浮家园。\n\nExternal Player - 哔哩哔哩嵌入式外链播放器\n\n益世界《疯狂水世界》今日重磅上线！\n\n![](https://i2.hdslb.com/bfs/face/a91d27de8a1a12a6ef2e875f496a92018f2e665e.jpg@96w.webp)益世界游戏官方关注\n\n3\n\n1\n\n分享\n\n更多\n\n- 稍后再看\n- 问题反馈\n\n正在缓冲...\n\n00:00/01:07\n\n**-** 人正在看\n\n，\n\n已装填 0 条弹幕\n\n请先登录或 [注册](https://passport.bilibili.com/login?register_page=1)\n\n[弹幕礼仪](https://www.bilibili.com/blackboard/help.html#%E5%BC%B9%E5%B9%95%E7%9B%B8%E5%85%B3?id=3ebbac9998474850bfdf42b231477371)\n\n发送\n\n一起去哔哩哔哩发送弹幕吧！\n\n自动\n\n- 1080P 高码率大会员\n- 1080P 高清登录即享\n- 720P 高清登录即享\n- 480P 清晰登录即享\n- 360P 流畅\n- 自动(360P)\n\n倍速\n\n- 2.0x\n- 1.5x\n- 1.25x\n- 1.0x\n- 0.75x\n- 0.5x\n\n100\n\n进入哔哩哔哩，观看更高清\n\n进入哔哩哔哩，观看更高清\n\n关闭弹幕 (d)\n\n反馈\n\n进入全屏 (f)\n\n核心玩法：从拾荒到联盟的生存之道\n\n益世界《疯狂水世界》围绕资源稀缺的末日海洋环境，构建了一套从生存到发展的玩法。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1293_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1293.jpg)\n\n拾荒奠基：玩家需要从打捞海上漂浮物开始，将塑料、金属等文明残骸转化为初始资源，完成从“求生”到“建设”的第一步。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1352_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1352.jpg)\n\n经营扩张：在有限的浮动平台上，玩家需规划并发展渔业、农业及手工业，建立自给自足的生产链条，逐步将简易筏子扩展为功能齐全的漂浮社区。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1420_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1420.jpg)\n\n联盟共治：随着个人基地稳固，游戏引入了联盟合作玩法。玩家可招募特色角色，组建舰队，并与其他玩家结盟，以应对海盗威胁或探索深海遗迹，在协作与对抗中寻求长期生存。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1502_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1502.jpg)\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1504_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1504.jpg)\n\n赛道深化：益世界的“模拟经营+”布局\n\n《疯狂水世界》的重磅上线，可视为益世界在其优势的模拟经营赛道上的一次题材拓荒并推出的一款具备爆款潜力的重磅新品。作为一家集研发孵化、发行运营一体化的专业游戏企业，益世界持续深耕模拟经营赛道，凭借对品类的深刻理解和持续的创新力，已成功打造多款具有行业影响力的标杆产品。基于全产业链的布局优势，公司累计运营产品超2000款，构建了丰富且多元的产品矩阵，业务辐射全球市场，累计服务玩家数量已达亿级，是广州乃至全国游戏产业中兼具规模、实力与行业影响力的企业之一。\n\n从《我是大东家》的古风商贸，到《这城有良田》的城镇经营，再到如今的海上末日生存，益世界持续尝试将模拟经营核心玩法与不同世界观和题材进行融合，探索该品类的多元表达。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1835_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1835.jpg)\n\n据行业观察，在竞争激烈的模拟经营赛道中，能否成功打造具有差异化的题材与新颖玩法，正成为产品突围的关键。益世界《疯狂水世界》选择的全新海上生存视角，正是这一趋势下的具体实践。该作品能否在模拟经营红海中建立起稳固的“浮岛”，仍有待市场的进一步检验。\n\n作者：未知     责任编辑：飘渺鱼\n\n![](https://image.gamersky.com/webimg13/wap/2020/con-mk1-bot.png)展开全文\n\n打开游民App，买游戏全场优惠\n\n#### APP精彩推荐打开游民APP查看更多\n\n- ![小岛秀夫绝版独占神作PC版终于要来了！60帧以上](https://imgs.gamersky.com/upimg/new_preview/2026/10/04/origin_b_202610040848218278.jpg)",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 疯狂水世界\n\n全新海上末日模拟生存手游\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [6253个评分\\\\\n\\\\\n4.5](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [排行榜\\\\\n\\\\\n#2\\\\\n\\\\\n角色扮演](https://apps.apple.com/cn/iphone/charts/7014?chart=top-free)\n\n- [开发者\\\\\n\\\\\n益世界网络科技(上海)有限公司](https://apps.apple.com/cn/developer/%E7%9B%8A%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80-%E4%B8%8A%E6%B5%B7-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1679513448?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [大小\\\\\n\\\\\n507.1\\\\\n\\\\\nMB](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n《疯狂水世界》是一款沉浸式海上末日模拟生存手游！在环境崩坏，陆地被淹没的未来，您将作为一位被命运选中的领袖，驾驶孤舟，探索海域，搜集残存物资，接纳四方的接纳者，并亲手在波涛之上建立起繁荣的避难所，带领人类文明在废墟中寻找失落的希望。\n\n[**评分及评论**](https://apps.apple.com/cn/app/6757172630?see-all=reviews&platform=iphone)\n\n- 4.5\n\n满分 5 分\n\n6253 个评分\n\n- 玩了一个多月，基本搞清楚状况了。给新手三条建议，第一，这个游戏只有一个boss，那就是兰博，其他四个队友都是配菜，就一个目的让兰博活到最后。兰博作为射手，堆攻速和吸血。兰博不仅自己是后期无敌，而且四技能也能够作为辅助给所有队友（包括召唤物）叠加攻速。第二这是一个单机游戏，打发时间，但是推图确实有意思，不同站位不同效果，甚至同一阵容反复多打几次就能过（前提是你得有召唤系角色），第三条，所有碎片和技能书不可以重置，尤其是月卡玩家，家底薄，就一个砸兰博，兰博用不上的才砸其他的，当然，主坦克也得有一个，不然前排撑不住也是兵败如山倒，后排被各种切，其他的辅助就是保后排。这游戏不需要所有角色都在战斗结束都活着，只需要你站到最后就行。推图钩子三星必备。最后，不跟主流的就一个结局，系统赛季还没结束，你的赛季就结束了，玩不下去了。"
+  ],
+  "sources": [
+    {
+      "url": "https://wap.gamersky.com/news/Content-2072535.html",
+      "reference": "从《我是大东家》的古风商贸，到《这城有良田》的城镇经营，再到如今的海上末日生存，益世界持续尝试将模拟经营核心玩法与不同世界观和题材进行融合，探索该品类的多元表达。",
+      "evidence_id": "623b38a9e44dd260ba018af84a9cbf43"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630",
+      "reference": "- [6253个评分\\\\\n\\\\\n4.5](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [排行榜\\\\\n\\\\\n#2\\\\\n\\\\\n角色扮演](https://apps.apple.com/cn/iphone/charts/7014?chart=top-free)\n\n- [开发者\\\\\n\\\\\n益世界网络科技(上海)有限公司](https://apps.apple.com/cn/developer/%E7%9B%8A%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80-%E4%B8%8A%E6%B5%B7-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1679513448?platform=iphone)",
+      "evidence_id": "f43408d23b324a77827c81c320238e06"
+    }
+  ],
+  "markdown": "---\ntype: Market Position\ntitle: 疯狂水世界 市场表现与定位\n---\n\n# 疯狂水世界 市场表现与定位\n\n## 赛道融合与品类定位\n\n在益世界的产品布局中，《疯狂水世界》尝试将模拟经营核心玩法与海上末日生存世界观进行融合，探索模拟经营品类的多元表达（同厂商此前曾推出《我是大东家》古风商贸、《这城有良田》城镇经营等产品）。[@来源](sources/evidence.md#ev-623b38a9e44dd260ba018af84a9cbf43)\n\n## 应用商店数据与榜单成绩\n\n在苹果 App Store 页面公开信息中，《疯狂水世界》开发者为益世界网络科技(上海)有限公司，年龄分级为 9+ 并具备 App 内控制；在市场成绩与口碑方面，游戏在角色扮演排行榜位列 #2，累计获得 6253 个评分，综合评分为 4.5 分。[@来源](sources/evidence.md#ev-f43408d23b324a77827c81c320238e06)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-bfc329961d2346a981a3ea3223dfaff7.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

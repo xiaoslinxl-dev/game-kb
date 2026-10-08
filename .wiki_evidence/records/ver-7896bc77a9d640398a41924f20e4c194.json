@@ -1,0 +1,61 @@
+{
+  "verification_id": "ver-7896bc77a9d640398a41924f20e4c194",
+  "created_at": "2026-10-08T06:46:38.061319+00:00",
+  "full_request": {
+    "game_id": "genshin-impact",
+    "file": "economy.md",
+    "markdown": "---\ntype: Resource Economy\ntitle: 原神 经济系统\n---\n\n# 原神 经济系统\n\n在《原神》的App内购买项目中，创世结晶提供60创世结晶、300创世结晶、980创世结晶、1980创世结晶、3280创世结晶与6480创世结晶等档位，同时包含祝福礼包、珍珠纪行、纪行成歌与珍珠之歌。[@证据](sources/evidence.md#ev-77bc096537d021233bc3032704063867)\n\n在冒险旅途中，玩家通过搜集的材料强化角色，用以应对大陆上的魔物与秘境挑战。[@证据](sources/evidence.md#ev-d6466a22af2e5807a75891a8d8154d9c)\n",
+    "expected_sha256": "295a117044e4f42a5028f633d6eb3e9b6ad26c8345d50ebdf5a6ac204b9a40ad",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251",
+        "reference": "App内购买是\n\n- 祝福礼包¥30.00\n\n- 6480创世结晶¥648.00\n\n- 珍珠纪行¥68.00\n\n- 60创世结晶¥6.00\n\n- 300创世结晶¥30.00\n\n- 980创世结晶¥98.00\n\n- 1980创世结晶¥198.00\n\n- 3280创世结晶¥328.00\n\n- 珍珠之歌¥128.00\n\n- 纪行成歌¥78.00"
+      },
+      {
+        "url": "https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251",
+        "reference": "在冒险的旅途中，还可结识能力独特的伙伴，不妨摸索最佳队伍搭配、用旅途中搜集的材料强化角色，最终大陆上的魔物与秘境都将被你征服。立于绝云之巅，阴晴雨雪、云卷云舒似乎尽在眼前。但失散的血亲尚未重聚，「原神」的真相仍未显现……动身吧，旅行者，真正的冒险才刚刚开始呢。"
+      }
+    ],
+    "scope": {
+      "region": "CN",
+      "title": "原神"
+    }
+  },
+  "markdown_sha256": "890917957eed978d74ce96e7ea48265d2e05f02c17549dec3bbdea906014aa32",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.91,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.66,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 原神-6周年\n\n米哈游开放世界冒险RPG\n\n免费 · App 内购买\n\n- [155万个评分\\\\\n\\\\\n4.3](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#productRatings)\n\n- [获奖\\\\\n\\\\\n编辑精选\\\\\n\\\\\nApp](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#productRatings)\n\n- [年龄分级\\\\\n\\\\\n13+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#information)\n\n- [排行榜\\\\\n\\\\\n#6\\\\\n\\\\\n角色扮演](https://apps.apple.com/cn/iphone/charts/7014?chart=top-free)\n\n- [开发者\\\\\n\\\\\nmiHoYo Games](https://apps.apple.com/cn/developer/mihoyo-games/id1467190250?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 14 种语言](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#information)\n\n- [大小\\\\\n\\\\\n3.8\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n\\*目前游戏推荐使用iPhone 12系列或iPad（第9代）及以上的机型。\n无数生灵繁衍聚集的广袤大陆，天地万象蕴含其间。\n这里是七神统治、七种元素交汇的世界……\n\n陌生的天空下，少年少女立于尘沙。\n你们是一对旅行中的双子，从世界之外漂流而来。你的血亲被陌生的神灵带走，而你也被神封印，陷入沉眠。\n再度醒来，天地间风景已变……\n\n《原神》是由米哈游自研的一款全新开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。\n在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……\n\n直到你与分离的血亲重聚，在终点见证一切事物的沉淀。\n\n〓开放世界，自由探索〓\n《原神》是一款开放世界冒险游戏，这意味着从你踏入「提瓦特」的第一刻起，只要合理规划自己的体力，不论翻山越岭、还是横渡江河，总有办法见到新的风景。若见到游荡的仙灵、奇异的装置，不妨上前探究一番，看看迎接你的是意外，还是惊喜？\n\n〓元素交互，策略战斗〓\n在这片元素交汇的土地上，世界由风、雷、水、火、冰、草、岩七大元素构成，拥有「神之眼」的角色能引导元素之力用于战斗和探险。水与火相遇触发「蒸发」，火与雷引起「超载」，雷遇水附加「感电」……针对不同敌人，使用技能触发适当的元素效果，是制胜的关键。\n\n〓美术音乐，品质呈现〓\n《原神》美术风格清新通透，过场动画实时渲染，角色动作经由动捕与细致调整而来，呈现出高品质演出效果。随着24小时昼夜更替，天气与音乐也在动态变化，无论身处何地，总能聆听到由伦敦爱乐乐团、上海交响乐团等世界顶级交响乐团献上的具有地域特色的演奏。\n\n〓众多伙伴，携手冒险〓\n在冒险的旅途中，还可结识能力独特的伙伴，不妨摸索最佳队伍搭配、用旅途中搜集的材料强化角色，最终大陆上的魔物与秘境都将被你征服。立于绝云之巅，阴晴雨雪、云卷云舒似乎尽在眼前。但失散的血亲尚未重聚，「原神」的真相仍未显现……动身吧，旅行者，真正的冒险才刚刚开始呢。\n\n〓悠游千星，共筑奇域〓\n游玩「千星奇域」，这是一个由旅行者主导的，集游玩、社交、构筑于一体的梦幻乐园。你将获得两位「奇域人偶」，自由搭配服饰定制穿搭。走进「奇域大厅」邂逅各种朋友，选择「奇域关卡」挑战各类冒险……还可以成为「奇匠」发挥无限想象，利用「千星沙箱」打造独一无二的玩法。\n\n《原神》官方网站：ys.mihoyo.com\n《原神》官方微信：原神\n《原神》官方微博：@原神\n《原神》官方社区：bbs.mihoyo.com/ys\n《原神》B站动态：space.bilibili.com/401742377\n\n\\*\\*\\*兼容性要求\\*\\*\\*\n推荐系统：\niOS 14.0 或更高版本。\n\n支持设备：\niPhone 8 Plus或iPhone X、iPad mini（第5代）或iPad Air（第3代）或iPad（第8代）及以上机型。\n\n# App 隐私\n\n开发者“ **miHoYo Games**”已表明该 App 的隐私规范可能包括下述数据处理方式。此信息未经 Apple 验证。更多相关信息，请参阅 [开发者隐私政策](https://user.mihoyo.com/#/about/privacyInGame?lang=zh-cn&app_id=4&channel_id=1&biz=hk4e_cn)。\n\n为帮助你进一步理解开发者的回应，请参阅 [隐私定义和示例](https://apps.apple.com/cn/iphone/story/id1539235847)。\n\n隐私规范可能因你使用的功能或你的年龄等因素而异。 [进一步了解](https://apps.apple.com/cn/iphone/story/id1538632801)\n\n## 信息\n\n大小3.8 GB\n\n类别角色扮演\n\n兼容性设备需装有 iOS 13.0 或更高版本。\n\n- **iPhone**\n\n设备需装有 iOS 13.0 或更高版本。\n\n- **iPad**\n\n设备需装有 iPadOS 13.0 或更高版本。\n\n- **iPod touch**\n\n设备需装有 iOS 13.0 或更高版本。\n\n语言简体中文和另外14种\n\n- 简体中文、俄文、印度尼西亚文、土耳其文、德文、意大利文、日文、法语、泰文、繁体中文、英语、葡萄牙文、西班牙文、越南文、韩文\n\n年龄分级13+\n\n- 13+\n\n- 此 App 分级为 13+，并设有内容限制。\n\n部分内容可能有更高的年龄分级，因此可能受到限制，并由开发者通过 App 内控件管理。\n- [了解更多](https://apps.apple.com/cn/iphone/story/id1825160725)\n\n- **App 内控件**\n\n年龄验证\n\n家长控制\n\n**偶尔**\n\n卡通或幻想暴力\n\n色情内容或裸体\n\n竞赛\n\n枪支或其他武器\n\n**包含**\n\n抽奖箱\n\n信息和聊天\n\n用户生成内容\n\n社交媒体\n\nApp内购买是\n\n- 祝福礼包¥30.00\n\n- 6480创世结晶¥648.00\n\n- 珍珠纪行¥68.00\n\n- 60创世结晶¥6.00\n\n- 300创世结晶¥30.00\n\n- 980创世结晶¥98.00\n\n- 1980创世结晶¥198.00\n\n- 3280创世结晶¥328.00\n\n- 珍珠之歌¥128.00\n\n- 纪行成歌¥78.00\n\n- [进一步了解](https://apps.apple.com/cn/iphone/story/id1436214772)",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 原神-6周年\n\n米哈游开放世界冒险RPG\n\n免费 · App 内购买\n\n- [155万个评分\\\\\n\\\\\n4.3](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#productRatings)\n\n- [获奖\\\\\n\\\\\n编辑精选\\\\\n\\\\\nApp](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#productRatings)\n\n- [年龄分级\\\\\n\\\\\n13+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#information)\n\n- [排行榜\\\\\n\\\\\n#6\\\\\n\\\\\n角色扮演](https://apps.apple.com/cn/iphone/charts/7014?chart=top-free)\n\n- [开发者\\\\\n\\\\\nmiHoYo Games](https://apps.apple.com/cn/developer/mihoyo-games/id1467190250?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 14 种语言](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#information)\n\n- [大小\\\\\n\\\\\n3.8\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n\\*目前游戏推荐使用iPhone 12系列或iPad（第9代）及以上的机型。\n无数生灵繁衍聚集的广袤大陆，天地万象蕴含其间。\n这里是七神统治、七种元素交汇的世界……\n\n陌生的天空下，少年少女立于尘沙。\n你们是一对旅行中的双子，从世界之外漂流而来。你的血亲被陌生的神灵带走，而你也被神封印，陷入沉眠。\n再度醒来，天地间风景已变……\n\n《原神》是由米哈游自研的一款全新开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。\n在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……\n\n直到你与分离的血亲重聚，在终点见证一切事物的沉淀。\n\n〓开放世界，自由探索〓\n《原神》是一款开放世界冒险游戏，这意味着从你踏入「提瓦特」的第一刻起，只要合理规划自己的体力，不论翻山越岭、还是横渡江河，总有办法见到新的风景。若见到游荡的仙灵、奇异的装置，不妨上前探究一番，看看迎接你的是意外，还是惊喜？\n\n〓元素交互，策略战斗〓\n在这片元素交汇的土地上，世界由风、雷、水、火、冰、草、岩七大元素构成，拥有「神之眼」的角色能引导元素之力用于战斗和探险。水与火相遇触发「蒸发」，火与雷引起「超载」，雷遇水附加「感电」……针对不同敌人，使用技能触发适当的元素效果，是制胜的关键。\n\n〓美术音乐，品质呈现〓\n《原神》美术风格清新通透，过场动画实时渲染，角色动作经由动捕与细致调整而来，呈现出高品质演出效果。随着24小时昼夜更替，天气与音乐也在动态变化，无论身处何地，总能聆听到由伦敦爱乐乐团、上海交响乐团等世界顶级交响乐团献上的具有地域特色的演奏。\n\n〓众多伙伴，携手冒险〓\n在冒险的旅途中，还可结识能力独特的伙伴，不妨摸索最佳队伍搭配、用旅途中搜集的材料强化角色，最终大陆上的魔物与秘境都将被你征服。立于绝云之巅，阴晴雨雪、云卷云舒似乎尽在眼前。但失散的血亲尚未重聚，「原神」的真相仍未显现……动身吧，旅行者，真正的冒险才刚刚开始呢。\n\n〓悠游千星，共筑奇域〓\n游玩「千星奇域」，这是一个由旅行者主导的，集游玩、社交、构筑于一体的梦幻乐园。你将获得两位「奇域人偶」，自由搭配服饰定制穿搭。走进「奇域大厅」邂逅各种朋友，选择「奇域关卡」挑战各类冒险……还可以成为「奇匠」发挥无限想象，利用「千星沙箱」打造独一无二的玩法。\n\n《原神》官方网站：ys.mihoyo.com\n《原神》官方微信：原神\n《原神》官方微博：@原神\n《原神》官方社区：bbs.mihoyo.com/ys\n《原神》B站动态：space.bilibili.com/401742377\n\n\\*\\*\\*兼容性要求\\*\\*\\*\n推荐系统：\niOS 14.0 或更高版本。\n\n支持设备：\niPhone 8 Plus或iPhone X、iPad mini（第5代）或iPad Air（第3代）或iPad（第8代）及以上机型。"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251",
+      "reference": "App内购买是\n\n- 祝福礼包¥30.00\n\n- 6480创世结晶¥648.00\n\n- 珍珠纪行¥68.00\n\n- 60创世结晶¥6.00\n\n- 300创世结晶¥30.00\n\n- 980创世结晶¥98.00\n\n- 1980创世结晶¥198.00\n\n- 3280创世结晶¥328.00\n\n- 珍珠之歌¥128.00\n\n- 纪行成歌¥78.00",
+      "evidence_id": "77bc096537d021233bc3032704063867"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E5%8E%9F%E7%A5%9E-6%E5%91%A8%E5%B9%B4/id1467190251",
+      "reference": "在冒险的旅途中，还可结识能力独特的伙伴，不妨摸索最佳队伍搭配、用旅途中搜集的材料强化角色，最终大陆上的魔物与秘境都将被你征服。立于绝云之巅，阴晴雨雪、云卷云舒似乎尽在眼前。但失散的血亲尚未重聚，「原神」的真相仍未显现……动身吧，旅行者，真正的冒险才刚刚开始呢。",
+      "evidence_id": "d6466a22af2e5807a75891a8d8154d9c"
+    }
+  ],
+  "markdown": "---\ntype: Resource Economy\ntitle: 原神 经济系统\n---\n\n# 原神 经济系统\n\n在《原神》的App内购买项目中，创世结晶提供60创世结晶、300创世结晶、980创世结晶、1980创世结晶、3280创世结晶与6480创世结晶等档位，同时包含祝福礼包、珍珠纪行、纪行成歌与珍珠之歌。[@证据](sources/evidence.md#ev-77bc096537d021233bc3032704063867)\n\n在冒险旅途中，玩家通过搜集的材料强化角色，用以应对大陆上的魔物与秘境挑战。[@证据](sources/evidence.md#ev-d6466a22af2e5807a75891a8d8154d9c)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-7896bc77a9d640398a41924f20e4c194.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

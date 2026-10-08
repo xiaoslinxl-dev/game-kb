@@ -1,0 +1,60 @@
+{
+  "verification_id": "ver-63ceb1aeb17245c7bbafff67ba9e6e73",
+  "created_at": "2026-10-08T06:30:57.172356+00:00",
+  "full_request": {
+    "game_id": "baye",
+    "file": "monetization.md",
+    "markdown": "---\ntype: Monetization\ntitle: 霸业 商业化\n---\n\n# 霸业 商业化\n\n在《霸业》的付费结构中，游戏采用免费下载结合App内购买的商业化模式。内购直充档位包括60元宝（6.00元）、300元宝（30.00元）、1280元宝（128.00元）、3280元宝（328.00元）与6480元宝（648.00元），并提供6元、12元、40元、68元、198元与328元等各类商品档位。[@证据](sources/evidence.md#ev-fb17ff4ad7e6d13e88c3e9371f763f82)\n\n在免费元宝供给与经济平衡层面，游戏设置了国库分红机制，玩家通过攻城拔寨、扩张版图以及参与国家建设与国战，可免费瓜分海量元宝分红，形成付费直充与活跃分红并行的货币供给。[@证据](sources/evidence.md#ev-b5f6eb080b8402d2ed19e2a7358a3c60)\n",
+    "expected_sha256": "e6dbd986f9e8729a89af970479439bd3e1ff5033a229750b54514a664c2f6d2f",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+        "reference": "App内购买是\n\n- 60元宝¥6.00\n\n- 300元宝¥30.00\n\n- 68元商品¥68.00\n\n- 1280元宝¥128.00\n\n- 12元商品¥12.00\n\n- 40元商品¥40.00\n\n- 3280元宝¥328.00\n\n- 198元商品¥198.00\n\n- 328元商品¥328.00\n\n- 6480元宝¥648.00"
+      },
+      {
+        "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+        "reference": "国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "2fd975b37e217ea52ec6401f0b069e9f01b0af239f9058394b7fcf16384925d3",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.92,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.65,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 霸业-送自选开荒武将\n\n魏蜀吴之争！因你而不同！\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#136\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [大小\\\\\n\\\\\n1.3\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n齐聚《霸业》为国而战！ 魏蜀吴之争，因你而不同！\n立即加入三国战场即可获取自选传奇英雄和精美皮肤！\n七日庆典，丰富道具奖励、巾帼英雄甄姬限时领取。\n新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！\n\n《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！\n【游戏特色】\n以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！\n\n棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！\n\n[**评分及评论**](https://apps.apple.com/cn/app/6444941591?see-all=reviews&platform=iphone)\n\n- 4.8\n\n满分 5 分\n\n3.9万 个评分\n\n- 看这个画风还是很有兴趣试一下的，非常不错的画风！希望武将阵容可选性多一点，玩SLG就是要玩出自由度才有意思！\n\n# App 隐私\n\n开发者“ **安徽盈趣网络科技有限公司**”已表明该 App 的隐私规范可能包括下述数据处理方式。此信息未经 Apple 验证。更多相关信息，请参阅 [开发者隐私政策](http://www.ahyqnet.com/proj/baye/)。\n\n为帮助你进一步理解开发者的回应，请参阅 [隐私定义和示例](https://apps.apple.com/cn/iphone/story/id1539235847)。\n\n隐私规范可能因你使用的功能或你的年龄等因素而异。 [进一步了解](https://apps.apple.com/cn/iphone/story/id1538632801)\n\n## 信息\n\n大小1.3 GB\n\n类别策略\n\n兼容性设备需装有 iOS 13.0 或更高版本。\n\n- **iPhone**\n\n设备需装有 iOS 13.0 或更高版本。\n\n- **iPad**\n\n设备需装有 iPadOS 13.0 或更高版本。\n\n- **iPod touch**\n\n设备需装有 iOS 13.0 或更高版本。\n\n- **Mac**\n\n需要 macOS 11.0 或更高版本以及装有 Apple M1 或更高版本芯片的 Mac。\n\n语言简体中文\n\n年龄分级18+\n\n- 18+\n\n- 此 App 分级为 18+，并设有内容限制。\n\n部分内容可能有更高的年龄分级，因此可能受到限制，并由开发者通过 App 内控件管理。\n- [了解更多](https://apps.apple.com/cn/iphone/story/id1825160725)\n\n- **App 内控件**\n\n年龄验证\n\n**频繁**\n\n卡通或幻想暴力\n\n**包含**\n\n广告\n\n信息和聊天\n\n用户生成内容\n\nApp内购买是\n\n- 60元宝¥6.00\n\n- 300元宝¥30.00\n\n- 68元商品¥68.00\n\n- 1280元宝¥128.00\n\n- 12元商品¥12.00\n\n- 40元商品¥40.00\n\n- 3280元宝¥328.00\n\n- 198元商品¥198.00\n\n- 328元商品¥328.00\n\n- 6480元宝¥648.00\n\n- [进一步了解](https://apps.apple.com/cn/iphone/story/id1436214772)",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 霸业-送自选开荒武将\n\n魏蜀吴之争！因你而不同！\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#136\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [大小\\\\\n\\\\\n1.3\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n齐聚《霸业》为国而战！ 魏蜀吴之争，因你而不同！\n立即加入三国战场即可获取自选传奇英雄和精美皮肤！\n七日庆典，丰富道具奖励、巾帼英雄甄姬限时领取。\n新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！\n\n《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！\n【游戏特色】\n以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！\n\n棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！\n\n[**评分及评论**](https://apps.apple.com/cn/app/6444941591?see-all=reviews&platform=iphone)\n\n- 4.8\n\n满分 5 分\n\n3.9万 个评分\n\n- 看这个画风还是很有兴趣试一下的，非常不错的画风！希望武将阵容可选性多一点，玩SLG就是要玩出自由度才有意思！"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "App内购买是\n\n- 60元宝¥6.00\n\n- 300元宝¥30.00\n\n- 68元商品¥68.00\n\n- 1280元宝¥128.00\n\n- 12元商品¥12.00\n\n- 40元商品¥40.00\n\n- 3280元宝¥328.00\n\n- 198元商品¥198.00\n\n- 328元商品¥328.00\n\n- 6480元宝¥648.00",
+      "evidence_id": "fb17ff4ad7e6d13e88c3e9371f763f82"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！",
+      "evidence_id": "b5f6eb080b8402d2ed19e2a7358a3c60"
+    }
+  ],
+  "markdown": "---\ntype: Monetization\ntitle: 霸业 商业化\n---\n\n# 霸业 商业化\n\n在《霸业》的付费结构中，游戏采用免费下载结合App内购买的商业化模式。内购直充档位包括60元宝（6.00元）、300元宝（30.00元）、1280元宝（128.00元）、3280元宝（328.00元）与6480元宝（648.00元），并提供6元、12元、40元、68元、198元与328元等各类商品档位。[@证据](sources/evidence.md#ev-fb17ff4ad7e6d13e88c3e9371f763f82)\n\n在免费元宝供给与经济平衡层面，游戏设置了国库分红机制，玩家通过攻城拔寨、扩张版图以及参与国家建设与国战，可免费瓜分海量元宝分红，形成付费直充与活跃分红并行的货币供给。[@证据](sources/evidence.md#ev-b5f6eb080b8402d2ed19e2a7358a3c60)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-63ceb1aeb17245c7bbafff67ba9e6e73.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

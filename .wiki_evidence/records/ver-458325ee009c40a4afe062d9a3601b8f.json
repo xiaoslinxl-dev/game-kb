@@ -1,0 +1,60 @@
+{
+  "verification_id": "ver-458325ee009c40a4afe062d9a3601b8f",
+  "created_at": "2026-10-08T11:47:18.590620+00:00",
+  "full_request": {
+    "game_id": "feng-kuang-shui-shi-jie",
+    "file": "overview.md",
+    "markdown": "---\ntype: Game Overview\ntitle: 疯狂水世界 游戏概览\n---\n\n# 疯狂水世界 游戏概览\n\n《疯狂水世界》是一款以海上末日生存为题材的模拟生存手游。游戏设定在陆地消失、文明沉没的未来海洋世界，玩家扮演“老大”带领幸存者在汪洋中重建漂浮家园，游戏于1月8日首发上线。[@来源](sources/evidence.md#ev-cf8c37899d2311373f2626f30650a6f5)\n\n## 基础生存与资源维系\n\n在海上漂流与生存中，海上充满危机，玩家需要收集木材、金属、食物等生存必需品以维持基地的运转和居民的生活。这些资源可能散落在海洋的各个角落，需要玩家驾驶潜水艇或使用其他工具进行收集；此外玩家还需要应对暴风雨、海啸等恶劣天气条件，以确保基地的安全和居民的生存。[@来源](sources/evidence.md#ev-ae8fd60847d767a87e4b324d3270533e)\n",
+    "expected_sha256": "ede28dcb995725e30497b2537b6d4090f008d3947c0e1fc00a288bf82018786d",
+    "sources": [
+      {
+        "url": "https://wap.gamersky.com/news/Content-2072535.html",
+        "reference": "1月8日，益世界旗下新品手游《疯狂水世界》首发上线。这款以“海上末日生存”为题材的模拟生存手游，将玩家置于一个陆地消失、文明沉没的未来海上世界，扮演“老大”带领幸存者在汪洋中重建漂浮家园。"
+      },
+      {
+        "url": "https://a.4399.cn/mobile/375171.html",
+        "reference": "《疯狂水世界》是一个非常有趣的海上生存游戏，主角幸存者在海上漂流，海上充满危机，玩家需要收集木材、金属、食物等生存必需品，以维持基地的运转和居民的生活。这些资源可能散落在海洋的各个角落，需要玩家驾驶潜水艇或使用其他工具进行收集。此外玩家还需要应对各种恶劣的天气条件，如暴风雨、海啸等，以确保基地的安全和居民的生存！"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "61009270596df268a4eba31119e43e83365e44a34efeb7c020a59fb9b3dac19d",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.83,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.7,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://image.gamersky.com/webimg13/wap/2021/APP-ICON@3x.png)\n\n游民星空\n\n下载游民App，送买游戏无门槛优惠券\n\n下载App\n\n1月8日，益世界旗下新品手游《疯狂水世界》首发上线。这款以“海上末日生存”为题材的模拟生存手游，将玩家置于一个陆地消失、文明沉没的未来海上世界，扮演“老大”带领幸存者在汪洋中重建漂浮家园。\n\nExternal Player - 哔哩哔哩嵌入式外链播放器\n\n益世界《疯狂水世界》今日重磅上线！\n\n![](https://i2.hdslb.com/bfs/face/a91d27de8a1a12a6ef2e875f496a92018f2e665e.jpg@96w.webp)益世界游戏官方关注\n\n3\n\n1\n\n分享\n\n更多\n\n- 稍后再看\n- 问题反馈\n\n正在缓冲...\n\n00:00/01:07\n\n**-** 人正在看\n\n，\n\n已装填 0 条弹幕\n\n请先登录或 [注册](https://passport.bilibili.com/login?register_page=1)\n\n[弹幕礼仪](https://www.bilibili.com/blackboard/help.html#%E5%BC%B9%E5%B9%95%E7%9B%B8%E5%85%B3?id=3ebbac9998474850bfdf42b231477371)\n\n发送\n\n一起去哔哩哔哩发送弹幕吧！\n\n自动\n\n- 1080P 高码率大会员\n- 1080P 高清登录即享\n- 720P 高清登录即享\n- 480P 清晰登录即享\n- 360P 流畅\n- 自动(360P)\n\n倍速\n\n- 2.0x\n- 1.5x\n- 1.25x\n- 1.0x\n- 0.75x\n- 0.5x\n\n100\n\n进入哔哩哔哩，观看更高清\n\n进入哔哩哔哩，观看更高清\n\n关闭弹幕 (d)\n\n反馈\n\n进入全屏 (f)\n\n核心玩法：从拾荒到联盟的生存之道\n\n益世界《疯狂水世界》围绕资源稀缺的末日海洋环境，构建了一套从生存到发展的玩法。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1293_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1293.jpg)\n\n拾荒奠基：玩家需要从打捞海上漂浮物开始，将塑料、金属等文明残骸转化为初始资源，完成从“求生”到“建设”的第一步。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1352_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1352.jpg)\n\n经营扩张：在有限的浮动平台上，玩家需规划并发展渔业、农业及手工业，建立自给自足的生产链条，逐步将简易筏子扩展为功能齐全的漂浮社区。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1420_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1420.jpg)\n\n联盟共治：随着个人基地稳固，游戏引入了联盟合作玩法。玩家可招募特色角色，组建舰队，并与其他玩家结盟，以应对海盗威胁或探索深海遗迹，在协作与对抗中寻求长期生存。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1502_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1502.jpg)\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1504_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1504.jpg)\n\n赛道深化：益世界的“模拟经营+”布局\n\n《疯狂水世界》的重磅上线，可视为益世界在其优势的模拟经营赛道上的一次题材拓荒并推出的一款具备爆款潜力的重磅新品。作为一家集研发孵化、发行运营一体化的专业游戏企业，益世界持续深耕模拟经营赛道，凭借对品类的深刻理解和持续的创新力，已成功打造多款具有行业影响力的标杆产品。基于全产业链的布局优势，公司累计运营产品超2000款，构建了丰富且多元的产品矩阵，业务辐射全球市场，累计服务玩家数量已达亿级，是广州乃至全国游戏产业中兼具规模、实力与行业影响力的企业之一。\n\n从《我是大东家》的古风商贸，到《这城有良田》的城镇经营，再到如今的海上末日生存，益世界持续尝试将模拟经营核心玩法与不同世界观和题材进行融合，探索该品类的多元表达。\n\n[![游民星空](https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1835_S.jpg)](https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2026/01/20260108_hts_21_2/1835.jpg)\n\n据行业观察，在竞争激烈的模拟经营赛道中，能否成功打造具有差异化的题材与新颖玩法，正成为产品突围的关键。益世界《疯狂水世界》选择的全新海上生存视角，正是这一趋势下的具体实践。该作品能否在模拟经营红海中建立起稳固的“浮岛”，仍有待市场的进一步检验。\n\n作者：未知     责任编辑：飘渺鱼\n\n![](https://image.gamersky.com/webimg13/wap/2020/con-mk1-bot.png)展开全文\n\n打开游民App，买游戏全场优惠\n\n#### APP精彩推荐打开游民APP查看更多\n\n- ![《永恒之塔2》捏脸遭萝莉控吐槽:最小都是C罩杯 太大](https://imgs.gamersky.com/upimg/new_preview/2026/10/07/origin_b_202610071007216460.jpg)",
+    "- [4399小游戏](http://www.4399.com/index_pc.htm)\n- [保存到桌面](https://www.4399.cn/desktop.html?site=web/android)\n- 网站导航\n\n手游平台\n\n  - [安卓游戏](http://a.4399.cn/)\n  - [云游戏](https://app.4399.cn/cloudGame.html)\n  - [手游论坛](http://bbs.4399.cn/)\n  - [手游礼包](http://fahao.4399.cn/)\n\n热门频道\n\n  - [安卓专题](http://a.4399.cn/special.html)\n  - [4399在线玩](https://h.4399.com/)\n  - [手游专区](http://www.4399.cn/zhuanqu/)\n  - [治愈系游戏合辑](http://a.4399.cn/special-detail-141.html)\n  - [游戏工具](https://a.4399.cn/tools.html)\n  - [活动中心](https://a.4399.cn/huodong/)\n\n热门游戏\n\n  - [王者荣耀](http://news.4399.com/wzlm/)\n  - [火线精英](http://news.4399.com/huoxianjy/)\n  - [CF手游](http://news.4399.com/cfsy/)\n  - [造梦西游OL](http://news.4399.com/zmxyol/)\n  - [奇迹暖暖](http://news.4399.com/qjnn/)\n  - [我的世界手机版](http://news.4399.com/wdshijie/)\n\n4399游戏盒下载\n\n![](https://f1.img4399.com/ma/9a015dba8fb2bb67911af477504f62db)\n\n  - [手机版下载](https://app.4399.cn/)\n  - [iPad版下载](https://app.4399.cn/app-ipad.html)\n\n- [4399手机游戏网](http://www.4399.cn/)\n- [安卓游戏](http://a.4399.cn/)\n- [活动中心](https://a.4399.cn/huodong/)\n- [手游论坛](http://bbs.4399.cn/)\n- [H5游戏](http://h.4399.com/)\n\n**[下载4399游戏盒玩好游戏](https://app.4399.cn/ \"4399游戏盒\")**\n\n- [首页](https://a.4399.cn/)\n- [PC游戏](https://www.4399.com/pcgame/)\n- [动作游戏](https://a.4399.cn/game-kid-2.html)\n- [体育竞技](https://a.4399.cn/game-kid-3.html)\n- [角色扮演](https://a.4399.cn/game-kid-12.html)\n- [休闲娱乐](https://a.4399.cn/game-kid-10.html)\n- [射击游戏](https://a.4399.cn/game-kid-5.html)\n- [敏捷游戏](https://a.4399.cn/game-kid-9.html)\n- [策略游戏](https://a.4399.cn/game-kid-8.html)\n- [冒险游戏](https://a.4399.cn/game-kid-6.html)\n- [益智游戏](https://a.4399.cn/game-kid-4.html)\n- [儿童教育](https://a.4399.cn/game-kid-11.html)\n\n当前位置： [4399手机游戏网](http://www.4399.cn/) > [安卓游戏](https://a.4399.cn/) > [冒险游戏](https://a.4399.cn/game-kid-6.html) >疯狂水世界\n\n![疯狂水世界](https://f01.img4399.com/ma/375171_logo2_30dc.jpg?1790662208)\n\n# 疯狂水世界\n\n已有 _1.5万_ 人安装该游戏\n\n- [冒险](https://a.4399.cn/game-tid-243.html)\n- [生存](https://a.4399.cn/game-tid-139.html)\n- [挑战](https://a.4399.cn/game-tid-42.html)\n- [养成](https://a.4399.cn/game-tid-33.html)\n\n在海上努力生存吧！\n\n立即下载\n\n![](<Base64-Image-Removed>)\n\n![疯狂水世界](https://f01.img4399.com/ma/375171_logo2_30dc.jpg?1790662208)\n\n扫描二维码下载游戏\n\n[游戏视频](https://a.4399.cn/game-id-375171.html#j-picthumb \"游戏视频\")\n\n- [![](https://f1.img4399.com/sj~375171_screenshot_6911a78968e18.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a78968e18.jpeg) [![](https://f1.img4399.com/sj~375171_screenshot_6911a789ecfab.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a789ecfab.jpeg) [![](https://f1.img4399.com/sj~375171_screenshot_6911a78a86b7f.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a78a86b7f.jpeg)\n- [![](https://f1.img4399.com/sj~375171_screenshot_6911a78b0a8f3.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a78b0a8f3.jpeg) [![](https://f1.img4399.com/sj~375171_screenshot_6911a78b99566.jpeg~800x800)\\\\\n\\\\\n  - 举报](https://f1.img4399.com/sj~375171_screenshot_6911a78b99566.jpeg)\n\n基本信息评论攻略\n\n- 大事件01月08日10:00正式上线全部\n\n## 游戏简介\n\n《疯狂水世界》是一个非常有趣的海上生存游戏，主角幸存者在海上漂流，海上充满危机，玩家需要收集木材、金属、食物等生存必需品，以维持基地的运转和居民的生活。这些资源可能散落在海洋的各个角落，需要玩家驾驶潜水艇或使用其他工具进行收集。此外玩家还需要应对各种恶劣的天气条件，如暴风雨、海啸等，以确保基地的安全和居民的生存！\n\n展开"
+  ],
+  "sources": [
+    {
+      "url": "https://wap.gamersky.com/news/Content-2072535.html",
+      "reference": "1月8日，益世界旗下新品手游《疯狂水世界》首发上线。这款以“海上末日生存”为题材的模拟生存手游，将玩家置于一个陆地消失、文明沉没的未来海上世界，扮演“老大”带领幸存者在汪洋中重建漂浮家园。",
+      "evidence_id": "cf8c37899d2311373f2626f30650a6f5"
+    },
+    {
+      "url": "https://a.4399.cn/mobile/375171.html",
+      "reference": "《疯狂水世界》是一个非常有趣的海上生存游戏，主角幸存者在海上漂流，海上充满危机，玩家需要收集木材、金属、食物等生存必需品，以维持基地的运转和居民的生活。这些资源可能散落在海洋的各个角落，需要玩家驾驶潜水艇或使用其他工具进行收集。此外玩家还需要应对各种恶劣的天气条件，如暴风雨、海啸等，以确保基地的安全和居民的生存！",
+      "evidence_id": "ae8fd60847d767a87e4b324d3270533e"
+    }
+  ],
+  "markdown": "---\ntype: Game Overview\ntitle: 疯狂水世界 游戏概览\n---\n\n# 疯狂水世界 游戏概览\n\n《疯狂水世界》是一款以海上末日生存为题材的模拟生存手游。游戏设定在陆地消失、文明沉没的未来海洋世界，玩家扮演“老大”带领幸存者在汪洋中重建漂浮家园，游戏于1月8日首发上线。[@来源](sources/evidence.md#ev-cf8c37899d2311373f2626f30650a6f5)\n\n## 基础生存与资源维系\n\n在海上漂流与生存中，海上充满危机，玩家需要收集木材、金属、食物等生存必需品以维持基地的运转和居民的生活。这些资源可能散落在海洋的各个角落，需要玩家驾驶潜水艇或使用其他工具进行收集；此外玩家还需要应对暴风雨、海啸等恶劣天气条件，以确保基地的安全和居民的生存。[@来源](sources/evidence.md#ev-ae8fd60847d767a87e4b324d3270533e)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-458325ee009c40a4afe062d9a3601b8f.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

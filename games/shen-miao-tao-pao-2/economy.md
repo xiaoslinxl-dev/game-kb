@@ -1,3 +1,8 @@
+---
+type: Resource Economy
+title: 神庙逃亡2 经济系统
+---
+
 # 神庙逃亡2 经济系统
 
 在《神庙逃亡2》中，订阅至尊特权的用户可在订阅期内立即获得每次游戏重生一次以及金币双倍的特权。[@证据](sources/evidence.md#ev-1d87fe5dc61cf980bba321359c6f1d9b)

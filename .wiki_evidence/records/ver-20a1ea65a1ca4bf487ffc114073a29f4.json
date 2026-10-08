@@ -1,0 +1,60 @@
+{
+  "verification_id": "ver-20a1ea65a1ca4bf487ffc114073a29f4",
+  "created_at": "2026-10-08T06:34:33.746406+00:00",
+  "full_request": {
+    "game_id": "dou-luo-da-lu-hun-shi-dui-jue",
+    "file": "monetization.md",
+    "markdown": "---\ntype: Monetization\ntitle: 斗罗大陆：魂师对决 商业化\n---\n\n# 斗罗大陆：魂师对决 商业化\n\n在《斗罗大陆：魂师对决》的付费体系中，游戏提供多样化的礼包与充值档位，包含3元礼包、6元礼包、12元礼包、18元礼包、30元礼包、68元礼包、88元礼包及98元礼包，并设有60钻石（6.00元）与300钻石（30.00元）等基础充值档位。[@证据](sources/evidence.md#ev-c6b10c993a0c16e369bc92fa7ea54d2c)\n\n在周期性特权商业化设计上，游戏提供增益订阅服务，玩家订阅后可立即获得300钻石，且在订阅期内每日额外领取60钻石与60体力。[@证据](sources/evidence.md#ev-2c84a95128824aa19e1275354ea6cc5a)\n",
+    "expected_sha256": "e9c5da561c144c234ffb45f1b8249bb31af0a5f5dd4b007f04df7eeff4c8dbd2",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472",
+        "reference": "App内购买是\n\n- 6元礼包¥6.00\n\n- 18元礼包¥18.00\n\n- 30元礼包¥30.00\n\n- 60钻石¥6.00\n\n- 3元礼包¥3.00\n\n- 68元礼包¥68.00\n\n- 88元礼包¥88.00\n\n- 98元礼包¥98.00\n\n- 12元礼包¥12.00\n\n- 300钻石¥30.00"
+      },
+      {
+        "url": "https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472",
+        "reference": "订阅后可以在订阅期间享受所有的增益特权：\n1、订阅后立即获得300钻石\n2、每日额外领取60钻石、60体力"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "d8b77f901ba73becafeb4579b2091c41f087da4d8585b70e16a4041d5efd1173",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.94,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.66,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 斗罗大陆:魂师对决\n\n上线即送400抽 畅享3D沉浸式斗罗\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [31万个评分\\\\\n\\\\\n4.4](https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472#productRatings)\n\n- [年龄分级\\\\\n\\\\\n16+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472#information)\n\n- [排行榜\\\\\n\\\\\n#36\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\nAnhui 37 Network Technology Co., Ltd.](https://apps.apple.com/cn/developer/anhui-37-network-technology-co-ltd/id1667803218?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472#information)\n\n- [大小\\\\\n\\\\\n2.4\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n2026年度国民级IP战斗手游巨作，由阅文集团和腾讯动画正版授权的《斗罗大陆：魂师对决》，邀您一同进入真实的斗罗世界！\n\n红雾弥漫，月刃无情！首位 SP+敏攻系魂师「千面幻影·妖魅」8 月 29 日重磅登场！上线即送 400 抽，升级再送月卡，SP 阿银、SP 比比东登录免费领，助你开启全新征程~\n\n——开服第二日“剑心诏令”必得SP+极致剑道·尘心\n——开服第三日“神祗赐福”领取SP生命之神·阿银\n——开服第十日“神祗赐福”领取SP噬魂·比比东\n——升星零成本，等级晋升送1000万能碎片保送任意SP魂师红五星\n——领海量资源，送大小月卡、双倍掉落&五万年魂环每日送\n\n【游戏介绍】\n致敬《斗罗大陆》，游戏颠覆传统创新性地打造了广阔无边的斗罗宇宙，带你自由探索神秘莫测的星斗大森林，拜访波澜壮阔的圣魂村，挑战千变万化的武魂殿……\n\n电影级镜头解密史莱克七怪背后的故事，全新视觉演绎斗罗大陆的每一段爱恨情仇；沉浸打造名场面“小舞献祭”、“大师与比比东相遇”、“唐昊与杀戮之都”；趣味策略玩法魂师对决，磨砺属于你超强的魂师战队！\n\n【特色玩法】\n◆探索无边斗罗世界\n游戏打造实时环境系统，真实天气交互，渲染出沉浸式的斗罗大陆！多地图随心探索，触发彩蛋奇遇，还能畅游花海，随意摆拍趣味动作。还每个斗罗迷一个真斗罗！\n\n◆自由猎杀魂兽\n在星斗大森林直面魂兽咆哮，策略搭配施展魂技，猎杀魂兽吸收魂环！组建猎杀小队，伏击超强魂兽，获取史诗级魂环！更有多层次猎杀难度副本供魂师挑战！\n\n◆打造专属魂技\n觉醒你的专属武魂，深度培养，自由成长变异！更能随机融合魂技，多重魂环叠加，无限魂力暴涨，挑战斗罗大陆超强的魂技策略组合！\n\n◆魂师轻松竞技\n万千魂环自由搭配，粒子特效加持魂技展示，精准选择技能释放时机，根据不同战局适时调整战术，随机应变，极限翻盘，登顶斗魂之巅！\n\n\\*实际内容以游戏为准\n\\-\\-\\------------------------\n《斗罗大陆：魂师对决》订阅说明\n\n--订阅价格及周期：\n您可以在游戏中订阅“月卡”订阅服务周期为31天，开放商城功能后可购买\n\n--关于订阅内容：\n订阅后可以在订阅期间享受所有的增益特权：\n1、订阅后立即获得300钻石\n2、每日额外领取60钻石、60体力\n\n--关于自动续订：\n苹果App Store官方订阅功能为自动续费订阅。\n由iTunes Account进行确认支付，用户需手动在iTunes/Apple ID设置管理中关闭自动续订功能，订阅自动续费将于每个订阅周期结束前的24小时之内进行扣费，并由iTunesAccount进行确认支付，如果需要取消订阅功能，您需要于订阅结束前至少24小时关闭自动续费功能。如果在此时间之前未能取消自动续费，则订阅周期会自动延续。\n\n--用户协议：https://37.com.cn/user-agreement/content/?AID=31772\n\n--隐私政策及申明：https://37.com.cn/user-agreement/content/?AID=32589\n\n--取消订阅流程：\n如果您想取消订阅，请在您的iOS设备上手动打开“设置”→点击“AppleID”→点击“订阅”→“管理”并选择“斗罗大陆：魂师对决”对应的订阅，便可取消订阅。\n\n--更换设备后订阅服务的说明：更换设备后，原苹果账号下购买了订阅服务的角色，在订阅未过期期间，将可继续享受订阅服务，无需其他操作。\n\n# App 隐私\n\n开发者“ **Anhui 37 Network Technology Co., Ltd.**”已表明该 App 的隐私规范可能包括下述数据处理方式。此信息未经 Apple 验证。更多相关信息，请参阅 [开发者隐私政策](https://37.com.cn/user-agreement/content/?AID=32589)。\n\n为帮助你进一步理解开发者的回应，请参阅 [隐私定义和示例](https://apps.apple.com/cn/iphone/story/id1539235847)。\n\n隐私规范可能因你使用的功能或你的年龄等因素而异。 [进一步了解](https://apps.apple.com/cn/iphone/story/id1538632801)\n\n## 信息\n\n大小2.4 GB\n\n类别角色扮演\n\n兼容性设备需装有 iOS 13 或更高版本。\n\n- **iPhone**\n\n设备需装有 iOS 13 或更高版本。\n\n- **iPad**\n\n设备需装有 iPadOS 13 或更高版本。\n\n- **iPod touch**\n\n设备需装有 iOS 13 或更高版本。\n\n- **Mac**\n\n需要 macOS 11.0 或更高版本以及装有 Apple M1 或更高版本芯片的 Mac。\n\n- **Apple Vision**\n\n设备需装有 visionOS 1.0 或更高版本。\n\n语言简体中文\n\n年龄分级16+\n\n- 16+\n\n- 此 App 分级为 16+，并设有内容限制。\n\n部分内容可能有更高的年龄分级，因此可能受到限制，并由开发者通过 App 内控件管理。\n- [了解更多](https://apps.apple.com/cn/iphone/story/id1825160725)\n\n- **App 内控件**\n\n年龄验证\n\n**偶尔**\n\n卡通或幻想暴力\n\n现实暴力\n\n枪支或其他武器\n\n**包含**\n\n抽奖箱\n\n信息和聊天\n\n用户生成内容\n\nApp内购买是\n\n- 6元礼包¥6.00\n\n- 18元礼包¥18.00\n\n- 30元礼包¥30.00\n\n- 60钻石¥6.00\n\n- 3元礼包¥3.00\n\n- 68元礼包¥68.00\n\n- 88元礼包¥88.00\n\n- 98元礼包¥98.00\n\n- 12元礼包¥12.00\n\n- 300钻石¥30.00\n\n- [进一步了解](https://apps.apple.com/cn/iphone/story/id1436214772)",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 斗罗大陆:魂师对决\n\n上线即送400抽 畅享3D沉浸式斗罗\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [31万个评分\\\\\n\\\\\n4.4](https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472#productRatings)\n\n- [年龄分级\\\\\n\\\\\n16+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472#information)\n\n- [排行榜\\\\\n\\\\\n#36\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\nAnhui 37 Network Technology Co., Ltd.](https://apps.apple.com/cn/developer/anhui-37-network-technology-co-ltd/id1667803218?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472#information)\n\n- [大小\\\\\n\\\\\n2.4\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n2026年度国民级IP战斗手游巨作，由阅文集团和腾讯动画正版授权的《斗罗大陆：魂师对决》，邀您一同进入真实的斗罗世界！\n\n红雾弥漫，月刃无情！首位 SP+敏攻系魂师「千面幻影·妖魅」8 月 29 日重磅登场！上线即送 400 抽，升级再送月卡，SP 阿银、SP 比比东登录免费领，助你开启全新征程~\n\n——开服第二日“剑心诏令”必得SP+极致剑道·尘心\n——开服第三日“神祗赐福”领取SP生命之神·阿银\n——开服第十日“神祗赐福”领取SP噬魂·比比东\n——升星零成本，等级晋升送1000万能碎片保送任意SP魂师红五星\n——领海量资源，送大小月卡、双倍掉落&五万年魂环每日送\n\n【游戏介绍】\n致敬《斗罗大陆》，游戏颠覆传统创新性地打造了广阔无边的斗罗宇宙，带你自由探索神秘莫测的星斗大森林，拜访波澜壮阔的圣魂村，挑战千变万化的武魂殿……\n\n电影级镜头解密史莱克七怪背后的故事，全新视觉演绎斗罗大陆的每一段爱恨情仇；沉浸打造名场面“小舞献祭”、“大师与比比东相遇”、“唐昊与杀戮之都”；趣味策略玩法魂师对决，磨砺属于你超强的魂师战队！\n\n【特色玩法】\n◆探索无边斗罗世界\n游戏打造实时环境系统，真实天气交互，渲染出沉浸式的斗罗大陆！多地图随心探索，触发彩蛋奇遇，还能畅游花海，随意摆拍趣味动作。还每个斗罗迷一个真斗罗！\n\n◆自由猎杀魂兽\n在星斗大森林直面魂兽咆哮，策略搭配施展魂技，猎杀魂兽吸收魂环！组建猎杀小队，伏击超强魂兽，获取史诗级魂环！更有多层次猎杀难度副本供魂师挑战！\n\n◆打造专属魂技\n觉醒你的专属武魂，深度培养，自由成长变异！更能随机融合魂技，多重魂环叠加，无限魂力暴涨，挑战斗罗大陆超强的魂技策略组合！\n\n◆魂师轻松竞技\n万千魂环自由搭配，粒子特效加持魂技展示，精准选择技能释放时机，根据不同战局适时调整战术，随机应变，极限翻盘，登顶斗魂之巅！\n\n\\*实际内容以游戏为准\n\\-\\-\\------------------------\n《斗罗大陆：魂师对决》订阅说明\n\n--订阅价格及周期：\n您可以在游戏中订阅“月卡”订阅服务周期为31天，开放商城功能后可购买\n\n--关于订阅内容：\n订阅后可以在订阅期间享受所有的增益特权：\n1、订阅后立即获得300钻石\n2、每日额外领取60钻石、60体力\n\n--关于自动续订：\n苹果App Store官方订阅功能为自动续费订阅。\n由iTunes Account进行确认支付，用户需手动在iTunes/Apple ID设置管理中关闭自动续订功能，订阅自动续费将于每个订阅周期结束前的24小时之内进行扣费，并由iTunesAccount进行确认支付，如果需要取消订阅功能，您需要于订阅结束前至少24小时关闭自动续费功能。如果在此时间之前未能取消自动续费，则订阅周期会自动延续。\n\n--用户协议：https://37.com.cn/user-agreement/content/?AID=31772\n\n--隐私政策及申明：https://37.com.cn/user-agreement/content/?AID=32589\n\n--取消订阅流程：\n如果您想取消订阅，请在您的iOS设备上手动打开“设置”→点击“AppleID”→点击“订阅”→“管理”并选择“斗罗大陆：魂师对决”对应的订阅，便可取消订阅。\n\n--更换设备后订阅服务的说明：更换设备后，原苹果账号下购买了订阅服务的角色，在订阅未过期期间，将可继续享受订阅服务，无需其他操作。"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472",
+      "reference": "App内购买是\n\n- 6元礼包¥6.00\n\n- 18元礼包¥18.00\n\n- 30元礼包¥30.00\n\n- 60钻石¥6.00\n\n- 3元礼包¥3.00\n\n- 68元礼包¥68.00\n\n- 88元礼包¥88.00\n\n- 98元礼包¥98.00\n\n- 12元礼包¥12.00\n\n- 300钻石¥30.00",
+      "evidence_id": "c6b10c993a0c16e369bc92fa7ea54d2c"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86-%E9%AD%82%E5%B8%88%E5%AF%B9%E5%86%B3/id1558453472",
+      "reference": "订阅后可以在订阅期间享受所有的增益特权：\n1、订阅后立即获得300钻石\n2、每日额外领取60钻石、60体力",
+      "evidence_id": "2c84a95128824aa19e1275354ea6cc5a"
+    }
+  ],
+  "markdown": "---\ntype: Monetization\ntitle: 斗罗大陆：魂师对决 商业化\n---\n\n# 斗罗大陆：魂师对决 商业化\n\n在《斗罗大陆：魂师对决》的付费体系中，游戏提供多样化的礼包与充值档位，包含3元礼包、6元礼包、12元礼包、18元礼包、30元礼包、68元礼包、88元礼包及98元礼包，并设有60钻石（6.00元）与300钻石（30.00元）等基础充值档位。[@证据](sources/evidence.md#ev-c6b10c993a0c16e369bc92fa7ea54d2c)\n\n在周期性特权商业化设计上，游戏提供增益订阅服务，玩家订阅后可立即获得300钻石，且在订阅期内每日额外领取60钻石与60体力。[@证据](sources/evidence.md#ev-2c84a95128824aa19e1275354ea6cc5a)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-20a1ea65a1ca4bf487ffc114073a29f4.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

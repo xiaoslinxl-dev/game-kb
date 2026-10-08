@@ -1,0 +1,91 @@
+{
+  "verification_id": "ver-99fb239bd87e467d8ae8b57f6cd822a7",
+  "created_at": "2026-10-08T17:52:01.064567+00:00",
+  "full_request": {
+    "game_id": "han-shuang-qi-shi-lu",
+    "file": "overview.md",
+    "markdown": "---\ntype: Game Overview\ntitle: 寒霜启示录 游戏概览\n---\n\n# 寒霜启示录 游戏概览\n\n《寒霜启示录》是一款集合团队协作、放置乐趣与策略深度的冰雪生存体验手游。[@证据](sources/evidence.md#ev-f4a167381c96c18407b23ad4b0ffeafe)\n\n故事背景设定在暴风雪覆盖的旧日世界，玩家作为幸存者召集伙伴并携带免费SSR伙伴「茉莉」，点起希望的火种并重新打造家园。[@证据](sources/evidence.md#ev-9a0317c6b84961283a5fec9057bbe2ae)\n\n## 游戏定位与玩家核心目标\n\n玩家在冰雪荒野中建立温馨社群，核心目标是有条不紊地收集资源、照顾幸存者以及升级设施，确保刚刚兴建的城市在严酷冰雪环境中屹立不倒并应对各种挑战。[@证据](sources/evidence.md#ev-1c72ac22afddae553e3fe29900787875)\n\n## 玩法构成：城镇模拟与荒野探险\n\n游戏不仅包含在冰冻荒原中维持城市运转的模拟城市生存，玩家还必须走进荒野寻找所需之物，由具备专属分类与技能组合的英雄特殊单位带领部队御敌与探索。[@证据](sources/evidence.md#ev-e56b7e58c1fe9ab8867f414fbae1f6d2)\n\n## 社交社区与多人体量\n\n游戏设有联盟机制（相当于公会或部落），由玩家组成大型社区共同完成任务、获得奖励并解锁内容；联盟规模从数名成员到多达100名成员不等，为玩家在北极探险中提供团队助力。[@证据](sources/evidence.md#ev-36ebb35ae5b65cde141c3d97c9f92be9)\n",
+    "expected_sha256": "f400ba15a00d0e1057008f37b3d1bf78d00beb74aeb67c06e91e624a44fbe17a",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+        "reference": "准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！"
+      },
+      {
+        "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+        "reference": "暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！"
+      },
+      {
+        "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_postinstall_advanced_tips_in_whiteout_survival_fcp&hl=zh",
+        "reference": "这时，你已经在《寒霜启示录》的冰雪荒野中建立起了一个温馨的小社群，并开始有条不紊地收集资源、照顾幸存者以及升级设施。虽然这是游戏的目标，但你永远不知道游戏何时会抛出新的挑战，让你的村庄面临崩溃的风险。"
+      },
+      {
+        "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_postinstall_heroes_in_whiteout_survival_fcp&hl=zh",
+        "reference": "虽然《寒霜启示录》的核心挑战在于与严酷的冰冻荒原抗衡，努力让刚刚兴建的城市屹立不倒，但你不会仅仅在模拟城市中求生存。有时，你必须走进荒野，寻找所需之物，而这正是英雄的用武之地。"
+      },
+      {
+        "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_postinstall_alliances_in_whiteout_survival_fcp_now&hl=zh",
+        "reference": "在《寒霜启示录》中，联盟相当于“部落”或“公会”。联盟是玩家组成的大型社区，成员可以一起完成任务、获得奖励，还可解锁更多内容。有些联盟只有寥寥数名成员，而有些联盟则拥有多达 100 名成员。"
+      }
+    ],
+    "scope": {
+      "region": "CN",
+      "title": "寒霜启示录"
+    }
+  },
+  "markdown_sha256": "685ad2fac440220ea6201e84a8a632feeb5cecf7c9e32fb7714bc3248fc96f42",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.9,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.65,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 寒霜启示录\n\n4亿人都在玩的原创冰雪手游\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [47万个评分\\\\\n\\\\\n4.6](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [排行榜\\\\\n\\\\\n#1\\\\\n\\\\\n模拟](https://apps.apple.com/us/iphone/charts/7015?l=zh-Hans-CN&chart=top-free)\n\n- [开发者\\\\\n\\\\\nCentury Games Pte. Ltd.](https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?l=zh-Hans-CN&platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 15 种语言](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [大小\\\\\n\\\\\n1\\\\\n\\\\\nGB](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n全球原创冰雪手游！4亿人都在玩！\n\n暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！\n\n【游戏特色】\n◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！\n\n◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~\n\n◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！\n\n◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！\n\n◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~\n\n准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！\n\n【关注我们】\n游戏官网: https://whiteoutsurvival.centurygames.com/zh\\_cn\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS\\_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 寒霜启示录\n\n4亿人都在玩的原创冰雪手游\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [47万个评分\\\\\n\\\\\n4.6](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [排行榜\\\\\n\\\\\n#1\\\\\n\\\\\n模拟](https://apps.apple.com/us/iphone/charts/7015?l=zh-Hans-CN&chart=top-free)\n\n- [开发者\\\\\n\\\\\nCentury Games Pte. Ltd.](https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?l=zh-Hans-CN&platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 15 种语言](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [大小\\\\\n\\\\\n1\\\\\n\\\\\nGB](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n全球原创冰雪手游！4亿人都在玩！\n\n暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！\n\n【游戏特色】\n◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！\n\n◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~\n\n◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！\n\n◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！\n\n◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~\n\n准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！\n\n【关注我们】\n游戏官网: https://whiteoutsurvival.centurygames.com/zh\\_cn\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS\\_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival",
+    "![](https://play-lh.googleusercontent.com/yxEv8sgyVtVtcK7ByN1L7n1v_ja0KkgQQdQkGnJK3ez68s80zoVTX47i2IGiIWxHrDoYNrs5Qw=w1296-h2160-rw)\n\n# 《寒霜启示录》进阶攻略\n\n分享\n\n这时，你已经在《寒霜启示录》的冰雪荒野中建立起了一个温馨的小社群，并开始有条不紊地收集资源、照顾幸存者以及升级设施。虽然这是游戏的目标，但你永远不知道游戏何时会抛出新的挑战，让你的村庄面临崩溃的风险。\n\n《无尽冬日》需要玩家了解很多不同机制，有了本攻略，玩家就能轻松掌握这些机制，一步步发展营地。玩游戏时牢记这些进阶技巧，有助于你专注于主要目标，并可能解锁新的方式不断建设你的村庄。\n\n![](https://play-lh.googleusercontent.com/p3IpY2ICrVQmwWoRxBdUuMsGGw1FJw7jUo0JqQ0yDsIwLN3exobnr954cwuEcrJ0F-Teb8IMkaY=w3840-h2160-rw)",
+    "![](https://play-lh.googleusercontent.com/aOsT1lGDqL9xCNfcO3p_Ne29-VNecAnWhJ0K1a6O-KQkFVQ_1SLMQbj36TwcEfG3FzM1XPQfDcWz=w1296-h2160-rw)\n\n# 《寒霜启示录》英雄全解析\n\n分享\n\n虽然《寒霜启示录》的核心挑战在于与严酷的冰冻荒原抗衡，努力让刚刚兴建的城市屹立不倒，但你不会仅仅在模拟城市中求生存。有时，你必须走进荒野，寻找所需之物，而这正是英雄的用武之地。\n\n英雄是特殊单位，可与普通部队一起保卫你的根据地。每位英雄都有特定的分类和独特的技能组合，在冰冻苔原中探索和御敌的过程中，英雄将能助你一臂之力。以下攻略将助你全面了解《寒霜启示录》中的英雄。\n\n![](https://play-lh.googleusercontent.com/vpGSCRMiwmp9JWHP0y1NuWAng2d0Wg0gmZ2DMVrxxkEhHY6YYVl0BbV9pStTBlhxxM1JW8e7V0hi=w3840-h2160-rw)",
+    "![](https://play-lh.googleusercontent.com/Ng5hRSOw_jYiw5GVRzVCHRi4l9WBgS_NBRBe5_yP_MxuZ-UWxX_GnzVCJt_8quuGEZhc2o4-TkA2=w1296-h2160-rw)\n\n# 《寒霜启示录》联盟全解析\n\n分享\n\n在《寒霜启示录》中，随着营地各方面能力不断提升，你可能会开始感到有些孤独。诚然，营地中有众多角色为你效力，但如果能交上一两位游戏好友为你的任务助力，也将是美事一桩。联盟就是为此而设立的。\n\n本攻略将为你全面介绍《寒霜启示录》中的联盟，包括什么是联盟、如何通过快速轻触几下加入或建立联盟，等等。联盟可极大提升你在此次北极探险中的体验，因此，从长远来看，加入联盟非常重要。\n\n![](https://play-lh.googleusercontent.com/Nwm3VfYhVZcX7PgQxf2F75fvt4vh7XH5xR0G84yX33sNxH8J1IOyIN9GLnMIF0BKj5_3Cb2Isbo=w3840-h2160-rw)\n\n## 在《寒霜启示录》中，联盟是什么？\n\n在《寒霜启示录》中，联盟相当于“部落”或“公会”。联盟是玩家组成的大型社区，成员可以一起完成任务、获得奖励，还可解锁更多内容。有些联盟只有寥寥数名成员，而有些联盟则拥有多达 100 名成员。\n\n大本营升到一定等级后，你才能解锁联盟功能。大熔炉升到 7 级后，游戏界面上会出现联盟旗帜，届时你就可以查看联盟了。"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+      "reference": "准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！",
+      "evidence_id": "f4a167381c96c18407b23ad4b0ffeafe"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+      "reference": "暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！",
+      "evidence_id": "9a0317c6b84961283a5fec9057bbe2ae"
+    },
+    {
+      "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_postinstall_advanced_tips_in_whiteout_survival_fcp&hl=zh",
+      "reference": "这时，你已经在《寒霜启示录》的冰雪荒野中建立起了一个温馨的小社群，并开始有条不紊地收集资源、照顾幸存者以及升级设施。虽然这是游戏的目标，但你永远不知道游戏何时会抛出新的挑战，让你的村庄面临崩溃的风险。",
+      "evidence_id": "1c72ac22afddae553e3fe29900787875"
+    },
+    {
+      "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_postinstall_heroes_in_whiteout_survival_fcp&hl=zh",
+      "reference": "虽然《寒霜启示录》的核心挑战在于与严酷的冰冻荒原抗衡，努力让刚刚兴建的城市屹立不倒，但你不会仅仅在模拟城市中求生存。有时，你必须走进荒野，寻找所需之物，而这正是英雄的用武之地。",
+      "evidence_id": "e56b7e58c1fe9ab8867f414fbae1f6d2"
+    },
+    {
+      "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_postinstall_alliances_in_whiteout_survival_fcp_now&hl=zh",
+      "reference": "在《寒霜启示录》中，联盟相当于“部落”或“公会”。联盟是玩家组成的大型社区，成员可以一起完成任务、获得奖励，还可解锁更多内容。有些联盟只有寥寥数名成员，而有些联盟则拥有多达 100 名成员。",
+      "evidence_id": "36ebb35ae5b65cde141c3d97c9f92be9"
+    }
+  ],
+  "markdown": "---\ntype: Game Overview\ntitle: 寒霜启示录 游戏概览\n---\n\n# 寒霜启示录 游戏概览\n\n《寒霜启示录》是一款集合团队协作、放置乐趣与策略深度的冰雪生存体验手游。[@证据](sources/evidence.md#ev-f4a167381c96c18407b23ad4b0ffeafe)\n\n故事背景设定在暴风雪覆盖的旧日世界，玩家作为幸存者召集伙伴并携带免费SSR伙伴「茉莉」，点起希望的火种并重新打造家园。[@证据](sources/evidence.md#ev-9a0317c6b84961283a5fec9057bbe2ae)\n\n## 游戏定位与玩家核心目标\n\n玩家在冰雪荒野中建立温馨社群，核心目标是有条不紊地收集资源、照顾幸存者以及升级设施，确保刚刚兴建的城市在严酷冰雪环境中屹立不倒并应对各种挑战。[@证据](sources/evidence.md#ev-1c72ac22afddae553e3fe29900787875)\n\n## 玩法构成：城镇模拟与荒野探险\n\n游戏不仅包含在冰冻荒原中维持城市运转的模拟城市生存，玩家还必须走进荒野寻找所需之物，由具备专属分类与技能组合的英雄特殊单位带领部队御敌与探索。[@证据](sources/evidence.md#ev-e56b7e58c1fe9ab8867f414fbae1f6d2)\n\n## 社交社区与多人体量\n\n游戏设有联盟机制（相当于公会或部落），由玩家组成大型社区共同完成任务、获得奖励并解锁内容；联盟规模从数名成员到多达100名成员不等，为玩家在北极探险中提供团队助力。[@证据](sources/evidence.md#ev-36ebb35ae5b65cde141c3d97c9f92be9)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-99fb239bd87e467d8ae8b57f6cd822a7.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

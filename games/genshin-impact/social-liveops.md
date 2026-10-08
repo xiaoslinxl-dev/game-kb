@@ -1,3 +1,8 @@
+---
+type: Social and LiveOps
+title: 原神 社交与运营活动
+---
+
 # 原神 社交与运营活动
 
 在《原神》中，「千星奇域」是集游玩、社交与构筑于一体的玩法模式。玩家可获得两位「奇域人偶」自由搭配服饰定制穿搭。[@证据](sources/evidence.md#ev-3cfc7780ea4b8517e0ee815cf553eb1e)

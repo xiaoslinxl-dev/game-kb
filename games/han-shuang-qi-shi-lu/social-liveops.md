@@ -1,3 +1,8 @@
+---
+type: Social and LiveOps
+title: 寒霜启示录 社交与运营活动
+---
+
 # 寒霜启示录 社交与运营活动
 
 在《寒霜启示录》的社交互动体系中，游戏支持与全球玩家组队互助，加速成长并共同闯荡雪原。[@证据](sources/evidence.md#ev-2dd67ab1c80fdba9a30ecbe4b8e7a1b7)

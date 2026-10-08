@@ -5,6 +5,6 @@ title: 霸业 市场表现与定位
 
 # 霸业 市场表现与定位
 
-在App Store平台信息中，《霸业》由安徽盈趣网络科技有限公司开发，其年龄分级为18+并设有App内控制。[@证据](sources/evidence.md#ev-adcce835d7eef5fa8fbd559e0a926a0c)
+在App Store平台信息中，《霸业》由安徽盈趣网络科技有限公司开发，其年龄分级为18+并设有App内控制。在用户评价与榜单定位方面，该作累计拥有3.9万个评分，评分为4.8分，在免费卡牌排行榜位列#155。[@来源](sources/evidence.md#ev-2f812170f52b5181a8e89a8e0e0fd05f)
 
-在用户评价与榜单定位方面，该作累计拥有3.9万个评分，评分为4.8分，在免费卡牌排行榜位列#136。[@证据](sources/evidence.md#ev-adcce835d7eef5fa8fbd559e0a926a0c)
+在渠道发行与平台信息层面，MuMu模拟器游戏库页面显示其游戏厂商为安徽尚趣玩网络科技有限公司，更新日期为2025-12-11。[@来源](sources/evidence.md#ev-1b33ad719a85d9ccd3f4f3e35d0d66ed)

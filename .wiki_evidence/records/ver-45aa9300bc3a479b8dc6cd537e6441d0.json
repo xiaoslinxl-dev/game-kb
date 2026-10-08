@@ -1,0 +1,60 @@
+{
+  "verification_id": "ver-45aa9300bc3a479b8dc6cd537e6441d0",
+  "created_at": "2026-10-08T17:15:02.870356+00:00",
+  "full_request": {
+    "game_id": "baye",
+    "file": "market-position.md",
+    "markdown": "---\ntype: Market Position\ntitle: 霸业 市场表现与定位\n---\n\n# 霸业 市场表现与定位\n\n在App Store平台信息中，《霸业》由安徽盈趣网络科技有限公司开发，其年龄分级为18+并设有App内控制。在用户评价与榜单定位方面，该作累计拥有3.9万个评分，评分为4.8分，在免费卡牌排行榜位列#155。[@来源](sources/evidence.md#ev-2f812170f52b5181a8e89a8e0e0fd05f)\n\n在渠道发行与平台信息层面，MuMu模拟器游戏库页面显示其游戏厂商为安徽尚趣玩网络科技有限公司，更新日期为2025-12-11。[@来源](sources/evidence.md#ev-1b33ad719a85d9ccd3f4f3e35d0d66ed)\n",
+    "expected_sha256": "7864f46ceb3aa8a37a4a6793b004717056d8bc9c1632f03bc34271633300d67b",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+        "reference": "- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#155\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)"
+      },
+      {
+        "url": "https://mumu.163.com/games/23890.html",
+        "reference": "更新日期: 2025-12-11游戏厂商: 安徽尚趣玩网络科技有限公司"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "dac51ec2a37eb89cf957b4d81b6b04533bdc0ebfc1a50566029b5536eed311c2",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.86,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.8,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 霸业-送自选开荒武将\n\n魏蜀吴之争！因你而不同！\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#155\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [大小\\\\\n\\\\\n1.3\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n齐聚《霸业》为国而战！ 魏蜀吴之争，因你而不同！\n立即加入三国战场即可获取自选传奇英雄和精美皮肤！\n七日庆典，丰富道具奖励、巾帼英雄甄姬限时领取。\n新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！\n\n《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！\n【游戏特色】\n以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！\n\n棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！\n\n[**评分及评论**](https://apps.apple.com/cn/app/6444941591?see-all=reviews&platform=iphone)\n\n- 4.8\n\n满分 5 分\n\n3.9万 个评分\n\n- 看这个画风还是很有兴趣试一下的，非常不错的画风！希望武将阵容可选性多一点，玩SLG就是要玩出自由度才有意思！",
+    "![霸业](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n# 霸业 电脑版Mac版\n\n经营策略\n\n三国\n\n战争\n\n更新日期: 2025-12-11游戏厂商: 安徽尚趣玩网络科技有限公司\n\n更新日期: 2025-12-11游戏厂商: 安徽尚趣玩网络科技有限公司\n\n下载电脑版 [下载安卓版](https://store-api.mumu.163.com/api/website/pkg/downlink/122885.apk \"下载安卓版\")\n\n![](<Base64-Image-Removed>)\n\n下载到手机\n\n电脑玩霸业，选MuMu模拟器\n\n适配 Windows 和 macOS，大屏畅玩不受限！\n\n游戏活动\n\n- ![【云手机】你的手游托管神器！](https://mumu-apk.fp.ps.netease.com/file/6a9a2b23036b8a5fbe780290iNQNSaST07)\n\n\n\n【云手机】你的手游托管神器！\n\nGO\n\n\n查看更多活动收起\n\n游戏福利\n\n- 新手礼包元宝\\*50，快速行军\\*5\n\n领取\n\n- 出山礼包元宝\\*50，急速行军\\*1\n\n领取\n\n- 卧龙礼包吕布碎片\\*10，神威碎片\\*20\n\n领取\n\n- 子龙礼包赵云碎片\\*10，冲锋碎片\\*20\n\n领取\n\n- 武圣礼包关羽碎片\\*10，军神碎片\\*20\n\n领取\n\n\n查看更多礼包收起\n\n霸业 电脑版Mac版\n游戏介绍\n\n![视频展示图](https://mumu-apk.fp.ps.netease.com/file/6470946157166d7dfbbef8e05PU0fC5P04)\n\n![视频展示图](https://mumu-apk.fp.ps.netease.com/file/68246e7a49ee060670cac032swKDAHNS06)\n\n![视频展示图](https://mumu-apk.fp.ps.netease.com/file/68246e84edce1c779104c77eFIgQ3NzP06)\n\n![视频展示图](https://mumu-apk.fp.ps.netease.com/file/68246e894e20baeeee0364bcVIo4YgB206)\n\n![视频展示图](https://mumu-apk.fp.ps.netease.com/file/68246e8d537f3d2576996bb1dj6plv5H06)\n\n![视频展示图](https://mumu-apk.fp.ps.netease.com/file/68246e92c03d6aeab024e72cVsrAvSmR06)\n\n```\n《霸业》是一款三国阵营争霸策略手游，独创的古潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。\n游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。同阵营玩家将齐心协力，攻城掠地，不断扩大国家势力版图，最终一统三国！\n```\n\n霸业 电脑版Mac版 安装指南\n\n##### 推荐配置\n\n推荐使用MuMu模拟器运行\n\n建议电脑配置：CPU4核+ 内存4G+ 系统i5+ 显卡GTX750Ti+\n\n需要开启VT [>>如何开启VT](https://mumu.163.com/help/20210510/35043_946541.html?xqy)\n\n建议性能设置：2核2G [>>如何调整性能设置](https://mumu.163.com/help/20210513/35048_947558.html?xqy)\n\n显卡渲染模式极速、兼容均可\n\n推荐使用MuMu模拟器运行\n\n建议电脑配置：M 芯片 Mac 设备皆可运行，Intel 芯片无法运行\n\n##### 霸业 电脑版Mac版 安装教程\n\n第一步：\n\n①如未安装模拟器，请点击“下载电脑版\n”，将识别当前系统下载对应系统的模拟器最新版本。Windows设备启动模拟器后将预安装霸业\n，Mac设备启动模拟器后，需要点击桌面的游戏中心，在游戏中心搜索霸业下载安装游戏。\n\n②如已安装模拟器，请点击“下载安卓版”，可直接下载霸业\napk文件。下载完成后直接拖进模拟器，即可自动解析安装。\n\n第二步: 登录游戏账号，无法使用之前游戏账号或者想通过其他渠道（B站/华为/taptap等）玩游戏，可参考\n[找不到渠道包、游戏角色怎么办](https://mumu.163.com/help/20210510/35044_946571.html?xqy)\n\n第三步: MuMu模拟器已预设键鼠云方案，如果想自定义键鼠， 可参考\n[MuMu键位设置详解](https://mumu.163.com/help/20230112/35047_1062971.html?xqy)\n\n第一步：请点击“下载Mac版\n”，在Mac设备启动模拟器后，需要点击桌面的游戏中心，在游戏中心搜索霸业下载安装游戏。\n\n第二步: 登录游戏账号，无法使用之前游戏账号或者想通过其他渠道（B站/华为/taptap等）玩游戏，可参考\n[如何安装渠道服？](https://mumu.163.com/mac/faq/install-third-party-server-version.html)\n\n第三步: MuMu模拟器已预设键鼠云方案，如果想自定义键鼠， 可参考\n[MuMu键位设置详解](https://mumu.163.com/mac/tutorials/use-keyboard-mouse-gamepad.html)\n\n更多安徽尚趣玩网络科技有限公司的游戏\n\n[![霸业](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\\\\\n\\\\\n霸业](https://mumu.163.com/games/23890.html)\n\n### MuMu模拟器，不挑设备，秒开秒用！\n\n立即下载\n\n嵌入\n\n分享到:\n\n- \n- \n- \n- \n- \n\n![游戏图标](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n### 霸业\n\n- 经营策略\n- 三国\n- 战争\n\n《霸业》是一款三国阵营争霸策略手游，独创的古潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。\n游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。同阵营玩家将齐心协力，攻城掠地，不断扩大国家势力版图，最终一统三国！\n\n[下载](https://adl.netease.com/d/g/a11/c/gwyxxqy?app_package=com.sqw.by.yofun.mumu&channel=gwyxxqy \"下载\")\n\n将下方的代码复制并粘贴到你的网站来展示上述Widget\n\n取消复制\n\n#### 礼包详情\n\n![游戏图标](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n新手礼包\n\n有效时间：2024年05月23日~2026年12月31日\n\n##### 礼包详情\n\n元宝\\*50，快速行军\\*5\n\n##### 领取说明\n\n1、已下载模拟器的用户：模拟器内搜索“霸业”，进入游戏详情页，点击礼包领取兑换码\n\n2、未下载模拟器的用户：下载模拟器后参照上述操作\n\n##### 使用说明\n\n进入游戏-设置-系统-礼包兑换\n\n领取\n\n![游戏图标](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n出山礼包\n\n有效时间：2024年05月23日~2026年12月31日\n\n##### 礼包详情\n\n元宝\\*50，急速行军\\*1\n\n##### 领取说明\n\n1、已下载模拟器的用户：模拟器内搜索“霸业”，进入游戏详情页，点击礼包领取兑换码\n\n2、未下载模拟器的用户：下载模拟器后参照上述操作\n\n##### 使用说明\n\n进入游戏-设置-系统-礼包兑换\n\n领取\n\n![游戏图标](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n卧龙礼包\n\n有效时间：2024年05月23日~2026年12月31日\n\n##### 礼包详情\n\n吕布碎片\\*10，神威碎片\\*20\n\n##### 领取说明\n\n1、已下载模拟器的用户：模拟器内搜索“霸业”，进入游戏详情页，点击礼包领取兑换码\n\n2、未下载模拟器的用户：下载模拟器后参照上述操作\n\n##### 使用说明\n\n进入游戏-设置-系统-礼包兑换\n\n领取\n\n![游戏图标](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n子龙礼包\n\n有效时间：2024年05月23日~2026年12月31日\n\n##### 礼包详情\n\n赵云碎片\\*10，冲锋碎片\\*20\n\n##### 领取说明\n\n1、已下载模拟器的用户：模拟器内搜索“霸业”，进入游戏详情页，点击礼包领取兑换码\n\n2、未下载模拟器的用户：下载模拟器后参照上述操作\n\n##### 使用说明\n\n进入游戏-设置-系统-礼包兑换\n\n领取\n\n![游戏图标](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n武圣礼包\n\n有效时间：2024年05月23日~2026年12月31日\n\n##### 礼包详情\n\n关羽碎片\\*10，军神碎片\\*20\n\n##### 领取说明\n\n1、已下载模拟器的用户：模拟器内搜索“霸业”，进入游戏详情页，点击礼包领取兑换码\n\n2、未下载模拟器的用户：下载模拟器后参照上述操作\n\n##### 使用说明\n\n进入游戏-设置-系统-礼包兑换\n\n领取\n\n#### 代金券详情\n\n霸业电脑版下载\\_霸业PC版下载\\_MuMu模拟器\n\n如何下载霸业电脑版？用MuMu模拟器在电脑上玩霸业，MuMu安卓模拟器对热门游戏内置键盘按键设置，在电脑大屏幕上体验手游，键鼠操作，多开分身，操作录制，录屏直播，简单上手，高清画质不卡帧。\n\n![](https://mumu.163.com/img/share.png)\n\n![Mu酱企业微信](https://mumu.163.com/img/qywx.png)\n\n长按识别二维码添加Mu酱"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#155\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)",
+      "evidence_id": "2f812170f52b5181a8e89a8e0e0fd05f"
+    },
+    {
+      "url": "https://mumu.163.com/games/23890.html",
+      "reference": "更新日期: 2025-12-11游戏厂商: 安徽尚趣玩网络科技有限公司",
+      "evidence_id": "1b33ad719a85d9ccd3f4f3e35d0d66ed"
+    }
+  ],
+  "markdown": "---\ntype: Market Position\ntitle: 霸业 市场表现与定位\n---\n\n# 霸业 市场表现与定位\n\n在App Store平台信息中，《霸业》由安徽盈趣网络科技有限公司开发，其年龄分级为18+并设有App内控制。在用户评价与榜单定位方面，该作累计拥有3.9万个评分，评分为4.8分，在免费卡牌排行榜位列#155。[@来源](sources/evidence.md#ev-2f812170f52b5181a8e89a8e0e0fd05f)\n\n在渠道发行与平台信息层面，MuMu模拟器游戏库页面显示其游戏厂商为安徽尚趣玩网络科技有限公司，更新日期为2025-12-11。[@来源](sources/evidence.md#ev-1b33ad719a85d9ccd3f4f3e35d0d66ed)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-45aa9300bc3a479b8dc6cd537e6441d0.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

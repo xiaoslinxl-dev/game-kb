@@ -1,0 +1,90 @@
+{
+  "verification_id": "ver-dd2982c1ef0b4d5db84c6207b09d2cf5",
+  "created_at": "2026-10-08T17:03:19.585284+00:00",
+  "full_request": {
+    "game_id": "baye",
+    "file": "progression.md",
+    "markdown": "---\ntype: Progression System\ntitle: 霸业 养成系统\n---\n\n# 霸业 养成系统\n\n《霸业》的养成体系包含三国名将的四维属性、技能、天赋、宿命，以及等级、星级、兵种、装备和特色神将觉醒进阶。\n\n## 武将多方位搭配策略\n\n在游戏的武将养成体系中，三国名将支持并肩作战，提供定制化四维、技能、天赋以及宿命等多方位养成策略，由玩家打造专属武将。[@来源](sources/evidence.md#ev-cf6cdc07d5f5426780491386d6f5c07a)\n\n## 初始宿命将选择\n\n根据2024年8月的新手攻略，玩家在根据新手指引推进并升级府邸后，会进行初始的4对宿命将选择，分别为赵云-关羽、郭嘉-张辽、吕布-貂蝉、孙策-孙尚香。攻略作者建议可随喜好选择但选定后尽量不换，前期集中培养一到两个主将比平均培养效果更好。[@来源](sources/evidence.md#ev-80a7fa3c1eba01ba4c13318b927a11be)\n\n## 角色培养核心途径\n\n在日常角色培养维度，攻略指明可通过以下五大途径进行提升：\n- 等级提升：通过战斗、任务等获得经验，提升基础属性；\n- 星级提升：收集特定素材或达成条件提升角色星级，解锁更强大的技能和装备；\n- 兵种选择：不同兵种具备各自特点和优劣势，根据战术需求选择合适兵种进行培养；\n- 技能强化：技能是战斗力关键，优先提升技能以增强战斗表现；\n- 装备升级：及时升级装备以大幅提升角色属性。[@来源](sources/evidence.md#ev-6fefa51ca97e095253e5e73b67554f9d)\n\n## 神将觉醒与进阶节奏\n\n在进阶养成层面，游戏设有特色神将觉醒系统，武将觉醒后可解锁专属天赋并大幅提升战力。[@来源](sources/evidence.md#ev-6d5c8c14e206b95b5c5822f746919105)\n\n根据微氪攻略记录，郭嘉以及赵云在游戏中具备强大的天赋和觉醒能力；在区服节奏上，开区第22天和第24天将会分别出现赵云和郭嘉的神将，攻略作者建议普通玩家可提前存储元宝，根据区服情况选择合适时机获取神将以大幅提升实力。[@来源](sources/evidence.md#ev-57d73e4f5de8a49fe356f7d7048f456e)\n",
+    "expected_sha256": "7ff236f6189e084700854fed84a195d31791650d38d3eed0aa3fe8d8876af381",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+        "reference": "三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!"
+      },
+      {
+        "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+        "reference": "专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！"
+      },
+      {
+        "url": "https://mumu.163.com/blog/official/20240801/25239_1171405.html",
+        "reference": "【关于武将的选择与培养】首先进游戏之后会先根据新手指引进行游戏,在升级府邸之后会进行初始的4对宿命将选择,分别是赵云-关羽,郭嘉-张辽,吕布-貂蝉,孙策-孙尚香,这里可随喜好选择,只是注意选定后就尽量不换,前期主养一个两个将比平均养要好,后期打架也会很舒服"
+      },
+      {
+        "url": "https://mumu.163.com/blog/official/20240801/25239_1171405.html",
+        "reference": "在游戏中，培养角色可以通过多种途径：\n\n等级提升：通过战斗、任务等获得经验，角色等级提升可以提升基础属性。\n\n星级提升：收集特定素材或达成条件，可以提升角色的星级，解锁更强大的技能和装备。\n\n兵种选择：不同兵种有各自特点和优劣势，根据战术需求选择合适的兵种进行培养。\n\n技能强化：技能是提升战斗力的关键，优先提升角色技能以增强在战斗中的表现。\n\n装备升级：装备也能极大提升角色属性，及时升级装备可以让角色更加强大。"
+      },
+      {
+        "url": "https://mumu.163.com/blog/official/20240731/25239_1171135.html",
+        "reference": "郭嘉以及赵云在游戏中具有强大的天赋和觉醒能力，开区22天和24天将会出现赵云和郭嘉的神将，这段时间对于不花费太多的玩家来说是一个很好的存储元宝的机会，可以根据区服情况选择合适的时机去获取这两个神将，这将极大地提升玩家的实力，在游戏中，每日任务和材料的收集也是非常重要的。"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "c50238e3fc6419540ded095fd31e137f5701b7b1d9c11674000c2f8d5baa40d5",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.84,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.65,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 霸业-送自选开荒武将\n\n魏蜀吴之争！因你而不同！\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#155\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [大小\\\\\n\\\\\n1.3\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n齐聚《霸业》为国而战！ 魏蜀吴之争，因你而不同！\n立即加入三国战场即可获取自选传奇英雄和精美皮肤！\n七日庆典，丰富道具奖励、巾帼英雄甄姬限时领取。\n新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！\n\n《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！\n【游戏特色】\n以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！\n\n棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！\n\n[**评分及评论**](https://apps.apple.com/cn/app/6444941591?see-all=reviews&platform=iphone)\n\n- 4.8\n\n满分 5 分\n\n3.9万 个评分\n\n- 看这个画风还是很有兴趣试一下的，非常不错的画风！希望武将阵容可选性多一点，玩SLG就是要玩出自由度才有意思！",
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 霸业-送自选开荒武将\n\n魏蜀吴之争！因你而不同！\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#155\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [大小\\\\\n\\\\\n1.3\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n齐聚《霸业》为国而战！ 魏蜀吴之争，因你而不同！\n立即加入三国战场即可获取自选传奇英雄和精美皮肤！\n七日庆典，丰富道具奖励、巾帼英雄甄姬限时领取。\n新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！\n\n《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！\n【游戏特色】\n以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！\n\n棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！\n\n[**评分及评论**](https://apps.apple.com/cn/app/6444941591?see-all=reviews&platform=iphone)\n\n- 4.8\n\n满分 5 分\n\n3.9万 个评分\n\n- 看这个画风还是很有兴趣试一下的，非常不错的画风！希望武将阵容可选性多一点，玩SLG就是要玩出自由度才有意思！",
+    "MuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，自由多开\n\nWindows 下载\n\n![](https://mumu.res.netease.com/pc/gw/20250207163110/img/mr_banner_27ea685d.png)\n\nMuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，智能操作\n\nWindows 下载\n\n![games](https://mumu.res.netease.com/pc/gw/20250207163110/img/news_game_banner_41a8ef3b.png)\n\n[MuMu模拟器](https://mumu.163.com/ \"MuMu模拟器\") [活动资讯](https://mumu.163.com/blog/ \"活动资讯\") [安装教程](https://mumu.163.com/blog/tutorials/ \"安装教程\")《霸业》新手攻略：武将选择与培养干货指南\n\n目录\n\n# 《霸业》新手攻略：武将选择与培养干货指南\n\n2024-08-01\n\n### ****新手技巧与干货分享****\n\n大家好！霸业已经迎来了公测开服的大日子，新主公玩家们终于可以和这款游戏见面啦~\n\n对于许多新手玩家来说，刚开始接触这款游戏时可能会有些迷茫，不清楚应该在第一天做些什么，应该如何快速提升实力。今天我将根据在测试服的一些经验以及区服内资深玩家的分享，总结出一些经验和技巧，希望能够对大家有所帮助。\n\n废话不多说，让我们直接分享一些干货：\n\n【关于武将的选择与培养】首先进游戏之后会先根据新手指引进行游戏,在升级府邸之后会进行初始的4对宿命将选择,分别是赵云-关羽,郭嘉-张辽,吕布-貂蝉,孙策-孙尚香,这里可随喜好选择,只是注意选定后就尽量不换,前期主养一个两个将比平均养要好,后期打架也会很舒服\n\n![](http://mumu-apk.fp.ps.netease.com/file/66a9f977e824282691614afcTRUAQSG605)",
+    "MuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，自由多开\n\nWindows 下载\n\n![](https://mumu.res.netease.com/pc/gw/20250207163110/img/mr_banner_27ea685d.png)\n\nMuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，智能操作\n\nWindows 下载\n\n![games](https://mumu.res.netease.com/pc/gw/20250207163110/img/news_game_banner_41a8ef3b.png)\n\n[MuMu模拟器](https://mumu.163.com/ \"MuMu模拟器\") [活动资讯](https://mumu.163.com/blog/ \"活动资讯\") [安装教程](https://mumu.163.com/blog/tutorials/ \"安装教程\")《霸业》新手攻略：武将选择与培养干货指南\n\n目录\n\n# 《霸业》新手攻略：武将选择与培养干货指南\n\n2024-08-01\n\n# MuMu模拟器12\n\n![游戏图标](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n### 霸业\n\n- 经营策略\n- 三国\n- 战争\n\n《霸业》是一款三国阵营争霸策略手游，独创的古潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。\n游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。同阵营玩家将齐心协力，攻城掠地，不断扩大国家势力版图，最终一统三国！\n\n![MuMu](https://mumu.163.com/res/cms/res/game_logo.BJS6KsF0.png)[下载](https://mumu.163.com/games/23890.html \"下载\")\n\n在玩游戏时，转职角色时要留意，尽量避免拥有太多相同类型的兵种。比如，如赵云和关羽这样的组合，一个是骑兵弓兵，一个是步兵弓兵，已经有两种弓兵兵种了。所以在之后的游戏中，应避免再培养弓兵角色，否则会造成弓兵技能碎片短缺。\n\n![](http://mumu-apk.fp.ps.netease.com/file/66a9f98395f15507fdf738d1jgAw4M5T05)\n\n在游戏中，培养角色可以通过多种途径：\n\n等级提升：通过战斗、任务等获得经验，角色等级提升可以提升基础属性。\n\n星级提升：收集特定素材或达成条件，可以提升角色的星级，解锁更强大的技能和装备。\n\n兵种选择：不同兵种有各自特点和优劣势，根据战术需求选择合适的兵种进行培养。\n\n技能强化：技能是提升战斗力的关键，优先提升角色技能以增强在战斗中的表现。\n\n装备升级：装备也能极大提升角色属性，及时升级装备可以让角色更加强大。\n\n在培养过程中，技能和装备是重点，可以通过以下方式获取和提升：",
+    "MuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，自由多开\n\nWindows 下载\n\n![](https://mumu.res.netease.com/pc/gw/20250207163110/img/mr_banner_27ea685d.png)\n\nMuMu模拟器，不挑设备，秒开秒用！\n\n适配Windows/macOS，高清大屏，智能操作\n\nWindows 下载\n\n![games](https://mumu.res.netease.com/pc/gw/20250207163110/img/news_game_banner_41a8ef3b.png)\n\n[MuMu模拟器](https://mumu.163.com/ \"MuMu模拟器\") [活动资讯](https://mumu.163.com/blog/ \"活动资讯\") [安装教程](https://mumu.163.com/blog/tutorials/ \"安装教程\")《霸业》手游微氪攻略：高效提升武将与资源获取技巧\n\n目录\n\n# 《霸业》手游微氪攻略：高效提升武将与资源获取技巧\n\n2024-07-31\n\n****微氪攻略总结****\n\n微氪的关键在于明晰合理的发展路线，确保资源的最大化利用。在游戏中，政务是至关重要的环节，每日政务次数需全部购买，以加速官邸升级、武将提升和血战沙场次数的增加。此外，每日征战中的血战沙场次数也需购买满，以获取大量武将技能碎片和材料。演义之路中的扫荡次数很重要，每天都要尽量达到扫荡上限，这样可以获得升级武将和兵种所需的材料、经验书和银币，因为升级武将技能需要消耗大量银币。另外，首充和装备也很关键，通过首充任意金额就可以获得赤兔马，一般玩家会选择充值6元后领取赤兔马，装备赤兔马后可以激活充值送卧龙扇活动，此外还有第五天的方天画戟、官邸9到12级的四次充值奖励等，充值可以同时满足多重条件。在游戏中，玩家可以通过一些策略来最大化资源的获取效益。首次充值后，不要立即使用赤兔马，而是等待第二天升级官邸4次后再使用，这样可以获得更多奖励。但是升级官邸需要消耗大量资源，如果资源有限，可以分阶段升级并适时充值获取奖励。此外，在游戏中除了永久卡外，其他充值活动通常是共享的，因此玩家可以善用这一点来提升资源的性价比。对于那些不想花太多钱但又想获得更多资源的微氪玩家来说，这些技巧能够帮助他们更有效地提升游戏体验。\n\n![](http://mumu-apk.fp.ps.netease.com/file/66a9f058d76a3f4e8ca307d9HIZo9l2105)![](http://mumu-apk.fp.ps.netease.com/file/66a9f06bdd9670d5f31edac61UitozPL05)![](http://mumu-apk.fp.ps.netease.com/file/66a9f07a2b585fdb15861988jaqQaaqo05)\n\nMuMu模拟器12\n\n# MuMu模拟器12\n\n![游戏图标](https://mumu-apk.fp.ps.netease.com/file/68246e4af53f944eb3ef85c8yMkaGhgR06.png?fop=imageView/0/w/150/h/150)\n\n### 霸业\n\n- 经营策略\n- 三国\n- 战争\n\n《霸业》是一款三国阵营争霸策略手游，独创的古潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。\n游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。同阵营玩家将齐心协力，攻城掠地，不断扩大国家势力版图，最终一统三国！\n\n![MuMu](https://mumu.163.com/res/cms/res/game_logo.BJS6KsF0.png)[下载](https://mumu.163.com/games/23890.html \"下载\")\n\n针对微氪玩家, 推荐优先选择赵云和郭嘉这两位武将。他们在日常任务中可获取，实力较为出色。配备散件装备也能很好地发挥他们的能力。\n\n对于套装选择，建议赵云使用龙胆套装。\n\n![](http://mumu-apk.fp.ps.netease.com/file/66a9f0b45061548146bd73b4oPOVRBqI05)\n\n赵云在霸业中拥有独特的技能和属性，使得他成为一个强大的战士。他的装备选择至关重要，套装效果和单件装备都能显著提升他的战斗能力。在游戏开服的第11天，会推出专门适配赵云的装备，无论是套装效果还是单件装备都能带来明显的战斗优势。这些装备不仅能提升赵云的实力，而且性价比也非常高，是值得投资的选择。让赵云穿上这些装备，让他在战场上更加无敌！\n\n![](http://mumu-apk.fp.ps.netease.com/file/66a9f0da4da24b4b88ab3eecTXGKpYqw05)\n\n![](http://mumu-apk.fp.ps.netease.com/file/66a9f0f61f9d1783fbac1c0ckU7vUtrr05)\n\n赵云具备出色的天赋和觉醒能力，使其与这套装备完美匹配。作为全能型角色，赵云擅长克制文官。相较之下，郭嘉则是一位精通文官之道的角色，能够有效地克制武将，二者之间并不存在冲突。\n\n![](http://mumu-apk.fp.ps.netease.com/file/66a9f112efcc157c1e0b59c7QqIGhS5k05)![](http://mumu-apk.fp.ps.netease.com/file/66a9f1213fb497809e53cd20Nvjtdsiq05)![](http://mumu-apk.fp.ps.netease.com/file/66a9f139a71064d7179a20baWCcOpyN605)\n\n郭嘉以及赵云在游戏中具有强大的天赋和觉醒能力，开区22天和24天将会出现赵云和郭嘉的神将，这段时间对于不花费太多的玩家来说是一个很好的存储元宝的机会，可以根据区服情况选择合适的时机去获取这两个神将，这将极大地提升玩家的实力，在游戏中，每日任务和材料的收集也是非常重要的。\n\n### ****活动与资源管理需谨慎****"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!",
+      "evidence_id": "cf6cdc07d5f5426780491386d6f5c07a"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！",
+      "evidence_id": "6d5c8c14e206b95b5c5822f746919105"
+    },
+    {
+      "url": "https://mumu.163.com/blog/official/20240801/25239_1171405.html",
+      "reference": "【关于武将的选择与培养】首先进游戏之后会先根据新手指引进行游戏,在升级府邸之后会进行初始的4对宿命将选择,分别是赵云-关羽,郭嘉-张辽,吕布-貂蝉,孙策-孙尚香,这里可随喜好选择,只是注意选定后就尽量不换,前期主养一个两个将比平均养要好,后期打架也会很舒服",
+      "evidence_id": "80a7fa3c1eba01ba4c13318b927a11be"
+    },
+    {
+      "url": "https://mumu.163.com/blog/official/20240801/25239_1171405.html",
+      "reference": "在游戏中，培养角色可以通过多种途径：\n\n等级提升：通过战斗、任务等获得经验，角色等级提升可以提升基础属性。\n\n星级提升：收集特定素材或达成条件，可以提升角色的星级，解锁更强大的技能和装备。\n\n兵种选择：不同兵种有各自特点和优劣势，根据战术需求选择合适的兵种进行培养。\n\n技能强化：技能是提升战斗力的关键，优先提升角色技能以增强在战斗中的表现。\n\n装备升级：装备也能极大提升角色属性，及时升级装备可以让角色更加强大。",
+      "evidence_id": "6fefa51ca97e095253e5e73b67554f9d"
+    },
+    {
+      "url": "https://mumu.163.com/blog/official/20240731/25239_1171135.html",
+      "reference": "郭嘉以及赵云在游戏中具有强大的天赋和觉醒能力，开区22天和24天将会出现赵云和郭嘉的神将，这段时间对于不花费太多的玩家来说是一个很好的存储元宝的机会，可以根据区服情况选择合适的时机去获取这两个神将，这将极大地提升玩家的实力，在游戏中，每日任务和材料的收集也是非常重要的。",
+      "evidence_id": "57d73e4f5de8a49fe356f7d7048f456e"
+    }
+  ],
+  "markdown": "---\ntype: Progression System\ntitle: 霸业 养成系统\n---\n\n# 霸业 养成系统\n\n《霸业》的养成体系包含三国名将的四维属性、技能、天赋、宿命，以及等级、星级、兵种、装备和特色神将觉醒进阶。\n\n## 武将多方位搭配策略\n\n在游戏的武将养成体系中，三国名将支持并肩作战，提供定制化四维、技能、天赋以及宿命等多方位养成策略，由玩家打造专属武将。[@来源](sources/evidence.md#ev-cf6cdc07d5f5426780491386d6f5c07a)\n\n## 初始宿命将选择\n\n根据2024年8月的新手攻略，玩家在根据新手指引推进并升级府邸后，会进行初始的4对宿命将选择，分别为赵云-关羽、郭嘉-张辽、吕布-貂蝉、孙策-孙尚香。攻略作者建议可随喜好选择但选定后尽量不换，前期集中培养一到两个主将比平均培养效果更好。[@来源](sources/evidence.md#ev-80a7fa3c1eba01ba4c13318b927a11be)\n\n## 角色培养核心途径\n\n在日常角色培养维度，攻略指明可通过以下五大途径进行提升：\n- 等级提升：通过战斗、任务等获得经验，提升基础属性；\n- 星级提升：收集特定素材或达成条件提升角色星级，解锁更强大的技能和装备；\n- 兵种选择：不同兵种具备各自特点和优劣势，根据战术需求选择合适兵种进行培养；\n- 技能强化：技能是战斗力关键，优先提升技能以增强战斗表现；\n- 装备升级：及时升级装备以大幅提升角色属性。[@来源](sources/evidence.md#ev-6fefa51ca97e095253e5e73b67554f9d)\n\n## 神将觉醒与进阶节奏\n\n在进阶养成层面，游戏设有特色神将觉醒系统，武将觉醒后可解锁专属天赋并大幅提升战力。[@来源](sources/evidence.md#ev-6d5c8c14e206b95b5c5822f746919105)\n\n根据微氪攻略记录，郭嘉以及赵云在游戏中具备强大的天赋和觉醒能力；在区服节奏上，开区第22天和第24天将会分别出现赵云和郭嘉的神将，攻略作者建议普通玩家可提前存储元宝，根据区服情况选择合适时机获取神将以大幅提升实力。[@来源](sources/evidence.md#ev-57d73e4f5de8a49fe356f7d7048f456e)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-dd2982c1ef0b4d5db84c6207b09d2cf5.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

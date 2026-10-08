@@ -1,0 +1,51 @@
+{
+  "verification_id": "ver-28cc0de29cd145c590acfb668f498211",
+  "created_at": "2026-10-08T06:49:04.715689+00:00",
+  "full_request": {
+    "game_id": "han-shuang-qi-shi-lu",
+    "file": "monetization.md",
+    "markdown": "---\ntype: Monetization\ntitle: 寒霜启示录 商业化\n---\n\n# 寒霜启示录 商业化\n\n在《寒霜启示录》的App内购买体系中，标准礼包档位包括STANDARD PACK 1（0.99美元）、STANDARD PACK 3（2.99美元）、STANDARD PACK 5（4.99美元）、STANDARD PACK 7（9.99美元）、STANDARD PACK 10（19.99美元）、STANDARD PACK 14（49.99美元）与STANDARD PACK 16（99.99美元）。[@证据](sources/evidence.md#ev-acb1d3ca83211a9d1345486aaf7d61b4)\n\n此外，日常与通行证订阅项目包括Daily Worship（4.99美元）、Regular Pass（4.99美元）与Daily Deal (7d)（4.99美元）。[@证据](sources/evidence.md#ev-acb1d3ca83211a9d1345486aaf7d61b4)\n",
+    "expected_sha256": "9e19993b0f25c3041f594a1d6b0604721fcb0a9e0742575c2481081756124497",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+        "reference": "App内购买是\n\n- STANDARD PACK 5US$4.99\n\n- STANDARD PACK 7US$9.99\n\n- STANDARD PACK 10US$19.99\n\n- STANDARD PACK 1US$0.99\n\n- Daily WorshipUS$4.99\n\n- STANDARD PACK 16US$99.99\n\n- STANDARD PACK 3US$2.99\n\n- STANDARD PACK 14US$49.99\n\n- Regular PassUS$4.99\n\n- Daily Deal (7d)US$4.99\n\n- ["
+      }
+    ],
+    "scope": {
+      "region": "CN",
+      "title": "寒霜启示录"
+    }
+  },
+  "markdown_sha256": "9665b988f5c88fd1d8cfdbc5cab159b174188c4ab1ef208709ff963151b08a29",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.82,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.74,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 寒霜启示录\n\n4亿人都在玩的原创冰雪手游\n\n免费 · App 内购买 · 专为 iPad 设计\n\n- [47万个评分\\\\\n\\\\\n4.6](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [排行榜\\\\\n\\\\\n#1\\\\\n\\\\\n模拟](https://apps.apple.com/us/iphone/charts/7015?l=zh-Hans-CN&chart=top-free)\n\n- [开发者\\\\\n\\\\\nCentury Games Pte. Ltd.](https://apps.apple.com/us/developer/century-games-pte-ltd/id1540548141?l=zh-Hans-CN&platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\+ 15 种语言](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- [大小\\\\\n\\\\\n1\\\\\n\\\\\nGB](https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n全球原创冰雪手游！4亿人都在玩！\n\n暴风雪覆盖了旧日的世界，但全新的故事等待重启！\n而你，作为蓄势待发的幸存者，将召集上你的伙伴，带上免费的SSR伙伴「茉莉」，一起踏上这场趣味的冒险之旅，点起希望的火种，重新打造温馨的家园！\n\n【游戏特色】\n◆轻松建造，暖心经营\n从一座熔炉开始，融化冰雪、开拓领地。合理规划人力与资源，就能收获一个温馨繁荣的小镇！\n\n◆放置挂机，离线收益\n一键派遣英雄，自动积累资源。再忙也能稳步发展，享受从容不迫的生存节奏~\n\n◆简单开局，爽玩一下\n试试「冰钓」收集珍稀鱼类，或是「除雪」发掘隐藏的奖励——简单有趣，收获不停！\n\n◆英雄并肩，策略搭配\n所有伙伴等级共享，轻松培养不费力。如果灵活组合技能，就打造你最得力的制胜小队！\n\n◆协力合作，共同制胜\n与全球玩家组队互助，加速成长、共闯雪原。团结在一起，这个寒冬不再孤单~\n\n准备好闯荡这片冰雪世界了吗？立即下载《寒霜启示录》——集合团队协作、放置乐趣与策略深度的生存体验！\n\n【关注我们】\n游戏官网: https://whiteoutsurvival.centurygames.com/zh\\_cn\nFacebook: https://www.facebook.com/WhiteoutSurvival\nDiscord: https://discord.gg/whiteoutsurvival\nYouTube: https://www.youtube.com/@WhiteoutSurvivalOfficial\nTikTok: https://www.tiktok.com/@whiteoutsurvivalofficial\nX: https://x.com/WOS\\_Global\nInstagram: https://www.instagram.com/whiteoutsurvival\nThreads: https://www.threads.com/@whiteoutsurvival\n\n# App 隐私\n\n开发者“ **Century Games Pte. Ltd.**”已表明该 App 的隐私规范可能包括下述数据处理方式。此信息未经 Apple 验证。更多相关信息，请参阅 [开发者隐私政策](https://www.centurygame.com/privacy-policy/)。\n\n为帮助你进一步理解开发者的回应，请参阅 [隐私定义和示例](https://apps.apple.com/us/iphone/story/id1539235847?l=zh-Hans-CN)。\n\n隐私规范可能因你使用的功能或你的年龄等因素而异。 [进一步了解](https://apps.apple.com/us/iphone/story/id1538632801?l=zh-Hans-CN)\n\n## 信息\n\n销售商Century Games Pte. Ltd.\n\n大小1 GB\n\n类别策略\n\n兼容性设备需装有 iOS 13.0 或更高版本。\n\n- **iPhone**\n\n设备需装有 iOS 13.0 或更高版本。\n\n- **iPad**\n\n设备需装有 iPadOS 13.0 或更高版本。\n\n- **iPod touch**\n\n设备需装有 iOS 13.0 或更高版本。\n\n- **Mac**\n\n需要 macOS 11.0 或更高版本以及装有 Apple M1 或更高版本芯片的 Mac。\n\n- **Apple Vision**\n\n设备需装有 visionOS 1.0 或更高版本。\n\n语言简体中文和另外15种\n\n- 简体中文、俄文、印度尼西亚文、土耳其文、德文、意大利文、日文、法语、波兰文、泰文、繁体中文、英语、葡萄牙文、西班牙文、阿拉伯文、韩文\n\n年龄分级9+\n\n- 9+\n\n- 此 App 分级为 9+，并设有内容限制。\n\n部分内容可能有更高的年龄分级，因此可能受到限制，并由开发者通过 App 内控件管理。\n- [了解更多](https://apps.apple.com/us/iphone/story/id1825160725?l=zh-Hans-CN)\n\n- **App 内控件**\n\n年龄验证\n\n**偶尔**\n\n卡通或幻想暴力\n\n**包含**\n\n抽奖箱\n\n信息和聊天\n\nApp内购买是\n\n- STANDARD PACK 5US$4.99\n\n- STANDARD PACK 7US$9.99\n\n- STANDARD PACK 10US$19.99\n\n- STANDARD PACK 1US$0.99\n\n- Daily WorshipUS$4.99\n\n- STANDARD PACK 16US$99.99\n\n- STANDARD PACK 3US$2.99\n\n- STANDARD PACK 14US$49.99\n\n- Regular PassUS$4.99\n\n- Daily Deal (7d)US$4.99\n\n- [进一步了解](https://apps.apple.com/us/iphone/story/id1436214772?l=zh-Hans-CN)\n\n版权Copyright © 2022 CENTURY GAMES.ALL RIGHTS RESERVED."
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/us/app/%E5%AF%92%E9%9C%9C%E5%90%AF%E7%A4%BA%E5%BD%95/id6443575749?l=zh-Hans-CN",
+      "reference": "App内购买是\n\n- STANDARD PACK 5US$4.99\n\n- STANDARD PACK 7US$9.99\n\n- STANDARD PACK 10US$19.99\n\n- STANDARD PACK 1US$0.99\n\n- Daily WorshipUS$4.99\n\n- STANDARD PACK 16US$99.99\n\n- STANDARD PACK 3US$2.99\n\n- STANDARD PACK 14US$49.99\n\n- Regular PassUS$4.99\n\n- Daily Deal (7d)US$4.99\n\n- [",
+      "evidence_id": "acb1d3ca83211a9d1345486aaf7d61b4"
+    }
+  ],
+  "markdown": "---\ntype: Monetization\ntitle: 寒霜启示录 商业化\n---\n\n# 寒霜启示录 商业化\n\n在《寒霜启示录》的App内购买体系中，标准礼包档位包括STANDARD PACK 1（0.99美元）、STANDARD PACK 3（2.99美元）、STANDARD PACK 5（4.99美元）、STANDARD PACK 7（9.99美元）、STANDARD PACK 10（19.99美元）、STANDARD PACK 14（49.99美元）与STANDARD PACK 16（99.99美元）。[@证据](sources/evidence.md#ev-acb1d3ca83211a9d1345486aaf7d61b4)\n\n此外，日常与通行证订阅项目包括Daily Worship（4.99美元）、Regular Pass（4.99美元）与Daily Deal (7d)（4.99美元）。[@证据](sources/evidence.md#ev-acb1d3ca83211a9d1345486aaf7d61b4)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-28cc0de29cd145c590acfb668f498211.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

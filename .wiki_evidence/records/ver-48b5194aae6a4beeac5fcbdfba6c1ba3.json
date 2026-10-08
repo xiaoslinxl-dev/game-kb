@@ -1,0 +1,51 @@
+{
+  "verification_id": "ver-48b5194aae6a4beeac5fcbdfba6c1ba3",
+  "created_at": "2026-10-08T06:41:49.309737+00:00",
+  "full_request": {
+    "game_id": "feng-kuang-shui-shi-jie",
+    "file": "overview.md",
+    "markdown": "---\ntype: Game Overview\ntitle: 疯狂水世界 游戏概览\n---\n\n# 疯狂水世界 游戏概览\n\n《疯狂水世界》是一款沉浸式海上末日模拟生存手游。玩家在陆地被淹没的未来环境中作为被选中的领袖，驾驶孤舟探索海域、搜集残存物资并接纳幸存者，亲手在波涛之上建立起繁荣的避难所。[@证据](sources/evidence.md#ev-d0b5ac7f1d2b87542dbdd643a08d371c)\n",
+    "expected_sha256": "16a1bd2689bfcc4f66a3c53f9fd1a7fe5848b00edeb04c7472e2d4d781d2d8b6",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630",
+        "reference": "《疯狂水世界》是一款沉浸式海上末日模拟生存手游！在环境崩坏，陆地被淹没的未来，您将作为一位被命运选中的领袖，驾驶孤舟，探索海域，搜集残存物资，接纳四方的接纳者，并亲手在波涛之上建立起繁荣的避难所，带领人类文明在废墟中寻找失落的希望。"
+      }
+    ],
+    "scope": {
+      "region": "CN",
+      "title": "疯狂水世界"
+    }
+  },
+  "markdown_sha256": "ede28dcb995725e30497b2537b6d4090f008d3947c0e1fc00a288bf82018786d",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.83,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.86,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 疯狂水世界\n\n全新海上末日模拟生存手游\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [6226个评分\\\\\n\\\\\n4.5](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#productRatings)\n\n- [年龄分级\\\\\n\\\\\n9+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [排行榜\\\\\n\\\\\n#2\\\\\n\\\\\n角色扮演](https://apps.apple.com/cn/iphone/charts/7014?chart=top-free)\n\n- [开发者\\\\\n\\\\\n益世界网络科技(上海)有限公司](https://apps.apple.com/cn/developer/%E7%9B%8A%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80-%E4%B8%8A%E6%B5%B7-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1679513448?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- [大小\\\\\n\\\\\n507.1\\\\\n\\\\\nMB](https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n《疯狂水世界》是一款沉浸式海上末日模拟生存手游！在环境崩坏，陆地被淹没的未来，您将作为一位被命运选中的领袖，驾驶孤舟，探索海域，搜集残存物资，接纳四方的接纳者，并亲手在波涛之上建立起繁荣的避难所，带领人类文明在废墟中寻找失落的希望。\n\n[**评分及评论**](https://apps.apple.com/cn/app/6757172630?see-all=reviews&platform=iphone)\n\n- 4.5\n\n满分 5 分\n\n6226 个评分\n\n- 玩了一个多月，基本搞清楚状况了。给新手三条建议，第一，这个游戏只有一个boss，那就是兰博，其他四个队友都是配菜，就一个目的让兰博活到最后。兰博作为射手，堆攻速和吸血。兰博不仅自己是后期无敌，而且四技能也能够作为辅助给所有队友（包括召唤物）叠加攻速。第二这是一个单机游戏，打发时间，但是推图确实有意思，不同站位不同效果，甚至同一阵容反复多打几次就能过（前提是你得有召唤系角色），第三条，所有碎片和技能书不可以重置，尤其是月卡玩家，家底薄，就一个砸兰博，兰博用不上的才砸其他的，当然，主坦克也得有一个，不然前排撑不住也是兵败如山倒，后排被各种切，其他的辅助就是保后排。这游戏不需要所有角色都在战斗结束都活着，只需要你站到最后就行。推图钩子三星必备。最后，不跟主流的就一个结局，系统赛季还没结束，你的赛季就结束了，玩不下去了。"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6757172630",
+      "reference": "《疯狂水世界》是一款沉浸式海上末日模拟生存手游！在环境崩坏，陆地被淹没的未来，您将作为一位被命运选中的领袖，驾驶孤舟，探索海域，搜集残存物资，接纳四方的接纳者，并亲手在波涛之上建立起繁荣的避难所，带领人类文明在废墟中寻找失落的希望。",
+      "evidence_id": "d0b5ac7f1d2b87542dbdd643a08d371c"
+    }
+  ],
+  "markdown": "---\ntype: Game Overview\ntitle: 疯狂水世界 游戏概览\n---\n\n# 疯狂水世界 游戏概览\n\n《疯狂水世界》是一款沉浸式海上末日模拟生存手游。玩家在陆地被淹没的未来环境中作为被选中的领袖，驾驶孤舟探索海域、搜集残存物资并接纳幸存者，亲手在波涛之上建立起繁荣的避难所。[@证据](sources/evidence.md#ev-d0b5ac7f1d2b87542dbdd643a08d371c)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-48b5194aae6a4beeac5fcbdfba6c1ba3.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

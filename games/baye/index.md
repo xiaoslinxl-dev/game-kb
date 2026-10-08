@@ -11,3 +11,4 @@
 - [商业化](monetization.md)
 - [社交与运营活动](social-liveops.md)
 - [市场表现与定位](market-position.md)
+- [封地建筑与升级系统](systems/base-build.md)

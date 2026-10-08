@@ -1,3 +1,8 @@
+---
+type: Game Overview
+title: 寒霜启示录 游戏概览
+---
+
 # 寒霜启示录 游戏概览
 
 《寒霜启示录》是一款集合团队协作、放置乐趣与策略深度的冰雪生存体验手游。[@证据](sources/evidence.md#ev-f4a167381c96c18407b23ad4b0ffeafe)

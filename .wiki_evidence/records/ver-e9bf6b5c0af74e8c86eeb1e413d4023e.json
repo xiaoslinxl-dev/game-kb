@@ -1,0 +1,70 @@
+{
+  "verification_id": "ver-e9bf6b5c0af74e8c86eeb1e413d4023e",
+  "created_at": "2026-10-08T10:46:40.327241+00:00",
+  "full_request": {
+    "game_id": "han-shuang-qi-shi-lu",
+    "file": "systems/base-build.md",
+    "markdown": "---\ntype: Base Building System\ntitle: 寒霜启示录 城镇营建与核心建筑系统\n---\n\n# 寒霜启示录 城镇营建与核心建筑系统\n\n《寒霜启示录》的城镇营建围绕冰雪环境中的生存保障与资源生产展开。在冒险初期，玩家需重点接触并建造以下关键建筑：\n\n## 1. 供暖、人口与基础建材\n\n- **大熔炉**：城镇的中心，为整个区域供暖，也为幸存者提供安全保障。升级大熔炉的次数越多，可用空间就越大。\n- **民居**：为幸存者提供住处。需要建造多个民居，建造的民居越多，城镇容纳的幸存者就越多。\n- **伐木场**：可生产木材，而木材是建造更多建筑和升级现有建筑的必备资源。[@证据](../sources/evidence.md#ev-499ad88c4433b184b92875abd6f8a07b)\n\n## 2. 矿产开采、产能升级与医疗保障\n\n- **煤矿厂**：为城镇带来煤矿，用于建筑施工和升级产能。制作装备和升级煤矿厂可为城镇提供更多煤矿。\n- **铁矿厂**：生产第三种主要资源铁矿。铁矿与木材和煤矿一样，是升级装备和建筑的必备资源。\n- **医务室**：可以通过治愈疾病、疗伤等方式来让幸存者恢复健康。[@证据](../sources/evidence.md#ev-5b41fe18c160e4c16260b7d654d633fc)\n\n## 3. 食物供给、狩猎与探险设施\n\n- **厨房与就餐**：将为城镇烹饪生肉，同时也是幸存者在不干活时用餐的地方。\n- **猎人之家**：厨房需要生肉来供给幸存者，猎人之家作为生肉来源，幸存者外出狩猎后会将猎物带回小屋存放。\n- **探险者之家**：通往探险模式，在该模式中一辆马车载着幸存者努力击败敌人，为城镇招募更多人手。[@证据](../sources/evidence.md#ev-6b509ef563028d337225670839fd529f)\n",
+    "expected_sha256": null,
+    "sources": [
+      {
+        "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_all_about_buildings_in_whiteout_survival_postinstall_fcp&hl=zh",
+        "reference": "- 大熔炉是城镇的中心，为整个区域供暖，也为幸存者提供安全保障。升级大熔炉的次数越多，你的可用空间就越大。\n- 民居为幸存者提供住处。你需要建造多个民居，建造的民居越多，城镇容纳的幸存者就越多。\n- 伐木场可生产木材，而木材是建造更多建筑和升级现有建筑的必备资源。"
+      },
+      {
+        "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_all_about_buildings_in_whiteout_survival_postinstall_fcp&hl=zh",
+        "reference": "- 煤矿厂会为城镇带来煤矿，用于建筑施工和升级产能。制作装备和升级煤矿厂可为你的城镇提供更多煤矿。\n- 游戏中的第三种主要资源是铁矿，这种资源自然需要在铁矿厂中生产。铁矿与木材和煤矿一样，是升级装备和建筑的必备资源。\n- 医务室可以通过治愈疾病、疗伤等方式来让幸存者恢复健康。"
+      },
+      {
+        "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_all_about_buildings_in_whiteout_survival_postinstall_fcp&hl=zh",
+        "reference": "- 厨房将为城镇烹饪生肉，同时也是幸存者在不干活时用餐的地方。\n- 探险者之家通往《寒霜启示录》的探险模式。在该模式中，一辆马车载着你的幸存者努力击败敌人，为城镇招募更多人手。\n- 厨房需要生肉来供给幸存者，而猎人之家可作为生肉的来源，幸存者外出狩猎后会将猎物带回小屋存放。"
+      }
+    ],
+    "scope": {
+      "region": "CN"
+    }
+  },
+  "markdown_sha256": "b3184b0f720849551e0ddc50b10b30ad8e8c0bfe0002cca3fab1178e060f2b28",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.91,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.79,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://play-lh.googleusercontent.com/J4oXFLeWZyMo1dtgtvW9aX6Uixe3nE9fUHStDtskCK_MepOkfjsZwuZjxBXK7aBflymNy_OKFPg=w1296-h2160-rw)\n\n# 《寒霜启示录》初期必备建筑\n\n分享\n\n本攻略将介绍你在《寒霜启示录》中将会接触的一些关键建筑，尤其是在冒险之旅的早期。建造和升级这些建筑是让城镇繁荣兴旺的关键，所以一定要熟悉它们，以免在冰封之地掉队。一点也没夸张哦！\n\n![](https://play-lh.googleusercontent.com/e6INKxEQYEVynws8vdraGLC5vXKDv7g_kkZJ5WPgFFfbdXTeUK7uAmn81JYbcJXkATwu2wa9Ut87=w3840-h2160-rw)\n\n## 《寒霜启示录》建筑讲解\n\n随着游戏的推进，你可以建造大量建筑，但下面这 9 座建筑是玩家一开始就会接触到的。了解这些建筑的用途以及它们对城镇发展有何助益非常重要，因此在开始冒险之前，不妨深入了解一番。\n\n![](https://play-lh.googleusercontent.com/D1Xlvo8rKHFcGi3KjbRwWC_OclNpWXDGD30p5xV_FbjTI_EBrPKtqSKI5Adi-z6pCe6-S36pLT4C=w3840-h2160-rw)\n\n- 大熔炉是城镇的中心，为整个区域供暖，也为幸存者提供安全保障。升级大熔炉的次数越多，你的可用空间就越大。\n- 民居为幸存者提供住处。你需要建造多个民居，建造的民居越多，城镇容纳的幸存者就越多。\n- 伐木场可生产木材，而木材是建造更多建筑和升级现有建筑的必备资源。\n\n![](https://play-lh.googleusercontent.com/PaTt2R_48KeXxkfNEtqGfSb1JyfKj_k7DhmzmyKHypMd44qz92v-Zjik2MZPdwpJ6f1skQpXN7I=w3840-h2160-rw)",
+    "![](https://play-lh.googleusercontent.com/J4oXFLeWZyMo1dtgtvW9aX6Uixe3nE9fUHStDtskCK_MepOkfjsZwuZjxBXK7aBflymNy_OKFPg=w1296-h2160-rw)\n\n# 《寒霜启示录》初期必备建筑\n\n分享\n\n本攻略将介绍你在《寒霜启示录》中将会接触的一些关键建筑，尤其是在冒险之旅的早期。建造和升级这些建筑是让城镇繁荣兴旺的关键，所以一定要熟悉它们，以免在冰封之地掉队。一点也没夸张哦！\n\n![](https://play-lh.googleusercontent.com/e6INKxEQYEVynws8vdraGLC5vXKDv7g_kkZJ5WPgFFfbdXTeUK7uAmn81JYbcJXkATwu2wa9Ut87=w3840-h2160-rw)\n\n## 《寒霜启示录》建筑讲解\n\n随着游戏的推进，你可以建造大量建筑，但下面这 9 座建筑是玩家一开始就会接触到的。了解这些建筑的用途以及它们对城镇发展有何助益非常重要，因此在开始冒险之前，不妨深入了解一番。\n\n![](https://play-lh.googleusercontent.com/D1Xlvo8rKHFcGi3KjbRwWC_OclNpWXDGD30p5xV_FbjTI_EBrPKtqSKI5Adi-z6pCe6-S36pLT4C=w3840-h2160-rw)\n\n- 大熔炉是城镇的中心，为整个区域供暖，也为幸存者提供安全保障。升级大熔炉的次数越多，你的可用空间就越大。\n- 民居为幸存者提供住处。你需要建造多个民居，建造的民居越多，城镇容纳的幸存者就越多。\n- 伐木场可生产木材，而木材是建造更多建筑和升级现有建筑的必备资源。\n\n![](https://play-lh.googleusercontent.com/PaTt2R_48KeXxkfNEtqGfSb1JyfKj_k7DhmzmyKHypMd44qz92v-Zjik2MZPdwpJ6f1skQpXN7I=w3840-h2160-rw)\n\n- 煤矿厂会为城镇带来煤矿，用于建筑施工和升级产能。制作装备和升级煤矿厂可为你的城镇提供更多煤矿。\n- 游戏中的第三种主要资源是铁矿，这种资源自然需要在铁矿厂中生产。铁矿与木材和煤矿一样，是升级装备和建筑的必备资源。\n- 医务室可以通过治愈疾病、疗伤等方式来让幸存者恢复健康。\n\n![](https://play-lh.googleusercontent.com/JXVV4Tcz0IlIR7mdb-RCaH9Il9F4smm7EQQ1WlCRdWOIqhmPx-67AyZPESO-5IFAZq0iTOgYIAus=w3840-h2160-rw)",
+    "![](https://play-lh.googleusercontent.com/J4oXFLeWZyMo1dtgtvW9aX6Uixe3nE9fUHStDtskCK_MepOkfjsZwuZjxBXK7aBflymNy_OKFPg=w1296-h2160-rw)\n\n# 《寒霜启示录》初期必备建筑\n\n分享\n\n本攻略将介绍你在《寒霜启示录》中将会接触的一些关键建筑，尤其是在冒险之旅的早期。建造和升级这些建筑是让城镇繁荣兴旺的关键，所以一定要熟悉它们，以免在冰封之地掉队。一点也没夸张哦！\n\n![](https://play-lh.googleusercontent.com/e6INKxEQYEVynws8vdraGLC5vXKDv7g_kkZJ5WPgFFfbdXTeUK7uAmn81JYbcJXkATwu2wa9Ut87=w3840-h2160-rw)\n\n## 《寒霜启示录》建筑讲解\n\n随着游戏的推进，你可以建造大量建筑，但下面这 9 座建筑是玩家一开始就会接触到的。了解这些建筑的用途以及它们对城镇发展有何助益非常重要，因此在开始冒险之前，不妨深入了解一番。\n\n![](https://play-lh.googleusercontent.com/D1Xlvo8rKHFcGi3KjbRwWC_OclNpWXDGD30p5xV_FbjTI_EBrPKtqSKI5Adi-z6pCe6-S36pLT4C=w3840-h2160-rw)\n\n- 大熔炉是城镇的中心，为整个区域供暖，也为幸存者提供安全保障。升级大熔炉的次数越多，你的可用空间就越大。\n- 民居为幸存者提供住处。你需要建造多个民居，建造的民居越多，城镇容纳的幸存者就越多。\n- 伐木场可生产木材，而木材是建造更多建筑和升级现有建筑的必备资源。\n\n![](https://play-lh.googleusercontent.com/PaTt2R_48KeXxkfNEtqGfSb1JyfKj_k7DhmzmyKHypMd44qz92v-Zjik2MZPdwpJ6f1skQpXN7I=w3840-h2160-rw)\n\n- 煤矿厂会为城镇带来煤矿，用于建筑施工和升级产能。制作装备和升级煤矿厂可为你的城镇提供更多煤矿。\n- 游戏中的第三种主要资源是铁矿，这种资源自然需要在铁矿厂中生产。铁矿与木材和煤矿一样，是升级装备和建筑的必备资源。\n- 医务室可以通过治愈疾病、疗伤等方式来让幸存者恢复健康。\n\n![](https://play-lh.googleusercontent.com/JXVV4Tcz0IlIR7mdb-RCaH9Il9F4smm7EQQ1WlCRdWOIqhmPx-67AyZPESO-5IFAZq0iTOgYIAus=w3840-h2160-rw)\n\n- 厨房将为城镇烹饪生肉，同时也是幸存者在不干活时用餐的地方。\n- 探险者之家通往《寒霜启示录》的探险模式。在该模式中，一辆马车载着你的幸存者努力击败敌人，为城镇招募更多人手。\n- 厨房需要生肉来供给幸存者，而猎人之家可作为生肉的来源，幸存者外出狩猎后会将猎物带回小屋存放。\n\n[![图标图片](https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ=s52-rw)](https://play.google.com/store/apps/details?id=com.gof.global)"
+  ],
+  "sources": [
+    {
+      "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_all_about_buildings_in_whiteout_survival_postinstall_fcp&hl=zh",
+      "reference": "- 大熔炉是城镇的中心，为整个区域供暖，也为幸存者提供安全保障。升级大熔炉的次数越多，你的可用空间就越大。\n- 民居为幸存者提供住处。你需要建造多个民居，建造的民居越多，城镇容纳的幸存者就越多。\n- 伐木场可生产木材，而木材是建造更多建筑和升级现有建筑的必备资源。",
+      "evidence_id": "499ad88c4433b184b92875abd6f8a07b"
+    },
+    {
+      "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_all_about_buildings_in_whiteout_survival_postinstall_fcp&hl=zh",
+      "reference": "- 煤矿厂会为城镇带来煤矿，用于建筑施工和升级产能。制作装备和升级煤矿厂可为你的城镇提供更多煤矿。\n- 游戏中的第三种主要资源是铁矿，这种资源自然需要在铁矿厂中生产。铁矿与木材和煤矿一样，是升级装备和建筑的必备资源。\n- 医务室可以通过治愈疾病、疗伤等方式来让幸存者恢复健康。",
+      "evidence_id": "5b41fe18c160e4c16260b7d654d633fc"
+    },
+    {
+      "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_all_about_buildings_in_whiteout_survival_postinstall_fcp&hl=zh",
+      "reference": "- 厨房将为城镇烹饪生肉，同时也是幸存者在不干活时用餐的地方。\n- 探险者之家通往《寒霜启示录》的探险模式。在该模式中，一辆马车载着你的幸存者努力击败敌人，为城镇招募更多人手。\n- 厨房需要生肉来供给幸存者，而猎人之家可作为生肉的来源，幸存者外出狩猎后会将猎物带回小屋存放。",
+      "evidence_id": "6b509ef563028d337225670839fd529f"
+    }
+  ],
+  "markdown": "---\ntype: Base Building System\ntitle: 寒霜启示录 城镇营建与核心建筑系统\n---\n\n# 寒霜启示录 城镇营建与核心建筑系统\n\n《寒霜启示录》的城镇营建围绕冰雪环境中的生存保障与资源生产展开。在冒险初期，玩家需重点接触并建造以下关键建筑：\n\n## 1. 供暖、人口与基础建材\n\n- **大熔炉**：城镇的中心，为整个区域供暖，也为幸存者提供安全保障。升级大熔炉的次数越多，可用空间就越大。\n- **民居**：为幸存者提供住处。需要建造多个民居，建造的民居越多，城镇容纳的幸存者就越多。\n- **伐木场**：可生产木材，而木材是建造更多建筑和升级现有建筑的必备资源。[@证据](../sources/evidence.md#ev-499ad88c4433b184b92875abd6f8a07b)\n\n## 2. 矿产开采、产能升级与医疗保障\n\n- **煤矿厂**：为城镇带来煤矿，用于建筑施工和升级产能。制作装备和升级煤矿厂可为城镇提供更多煤矿。\n- **铁矿厂**：生产第三种主要资源铁矿。铁矿与木材和煤矿一样，是升级装备和建筑的必备资源。\n- **医务室**：可以通过治愈疾病、疗伤等方式来让幸存者恢复健康。[@证据](../sources/evidence.md#ev-5b41fe18c160e4c16260b7d654d633fc)\n\n## 3. 食物供给、狩猎与探险设施\n\n- **厨房与就餐**：将为城镇烹饪生肉，同时也是幸存者在不干活时用餐的地方。\n- **猎人之家**：厨房需要生肉来供给幸存者，猎人之家作为生肉来源，幸存者外出狩猎后会将猎物带回小屋存放。\n- **探险者之家**：通往探险模式，在该模式中一辆马车载着幸存者努力击败敌人，为城镇招募更多人手。[@证据](../sources/evidence.md#ev-6b509ef563028d337225670839fd529f)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-e9bf6b5c0af74e8c86eeb1e413d4023e.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

@@ -1,3 +1,8 @@
+---
+type: Progression System
+title: 寒霜启示录 养成系统
+---
+
 # 寒霜启示录 养成系统
 
 在《寒霜启示录》的伙伴成长体系中，所有伙伴实行等级共享机制，玩家通过灵活组合技能打造制胜小队。[@证据](sources/evidence.md#ev-894928b1f0d54e754b3ad24dd527d33d)

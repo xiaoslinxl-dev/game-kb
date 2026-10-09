@@ -1,6 +1,6 @@
 # 神庙逃亡2 知识库索引
 
-《神庙逃亡2》是一款3D建模写实风格的跑酷类休闲手游，由Imangi Studios、LLC制作、乐逗游戏代理发行。玩家在神庙场景中躲避恶魔守卫追赶并夺取神像。[@证据](sources/evidence.md#ev-7bf8b8c25f036a3e60a55f1b7c1a2857)
+《神庙逃亡2》是一款3D建模写实风格的跑酷类休闲手游，由Imangi Studios、LLC制作、乐逗游戏代理发行。玩家在神庙场景中躲避恶魔守卫追赶并夺取神像。[@来源](sources/evidence.md#ev-7bf8b8c25f036a3e60a55f1b7c1a2857)
 
 ## 文档目录
 

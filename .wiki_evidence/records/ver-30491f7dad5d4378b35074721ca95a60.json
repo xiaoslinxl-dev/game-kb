@@ -1,0 +1,51 @@
+{
+  "verification_id": "ver-30491f7dad5d4378b35074721ca95a60",
+  "created_at": "2026-10-09T09:16:23.653275+00:00",
+  "full_request": {
+    "game_id": "baye",
+    "file": "index.md",
+    "markdown": "# 霸业 知识库索引\n\n《霸业》是一款三国阵营争霸策略手游，玩家选择魏蜀吴势力建设封地并招募名将，协同攻城掠地以扩张国家势力版图并争霸三国。[@来源](sources/evidence.md#ev-02ff895bd51d075e8b4df23f5d2b733b)\n\n## 文档目录\n\n- [游戏概览](overview.md)\n- [核心循环](core-loop.md)\n- [经济系统](economy.md)\n- [养成系统](progression.md)\n- [商业化](monetization.md)\n- [社交与运营活动](social-liveops.md)\n- [运营活动与活动规则](live-events.md)\n- [市场表现与定位](market-position.md)\n- [封地建筑与升级系统](systems/base-build.md)\n- [棋盘国战与领土对抗系统](systems/territory-war.md)\n",
+    "expected_sha256": "a4a14a29829889d2d786a56bc6562300c678b68e8f29e4411f0f673b069f0d5b",
+    "sources": [
+      {
+        "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+        "reference": "《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！"
+      }
+    ],
+    "scope": {
+      "game_id": "baye",
+      "title": "霸业"
+    }
+  },
+  "markdown_sha256": "c2a591b91185a023ff852a47c94bdb0f28f70234788aba56672143371a34a04f",
+  "decision": "pass",
+  "reason_codes": [],
+  "question_results": [
+    {
+      "question_id": "reference_faithful",
+      "noul": 0.91,
+      "passed": true
+    },
+    {
+      "question_id": "content_supported",
+      "noul": 0.71,
+      "passed": true
+    }
+  ],
+  "tool_bodies": [
+    "![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n# 霸业-送自选开荒武将\n\n魏蜀吴之争！因你而不同！\n\n免费 · App 内购买 · 专为 iPad 设计。未针对 macOS 验证。\n\n- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#140\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)\n\n- [语言\\\\\n\\\\\nZH\\\\\n\\\\\n简体中文](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [大小\\\\\n\\\\\n1.3\\\\\n\\\\\nGB](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\n- ![](https://apps.apple.com/assets/artwork/1x1.gif)\n\niPhone、iPad\n\n齐聚《霸业》为国而战！ 魏蜀吴之争，因你而不同！\n立即加入三国战场即可获取自选传奇英雄和精美皮肤！\n七日庆典，丰富道具奖励、巾帼英雄甄姬限时领取。\n新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！\n\n《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！\n【游戏特色】\n以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！\n\n棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！\n\n[**评分及评论**](https://apps.apple.com/cn/app/6444941591?see-all=reviews&platform=iphone)\n\n- 4.8\n\n满分 5 分\n\n3.9万 个评分\n\n- 看这个画风还是很有兴趣试一下的，非常不错的画风！希望武将阵容可选性多一点，玩SLG就是要玩出自由度才有意思！"
+  ],
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！",
+      "evidence_id": "02ff895bd51d075e8b4df23f5d2b733b"
+    }
+  ],
+  "markdown": "# 霸业 知识库索引\n\n《霸业》是一款三国阵营争霸策略手游，玩家选择魏蜀吴势力建设封地并招募名将，协同攻城掠地以扩张国家势力版图并争霸三国。[@来源](sources/evidence.md#ev-02ff895bd51d075e8b4df23f5d2b733b)\n\n## 文档目录\n\n- [游戏概览](overview.md)\n- [核心循环](core-loop.md)\n- [经济系统](economy.md)\n- [养成系统](progression.md)\n- [商业化](monetization.md)\n- [社交与运营活动](social-liveops.md)\n- [运营活动与活动规则](live-events.md)\n- [市场表现与定位](market-position.md)\n- [封地建筑与升级系统](systems/base-build.md)\n- [棋盘国战与领土对抗系统](systems/territory-war.md)\n",
+  "record_path": "/workspace/game-kb/.wiki_evidence/records/ver-30491f7dad5d4378b35074721ca95a60.json",
+  "next_action": "核验通过",
+  "threshold": 0.65,
+  "reference_threshold": 0.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-82a0d5964d534591b90a44138684126c",
+  "created_at": "2026-10-10T13:19:50.021252+00:00",
+  "path": "games/baye/overview.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\nchangelog: \".changelog/2026-10-10/change-82a0d5964d534591b90a44138684126c.json\"\n---\n\n# 霸业 游戏概览\n\n《霸业》是一款三国阵营争霸策略手游，具有创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。[@来源](sources/overview.md#ev-02ff895bd51d075e8b4df23f5d2b733b)[@版本unknown]\n\n游戏中玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将不断提升实力。本国玩家需要齐心协力攻城掠地，不断扩大国家势力版图，从而一统三国。[@来源](sources/overview.md#ev-02ff895bd51d075e8b4df23f5d2b733b)[@版本unknown]\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-10/operation-a983101dbb944ab1854fc04956201512.json"
+}

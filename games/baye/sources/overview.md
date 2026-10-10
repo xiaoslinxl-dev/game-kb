@@ -1,0 +1,11 @@
+---
+type: Source Ledger
+schema_version: 1
+target: "overview.md"
+---
+
+# overview 来源台账
+
+| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |
+| --- | --- | --- | --- | --- | --- |
+| <a id="ev-02ff895bd51d075e8b4df23f5d2b733b"></a>02ff895bd51d075e8b4df23f5d2b733b | https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591 | 《霸业》是一款三国阵营争霸策略手游，创新的国潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！ | 未知 | 2026-10-10T13:19:47+00:00 | [change-f52285c3d68f4366b3cf7d4d1138b6e2](../.changelog/2026-10-10/change-f52285c3d68f4366b3cf7d4d1138b6e2.json) |

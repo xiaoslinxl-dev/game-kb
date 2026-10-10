@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-812b4772919a40a4a5d2272787123853",
+  "created_at": "2026-10-10T13:35:19.527723+00:00",
+  "path": "games/baye/systems/session-combat.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Combat Session System\ntitle: 霸业 单局战斗与职业克制系统\nchangelog: \"../.changelog/2026-10-10/change-812b4772919a40a4a5d2272787123853.json\"\n---\n\n# 霸业 单局战斗与职业克制系统\n\n根据《霸业》官方开荒攻略，游戏初期玩家可通过碎片合成及英雄自选箱获得英雄，涵盖武将（【吕布】【关羽】【孙策】）、文官（【郭嘉】【貂蝉】）与全才（【赵云】【张辽】【孙尚香】）三种职业类型。这三种职业类型存在克制特点：我方英雄激活指定宿命且职业克制敌方时，造成伤害额外提升，受到伤害额外降低；职业克制方英雄部队死亡后，会对被克制方额外造成一次伤害。[@来源](../sources/systems/session-combat.md#ev-47a868e34ce0da18e53b1022e162b696)[@版本unknown]\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-10/operation-cea70f88b04548f986bc831a99849f89.json"
+}

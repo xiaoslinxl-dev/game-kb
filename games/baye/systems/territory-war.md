@@ -1,0 +1,11 @@
+---
+type: Territory War
+title: 霸业 领地战争系统
+changelog: "../.changelog/2026-10-10/change-74c16c202f8840fcb8667fe4bf33ff7f.json"
+---
+
+# 霸业 领地战争系统
+
+在《霸业》的领地战争与国战体系中，游戏创新采用棋盘连城大地图，支持全民攻城、突进封路、残兵撤退、密道突袭与实时战术布置。[@来源](../sources/systems/territory-war.md#ev-ed3b56421d6e0aa6e266cc67f3752907)[@版本unknown]
+
+在战场行军与对抗节奏方面，游戏具备行军加速机制，秒到战场并告别枯燥铺路，提供快节奏实时攻城体验。[@来源](../sources/systems/territory-war.md#ev-57da18cd392cd339c3ac6ae4823cab0b)[@版本unknown]

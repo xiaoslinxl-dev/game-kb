@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-afa981882750418f80dbfa63ff8a2546",
+  "created_at": "2026-10-10T09:15:35.692779+00:00",
+  "path": "games/baye/index.md",
+  "operation": "update",
+  "before": "# 霸业 知识库索引\n\n《霸业》是一款三国阵营争霸策略手游，玩家选择魏蜀吴势力建设封地并招募名将，协同攻城掠地以扩张国家势力版图并争霸三国。[@来源](sources/evidence.md#ev-02ff895bd51d075e8b4df23f5d2b733b)\n\n## 文档目录\n\n- [游戏概览](overview.md)\n- [核心循环](core-loop.md)\n- [经济系统](economy.md)\n- [养成系统](progression.md)\n- [商业化](monetization.md)\n- [社交与运营活动](social-liveops.md)\n- [运营活动与活动规则](live-events.md)\n- [市场表现与定位](market-position.md)\n- [封地建筑与升级系统](systems/base-build.md)\n- [棋盘国战与领土对抗系统](systems/territory-war.md)\n",
+  "after": "---\nchangelog: \".changelog/2026-10-10/change-afa981882750418f80dbfa63ff8a2546.json\"\n---\n\n# 知识导航\n\n- [霸业 核心循环](core-loop.md)\n- [霸业 经济系统](economy.md)\n- [霸业 限时活动与运营规则](live-events.md)\n- [霸业 市场表现与定位](market-position.md)\n- [霸业 商业化](monetization.md)\n- [霸业 游戏概览](overview.md)\n- [霸业 成长路径](progression.md)\n- [霸业 社交与持续运营](social-liveops.md)\n- [霸业 封地建筑与升级系统](systems/base-build.md)\n- [霸业 棋盘国战与领土对抗系统](systems/territory-war.md)\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-10/operation-f5177e5024eb4740983c13e55b670321.json"
+}

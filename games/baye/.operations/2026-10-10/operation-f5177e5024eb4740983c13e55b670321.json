@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-f5177e5024eb4740983c13e55b670321",
+  "created_at": "2026-10-10T09:15:32.513462+00:00",
+  "game_id": "baye",
+  "file": "index.md",
+  "actions": [
+    {
+      "action": "verify",
+      "result": "not_required",
+      "log": null
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-afa981882750418f80dbfa63ff8a2546.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\nchangelog: \".changelog/2026-10-10/change-afa981882750418f80dbfa63ff8a2546.json\"\n---\n\n# 知识导航\n\n- [霸业 核心循环](core-loop.md)\n- [霸业 经济系统](economy.md)\n- [霸业 限时活动与运营规则](live-events.md)\n- [霸业 市场表现与定位](market-position.md)\n- [霸业 商业化](monetization.md)\n- [霸业 游戏概览](overview.md)\n- [霸业 成长路径](progression.md)\n- [霸业 社交与持续运营](social-liveops.md)\n- [霸业 封地建筑与升级系统](systems/base-build.md)\n- [霸业 棋盘国战与领土对抗系统](systems/territory-war.md)\n",
+  "sources": [],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [
+      "NAVIGATION_GENERATED"
+    ],
+    "jev_log": null
+  }
+}

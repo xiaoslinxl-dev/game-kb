@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-3f697d187b1246b0befbe2a24973730a",
+  "created_at": "2026-10-10T08:48:47.618391+00:00",
+  "game_id": "baye",
+  "file": "core-loop.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 1,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 2,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-70a09d01972a46538c3af049fda3ac1f.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-b3cb7f96fd344d38bcc97a695b560777.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: 核心循环\ndescription: \"解释玩家行动、资源投入与产出、成长解锁和再次参与之间的连接，区分局内、日常与长期循环。\"\nchangelog: \".changelog/2026-10-10/change-70a09d01972a46538c3af049fda3ac1f.json\"\n---\n\n# 霸业 核心循环\n\n《霸业》的玩法循环涵盖大地图国战、封地建设、日常政务与征战副本等多个层面的行动与资源连接。\n\n## 大地图对抗与国库分红循环\n\n在大地图对抗与领土扩张层面，游戏采用创新棋盘连城大地图，玩家参与全民攻城、突进封路、残兵撤退与密道突袭等实时战术布置，并通过行军加速秒到战场。[@来源](sources/core-loop.md#ev-e420e5e0337ab6b56372c492f28909cf)\n\n在领土扩张的收益回馈层面，玩家通过攻城拔寨、扩张国家版图，并参与国家建设和国战，可免费瓜分海量元宝分红，形成国战对抗与核心元宝供给的正向循环。[@来源](sources/core-loop.md#ev-e420e5e0337ab6b56372c492f28909cf)\n\n## 封地建设与巡城资源补充\n\n在封地建筑升级与资源运转方面，每次建筑升级都需要一定的材料。根据攻略记载，前期若升级建筑次数较多，木头会十分缺少；在建筑升级的过程中，可以同步去攻城做巡城任务，每次巡城都会获得一定量的资源补充，以大地图巡城收益支持建筑升级。[@来源](sources/core-loop.md#ev-44c02d60ff846bf837a0d8850176ec1b)\n\n## 日常政务、征战与副本养成推进\n\n在日常政务、征战与副本养成环节，政务是至关重要的推进环节，每日政务次数需全部购买，以加速官邸升级、武将提升和血战沙场次数的增加。[@来源](sources/core-loop.md#ev-a9095836110f82bb7e77aa19ca4f770e)\n\n此外，征战与副本系统构成武将与兵种成长的日常资源支柱：\n- 每日征战中的血战沙场次数需购买满，以获取大量武将技能碎片和材料；[@来源](sources/core-loop.md#ev-a9095836110f82bb7e77aa19ca4f770e)\n- 演义之路中的扫荡次数需尽量达到扫荡上限，以获取升级武将和兵种所需的材料、经验书和银币（升级武将技能需要消耗大量银币）。[@来源](sources/core-loop.md#ev-a9095836110f82bb7e77aa19ca4f770e)\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "reference": "棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！",
+      "source_id": "e420e5e0337ab6b56372c492f28909cf",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T08:48:51+00:00",
+      "firecrawl_log": "firecrawl.log"
+    },
+    {
+      "url": "https://mumu.163.com/blog/official/20240801/25239_1171405.html",
+      "reference": "每次建筑升级都会需要一定的材料,前期如果升级建筑次数较多,那么木头会十分缺少,所以在建筑升级的过程中,可以同步去攻城做巡城任务,每次巡城都会获得一定量的资源,具体的攻城开荒路线,会在后面去介绍",
+      "source_id": "44c02d60ff846bf837a0d8850176ec1b",
+      "final_url": "https://mumu.163.com/blog/official/20240801/25239_1171405.html",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T08:48:57+00:00",
+      "firecrawl_log": "firecrawl.log"
+    },
+    {
+      "url": "https://mumu.163.com/blog/official/20240731/25239_1171135.html",
+      "reference": "微氪的关键在于明晰合理的发展路线，确保资源的最大化利用。在游戏中，政务是至关重要的环节，每日政务次数需全部购买，以加速官邸升级、武将提升和血战沙场次数的增加。此外，每日征战中的血战沙场次数也需购买满，以获取大量武将技能碎片和材料。演义之路中的扫荡次数很重要，每天都要尽量达到扫荡上限，这样可以获得升级武将和兵种所需的材料、经验书和银币，因为升级武将技能需要消耗大量银币。",
+      "source_id": "a9095836110f82bb7e77aa19ca4f770e",
+      "final_url": "https://mumu.163.com/blog/official/20240731/25239_1171135.html",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T08:49:02+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

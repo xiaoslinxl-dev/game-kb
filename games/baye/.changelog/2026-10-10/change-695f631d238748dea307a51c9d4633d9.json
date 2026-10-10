@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-695f631d238748dea307a51c9d4633d9",
+  "created_at": "2026-10-10T13:33:27.717092+00:00",
+  "path": "games/baye/sources/systems/base-build.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 1\ntarget: \"systems/base-build.md\"\n---\n\n# base-build 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |\n| --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-79d07a14b7d9a8408310a9f0a1953e25\"></a>79d07a14b7d9a8408310a9f0a1953e25 | https://www.taptap.cn/moment/415116974033473344 | 在做主线任务的过程中，可同步将府邸升级到8级。每次府邸升级都有相应的建筑升级条件，而每次建筑升级都需要一定的时间。如果不愿意等待，可以使用沙漏进行加速。当然，元宝也可以直接完成建筑升级，但建议还是留到后续。 | 未知 | 2026-10-10T13:33:25+00:00 | [change-695f631d238748dea307a51c9d4633d9](../../.changelog/2026-10-10/change-695f631d238748dea307a51c9d4633d9.json) |\n| <a id=\"ev-fb213d002c83ac8e92d4cd67671ff6fb\"></a>fb213d002c83ac8e92d4cd67671ff6fb | https://www.taptap.cn/moment/415116974033473344 | 因为第一天军务数量的限制（军务次数非常非常非常重要，每天都需要尽量买满），爵位最高可以升到中大夫，府邸升至8级，拜将台3级，4个军营8级，8个资源建筑8级，演义台2级，群英馆8级，辎重站8级，书院2级，码头1级，商肆1级。 | 未知 | 2026-10-10T13:33:25+00:00 | [change-695f631d238748dea307a51c9d4633d9](../../.changelog/2026-10-10/change-695f631d238748dea307a51c9d4633d9.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-10/operation-b3cdffa4c6c34a5e99218520e89fb166.json"
+}

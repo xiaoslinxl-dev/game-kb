@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-b3cdffa4c6c34a5e99218520e89fb166",
+  "created_at": "2026-10-10T13:33:18.705264+00:00",
+  "game_id": "baye",
+  "file": "systems/base-build.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-a610a96606c94e24adf68a11d33b53af.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-695f631d238748dea307a51c9d4633d9.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Base Building System\ntitle: 霸业 封地营建与建筑升级\nchangelog: \"../.changelog/2026-10-10/change-a610a96606c94e24adf68a11d33b53af.json\"\n---\n\n# 霸业 封地营建与建筑升级\n\n根据《霸业》公测开荒攻略记录，在推进主线任务的过程中，玩家可同步将府邸升级到8级。每次府邸升级都有相应的建筑升级条件，而每次建筑升级都需要一定的时间；若不愿意等待，可以使用沙漏进行加速，也可使用元宝直接完成建筑升级。[@来源](../sources/systems/base-build.md#ev-79d07a14b7d9a8408310a9f0a1953e25)[@版本unknown]\n\n在第一天封地建筑与爵位发展方面，受军务数量限制，公测开荒记录中爵位最高可升至中大夫，此时各建筑等级为：府邸升至8级，拜将台3级，4个军营8级，8个资源建筑8级，演义台2级，群英馆8级，辎重站8级，书院2级，码头1级，商肆1级。[@来源](../sources/systems/base-build.md#ev-fb213d002c83ac8e92d4cd67671ff6fb)[@版本unknown]\n",
+  "sources": [
+    {
+      "url": "https://www.taptap.cn/moment/415116974033473344",
+      "reference": "在做主线任务的过程中，可同步将府邸升级到8级。每次府邸升级都有相应的建筑升级条件，而每次建筑升级都需要一定的时间。如果不愿意等待，可以使用沙漏进行加速。当然，元宝也可以直接完成建筑升级，但建议还是留到后续。",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "79d07a14b7d9a8408310a9f0a1953e25",
+      "final_url": "https://www.taptap.cn/moment/415116974033473344",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:33:25+00:00",
+      "firecrawl_log": "firecrawl.log"
+    },
+    {
+      "url": "https://www.taptap.cn/moment/415116974033473344",
+      "reference": "因为第一天军务数量的限制（军务次数非常非常非常重要，每天都需要尽量买满），爵位最高可以升到中大夫，府邸升至8级，拜将台3级，4个军营8级，8个资源建筑8级，演义台2级，群英馆8级，辎重站8级，书院2级，码头1级，商肆1级。",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "fb213d002c83ac8e92d4cd67671ff6fb",
+      "final_url": "https://www.taptap.cn/moment/415116974033473344",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:33:25+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-a610a96606c94e24adf68a11d33b53af",
+  "created_at": "2026-10-10T13:33:27.716938+00:00",
+  "path": "games/baye/systems/base-build.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Base Building System\ntitle: 霸业 封地营建与建筑升级\nchangelog: \"../.changelog/2026-10-10/change-a610a96606c94e24adf68a11d33b53af.json\"\n---\n\n# 霸业 封地营建与建筑升级\n\n根据《霸业》公测开荒攻略记录，在推进主线任务的过程中，玩家可同步将府邸升级到8级。每次府邸升级都有相应的建筑升级条件，而每次建筑升级都需要一定的时间；若不愿意等待，可以使用沙漏进行加速，也可使用元宝直接完成建筑升级。[@来源](../sources/systems/base-build.md#ev-79d07a14b7d9a8408310a9f0a1953e25)[@版本unknown]\n\n在第一天封地建筑与爵位发展方面，受军务数量限制，公测开荒记录中爵位最高可升至中大夫，此时各建筑等级为：府邸升至8级，拜将台3级，4个军营8级，8个资源建筑8级，演义台2级，群英馆8级，辎重站8级，书院2级，码头1级，商肆1级。[@来源](../sources/systems/base-build.md#ev-fb213d002c83ac8e92d4cd67671ff6fb)[@版本unknown]\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-10/operation-b3cdffa4c6c34a5e99218520e89fb166.json"
+}

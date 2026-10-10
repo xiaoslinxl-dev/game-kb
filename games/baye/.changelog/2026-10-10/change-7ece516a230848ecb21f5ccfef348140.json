@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-7ece516a230848ecb21f5ccfef348140",
+  "created_at": "2026-10-10T09:11:53.369553+00:00",
+  "path": "games/baye/sources/systems/base-build.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 1\ntarget: \"systems/base-build.md\"\nchangelog: \"../../.changelog/2026-10-10/change-7ece516a230848ecb21f5ccfef348140.json\"\n---\n\n# base-build 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |\n| --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-d57066a3f2eeeb95897fdae244aac348\"></a>d57066a3f2eeeb95897fdae244aac348 | https://mumu.163.com/blog/official/20240801/25239_1171405.html | 在进行游戏主线任务时，可以同时提升府邸等级至8级，&#10;&#10;每次升级府邸都需要满足相应的建筑升级条件，&#10;&#10;而每次建筑升级都会消耗一定的时间。&#10;&#10;若不想等待，可使用沙漏进行加速，&#10;&#10;当然，也可以使用元宝直接完成建筑升级，&#10;&#10;不过建议将元宝留到后续使用。&#10;&#10;![](http://mumu-apk.fp.ps.netease.com/file/66a9f99d91f6d399b9901b74EpaabSYI05)&#10;&#10;### ****建筑升级策略****&#10;&#10;军务次数的重要性不言而喁，每天都应尽量购买满额度。&#10;&#10;在游戏中，爵位最高可提升至中大夫，府邸等级可达8级，拜将台可升至3级，军营共有4个可升至8级。&#10;&#10;此外，还有8个资源建筑可达8级，演义台和群英馆可提升至2级和8级，辎重站和书院可达8级和2级，码头和商肆等级最低分别为1级。&#10;&#10;每个建筑等级的提升都将为玩家在游戏中的发展带来重要的帮助，助其在霸业的世界中更上层楼。这里按照个人对游戏理解,给到一个升级顺序：府邸&gt;8个资源建筑&gt;4个军营&gt;书院&gt;演义台、群英馆&gt;辎重站（码头、商肆只有1级）&#10;&#10;每次建筑升级都会需要一定的材料,前期如果升级建筑次数较多,那么木头会十分缺少,所以在建筑升级的过程中,可以同步去攻城做巡城任务,每次巡城都会获得一定量的资源,具体的攻城开荒路线,会在后面去介绍 | 未知 | 2026-10-10T09:11:39+00:00 | [change-7ece516a230848ecb21f5ccfef348140](../../.changelog/2026-10-10/change-7ece516a230848ecb21f5ccfef348140.json) |\n| <a id=\"ev-6628907f1a0baaef7ae0aee73c520bcb\"></a>6628907f1a0baaef7ae0aee73c520bcb | https://mumu.163.com/blog/official/20240731/25239_1171135.html | 同时，不要忘记在官邸升级农田、治铁厂和练兵等建筑，虽然不要用元宝加速，但可以在商店兑换加速道具使用。 | 未知 | 2026-10-10T09:11:45+00:00 | [change-7ece516a230848ecb21f5ccfef348140](../../.changelog/2026-10-10/change-7ece516a230848ecb21f5ccfef348140.json) |\n| <a id=\"ev-ed596b3c6c555b39d4dcb393c4ee991e\"></a>ed596b3c6c555b39d4dcb393c4ee991e | https://www.taptap.cn/moment/565250246255314432 | 府邸升至15级后，则解锁兵法玩法。兵法入口在英雄培养界面。兵法分风、林、火、山四个象限，每个象限均可配置一本天书及四本兵法，玩家可以在书院中抽取 | 未知 | 2026-10-10T09:11:50+00:00 | [change-7ece516a230848ecb21f5ccfef348140](../../.changelog/2026-10-10/change-7ece516a230848ecb21f5ccfef348140.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-10/operation-17deb771d3424a73bde3e8eff0d4bf83.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-f5cef213ee86430795b0d664f49ed4c9",
+  "created_at": "2026-10-10T13:29:18.971369+00:00",
+  "path": "games/baye/social-liveops.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Social and LiveOps\ntitle: 霸业 社交与运营活动\nchangelog: \".changelog/2026-10-10/change-f5cef213ee86430795b0d664f49ed4c9.json\"\n---\n\n# 霸业 社交与运营活动\n\n在《霸业》的社交与阵营对抗体系中，游戏以国为战，玩家开局选阵营并荣辱与共，共同参与三国对抗、攻城掠地与版图扩张。[@来源](sources/social-liveops.md#ev-e92754cc487038ece154156dceccd5a1)[@版本unknown]\n\n在运营活动层面，七日庆典提供丰富道具奖励并限时领取巾帼英雄甄姬；新服试炼则提供大量点将令、拜将书、海量资源与传奇英雄自选箱。[@来源](sources/social-liveops.md#ev-b5311e82abc4dc316128e4771b0b540a)[@版本unknown]\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-10/operation-5d49e05f52574af09fdbc8c3d7e1e993.json"
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-5d49e05f52574af09fdbc8c3d7e1e993",
+  "created_at": "2026-10-10T13:29:12.570985+00:00",
+  "game_id": "baye",
+  "file": "social-liveops.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-f5cef213ee86430795b0d664f49ed4c9.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-eb304547ce8f4e9697d54211b507fc5f.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Social and LiveOps\ntitle: 霸业 社交与运营活动\nchangelog: \".changelog/2026-10-10/change-f5cef213ee86430795b0d664f49ed4c9.json\"\n---\n\n# 霸业 社交与运营活动\n\n在《霸业》的社交与阵营对抗体系中，游戏以国为战，玩家开局选阵营并荣辱与共，共同参与三国对抗、攻城掠地与版图扩张。[@来源](sources/social-liveops.md#ev-e92754cc487038ece154156dceccd5a1)[@版本unknown]\n\n在运营活动层面，七日庆典提供丰富道具奖励并限时领取巾帼英雄甄姬；新服试炼则提供大量点将令、拜将书、海量资源与传奇英雄自选箱。[@来源](sources/social-liveops.md#ev-b5311e82abc4dc316128e4771b0b540a)[@版本unknown]\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "e92754cc487038ece154156dceccd5a1",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:29:16+00:00",
+      "firecrawl_log": "firecrawl.log"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "七日庆典，丰富道具奖励、巾帼英雄甄姬限时领取。\n新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "b5311e82abc4dc316128e4771b0b540a",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:29:16+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

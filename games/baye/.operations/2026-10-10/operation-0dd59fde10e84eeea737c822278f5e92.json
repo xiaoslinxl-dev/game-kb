@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-0dd59fde10e84eeea737c822278f5e92",
+  "created_at": "2026-10-10T13:31:19.369574+00:00",
+  "game_id": "baye",
+  "file": "progression.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-11b683b7ac8f42229c1e31d63730a606.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-ca56a9a2b0de4cc19150be533f28832d.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Progression System\ntitle: 霸业 养成系统\nchangelog: \".changelog/2026-10-10/change-11b683b7ac8f42229c1e31d63730a606.json\"\n---\n\n# 霸业 养成系统\n\n在《霸业》的名将基础成长体系中，三国名将并肩作战，提供定制化四维、技能、天赋、宿命等多方位养成策略，由玩家打造专属武将。[@来源](sources/progression.md#ev-cf6cdc07d5f5426780491386d6f5c07a)[@版本unknown]\n\n在神将进阶与觉醒层面，游戏配备全新特色神将觉醒系统，解锁专属天赋，实现战力飙升并纵横沙场。[@来源](sources/progression.md#ev-6d5c8c14e206b95b5c5822f746919105)[@版本unknown]\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "cf6cdc07d5f5426780491386d6f5c07a",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:31:24+00:00",
+      "firecrawl_log": "firecrawl.log"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "6d5c8c14e206b95b5c5822f746919105",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:31:24+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

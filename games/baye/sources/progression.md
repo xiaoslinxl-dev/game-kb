@@ -1,0 +1,12 @@
+---
+type: Source Ledger
+schema_version: 1
+target: "progression.md"
+---
+
+# progression 来源台账
+
+| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |
+| --- | --- | --- | --- | --- | --- |
+| <a id="ev-cf6cdc07d5f5426780491386d6f5c07a"></a>cf6cdc07d5f5426780491386d6f5c07a | https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591 | 三国名将，自由搭配养成&#10;三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将! | 未知 | 2026-10-10T13:31:24+00:00 | [change-ca56a9a2b0de4cc19150be533f28832d](../.changelog/2026-10-10/change-ca56a9a2b0de4cc19150be533f28832d.json) |
+| <a id="ev-6d5c8c14e206b95b5c5822f746919105"></a>6d5c8c14e206b95b5c5822f746919105 | https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591 | 专属觉醒，真三国无废将&#10;全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！ | 未知 | 2026-10-10T13:31:24+00:00 | [change-ca56a9a2b0de4cc19150be533f28832d](../.changelog/2026-10-10/change-ca56a9a2b0de4cc19150be533f28832d.json) |

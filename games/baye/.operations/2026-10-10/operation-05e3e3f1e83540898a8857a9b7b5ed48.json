@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-05e3e3f1e83540898a8857a9b7b5ed48",
+  "created_at": "2026-10-10T13:20:41.883011+00:00",
+  "game_id": "baye",
+  "file": "core-loop.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-a2481da6cbb64acabce0520d66590531.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-171aaf19fe744650bb8209aae815727b.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\nchangelog: \".changelog/2026-10-10/change-a2481da6cbb64acabce0520d66590531.json\"\n---\n\n# 霸业 核心循环\n\n## 势力选择与版图扩张\n\n在《霸业》中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国。[@来源](sources/core-loop.md#ev-b664b5127bdaff5d9788eff01739737d)[@版本unknown]\n\n## 棋盘连城大地图国战\n\n国战采用创新棋盘连城大地图，具备全民攻城、突进封路、残兵撤退、密道突袭与实时战术布置，带来全新策略体验。[@来源](sources/core-loop.md#ev-727104250a6c7af004b69f00e63c6147)[@版本unknown]\n\n## 国家建设与元宝分红\n\n玩家攻城拔寨、扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红。[@来源](sources/core-loop.md#ev-5460dce82854e9202f3604f0dc6b7ee9)[@版本unknown]\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。本国玩家需要齐心协力，攻城掠地，不断扩大国家势力版图，从而一统三国！",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "b664b5127bdaff5d9788eff01739737d",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:20:45+00:00",
+      "firecrawl_log": "firecrawl.log"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "727104250a6c7af004b69f00e63c6147",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:20:45+00:00",
+      "firecrawl_log": "firecrawl.log"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "5460dce82854e9202f3604f0dc6b7ee9",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:20:45+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

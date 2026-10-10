@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-608ec44a6a244e51a2de74f6837777aa",
+  "created_at": "2026-10-10T13:22:15.651622+00:00",
+  "game_id": "baye",
+  "file": "monetization.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-c20b49685fec4a088ba0057afb9035e9.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-f262ad02e8aa45c7ae79410e6dff83a9.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Monetization\ntitle: 霸业 商业化\nchangelog: \".changelog/2026-10-10/change-c20b49685fec4a088ba0057afb9035e9.json\"\n---\n\n# 霸业 商业化\n\n在《霸业》的App内购买体系中，主要元宝充值档位包括60元宝（¥6.00）、300元宝（¥30.00）、1280元宝（¥128.00）、3280元宝（¥328.00）与6480元宝（¥648.00）。[@来源](sources/monetization.md#ev-db39847961122f4ef4a4b625b6a8b63e)[@版本unknown]\n\n此外，游戏内常规商品档位包括12元商品（¥12.00）、40元商品（¥40.00）、68元商品（¥68.00）、198元商品（¥198.00）与328元商品（¥328.00）。[@来源](sources/monetization.md#ev-db39847961122f4ef4a4b625b6a8b63e)[@版本unknown]\n",
+  "sources": [
+    {
+      "url": "https://app.sensortower.com/overview/6444941591",
+      "reference": "## In-App Purchases\n\n| Title | Duration | Price |\n| --- | --- | --- |\n| 60元宝 | One-Time | ¥6.00 |\n| 300元宝 | One-Time | ¥30.00 |\n| 68元商品 | One-Time | ¥68.00 |\n| 1280元宝 | One-Time | ¥128.00 |\n| 12元商品 | One-Time | ¥12.00 |\n| 40元商品 | One-Time | ¥40.00 |\n| 3280元宝 | One-Time | ¥328.00 |\n| 198元商品 | One-Time | ¥198.00 |\n| 328元商品 | One-Time | ¥328.00 |\n| 6480元宝 | One-Time | ¥648.00 |",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "db39847961122f4ef4a4b625b6a8b63e",
+      "final_url": "https://app.sensortower.com/overview/6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:22:19+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-f262ad02e8aa45c7ae79410e6dff83a9",
+  "created_at": "2026-10-10T13:22:22.085344+00:00",
+  "path": "games/baye/sources/monetization.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 1\ntarget: \"monetization.md\"\n---\n\n# monetization 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |\n| --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-db39847961122f4ef4a4b625b6a8b63e\"></a>db39847961122f4ef4a4b625b6a8b63e | https://app.sensortower.com/overview/6444941591 | ## In-App Purchases&#10;&#10;&#124; Title &#124; Duration &#124; Price &#124;&#10;&#124; --- &#124; --- &#124; --- &#124;&#10;&#124; 60元宝 &#124; One-Time &#124; ¥6.00 &#124;&#10;&#124; 300元宝 &#124; One-Time &#124; ¥30.00 &#124;&#10;&#124; 68元商品 &#124; One-Time &#124; ¥68.00 &#124;&#10;&#124; 1280元宝 &#124; One-Time &#124; ¥128.00 &#124;&#10;&#124; 12元商品 &#124; One-Time &#124; ¥12.00 &#124;&#10;&#124; 40元商品 &#124; One-Time &#124; ¥40.00 &#124;&#10;&#124; 3280元宝 &#124; One-Time &#124; ¥328.00 &#124;&#10;&#124; 198元商品 &#124; One-Time &#124; ¥198.00 &#124;&#10;&#124; 328元商品 &#124; One-Time &#124; ¥328.00 &#124;&#10;&#124; 6480元宝 &#124; One-Time &#124; ¥648.00 &#124; | 未知 | 2026-10-10T13:22:19+00:00 | [change-f262ad02e8aa45c7ae79410e6dff83a9](../.changelog/2026-10-10/change-f262ad02e8aa45c7ae79410e6dff83a9.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-10/operation-608ec44a6a244e51a2de74f6837777aa.json"
+}

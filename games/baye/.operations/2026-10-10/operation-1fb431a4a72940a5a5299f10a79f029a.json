@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-1fb431a4a72940a5a5299f10a79f029a",
+  "created_at": "2026-10-10T08:56:30.050306+00:00",
+  "game_id": "baye",
+  "file": "market-position.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 1,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-caec9d21256047578133b83c12707ff3.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-e7c84c0d07084d72a9641239523d98a6.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: 产品与市场定位\ndescription: \"介绍有来源的产品定位、发行运营背景、可比产品差异与市场表现，保留资料归属和统计口径。\"\nchangelog: \".changelog/2026-10-10/change-caec9d21256047578133b83c12707ff3.json\"\n---\n\n# 霸业 市场表现与定位\n\n在App Store平台信息中，《霸业》由安徽盈趣网络科技有限公司开发，其年龄分级为18+并设有App内控制。在用户评价方面，该作累计拥有3.9万个评分，评分为4.8分。[@来源](sources/market-position.md#ev-66010e44f88c6e60343688d664ca3f8a)\n\n在渠道发行与平台信息层面，MuMu模拟器游戏库页面显示其游戏厂商为安徽尚趣玩网络科技有限公司，更新日期为2025-12-11。[@来源](sources/market-position.md#ev-1b33ad719a85d9ccd3f4f3e35d0d66ed)\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "reference": "- [3.9万个评分\\\\\n\\\\\n4.8](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#productRatings)\n\n- [年龄分级\\\\\n\\\\\n18+\\\\\n\\\\\nApp 内控制](https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591#information)\n\n- [排行榜\\\\\n\\\\\n#133\\\\\n\\\\\n卡牌](https://apps.apple.com/cn/iphone/charts/7005?chart=top-free)\n\n- [开发者\\\\\n\\\\\n安徽盈趣网络科技有限公司](https://apps.apple.com/cn/developer/%E5%AE%89%E5%BE%BD%E7%9B%88%E8%B6%A3%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1516742703?platform=iphone)",
+      "source_id": "66010e44f88c6e60343688d664ca3f8a",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T08:56:36+00:00",
+      "firecrawl_log": "firecrawl.log"
+    },
+    {
+      "url": "https://mumu.163.com/games/23890.html",
+      "reference": "更新日期: 2025-12-11游戏厂商: 安徽尚趣玩网络科技有限公司",
+      "source_id": "1b33ad719a85d9ccd3f4f3e35d0d66ed",
+      "final_url": "https://mumu.163.com/games/23890.html",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T08:56:40+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

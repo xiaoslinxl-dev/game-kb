@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-fec79b4f7b69478596ae8fa3db03099d",
+  "created_at": "2026-10-10T13:30:27.740310+00:00",
+  "game_id": "baye",
+  "file": "economy.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-2cde82c7c83a4615ada26889154729b5.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-10/change-4e68d110d0b44807b3ddf8825c58909f.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Resource Economy\ntitle: 霸业 经济系统\nchangelog: \".changelog/2026-10-10/change-2cde82c7c83a4615ada26889154729b5.json\"\n---\n\n# 霸业 经济系统\n\n在《霸业》中，玩家攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分国库海量元宝分红。[@来源](sources/economy.md#ev-b5f6eb080b8402d2ed19e2a7358a3c60)[@版本unknown]\n\n此外，在新服试炼中，大量点将令、拜将书海纳各方贤士，海量资源与传奇英雄自选箱供各位主公获取。[@来源](sources/economy.md#ev-6aeceb727b6e2b405b66b90bf3374c30)[@版本unknown]\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "b5f6eb080b8402d2ed19e2a7358a3c60",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:30:33+00:00",
+      "firecrawl_log": "firecrawl.log"
+    },
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "reference": "新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "6aeceb727b6e2b405b66b90bf3374c30",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-10T13:30:33+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

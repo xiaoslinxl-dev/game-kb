@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-4e68d110d0b44807b3ddf8825c58909f",
+  "created_at": "2026-10-10T13:30:36.026673+00:00",
+  "path": "games/baye/sources/economy.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 1\ntarget: \"economy.md\"\n---\n\n# economy 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |\n| --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-b5f6eb080b8402d2ed19e2a7358a3c60\"></a>b5f6eb080b8402d2ed19e2a7358a3c60 | https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591 | 国库分红，瓜分海量元宝&#10;攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！ | 未知 | 2026-10-10T13:30:33+00:00 | [change-4e68d110d0b44807b3ddf8825c58909f](../.changelog/2026-10-10/change-4e68d110d0b44807b3ddf8825c58909f.json) |\n| <a id=\"ev-6aeceb727b6e2b405b66b90bf3374c30\"></a>6aeceb727b6e2b405b66b90bf3374c30 | https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E4%B8%89%E5%9B%BD%E5%9B%BD%E6%88%98%E7%AD%96%E7%95%A5%E6%89%8B%E6%B8%B8/id6444941591 | 新服试炼，大量点将令、拜将书海纳各方贤士，海量资源、传奇英雄自选箱等着各位主公获取！ | 未知 | 2026-10-10T13:30:33+00:00 | [change-4e68d110d0b44807b3ddf8825c58909f](../.changelog/2026-10-10/change-4e68d110d0b44807b3ddf8825c58909f.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-10/operation-fec79b4f7b69478596ae8fa3db03099d.json"
+}

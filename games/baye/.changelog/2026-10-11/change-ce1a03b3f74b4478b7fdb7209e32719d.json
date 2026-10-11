@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-ce1a03b3f74b4478b7fdb7209e32719d",
+  "created_at": "2026-10-11T10:40:02.021055+00:00",
+  "path": "games/baye/sources/monetization.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 1\ntarget: \"monetization.md\"\n---\n\n# monetization 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |\n| --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-a655ae8191eac3d3e74fd77028b283d8\"></a>a655ae8191eac3d3e74fd77028b283d8 | https://apps.apple.com/cn/app/id6444941591 | App内购买是&#10;&#10;- 60元宝¥6.00&#10;- 300元宝¥30.00&#10;- 68元商品¥68.00&#10;- 1280元宝¥128.00&#10;- 12元商品¥12.00&#10;- 40元商品¥40.00&#10;- 3280元宝¥328.00&#10;- 198元商品¥198.00&#10;- 328元商品¥328.00&#10;- 6元商品¥6.00 | 未知 | 2026-10-11T10:39:59+00:00 | [change-ce1a03b3f74b4478b7fdb7209e32719d](../.changelog/2026-10-11/change-ce1a03b3f74b4478b7fdb7209e32719d.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-11/operation-40613660ccea447094a2e6d2c09a5c9f.json"
+}

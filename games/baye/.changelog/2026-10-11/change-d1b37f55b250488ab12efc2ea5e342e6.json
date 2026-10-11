@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-d1b37f55b250488ab12efc2ea5e342e6",
+  "created_at": "2026-10-11T10:46:52.946646+00:00",
+  "path": "games/baye/systems/territory-war.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: 领地战争\ndescription: 记录国家阵营对抗、棋盘连城大地图机制与实时攻城战术布置。\nchangelog: \"../.changelog/2026-10-11/change-d1b37f55b250488ab12efc2ea5e342e6.json\"\n---\n\n# 领地战争\n\n## 阵营对抗与领地扩张\n\n《霸业》领地争夺以国家阵营为基本单位：\n- **开局阵营对抗**：玩家开局选择阵营，以国为战，荣辱与共，通过攻城掠地与版图扩张还原三国势力对抗。\n- **目标与收益**：同国玩家通过攻城拔寨扩大国家势力版图，参与国家建设和国战可获得国库分红瓜分元宝。[@来源](../sources/systems/territory-war.md#ev-127aaf5a637afd8467ae553f4a564e10)[@版本unknown]\n\n## 棋盘连城大地图与战术机制\n\n- **大地图架构**：采用创新棋盘连城大地图设计，连接各城池据点。\n- **实时战术布置**：在棋盘连城地图中国战支持全民攻城、突进封路、残兵撤退以及密道突袭等多维实时策略布置。\n- **行军与节奏**：搭载行军加速机制，使部队能够秒到战场，免去传统枯燥铺路过程，支持快节奏实时攻城开战。[@来源](../sources/systems/territory-war.md#ev-127aaf5a637afd8467ae553f4a564e10)[@版本unknown]\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-11/operation-ac5b36adeeec4d8fb95d3e942666ab53.json"
+}

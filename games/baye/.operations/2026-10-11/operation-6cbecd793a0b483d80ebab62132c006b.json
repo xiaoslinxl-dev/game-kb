@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-6cbecd793a0b483d80ebab62132c006b",
+  "created_at": "2026-10-11T10:46:12.493290+00:00",
+  "game_id": "baye",
+  "file": "social-liveops.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-11/change-3ff03ad443954be8961a76259b5f2180.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-11/change-73ebda3ca41940219258207cae5fa765.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: 社交与运营\ndescription: 记录国家阵营对抗机制、同国协作策略与国库分红激励机制。\nchangelog: \".changelog/2026-10-11/change-3ff03ad443954be8961a76259b5f2180.json\"\n---\n\n# 社交与运营\n\n## 国家阵营与以国为战\n\n游戏构建了以国家阵营为核心的社交与对抗架构：\n- **开局阵营选择**：玩家开局选择阵营，以国为战、荣辱与共。\n- **同国协同对抗**：同国玩家需齐心协力进行实时战术布置，参与全民攻城、突进封路、残兵撤退与密道突袭。[@来源](sources/social-liveops.md#ev-127aaf5a637afd8467ae553f4a564e10)[@版本unknown]\n\n## 国家建设与国库分红\n\n游戏通过国库分红机制将阵营扩张与个人收益相绑定：\n- **参与要求**：玩家通过攻城拔寨、扩张国家势力版图，并积极参与国家建设与国战。\n- **分红回报**：达成上述参与条件后，玩家可免费瓜分海量元宝分红。[@来源](sources/social-liveops.md#ev-127aaf5a637afd8467ae553f4a564e10)[@版本unknown]\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/id6444941591",
+      "reference": "以国为战，真实三国对抗\n开局选阵营，以国为战，荣辱与共，真实还原三国对抗、攻城掠地、版图扩张的体验，一起书写乱世三国的霸业史！\n\n棋盘连线，实时策略国战\n创新棋盘连城大地图，全民攻城、突进封路、残兵撤退、密道突袭，实时战术布置，全新策略体验!\n\n行军加速，快节奏秒开战\n行军加速，秒到战场，从此告别枯燥铺路，体验快爽实时攻城！\n\n三国名将，自由搭配养成\n三国名将并肩作战，定制化四维，技能，天赋，宿命等多方位养策略成，由你来打造你的专属武将!\n\n专属觉醒，真三国无废将\n全新特色神将觉醒系统，解锁专属天赋，战力飙升，纵横沙场！\n\n国库分红，瓜分海量元宝\n攻城拔寨，扩张版图，参与国家建设和国战，即可免费瓜分海量元宝分红！",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "127aaf5a637afd8467ae553f4a564e10",
+      "final_url": "https://apps.apple.com/cn/app/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-11T10:46:16+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

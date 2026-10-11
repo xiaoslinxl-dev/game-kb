@@ -1,23 +1,60 @@
-# game-kb
+# 手游游戏知识库
 
-游戏知识库，一游戏一目录。正文按主题组织，每项游戏事实末尾使用可点击证据引用。
+本仓库按游戏和主题组织知识。阅读知识正文后，可以沿来源、版本和变更记录查看原始资料及适用范围。
 
-## 游戏目录
+## 游戏入口
 
-- [霸业](games/baye/index.md)
-- [斗罗大陆：魂师对决](games/dou-luo-da-lu-hun-shi-dui-jue/index.md)
-- [斗罗大陆：猎魂世界官服](games/dou-luo-da-lu-lie-hun-shi-jie-guan-fu/index.md)
-- [疯狂水世界](games/feng-kuang-shui-shi-jie/index.md)
-- [原神](games/genshin-impact/index.md)
-- [寒霜骑士录](games/han-shuang-qi-shi-lu/index.md)
-- [神庙逃亡2](games/shen-miao-tao-pao-2/index.md)
+- [霸业](games/baye/)
+- [斗罗大陆：魂师对决](games/dou-luo-da-lu-hun-shi-dui-jue/)
+- [斗罗大陆：猎魂世界官服](games/dou-luo-da-lu-lie-hun-shi-jie-guan-fu/)
+- [疯狂水世界](games/feng-kuang-shui-shi-jie/)
+- [原神](games/genshin-impact/)
+- [寒霜骑士录](games/han-shuang-qi-shi-lu/)
+- [神庙逃亡2](games/shen-miao-tao-pao-2/)
 
-## 阅读与维护
+进入游戏目录后，从 `index.md` 查看已有主题；也可以直接打开相应文档。目录中的文件以实际已发布内容为准。
 
-各游戏的 `index.md` 是主题入口。游戏知识按概述、玩法循环、资源经济、养成、商业化与版本运营等主题组织。
+## 知识库结构
 
-当前文档、引用和发布约定统一见 [AGENTS.md](AGENTS.md)。
+每个游戏位于 `games/<游戏标识>/`。
 
-每项事实的证据链接指向对应游戏的 `sources/evidence.md`；该台账展示来源地址、实际引用段落与核验记录。
-Agent 整理候选后，由任务注入的写入工具独立抓取来源、执行 JEV 核验并发布。
-研究覆盖、证据支持和发布结果分别确认。
+| 路径 | 内容 |
+| --- | --- |
+| `index.md` | 已有主题与专篇的导航 |
+| `overview.md` | 游戏定位、玩家目标和主要玩法 |
+| `core-loop.md` | 玩家行动、资源投入产出、成长与玩法之间的关系 |
+| `economy.md` | 资源获取、用途、上限与刷新规则 |
+| `progression.md` | 成长条件、成本、收益与阶段路径 |
+| `monetization.md` | 商品、价格、购买条件及其影响 |
+| `social-liveops.md` | 社交、协作、竞争与持续运营规则 |
+| `live-events.md` | 活动时间、参与条件、奖励与结束处理 |
+| `market-position.md` | 产品定位与有来源的市场信息 |
+| `systems/` | 战斗、建设、领土等系统专篇 |
+| `entities/` | 角色、单位等实体资料 |
+| `analysis-data/` | 有依据的分析数据与观察条件 |
+| `versions/<版本>.md` | 版本标识、上线时间与更新内容 |
+| `revisions/` | 按主题保留的历史规则资料 |
+| `sources/` | 与知识和版本文档对应的原始来源台账 |
+| `.changelog/` | 每个文件的变更记录与历史链路 |
+| `.operations/` | 资料读取、核验和发布的操作记录及日志 |
+
+## 如何读取来源和版本
+
+正文中的 `[@来源]` 链接指向该事实采用的引用原文。来源台账按文档对应保存：
+
+- `economy.md` 对应 `sources/economy.md`。
+- `systems/base-build.md` 对应 `sources/systems/base-build.md`。
+- `versions/2.68.md` 对应 `sources/versions/2.68.md`。
+
+每项来源记录原文 URL、引用原文、发布时间、抓取时间和该来源文件的变更记录。来源编号用于定位具体引用；同一台账可以包含不同网站的资料。
+
+正文中的 `[@版本…]` 链接指向对应版本说明。一项事实可以关联多个有依据的版本；`[@版本unknown]` 表示尚未确认其游戏版本。来源发布时间、抓取时间与游戏版本上线时间分别记录。
+版本文档的来源链接位于文档头部，更新内容列在表格中。
+
+阅读时结合正文中的区服、平台、时间和参与条件理解规则。不同版本的不同规则分别描述；争议信息按文中的来源归属和待确认说明理解。
+
+## 如何追溯变更
+
+知识与版本文档中的变更记录入口指向各自的最新文件记录；来源台账通过表格的“变更记录”列进入自己的历史。
+
+每份文件变更记录包含目标路径、变更类型、修改前后内容和上一份记录 `previous`。沿该字段可以查看同一文件的历史，通过 `operation_log` 可以继续查看当次采用的来源、送审材料和核验结果。实际发布的提交可从 GitHub 文件历史查看。

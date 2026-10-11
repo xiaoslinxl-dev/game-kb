@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-5953d397f295460b9202d97b92bad0ca",
+  "created_at": "2026-10-11T10:44:35.737815+00:00",
+  "game_id": "baye",
+  "file": "market-position.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-11/change-56f5ad5e32114c058749cf72959955b5.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-11/change-08baca24777243e5b32bea54fbfc1a5c.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: 产品与市场定位\ndescription: 记录游戏题材定位、供应商主体与阵营对抗玩法特色。\nchangelog: \".changelog/2026-10-11/change-56f5ad5e32114c058749cf72959955b5.json\"\n---\n\n# 产品与市场定位\n\n## 产品定位与美术风格\n\n《霸业》是一款三国阵营争霸策略手游，独创古潮美术风格，搭载快节奏国战玩法与深度武将养成策略，旨在真实还原古代三国战争体验。[@来源](sources/market-position.md#ev-dba719418e1d3b49a64a41bb5a5b6965)[@版本unknown]\n\n## 发行与供应主体\n\n- **供应商**：安徽盈趣网络科技有限公司[@来源](sources/market-position.md#ev-dba719418e1d3b49a64a41bb5a5b6965)[@版本unknown]\n\n## 阵营对抗与核心目标\n\n游戏中玩家需要选择魏、蜀、吴其中一方势力，建设封地并招募三国名将以提升实力。同阵营玩家协同攻城掠地、扩张势力版图，最终目标为一统三国。[@来源](sources/market-position.md#ev-dba719418e1d3b49a64a41bb5a5b6965)[@版本unknown]\n",
+  "sources": [
+    {
+      "url": "https://www.taptap.cn/app/323779",
+      "reference": "《霸业》是一款三国阵营争霸策略手游，独创的古潮美术风格，搭载快节奏国战玩法，辅以深度武将养成策略，真实还原古代三国战争体验。\n\n游戏中，玩家需要选择魏蜀吴其中一方势力，建设封地，招募三国名将，不断提升实力。同阵营玩家将齐心协力，攻城掠地，不断扩大国家势力版图，最终一统三国！\n\n供应商 安徽盈趣网络科技有限公司",
+      "versions": [
+        "unknown"
+      ],
+      "source_id": "dba719418e1d3b49a64a41bb5a5b6965",
+      "final_url": "https://www.taptap.cn/app/323779",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-11T10:44:43+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

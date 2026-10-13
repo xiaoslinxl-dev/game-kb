@@ -1,19 +1,25 @@
 ---
 type: 资源经济
 description: 记录政务、血战沙场与演义之路的日常资源产出、用途及银币消耗。
-changelog: ".changelog/2026-10-11/change-e2bd01a3f8884258a70b0f9ea4f5b8c6.json"
 ---
 
 # 资源经济
 
 ## 日常玩法产出与用途
 
-玩家通过日常玩法获取各项核心成长资源：[@来源](sources/economy.md#ev-269aa1b69b12c3a4c2a5098e3ad3815c)[@版本unknown]
+玩家通过日常玩法获取各项核心成长资源：[@来源](sources/economy.md#ev-269aa1b69b12c3a4c2a5098e3ad3815c)[@版本unknown] [@变更](.changelog/2026-10-13/change-34004ebdcc7644e196469046bda7c09b.json)
 
 - **政务**：进行政务可推进官邸等级提升，进而支持武将等级提升以及武将升星。
 - **血战沙场**：征战玩法中的血战沙场可获取大量武将技能碎片以及材料。
-- **演义之路扫荡**：演义之路扫荡可获取升级武将兵种的材料、经验书以及银币。[@来源](sources/economy.md#ev-269aa1b69b12c3a4c2a5098e3ad3815c)[@版本unknown]
+- **演义之路扫荡**：演义之路扫荡可获取升级武将兵种的材料、经验书以及银币。[@来源](sources/economy.md#ev-269aa1b69b12c3a4c2a5098e3ad3815c)[@版本unknown] [@变更](.changelog/2026-10-13/change-34004ebdcc7644e196469046bda7c09b.json)
 
 ## 货币用途与消耗
 
-- **银币**：在武将养成中用于升级技能，在技能升级过程中银币消耗量大。[@来源](sources/economy.md#ev-269aa1b69b12c3a4c2a5098e3ad3815c)[@版本unknown]
+- **银币**：在武将养成中用于升级技能，在技能升级过程中银币消耗量大。[@来源](sources/economy.md#ev-269aa1b69b12c3a4c2a5098e3ad3815c)[@版本unknown] [@变更](.changelog/2026-10-13/change-34004ebdcc7644e196469046bda7c09b.json)
+## 沙盘产业资源产出与速征机制[@来源](sources/economy.md#ev-c9cca4d5cf40c5e39b991f4535bde4dd)
+
+产业系统是沙盘日常资源产出的主要途径，通过占领产业和产业速征可以获得游戏内的大部分资源：
+- **占领与挂机产出**：主公可通过挑战沙盘上的产业守军，战胜守军后即可占领产业，定期获得产业的挂机收益。
+- **爵位限制与收益梯度**：主公的爵位等级越高，可占领的产业数量越多，占领产业收益也越高。
+- **产业强征**：已占领的产业可以使用道具进行强征，立即获得产业挂机资源。
+- **地理分布与等级差异**：沙盘上的产业，越靠近国家相邻地区和中央地区，产业的等级和产出资源越好。[@来源](sources/economy.md#ev-c9cca4d5cf40c5e39b991f4535bde4dd)[@版本unknown] [@变更](.changelog/2026-10-13/change-34004ebdcc7644e196469046bda7c09b.json)

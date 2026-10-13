@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-63457e60c7fc4b819f189c9a823d887f",
+  "created_at": "2026-10-13T06:19:08.778438+00:00",
+  "game_id": "baye",
+  "file": "versions/2.33.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-13/change-ed21a71c96cc47a3b079d8041568366e.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-13/change-add87bafce334358968c0496b3e60394.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.33\"\nreleased_at: \"2023-06-04\"\nsources: [\"../sources/versions/2.33.md#ev-9b42dcef877ef5137d11756ead829e5f\", \"../sources/versions/2.33.md#ev-885cc5ff991d8d03ee383c7f5e756b52\"]\nchangelog: \"../.changelog/2026-10-13/change-ed21a71c96cc47a3b079d8041568366e.json\"\n---\n\n# 2.33 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 公测活动 | 1、公测活动上线，送自选传奇英雄和皮肤。 |\n| 新服试炼 | 2、新服试炼开启，乱世三国试炼出真英雄。 |\n| 邀请活动 | 3、新增邀请活动，邀约主公一起征战沙场。 |\n| 三国问答 | 4、三国问答活动，开启驰骋三国的第一课。 |\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/id6444941591",
+      "reference": "1、公测活动上线，送自选传奇英雄和皮肤\n2、新服试炼开启，乱世三国试炼出真英雄\n3、新增邀请活动，邀约主公一起征战沙场\n4、三国问答活动，开启驰骋三国的第一课\n\n2.332023/06/04",
+      "versions": [
+        "2.33"
+      ],
+      "source_id": "885cc5ff991d8d03ee383c7f5e756b52",
+      "final_url": "https://apps.apple.com/cn/app/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-13T06:19:13+00:00",
+      "firecrawl_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-ed21a71c96cc47a3b079d8041568366e",
+  "created_at": "2026-10-13T06:19:15.977183+00:00",
+  "path": "games/baye/versions/2.33.md",
+  "operation": "update",
+  "before": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.33\"\nreleased_at: \"2023-06-04\"\nsources: [\"../sources/versions/2.33.md#ev-9b42dcef877ef5137d11756ead829e5f\"]\nchangelog: \"../.changelog/2026-10-11/change-71a0f4fb17344e50802f72542e7ffb83.json\"\n---\n\n# 2.33 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 预约奖励 | 加码公测预约奖励，自选传奇英雄和皮肤； |\n| CG动画 | 新增精彩CG动画，三国故事邀您书写； |\n| 性能优化 | 优化游戏性能、提高主公争霸体验； |\n",
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.33\"\nreleased_at: \"2023-06-04\"\nsources: [\"../sources/versions/2.33.md#ev-9b42dcef877ef5137d11756ead829e5f\", \"../sources/versions/2.33.md#ev-885cc5ff991d8d03ee383c7f5e756b52\"]\nchangelog: \"../.changelog/2026-10-13/change-ed21a71c96cc47a3b079d8041568366e.json\"\n---\n\n# 2.33 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 公测活动 | 1、公测活动上线，送自选传奇英雄和皮肤。 |\n| 新服试炼 | 2、新服试炼开启，乱世三国试炼出真英雄。 |\n| 邀请活动 | 3、新增邀请活动，邀约主公一起征战沙场。 |\n| 三国问答 | 4、三国问答活动，开启驰骋三国的第一课。 |\n",
+  "previous": "../2026-10-11/change-71a0f4fb17344e50802f72542e7ffb83.json",
+  "operation_log": "../../.operations/2026-10-13/operation-63457e60c7fc4b819f189c9a823d887f.json"
+}

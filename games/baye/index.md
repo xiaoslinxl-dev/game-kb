@@ -1,9 +1,10 @@
 ---
-changelog: ".changelog/2026-10-11/change-b94b2486c6524b1985184c03dc41c352.json"
+changelog: ".changelog/2026-10-13/change-69ba28ab2c0f4a64a97b79b922c835a6.json"
 ---
 
 # 知识导航
 
+- [核心循环](core-loop.md)
 - [资源经济](economy.md)
 - [活动](live-events.md)
 - [产品与市场定位](market-position.md)
@@ -13,6 +14,7 @@ changelog: ".changelog/2026-10-11/change-b94b2486c6524b1985184c03dc41c352.json"
 - [社交与运营](social-liveops.md)
 - [基地建设](systems/base-build.md)
 - [玩法模式](systems/content-modes.md)
+- [局内战斗机制](systems/session-combat.md)
 - [领地战争](systems/territory-war.md)
 - [2.31 更新说明](versions/2.31.md)
 - [2.33 更新说明](versions/2.33.md)

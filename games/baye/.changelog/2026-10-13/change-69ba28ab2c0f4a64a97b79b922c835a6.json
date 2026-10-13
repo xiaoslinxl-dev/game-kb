@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-69ba28ab2c0f4a64a97b79b922c835a6",
+  "created_at": "2026-10-13T05:48:14.808290+00:00",
+  "path": "games/baye/index.md",
+  "operation": "update",
+  "before": "---\nchangelog: \".changelog/2026-10-11/change-b94b2486c6524b1985184c03dc41c352.json\"\n---\n\n# 知识导航\n\n- [资源经济](economy.md)\n- [活动](live-events.md)\n- [产品与市场定位](market-position.md)\n- [商业化](monetization.md)\n- [游戏概览](overview.md)\n- [成长路径](progression.md)\n- [社交与运营](social-liveops.md)\n- [基地建设](systems/base-build.md)\n- [玩法模式](systems/content-modes.md)\n- [领地战争](systems/territory-war.md)\n- [2.31 更新说明](versions/2.31.md)\n- [2.33 更新说明](versions/2.33.md)\n- [2.35 更新说明](versions/2.35.md)\n- [2.50 更新说明](versions/2.50.md)\n- [2.69 更新说明](versions/2.69.md)\n- [3.07 更新说明](versions/3.07.md)\n",
+  "after": "---\nchangelog: \".changelog/2026-10-13/change-69ba28ab2c0f4a64a97b79b922c835a6.json\"\n---\n\n# 知识导航\n\n- [核心循环](core-loop.md)\n- [资源经济](economy.md)\n- [活动](live-events.md)\n- [产品与市场定位](market-position.md)\n- [商业化](monetization.md)\n- [游戏概览](overview.md)\n- [成长路径](progression.md)\n- [社交与运营](social-liveops.md)\n- [基地建设](systems/base-build.md)\n- [玩法模式](systems/content-modes.md)\n- [局内战斗机制](systems/session-combat.md)\n- [领地战争](systems/territory-war.md)\n- [2.31 更新说明](versions/2.31.md)\n- [2.33 更新说明](versions/2.33.md)\n- [2.35 更新说明](versions/2.35.md)\n- [2.50 更新说明](versions/2.50.md)\n- [2.69 更新说明](versions/2.69.md)\n- [3.07 更新说明](versions/3.07.md)\n",
+  "previous": "../2026-10-11/change-b94b2486c6524b1985184c03dc41c352.json",
+  "operation_log": "../../.operations/2026-10-13/operation-26afb1edbacc45cdbeb13f6e22170785.json"
+}

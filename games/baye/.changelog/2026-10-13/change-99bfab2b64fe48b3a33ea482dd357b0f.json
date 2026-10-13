@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-99bfab2b64fe48b3a33ea482dd357b0f",
+  "created_at": "2026-10-13T06:17:23.983550+00:00",
+  "path": "games/baye/versions/2.31.md",
+  "operation": "update",
+  "before": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.31\"\nreleased_at: \"2023-05-28\"\nsources: [\"../sources/versions/2.31.md#ev-8cd9af9de06f74cfb8a3bbe97cf49086\"]\nchangelog: \"../.changelog/2026-10-11/change-200ba258b8d449418a5f1a2389671a1c.json\"\n---\n\n# 2.31 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 预约奖励 | 增加预约奖励发放功能支持。 |\n| 机型适配 | 优化机型适配。 |\n",
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.31\"\nreleased_at: \"2023-05-28\"\nsources: [\"../sources/versions/2.31.md#ev-8cd9af9de06f74cfb8a3bbe97cf49086\", \"../sources/versions/2.31.md#ev-b1a13fac5b1a6f9f8936e76a3230f3f0\"]\nchangelog: \"../.changelog/2026-10-13/change-99bfab2b64fe48b3a33ea482dd357b0f.json\"\n---\n\n# 2.31 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 公测预约 | 加码公测预约奖励，自选传奇英雄和皮肤； |\n| CG动画 | 新增精彩CG动画，三国故事邀您书写； |\n| 性能优化 | 优化游戏性能、提高主公争霸体验； |\n",
+  "previous": "../2026-10-11/change-200ba258b8d449418a5f1a2389671a1c.json",
+  "operation_log": "../../.operations/2026-10-13/operation-e07021ceeb6f4f2099db9abc34551af9.json"
+}

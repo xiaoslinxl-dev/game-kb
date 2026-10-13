@@ -1,7 +1,6 @@
 ---
 type: 成长路径
 description: 记录武将养成维度、战力提升方式、技能碎片获取与府邸星级限制。
-changelog: ".changelog/2026-10-11/change-c4ed66bdf8b745618a240617057ce273.json"
 ---
 
 # 成长路径
@@ -13,9 +12,14 @@ changelog: ".changelog/2026-10-11/change-c4ed66bdf8b745618a240617057ce273.json"
 - **星级**：武将星级，后续升级府邸对武将星级有明确要求。
 - **兵种**：武将兵种养成。
 - **技能**：提升战力较多，第一天最高可升到8级。
-- **装备**：提升战力较多，第一天最高可升到8级。[@来源](sources/progression.md#ev-0309fb5b2c1d278fd1a7a6f7ff667b93)[@版本unknown]
+- **装备**：提升战力较多，第一天最高可升到8级。[@来源](sources/progression.md#ev-0309fb5b2c1d278fd1a7a6f7ff667b93)[@版本unknown] [@变更](.changelog/2026-10-13/change-91d1a13fb1ad4cde9daa2b6c9440fe25.json)
 
 ## 技能碎片获取与分解机制
 
 - **碎片获取途径**：若技能碎片不足，可在【书院-传承】中分解获取，或在【商肆】中购买。
-- **资源规划建议**：分解需消耗银币；由于后续升级府邸存在武将星级要求，暂时用不上的武将建议保留而不盲目分解。[@来源](sources/progression.md#ev-0309fb5b2c1d278fd1a7a6f7ff667b93)[@版本unknown]
+- **资源规划建议**：分解需消耗银币；由于后续升级府邸存在武将星级要求，暂时用不上的武将建议保留而不盲目分解。[@来源](sources/progression.md#ev-0309fb5b2c1d278fd1a7a6f7ff667b93)[@版本unknown] [@变更](.changelog/2026-10-13/change-91d1a13fb1ad4cde9daa2b6c9440fe25.json)
+## 爵位等级与特权解锁[@来源](sources/progression.md#ev-ee9d6eabf10f21f6b45dbfb57325c40c)
+
+- **爵位序列**：玩家爵位总计包含 11 个等级，分为公士、中大夫、国大夫、上卿、列侯、男爵、子爵、伯爵、侯爵、公爵与王爵。
+- **提升任务条件**：玩家爵位的提升需要完成相应的任务条件，包括不限于完成相应的累计军务次数、拥有X件宝物、累计获得XX战绩以及累计占领XX座产业等。
+- **官邸上限与特权收益**：提升爵位后可以提高官邸等级的上限，同时也能通过消耗战功与银币解锁相应的爵位特权，包括增加武将行军速度、增加国战战功获取数量、增加可编组部队数量、增加每日免费军务次数等等功能。[@来源](sources/progression.md#ev-ee9d6eabf10f21f6b45dbfb57325c40c)[@版本unknown] [@变更](.changelog/2026-10-13/change-91d1a13fb1ad4cde9daa2b6c9440fe25.json)

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-6852c5f188a34d4895daa7f2f8b9d220",
+  "created_at": "2026-10-15T06:30:35.696067+00:00",
+  "game_id": "baye",
+  "file": "progression.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "wechat.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-23e3e2b243984ba88e6a27c70323c33a.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-63d70a3aa1ba47028adfbaa429a9db4f.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: concept\ndescription: 记录《霸业》的武将养成、官邸府邸建设、爵位晋升与科技成长路径\n---\n\n# 养成系统\n\n## 府邸与军务\n\n平阳郑主簿在官方新手指南中说明的府邸成长与功能关系如下：[@来源](sources/progression.md#ev-bfece220e58c563fe45bb9d62dbe9d95)[@版本unknown] [@变更](.changelog/2026-10-15/change-23e3e2b243984ba88e6a27c70323c33a.json)\n\n- **府邸与军务的重要性**：在游戏里，府邸和军务等级比较重要，军务的数量是每天必须买满的，这样才能及时的升级府邸，开启更高武将等级和技能位置、后面的武将升紫升红，都是需要爵位的特权开启的。\n- **演义之路与技能学习上限**：演义之路是根据三国事件一步步推进的，这个功能会给兵种升级材料，并且满星通过指定关卡，也是可以提高技能学习等级上限，相当重要，建议实力提升后尽量三星通过。演义之路每日免费10次（后面科技可以增加次数），额外购买5次，最高500元宝。建议有实力的主公每天买满。[@来源](sources/progression.md#ev-bfece220e58c563fe45bb9d62dbe9d95)[@版本unknown] [@变更](.changelog/2026-10-15/change-23e3e2b243984ba88e6a27c70323c33a.json)\n\n## 爵位特权与科技推演[@来源](sources/progression.md#ev-2de063206cf40661347e7fd6b97aa7c8)[@版本unknown] [@变更](.changelog/2026-10-15/change-23e3e2b243984ba88e6a27c70323c33a.json)\n\n平阳郑主簿在指南中推荐的特权与观星台推演如下：[@来源](sources/progression.md#ev-2de063206cf40661347e7fd6b97aa7c8)[@版本unknown] [@变更](.changelog/2026-10-15/change-23e3e2b243984ba88e6a27c70323c33a.json)\n\n- **第一天特权排序**：第一天建议开启的爵位特权，按照关键程度排序一下：无前 -> 缮甲 -> 访鹤 -> 富庶。富庶特权在第二天元宝战后有可能太守分城，还有可能直接拿到大城分得更多资源。\n- **第二天特权与科技**：第二天建议开启的特权为勤政、琳琅、深耕、选锋。勤政用于加速政务速度；琳琅和深耕加速资源收集提升；选锋特权可解放操作（征兵）。\n- **观星台推演**：观星台开启后可通过研究推演提升战力，建议前期优先提升资源获取科技。第二天观星台里面的“不溃”、“屯器”、“拜将”、“登台”尽量优先升满，在拜将台招募或演义之路扫荡上最极限获取资源。[@来源](sources/progression.md#ev-2de063206cf40661347e7fd6b97aa7c8)[@版本unknown] [@变更](.changelog/2026-10-15/change-23e3e2b243984ba88e6a27c70323c33a.json)\n",
+  "sources": [
+    {
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg4MTk2NzkyNA==&mid=2247484160&idx=2&sn=dc36191db9b79baea223af2b9d4b5c15",
+      "reference": "第一天建议开启的爵位特权，按照关键程度排序一下无前---缮甲---访鹤---富庶。最后这个富庶特权一定要记得激活，第二天元宝战后有可能太守分城，还有可能能直接拿到一座大城，分得更多资源。第二天建议开启的特权：勤政---琳琅---深耕---选锋勤政是为了加速政务的速度，不然会掉队。琳琅和深耕都是对资源收集的加速提升。选锋这个技能是可以解放操作的一个特权，当然如果记得及时去征兵，操作的过来是可以不开启的。观星台开启后，可以通过研究推演提升很多的战力，这边的建议是前期优先提升资源方面获取的科技，在战力方面的暂时放缓。第二天观星台里面的不溃、屯器、拜将、登台，尽量都优先升满，这样在拜将台招募或是演绎之路的扫荡上，可以最极限的获取资源。",
+      "versions": [
+        "unknown"
+      ],
+      "source_identity": "official",
+      "material_type": "experience",
+      "identity_basis": "《霸业》微信公众号“霸业官方”发布的平阳郑主簿新手七天攻略（上）",
+      "source_id": "2de063206cf40661347e7fd6b97aa7c8",
+      "final_url": "http://mp.weixin.qq.com/s?__biz=Mzg4MTk2NzkyNA==&mid=2247484160&idx=2&sn=dc36191db9b79baea223af2b9d4b5c15",
+      "published_at": "2023-06-07",
+      "published_at_basis": "TikHub data.content.create_time（见 wechat.log）",
+      "fetched_at": "2026-10-15T06:30:41.686919+00:00",
+      "fetch_log": "wechat.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

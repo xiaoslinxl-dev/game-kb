@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-d8e79ae665dd4cebacecedea7f89fa05",
+  "created_at": "2026-10-15T06:19:43.512021+00:00",
+  "game_id": "baye",
+  "file": "versions/2.31.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-a682e181199042a4ba9bd4540399be11.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-ecda968d73ec4fc98d98d5731ad03cd0.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.31\"\nreleased_at: \"2023-05-28\"\nsources: [\"../sources/versions/2.31.md#ev-d93477593a79329a192eeb8859f6b06e\"]\nchangelog: \"../.changelog/2026-10-15/change-a682e181199042a4ba9bd4540399be11.json\"\n---\n\n# 2.31 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 公测预约奖励与性能优化 | 1、加码公测预约奖励，自选传奇英雄和皮肤；&#10;2、新增精彩CG动画，三国故事邀您书写；&#10;3、优化游戏性能、提高主公争霸体验； |\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "reference": "1、加码公测预约奖励，自选传奇英雄和皮肤；\n2、新增精彩CG动画，三国故事邀您书写；\n3、优化游戏性能、提高主公争霸体验；\n2.31 2023/05/28",
+      "versions": [
+        "2.31"
+      ],
+      "source_identity": "official",
+      "material_type": "rules",
+      "identity_basis": "Apple App Store《霸业》官方版本更新历史，开发者为安徽盈趣网络科技有限公司。",
+      "source_id": "d93477593a79329a192eeb8859f6b06e",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-15T06:19:47+00:00",
+      "fetch_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-a682e181199042a4ba9bd4540399be11",
+  "created_at": "2026-10-15T06:19:50.162858+00:00",
+  "path": "games/baye/versions/2.31.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.31\"\nreleased_at: \"2023-05-28\"\nsources: [\"../sources/versions/2.31.md#ev-d93477593a79329a192eeb8859f6b06e\"]\nchangelog: \"../.changelog/2026-10-15/change-a682e181199042a4ba9bd4540399be11.json\"\n---\n\n# 2.31 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 公测预约奖励与性能优化 | 1、加码公测预约奖励，自选传奇英雄和皮肤；&#10;2、新增精彩CG动画，三国故事邀您书写；&#10;3、优化游戏性能、提高主公争霸体验； |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-d8e79ae665dd4cebacecedea7f89fa05.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-74358002c6bb4a4e97342a77289fb1a0",
+  "created_at": "2026-10-15T01:55:42.894876+00:00",
+  "path": "games/baye/sources/versions/2.48.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 1\ntarget: \"versions/2.48.md\"\n---\n\n# 2.48 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |\n| --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-3e40246860e97dd76ec94a96621ea365\"></a>3e40246860e97dd76ec94a96621ea365 | https://apps.apple.com/cn/app/id6444941591 | 1、新增上架张春华皮肤“春夜逐华”（S4及以上赛季可见）&#10;2、新增兵种（通过玲珑奇士和其他运营活动投放）：花郎军（步）、剑客行（步）、火牛队（骑）、西域驼兵（骑）、飞茅手（弓）、火油兵（弓）、萨满团（术）、五行团（术）&#10;3、S2赛季新增玲珑奇士活动，需要在该赛季的第14、28、42天才开启（以此类推14天一循环），每期开启持续一天。&#10;&#10;2.482024/02/04 | 未知 | 2026-10-15T01:55:40+00:00 | [change-74358002c6bb4a4e97342a77289fb1a0](../../.changelog/2026-10-15/change-74358002c6bb4a4e97342a77289fb1a0.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-a7ed5d8ce41d438289bf5bc5185a90da.json"
+}

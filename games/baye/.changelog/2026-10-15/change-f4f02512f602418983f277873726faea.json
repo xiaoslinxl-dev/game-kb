@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-f4f02512f602418983f277873726faea",
+  "created_at": "2026-10-15T01:57:25.226149+00:00",
+  "path": "games/baye/versions/2.65.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.65\"\nreleased_at: \"2025-04-09\"\nsources: [\"../sources/versions/2.65.md#ev-b3f976a0237e85723dd89aa55ad7954a\"]\nchangelog: \"../.changelog/2026-10-15/change-f4f02512f602418983f277873726faea.json\"\n---\n\n# 2.65 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 天气系统 | 1、新增天气系统（S5及以上赛季开启） |\n| S7赛季内容 | 2、新增S7赛季内容&#10;①新增神话英雄：公孙瓒，王异，张仲景&#10;②新增神话英雄觉醒：孙坚，曹纯，荀攸&#10;③新增英雄开启命魂：孙坚、项羽、诸葛果、郭皇后、曹纯、荀攸&#10;④官邸建筑等级提升，爵位等级提升。&#10;⑤新增山河异兽系统，新增祥瑞仙宴活动，新增镇压凶兽玩法 |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-63d6c38a77a34e02a8e4503700fd5067.json"
+}

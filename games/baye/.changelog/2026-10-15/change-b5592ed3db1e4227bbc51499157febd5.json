@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-b5592ed3db1e4227bbc51499157febd5",
+  "created_at": "2026-10-15T01:54:29.570144+00:00",
+  "path": "games/baye/sources/versions/2.27.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 1\ntarget: \"versions/2.27.md\"\n---\n\n# 2.27 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |\n| --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-6a6159d7e6f238bf922c7464051d88b7\"></a>6a6159d7e6f238bf922c7464051d88b7 | https://apps.apple.com/cn/app/id6444941591 | 1、增加预约奖励发放功能支持&#10;2、优化机型适配&#10;&#10;2.272023/05/18 | 未知 | 2026-10-15T01:54:26+00:00 | [change-b5592ed3db1e4227bbc51499157febd5](../../.changelog/2026-10-15/change-b5592ed3db1e4227bbc51499157febd5.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-53d3d90445d54c35945699062366fcfe.json"
+}

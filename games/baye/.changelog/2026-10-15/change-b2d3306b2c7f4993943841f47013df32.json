@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-b2d3306b2c7f4993943841f47013df32",
+  "created_at": "2026-10-15T06:34:11.706495+00:00",
+  "path": "games/baye/versions/2.45.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.45\"\nreleased_at: \"2023-11-22\"\nsources: [\"../sources/versions/2.45.md#ev-b16919f6ec279f3161e13b81986a4a32\"]\nchangelog: \"../.changelog/2026-10-15/change-b2d3306b2c7f4993943841f47013df32.json\"\n---\n\n# 2.45 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 王朝系统与跨服玩法 | 1、新增王朝系统，配套跨服玩法-征战南洋，楼兰集市等&amp;#10;2、宝物系统页面显示优化&amp;#10;3、战斗系统优化：擂鼓加速效果优化，战斗时长大幅缩短&amp;#10;4、新增襄阳城功能玩法，可修筑，可任命太守 |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-e1a29c51648c483183dde2bd3ba3c36c.json"
+}

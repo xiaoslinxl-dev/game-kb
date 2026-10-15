@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-04c7c8df7beb482db52c233da7610c0c",
+  "created_at": "2026-10-15T01:57:42.737172+00:00",
+  "path": "games/baye/versions/2.67.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.67\"\nreleased_at: \"2025-04-22\"\nsources: [\"../sources/versions/2.67.md#ev-107718bb2c5039f98cb4b6c6dcafb5ea\"]\nchangelog: \"../.changelog/2026-10-15/change-04c7c8df7beb482db52c233da7610c0c.json\"\n---\n\n# 2.67 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 足迹图鉴 | 1、新增足迹图鉴系统 |\n| 国战机制优化 | 2、国战机制优化：S6及以上赛季，在城池战斗时，我方英雄的战力需要高于城内敌方最高战力英雄的30%才可以突进。（在本服和赤壁之战沙盘生效） |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-2add8775f99943549b1544097adca121.json"
+}

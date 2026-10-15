@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-9aa528aa257c4150896535667543f675",
+  "created_at": "2026-10-15T06:34:31.643021+00:00",
+  "path": "games/baye/sources/versions/2.50.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 2\ntarget: \"versions/2.50.md\"\n---\n\n# 2.50 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 来源身份 | 资料性质 | 变更记录 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-8572e003e11c18bcec94ed5227ae38fa\"></a>8572e003e11c18bcec94ed5227ae38fa | https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591 | ——霸业周年庆开启——&#10;&#10;1、周年狂欢庆典，资源拿到手软！&#10;2、新英雄辛宪英上场，技能不受限，觉醒更强大！&#10;3、央视三国联动开启！专属英雄王朗即领！&#10;4、剧本沙场演武来袭，回味经典，领取多重资源！&#10;5、周年编年史，一载相伴，回顾往昔峥嵘岁月！&#10;2.50 2024/06/12 | 未知 | 2026-10-15T06:34:29+00:00 | 官方 | 规则／原始记录 | [change-9aa528aa257c4150896535667543f675](../../.changelog/2026-10-15/change-9aa528aa257c4150896535667543f675.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-d6dae27d3fc44f599e973fca4873da65.json"
+}

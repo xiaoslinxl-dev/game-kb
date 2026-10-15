@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-d6dae27d3fc44f599e973fca4873da65",
+  "created_at": "2026-10-15T06:34:24.213015+00:00",
+  "game_id": "baye",
+  "file": "versions/2.50.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-529a0e4d9cd24fce9ee1dd8db5365c79.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-9aa528aa257c4150896535667543f675.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.50\"\nreleased_at: \"2024-06-12\"\nsources: [\"../sources/versions/2.50.md#ev-8572e003e11c18bcec94ed5227ae38fa\"]\nchangelog: \"../.changelog/2026-10-15/change-529a0e4d9cd24fce9ee1dd8db5365c79.json\"\n---\n\n# 2.50 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 霸业周年庆与联动 | ——霸业周年庆开启——&amp;#10;1、周年狂欢庆典，资源拿到手软！&amp;#10;2、新英雄辛宪英上场，技能不受限，觉醒更强大！&amp;#10;3、央视三国联动开启！专属英雄王朗即领！&amp;#10;4、剧本沙场演武来袭，回味经典，领取多重资源！&amp;#10;5、周年编年史，一载相伴，回顾往昔峥嵘岁月！ |\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "reference": "——霸业周年庆开启——\n\n1、周年狂欢庆典，资源拿到手软！\n2、新英雄辛宪英上场，技能不受限，觉醒更强大！\n3、央视三国联动开启！专属英雄王朗即领！\n4、剧本沙场演武来袭，回味经典，领取多重资源！\n5、周年编年史，一载相伴，回顾往昔峥嵘岁月！\n2.50 2024/06/12",
+      "versions": [
+        "2.50"
+      ],
+      "source_identity": "official",
+      "material_type": "rules",
+      "identity_basis": "Apple App Store《霸业》官方版本更新历史，开发者为安徽盈趣网络科技有限公司。",
+      "source_id": "8572e003e11c18bcec94ed5227ae38fa",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-15T06:34:29+00:00",
+      "fetch_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

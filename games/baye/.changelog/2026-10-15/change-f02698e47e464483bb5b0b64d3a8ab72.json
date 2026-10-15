@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-f02698e47e464483bb5b0b64d3a8ab72",
+  "created_at": "2026-10-15T06:20:11.578612+00:00",
+  "path": "games/baye/versions/2.43.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.43\"\nreleased_at: \"2023-08-02\"\nsources: [\"../sources/versions/2.43.md#ev-c6e779f639cf3538dc4c480a555652c5\"]\nchangelog: \"../.changelog/2026-10-15/change-f02698e47e464483bb5b0b64d3a8ab72.json\"\n---\n\n# 2.43 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 微信登录与横竖屏切换 | 1、新增微信登录功能，主公可通过微信直接登录游戏&#10;2、新增横竖屏界面切换功能（主公需重新下载安装即可使用）&#10;3、新增围剿兀突骨跨服活动&#10;4、兵法升级界面优化&#10;5、藏兵阁宝物展示优化 |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-714ecb6191bb4416ae106f9cc10468d3.json"
+}

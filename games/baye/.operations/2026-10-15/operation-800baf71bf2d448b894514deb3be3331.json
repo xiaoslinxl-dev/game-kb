@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-800baf71bf2d448b894514deb3be3331",
+  "created_at": "2026-10-15T01:54:41.400989+00:00",
+  "game_id": "baye",
+  "file": "versions/2.43.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-0a3ab70308a04144aa4ec83de127453d.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-134cd87abae44aeab3f6a553ab6f4269.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.43\"\nreleased_at: \"2023-08-02\"\nsources: [\"../sources/versions/2.43.md#ev-07bee722d424b3725f6739560133d733\"]\nchangelog: \"../.changelog/2026-10-15/change-0a3ab70308a04144aa4ec83de127453d.json\"\n---\n\n# 2.43 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 登录功能 | 1、新增微信登录功能，主公可通过微信直接登录游戏 |\n| 界面切换 | 2、新增横竖屏界面切换功能（主公需重新下载安装即可使用） |\n| 跨服活动 | 3、新增围剿兀突骨跨服活动 |\n| 兵法升级 | 4、兵法升级界面优化 |\n| 藏兵阁 | 5、藏兵阁宝物展示优化 |\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/id6444941591",
+      "reference": "1、新增微信登录功能，主公可通过微信直接登录游戏\n2、新增横竖屏界面切换功能（主公需重新下载安装即可使用）\n3、新增围剿兀突骨跨服活动\n4、兵法升级界面优化\n5、藏兵阁宝物展示优化\n\n2.432023/08/02",
+      "versions": [
+        "2.43"
+      ],
+      "source_id": "07bee722d424b3725f6739560133d733",
+      "final_url": "https://apps.apple.com/cn/app/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-15T01:54:45+00:00",
+      "fetch_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

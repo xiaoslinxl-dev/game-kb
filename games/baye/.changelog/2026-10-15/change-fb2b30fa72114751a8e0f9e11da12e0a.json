@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-fb2b30fa72114751a8e0f9e11da12e0a",
+  "created_at": "2026-10-15T06:34:54.274116+00:00",
+  "path": "games/baye/versions/2.56.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.56\"\nreleased_at: \"2024-10-25\"\nsources: [\"../sources/versions/2.56.md#ev-af5d7fa1f71f94743f9bddf454fb945f\"]\nchangelog: \"../.changelog/2026-10-15/change-fb2b30fa72114751a8e0f9e11da12e0a.json\"\n---\n\n# 2.56 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 关城守卫战与S6剧本 | ——近期更新——&amp;#10;1、关城守卫战上线，守卫关城刻不容缓&amp;#10;2、S6赛季开启，轮回之地等待主公探索&amp;#10;3、远洋商途上线，贸易亦是一场战争&amp;#10;4、剧本玩法赤壁之战上线，主公请下令 |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-f157a1bb841c4ac6900e8eb06fbd54bb.json"
+}

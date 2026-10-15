@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-e4c6bf77ec1244b293bf5a241b0c6f9b",
+  "created_at": "2026-10-15T06:29:57.248220+00:00",
+  "path": "games/baye/progression.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: concept\ndescription: 记录《霸业》的武将养成、官邸府邸建设、爵位晋升与科技成长路径\n---\n\n# 养成系统\n\n## 府邸与军务\n\n平阳郑主簿在官方新手指南中说明的府邸成长与功能关系如下：[@来源](sources/progression.md#ev-bfece220e58c563fe45bb9d62dbe9d95)[@版本unknown] [@变更](.changelog/2026-10-15/change-e4c6bf77ec1244b293bf5a241b0c6f9b.json)\n\n- **府邸与军务的重要性**：在游戏里，府邸和军务等级比较重要，军务的数量是每天必须买满的，这样才能及时的升级府邸，开启更高武将等级和技能位置、后面的武将升紫升红，都是需要爵位的特权开启的。\n- **演义之路与技能学习上限**：演义之路是根据三国事件一步步推进的，这个功能会给兵种升级材料，并且满星通过指定关卡，也是可以提高技能学习等级上限，相当重要，建议实力提升后尽量三星通过。演义之路每日免费10次（后面科技可以增加次数），额外购买5次，最高500元宝。建议有实力的主公每天买满。[@来源](sources/progression.md#ev-bfece220e58c563fe45bb9d62dbe9d95)[@版本unknown] [@变更](.changelog/2026-10-15/change-e4c6bf77ec1244b293bf5a241b0c6f9b.json)\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-2b7c6e8de02e43ac90c68f99447dd0bd.json"
+}

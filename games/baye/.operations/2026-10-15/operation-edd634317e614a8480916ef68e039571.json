@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-edd634317e614a8480916ef68e039571",
+  "created_at": "2026-10-15T01:58:11.340088+00:00",
+  "game_id": "baye",
+  "file": "versions/2.76.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-86f86492d5cd4c30b2a7be834091300c.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-b52e94814d5540e982cbd151f0e476a5.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.76\"\nreleased_at: \"2025-09-11\"\nsources: [\"../sources/versions/2.76.md#ev-7f772de489c0a2307b54048be0973e9f\"]\nchangelog: \"../.changelog/2026-10-15/change-86f86492d5cd4c30b2a7be834091300c.json\"\n---\n\n# 2.76 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 袁绍天赋 | 1、袁绍天赋修正为四维比拼效果。 |\n| 英雄轮回描述 | 2、曹纯、诸葛亮轮回描述优化，实际效果不变。 |\n| 面板显示 | 3、查看其他主公英雄面板可显示高级兵种阶数。 |\n| 图腾筛选 | 4、高级图腾筛选优化为可多选词条。 |\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/id6444941591",
+      "reference": "1、袁绍天赋修正为四维比拼效果。\n2、曹纯、诸葛亮轮回描述优化，实际效果不变。\n3、查看其他主公英雄面板可显示高级兵种阶数。\n4、高级图腾筛选优化为可多选词条。\n\n2.762025/09/11",
+      "versions": [
+        "2.76"
+      ],
+      "source_id": "7f772de489c0a2307b54048be0973e9f",
+      "final_url": "https://apps.apple.com/cn/app/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-15T01:58:15+00:00",
+      "fetch_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

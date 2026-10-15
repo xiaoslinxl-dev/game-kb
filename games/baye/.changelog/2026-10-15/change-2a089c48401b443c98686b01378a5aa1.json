@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-2a089c48401b443c98686b01378a5aa1",
+  "created_at": "2026-10-15T06:33:06.721748+00:00",
+  "path": "games/baye/economy.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: concept\ndescription: 记录《霸业》的资源经济模型、产出途径、秋收分红与消耗循环\n---\n\n# 资源经济\n\n## 血染沙场\n\n平阳郑主簿在官方开荒指南中说明：血染沙场是给大量基础奖励的地方，免费2次，可以购买一次。最多有100关的奖励。[@来源](sources/economy.md#ev-47ddc2febca2638a868b1b63fbfeef49)[@版本unknown] [@变更](.changelog/2026-10-15/change-2a089c48401b443c98686b01378a5aa1.json)\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-f54e8042f7a340a8ba85d3a3236ca2e4.json"
+}

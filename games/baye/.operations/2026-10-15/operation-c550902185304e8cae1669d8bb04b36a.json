@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-c550902185304e8cae1669d8bb04b36a",
+  "created_at": "2026-10-15T06:29:02.694587+00:00",
+  "game_id": "baye",
+  "file": "social-liveops.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "wechat.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-1cdf9f93d85547218d5b252c20f7d21a.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-fd572f8c798a490a88f846675793ad5d.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: concept\ndescription: 介绍《霸业》的社交互动、公会/国家组织与周期性运营活动机制\n---\n\n# 社交与运营活动\n\n## 比武场与群英会\n\n在平阳郑主簿整理的玩法说明中：[@来源](sources/social-liveops.md#ev-8d8478ec3155a0bc069ead4a1bca166e)[@版本unknown] [@变更](.changelog/2026-10-15/change-1cdf9f93d85547218d5b252c20f7d21a.json)\n\n- **报名与排位调整**：群英会和比武场报名，可以通过不断的尝试，调整自己的武将排位和技能选择。\n- **报名门槛**：比武报名群英会排名是需要进入前1024。\n- **比武玉用途**：报名后会给1000的比武玉，比武押注需要用到，且在第一次比武之前是没有其他渠道可以获得。\n- **克制与战力**：比武时注意武将的互相克制与战力的差别，起到田忌赛马的效果。\n- **挑战次数与奖励**：群英会的排名是有一个任务奖励的，每天的挑战次数可以购买十次。[@来源](sources/social-liveops.md#ev-8d8478ec3155a0bc069ead4a1bca166e)[@版本unknown] [@变更](.changelog/2026-10-15/change-1cdf9f93d85547218d5b252c20f7d21a.json)\n",
+  "sources": [
+    {
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg4MTk2NzkyNA==&mid=2247484160&idx=2&sn=dc36191db9b79baea223af2b9d4b5c15",
+      "reference": "群英会和比武场报名，可以通过不断的尝试，调整自己的武将排位和技能选择。比武报名群英会排名是需要进入前1024。报名后会给1000的比武玉，这个注意不要花掉，比武押注需要用到，且在第一次比武之前是没有其他渠道可以获得。比武时注意武将的互相克制与战力的差别，起到田忌赛马的效果。群英会的排名是有一个任务奖励的，每天的挑战次数可以购买十次。",
+      "versions": [
+        "unknown"
+      ],
+      "source_identity": "official",
+      "material_type": "experience",
+      "identity_basis": "《霸业》微信公众号“霸业官方”发布的平阳郑主簿新手七天攻略（上）",
+      "source_id": "8d8478ec3155a0bc069ead4a1bca166e",
+      "final_url": "http://mp.weixin.qq.com/s?__biz=Mzg4MTk2NzkyNA==&mid=2247484160&idx=2&sn=dc36191db9b79baea223af2b9d4b5c15",
+      "published_at": "2023-06-07",
+      "published_at_basis": "TikHub data.content.create_time（见 wechat.log）",
+      "fetched_at": "2026-10-15T06:29:08.605049+00:00",
+      "fetch_log": "wechat.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

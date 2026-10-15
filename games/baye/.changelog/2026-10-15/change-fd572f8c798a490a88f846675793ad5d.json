@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-fd572f8c798a490a88f846675793ad5d",
+  "created_at": "2026-10-15T06:29:11.436797+00:00",
+  "path": "games/baye/sources/social-liveops.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 2\ntarget: \"social-liveops.md\"\n---\n\n# social-liveops 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 来源身份 | 资料性质 | 变更记录 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-8d8478ec3155a0bc069ead4a1bca166e\"></a>8d8478ec3155a0bc069ead4a1bca166e | http://mp.weixin.qq.com/s?__biz=Mzg4MTk2NzkyNA==&amp;mid=2247484160&amp;idx=2&amp;sn=dc36191db9b79baea223af2b9d4b5c15 | 群英会和比武场报名，可以通过不断的尝试，调整自己的武将排位和技能选择。比武报名群英会排名是需要进入前1024。报名后会给1000的比武玉，这个注意不要花掉，比武押注需要用到，且在第一次比武之前是没有其他渠道可以获得。比武时注意武将的互相克制与战力的差别，起到田忌赛马的效果。群英会的排名是有一个任务奖励的，每天的挑战次数可以购买十次。 | 2023-06-07 | 2026-10-15T06:29:08.605049+00:00 | 官方 | 攻略／经验 | [change-fd572f8c798a490a88f846675793ad5d](../.changelog/2026-10-15/change-fd572f8c798a490a88f846675793ad5d.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-c550902185304e8cae1669d8bb04b36a.json"
+}

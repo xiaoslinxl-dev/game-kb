@@ -1,5 +1,5 @@
 ---
-changelog: ".changelog/2026-10-13/change-69ba28ab2c0f4a64a97b79b922c835a6.json"
+changelog: ".changelog/2026-10-15/change-38051bd4af7045b4a28ec43af97437c5.json"
 ---
 
 # 知识导航
@@ -16,9 +16,23 @@ changelog: ".changelog/2026-10-13/change-69ba28ab2c0f4a64a97b79b922c835a6.json"
 - [玩法模式](systems/content-modes.md)
 - [局内战斗机制](systems/session-combat.md)
 - [领地战争](systems/territory-war.md)
+- [2.27 更新说明](versions/2.27.md)
 - [2.31 更新说明](versions/2.31.md)
 - [2.33 更新说明](versions/2.33.md)
 - [2.35 更新说明](versions/2.35.md)
+- [2.43 更新说明](versions/2.43.md)
+- [2.44 更新说明](versions/2.44.md)
+- [2.45 更新说明](versions/2.45.md)
+- [2.48 更新说明](versions/2.48.md)
+- [2.49 更新说明](versions/2.49.md)
 - [2.50 更新说明](versions/2.50.md)
+- [2.52 更新说明](versions/2.52.md)
+- [2.56 更新说明](versions/2.56.md)
+- [2.58 更新说明](versions/2.58.md)
+- [2.65 更新说明](versions/2.65.md)
+- [2.67 更新说明](versions/2.67.md)
+- [2.68 更新说明](versions/2.68.md)
 - [2.69 更新说明](versions/2.69.md)
+- [2.76 更新说明](versions/2.76.md)
+- [3.05 更新说明](versions/3.05.md)
 - [3.07 更新说明](versions/3.07.md)

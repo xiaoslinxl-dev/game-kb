@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-2d476935580d49a3b898fc33c24fd5eb",
+  "created_at": "2026-10-15T06:20:22.052179+00:00",
+  "path": "games/baye/versions/2.48.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.48\"\nreleased_at: \"2024-02-04\"\nsources: [\"../sources/versions/2.48.md#ev-1d009cc77602aa58d88b28f0ce476e59\"]\nchangelog: \"../.changelog/2026-10-15/change-2d476935580d49a3b898fc33c24fd5eb.json\"\n---\n\n# 2.48 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 新兵种投放与玲珑奇士 | 1、新增上架张春华皮肤“春夜逐华”（S4及以上赛季可见）&#10;2、新增兵种（通过玲珑奇士和其他运营活动投放）：花郎军（步）、剑客行（步）、火牛队（骑）、西域驼兵（骑）、飞茅手（弓）、火油兵（弓）、萨满团（术）、五行团（术）&#10;3、S2赛季新增玲珑奇士活动，需要在该赛季的第14、28、42天才开启（以此类推14天一循环），每期开启持续一天。 |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-6abae705566c4f7280af25f080dcea32.json"
+}

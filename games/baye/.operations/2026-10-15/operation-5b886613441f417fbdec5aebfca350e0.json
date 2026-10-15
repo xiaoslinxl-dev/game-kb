@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-5b886613441f417fbdec5aebfca350e0",
+  "created_at": "2026-10-15T01:56:18.810383+00:00",
+  "game_id": "baye",
+  "file": "versions/2.52.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-dafd00a96cc0478f81d1fb76bc25a6cc.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-e9610de39b084ce2af432e2903f68e4d.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.52\"\nreleased_at: \"2024-07-19\"\nsources: [\"../sources/versions/2.52.md#ev-a8ccdddef0747c08f5f96ecfbb67e916\"]\nchangelog: \"../.changelog/2026-10-15/change-dafd00a96cc0478f81d1fb76bc25a6cc.json\"\n---\n\n# 2.52 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 三国联动 | 1、央视三国联动，专属英雄王朗即领 |\n| 沙盘演武 | 2、回味经典，享受策略攻城，沙盘演武上线 |\n| S6赛季 | 3、S6赛季开启，轮回之地等待主公探寻 |\n| 英雄皮肤 | 4、蔡文姬、黄月英新皮肤上线 |\n| 尚书台问答 | 5、尚书台问答助力城池开荒英雄养成 |\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/id6444941591",
+      "reference": "——近期更新——\n\n1、央视三国联动，专属英雄王朗即领\n2、回味经典，享受策略攻城，沙盘演武上线\n3、S6赛季开启，轮回之地等待主公探寻\n4、蔡文姬、黄月英新皮肤上线\n5、尚书台问答助力城池开荒英雄养成\n\n2.522024/07/19",
+      "versions": [
+        "2.52"
+      ],
+      "source_id": "a8ccdddef0747c08f5f96ecfbb67e916",
+      "final_url": "https://apps.apple.com/cn/app/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-15T01:56:22+00:00",
+      "fetch_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

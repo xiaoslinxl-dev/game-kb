@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-8a5017e021a24283a7e590b6acb2e5e8",
+  "created_at": "2026-10-15T06:33:31.906097+00:00",
+  "game_id": "baye",
+  "file": "economy.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "wechat.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-b3fdccd0255a492fac8a0078eeaba12b.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-42417bcaf6324217b693f78bdb595ad1.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: concept\ndescription: 记录《霸业》的资源经济模型、产出途径、秋收分红与消耗循环\n---\n\n# 资源经济\n\n## 血染沙场\n\n平阳郑主簿在官方开荒指南中说明：血染沙场是给大量基础奖励的地方，免费2次，可以购买一次。最多有100关的奖励。[@来源](sources/economy.md#ev-47ddc2febca2638a868b1b63fbfeef49)[@版本unknown] [@变更](.changelog/2026-10-15/change-b3fdccd0255a492fac8a0078eeaba12b.json)\n\n## 秋收与分红[@来源](sources/economy.md#ev-8cacd7993a689f676f8c42d47043df10)[@版本unknown] [@变更](.changelog/2026-10-15/change-b3fdccd0255a492fac8a0078eeaba12b.json)\n\n平阳郑主簿在指南中说明：秋收是在秋季结束后，统计所有城池的资源，然后在冬天分红。这个行为是发生在凌晨的5点，而过了0点就不能推大城了。所以在12点之前，各个州牧注意分兵到各个起火的城池，给己方增加buff。[@来源](sources/economy.md#ev-8cacd7993a689f676f8c42d47043df10)[@版本unknown] [@变更](.changelog/2026-10-15/change-b3fdccd0255a492fac8a0078eeaba12b.json)\n",
+  "sources": [
+    {
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg4MTk2NzkyNA==&mid=2247484160&idx=2&sn=dc36191db9b79baea223af2b9d4b5c15",
+      "reference": "还有要说的是第三天的秋收，秋收是在秋季结束后，统计所有城池的资源，然后 在冬天分红 也就是这个行为是发生在凌晨的5点，而过了0点就不能推大城了。所以在12点之前，我们需要开始疯狂的抢地盘，各个州牧，注意分兵到各个起火的城池，给己方增加buff。",
+      "versions": [
+        "unknown"
+      ],
+      "source_identity": "official",
+      "material_type": "experience",
+      "identity_basis": "《霸业》微信公众号“霸业官方”发布的平阳郑主簿新手七天攻略（上）",
+      "source_id": "8cacd7993a689f676f8c42d47043df10",
+      "final_url": "http://mp.weixin.qq.com/s?__biz=Mzg4MTk2NzkyNA==&mid=2247484160&idx=2&sn=dc36191db9b79baea223af2b9d4b5c15",
+      "published_at": "2023-06-07",
+      "published_at_basis": "TikHub data.content.create_time（见 wechat.log）",
+      "fetched_at": "2026-10-15T06:33:39.913489+00:00",
+      "fetch_log": "wechat.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

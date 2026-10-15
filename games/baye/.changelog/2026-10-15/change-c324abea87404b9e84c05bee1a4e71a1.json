@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-c324abea87404b9e84c05bee1a4e71a1",
+  "created_at": "2026-10-15T06:35:25.975664+00:00",
+  "path": "games/baye/sources/systems/content-modes.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 2\ntarget: \"systems/content-modes.md\"\n---\n\n# content-modes 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 来源身份 | 资料性质 | 变更记录 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-b16919f6ec279f3161e13b81986a4a32\"></a>b16919f6ec279f3161e13b81986a4a32 | https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591 | 1、新增王朝系统，配套跨服玩法-征战南洋，楼兰集市等&#10;2、宝物系统页面显示优化&#10;3、战斗系统优化：擂鼓加速效果优化，战斗时长大幅缩短&#10;4、新增襄阳城功能玩法，可修筑，可任命太守&#10;2.45 2023/11/22 | 未知 | 2026-10-15T06:35:23+00:00 | 官方 | 规则／原始记录 | [change-c324abea87404b9e84c05bee1a4e71a1](../../.changelog/2026-10-15/change-c324abea87404b9e84c05bee1a4e71a1.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-167d4789a26a438ebdf3995b188c6de2.json"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "operation_id": "operation-c924eaf2b3294dd696e4a7ae6035fa2a",
+  "created_at": "2026-10-15T06:19:54.237395+00:00",
+  "game_id": "baye",
+  "file": "versions/2.33.md",
+  "actions": [
+    {
+      "action": "fetch",
+      "result": "pass",
+      "source_index": 0,
+      "log": "firecrawl.log"
+    },
+    {
+      "action": "verify",
+      "result": "pass",
+      "log": "jev.log"
+    },
+    {
+      "action": "write",
+      "result": "pass",
+      "changelog_paths": [
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-fc208ec236d24cf68e972e945ca6a4f6.json",
+        "/workspace/game-kb/games/baye/.changelog/2026-10-15/change-c1d8342c17a74790bfd30c25baab6064.json"
+      ]
+    },
+    {
+      "action": "publish",
+      "result": "prepared"
+    }
+  ],
+  "candidate_content": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.33\"\nreleased_at: \"2023-06-04\"\nsources: [\"../sources/versions/2.33.md#ev-7b907524ffc13788cd3971a5ed1aba28\"]\nchangelog: \"../.changelog/2026-10-15/change-fc208ec236d24cf68e972e945ca6a4f6.json\"\n---\n\n# 2.33 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 公测活动与试炼上线 | 1、公测活动上线，送自选传奇英雄和皮肤&#10;2、新服试炼开启，乱世三国试炼出真英雄&#10;3、新增邀请活动，邀约主公一起征战沙场&#10;4、三国问答活动，开启驰骋三国的第一课 |\n",
+  "sources": [
+    {
+      "url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "reference": "1、公测活动上线，送自选传奇英雄和皮肤\n2、新服试炼开启，乱世三国试炼出真英雄\n3、新增邀请活动，邀约主公一起征战沙场\n4、三国问答活动，开启驰骋三国的第一课\n2.33 2023/06/04",
+      "versions": [
+        "2.33"
+      ],
+      "source_identity": "official",
+      "material_type": "rules",
+      "identity_basis": "Apple App Store《霸业》官方版本更新历史，开发者为安徽盈趣网络科技有限公司。",
+      "source_id": "7b907524ffc13788cd3971a5ed1aba28",
+      "final_url": "https://apps.apple.com/cn/app/%E9%9C%B8%E4%B8%9A-%E9%80%81%E8%87%AA%E9%80%89%E5%BC%80%E8%8D%92%E6%AD%A6%E5%B0%86/id6444941591",
+      "published_at": null,
+      "published_at_basis": null,
+      "fetched_at": "2026-10-15T06:19:58+00:00",
+      "fetch_log": "firecrawl.log"
+    }
+  ],
+  "verification": {
+    "decision": "pass",
+    "reason_codes": [],
+    "jev_log": "jev.log"
+  }
+}

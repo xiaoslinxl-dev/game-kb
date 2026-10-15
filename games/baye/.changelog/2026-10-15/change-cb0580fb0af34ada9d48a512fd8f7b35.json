@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-cb0580fb0af34ada9d48a512fd8f7b35",
+  "created_at": "2026-10-15T01:56:05.696737+00:00",
+  "path": "games/baye/sources/versions/2.49.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Source Ledger\nschema_version: 1\ntarget: \"versions/2.49.md\"\n---\n\n# 2.49 来源台账\n\n| 来源编号 | 原文 URL | 引用原文 | published_at | fetched_at | 变更记录 |\n| --- | --- | --- | --- | --- | --- |\n| <a id=\"ev-c50501dc1ab8076c6244e4646841c54c\"></a>c50501dc1ab8076c6244e4646841c54c | https://apps.apple.com/cn/app/id6444941591 | 1、新增群雄竞技活动（S4及以上赛季可见）&#10;2、新增宝物进阶功能（S4及以上赛季可见）&#10;&#10;2.492024/03/14 | 未知 | 2026-10-15T01:56:02+00:00 | [change-cb0580fb0af34ada9d48a512fd8f7b35](../../.changelog/2026-10-15/change-cb0580fb0af34ada9d48a512fd8f7b35.json) |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-20940b979eac40ebbe29d54db7caef20.json"
+}

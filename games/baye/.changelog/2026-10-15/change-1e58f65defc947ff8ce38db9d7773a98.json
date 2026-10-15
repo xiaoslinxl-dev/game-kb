@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "change_id": "change-1e58f65defc947ff8ce38db9d7773a98",
+  "created_at": "2026-10-15T01:56:05.696589+00:00",
+  "path": "games/baye/versions/2.49.md",
+  "operation": "create",
+  "before": null,
+  "after": "---\ntype: Game Version\nschema_version: 1\nversion: \"2.49\"\nreleased_at: \"2024-03-14\"\nsources: [\"../sources/versions/2.49.md#ev-c50501dc1ab8076c6244e4646841c54c\"]\nchangelog: \"../.changelog/2026-10-15/change-1e58f65defc947ff8ce38db9d7773a98.json\"\n---\n\n# 2.49 更新说明\n\n## 更新内容\n\n| 变更主题 | 更新内容 |\n| --- | --- |\n| 群雄竞技 | 1、新增群雄竞技活动（S4及以上赛季可见） |\n| 宝物进阶 | 2、新增宝物进阶功能（S4及以上赛季可见） |\n",
+  "previous": null,
+  "operation_log": "../../.operations/2026-10-15/operation-20940b979eac40ebbe29d54db7caef20.json"
+}
